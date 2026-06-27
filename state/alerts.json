@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-06-27T15:11:19.533Z",
+  "generatedAt": "2026-06-27T17:02:57.206Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "Lucky Block Rush",
-      "ccu": 123105,
-      "ageDays": 48,
-      "rollingAvg": 32037,
-      "spikePct": 284,
-      "gate": "B:spike",
-      "verdict": "GREEN",
-      "detail": "available: luckyblockrush.net"
-    },
-    {
-      "source": "discover",
-      "name": "Fisch 🏖️ [SOON]",
-      "ccu": 281291,
-      "ageDays": 836,
-      "rollingAvg": 69641,
-      "spikePct": 304,
+      "name": "[🏆NEL LEAGUE] Blue Lock: Rivals",
+      "ccu": 133552,
+      "ageDays": 700.9,
+      "rollingAvg": 29984,
+      "spikePct": 345,
       "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 11052.4d (fisch.com, fisch.net)"
+      "detail": "both taken, oldest 8509.6d (bluelock.com, bluelock.net)"
     }
   ]
 }
