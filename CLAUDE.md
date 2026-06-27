@@ -75,5 +75,12 @@ Key empirical finding that shaped the design: **Roblox charts don't surface <7-d
 - **Main tuning knob = `SPIKE_PCT`** (default 200 = 3×). Watch the `spike%` table column over the first days; lower it if the radar is too quiet.
 - Output: prints pinned + candidates + the 5 hottest movers (by spike%) so the threshold is tunable against live data.
 
+## Alerting — local email (BUILT, `alert.py` + launchd)
+Detection (cloud Actions) and notification (local) are separate, so the cloud repo stays secret-free.
+- **`alert.py`** (Python stdlib, no deps): `git pull` → find NEW GREEN/YELLOW → email via the **same Gmail-SMTP setup as game-monitor** (`GM_SMTP_USER`/`GM_SMTP_PASS` app password/`GM_MAIL_TO`, missing creds → silently skip). `--print` mode pulls + prints recent actionable candidates, no email.
+- **Transient-candidate handling**: gate B candidates only appear in the run their spike fires, so `alert.py` scans the **git history** of `state/alerts.json` since the last processed commit (tracked in gitignored `.alert-seen.json`), not just the latest file → never misses one between polls. Dedups by name+verdict so a standing GREEN isn't re-mailed; first run = latest commit only (no historical flood).
+- **`com.yy.roblox-window-monitor.plist`**: launchd LaunchAgent, runs `alert.py` every 4h (StartCalendarInterval 0/4/8/12/16/20) on the always-on Mac mini. Committed with placeholder `GM_SMTP_*`; real creds live only in the installed copy under `~/Library/LaunchAgents` (mirror them from `com.yy.game-monitor.plist`). Activate: `cp` to `~/Library/LaunchAgents/` + `launchctl load`.
+- Emails GREEN+YELLOW only; RED/CHECK are not sent.
+
 ## v3 ideas (NOT built)
-Smarter slug/brand extraction; per-source thresholds; alerting (the spike radar currently just prints — a GREEN/YELLOW only surfaces in the Actions run log / `state/alerts.json`).
+Smarter slug/brand extraction; per-source gate thresholds; instant alerting (current email latency = up to 4h, bounded by the local cron; would need cloud email + a GitHub Secret).

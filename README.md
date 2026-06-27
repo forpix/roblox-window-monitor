@@ -94,6 +94,27 @@ Reality check that shaped this: **Roblox charts don't surface <7-day games** (yo
 
 Tune `SPIKE_PCT` (default 200 = 3×) against the `spike%` column the radar prints. Set `DISCOVER=0` for watchlist-only.
 
+## Alerting (local, optional)
+
+Detection runs in the cloud (Actions, secret-free); notification runs locally so no SMTP secret ever touches the repo.
+
+`alert.py` (Python stdlib, no deps) pulls the repo, finds **new GREEN/YELLOW** candidates, and emails them via the same Gmail-SMTP setup as `game-monitor` (`GM_SMTP_USER` / `GM_SMTP_PASS` app password / `GM_MAIL_TO`; missing creds → silently skips). Because a spike candidate only appears in the run it fires, `alert.py` scans the **git history** of `state/alerts.json` since its last run (not just the latest file), so nothing is missed between polls. It dedups so a standing GREEN isn't re-mailed.
+
+```sh
+python3 alert.py            # pull, email new GREEN/YELLOW since last run
+python3 alert.py --print    # pull, just print recent actionable candidates (no email)
+```
+
+Schedule it with the included launchd agent (every 4h):
+
+```sh
+# 1. edit com.yy.roblox-window-monitor.plist → fill GM_SMTP_* (copy from com.yy.game-monitor.plist)
+cp com.yy.roblox-window-monitor.plist ~/Library/LaunchAgents/
+launchctl load ~/Library/LaunchAgents/com.yy.roblox-window-monitor.plist
+```
+
+Real credentials live only in the installed copy under `~/Library/LaunchAgents` — the committed plist has placeholders. Emails GREEN+YELLOW only.
+
 ## Scope
 
-Roblox only — including discovery (v2 uses Roblox's own explore-api charts; no third-party sources, no keys).
+Roblox only — including discovery (v2 uses Roblox's own explore-api charts; no third-party sources, no keys). Email alerting is local-only (no cloud secrets).
