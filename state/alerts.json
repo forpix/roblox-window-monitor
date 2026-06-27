@@ -1,27 +1,4 @@
 {
-  "generatedAt": "2026-06-27T19:10:11.946Z",
-  "candidates": [
-    {
-      "source": "discover",
-      "name": "[X10] +1 Speed Keyboard Escape | Candy & Chocolate",
-      "ccu": 1998460,
-      "ageDays": 160.1,
-      "rollingAvg": 633401,
-      "spikePct": 216,
-      "gate": "B:spike",
-      "verdict": "GREEN",
-      "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net"
-    },
-    {
-      "source": "discover",
-      "name": "Steal a Brainrot",
-      "ccu": 2553612,
-      "ageDays": 407.8,
-      "rollingAvg": 231938,
-      "spikePct": 1001,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "both taken, oldest 384.6d (stealabrainrot.com, stealabrainrot.net)"
-    }
-  ]
+  "generatedAt": "2026-06-27T20:54:10.724Z",
+  "candidates": []
 }
