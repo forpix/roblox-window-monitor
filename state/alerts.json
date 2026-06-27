@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-06-27T17:02:57.206Z",
+  "generatedAt": "2026-06-27T19:10:11.946Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[🏆NEL LEAGUE] Blue Lock: Rivals",
-      "ccu": 133552,
-      "ageDays": 700.9,
-      "rollingAvg": 29984,
-      "spikePct": 345,
+      "name": "[X10] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "ccu": 1998460,
+      "ageDays": 160.1,
+      "rollingAvg": 633401,
+      "spikePct": 216,
+      "gate": "B:spike",
+      "verdict": "GREEN",
+      "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net"
+    },
+    {
+      "source": "discover",
+      "name": "Steal a Brainrot",
+      "ccu": 2553612,
+      "ageDays": 407.8,
+      "rollingAvg": 231938,
+      "spikePct": 1001,
       "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 8509.6d (bluelock.com, bluelock.net)"
+      "detail": "both taken, oldest 384.6d (stealabrainrot.com, stealabrainrot.net)"
     }
   ]
 }
