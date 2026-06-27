@@ -38,6 +38,11 @@ Neither fires → **QUIET** (just store the sample).
 | `HISTORY_MAX` | 36 | samples kept per game |
 | `TIMEOUT_MS` | 15000 | per-request timeout |
 | `RETRIES` | 2 | retries on 403/429/5xx |
+| `DISCOVER` | 1 | `0` = watchlist-only (no chart discovery) |
+| `DISCOVERY_SORTS` | `up-and-coming,top-trending` | explore-api sortIds to pull |
+| `DISCOVERY_CCU_MIN` | = `ESTABLISHED_CCU_MIN` | prefilter floor for the discovery pool |
+| `DISCOVERY_TTL_HOURS` | 24 | drop discovered games gone from charts this long |
+| `SESSION_ID` | fixed UUID | explore-api session id (any UUID works) |
 | `STATE_FILE` | `state/monitor-state.json` | state path |
 | `ALERTS_FILE` | `state/alerts.json` | this-run candidates path |
 
@@ -76,6 +81,19 @@ Expect a row for **Grow a Garden 2** with a real CCU and verdict **RED** (its `.
 
 Roblox's public endpoints can throttle/challenge datacenter IPs (GitHub Actions runs on Azure). The script sends browser-ish headers, retries on 403/429/5xx, and prints a loud **`API_BLOCKED`** banner when it sees a block — so a block never masquerades as "all clear". If Actions gets persistently blocked, the fallback is to run the same `monitor.mjs` from a local cron / launchd job (residential IP). See `CLAUDE.md`.
 
+## Discovery (v2) — spike radar
+
+Beyond the pinned watchlist, the monitor auto-pulls candidate games from Roblox's own charts (`up-and-coming` + `top-trending`, via the explore-api — no key) and runs them through the same gates.
+
+Reality check that shaped this: **Roblox charts don't surface <7-day games** (youngest charted ≈ 24 days), so chart discovery can't feed the "first-grab a brand-new game's domain" play. Instead it works as a **spike radar**:
+
+- **Discovered games fire on gate B (spike)** — a chart game whose CCU jumps ≥ `SPIKE_PCT` over its rolling average. This needs a few runs to build a baseline, so the first couple of runs are quiet by design.
+- **gate A (new + viral) stays for your pinned watchlist** — that's where genuine GREEN land-grabs come from (games you spot on social and add by `placeId`).
+- Discovered games drop out of state after `DISCOVERY_TTL_HOURS` away from the charts; pinned games stay forever.
+- Slugs for discovered games are auto-derived from the (often decorated) game name — `deriveSlug()` strips `[tags]`/emoji and cuts at `:`/`|`. It's imperfect: **a GREEN on a junk slug is noise, eyeball the slug before you buy.**
+
+Tune `SPIKE_PCT` (default 200 = 3×) against the `spike%` column the radar prints. Set `DISCOVER=0` for watchlist-only.
+
 ## Scope
 
-Roblox only, watchlist only. No auto-discovery / charts-scraping (that's v2, not built — validate v1 first).
+Roblox only — including discovery (v2 uses Roblox's own explore-api charts; no third-party sources, no keys).

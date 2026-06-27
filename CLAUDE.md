@@ -4,7 +4,7 @@
 
 ## Hard scope / non-goals (do NOT do these)
 - **Roblox only.** Do not add non-Roblox sources.
-- **Watchlist-based only.** Do NOT build auto-discovery / charts-scraping. That is **v2, not built — validate v1 first.**
+- **Roblox-only sources, incl. discovery.** v1 was watchlist-only; **v2 (BUILT) adds chart discovery via Roblox explore-api** — still no third-party sources, no keys. See "v2 discovery" below.
 - **Zero npm dependencies.** Node 20, global `fetch`, ESM (`.mjs`). No `package.json` required.
 - **No secrets** (Roblox + RDAP need none). If a keyed source is ever added, use GitHub Secrets — but not now.
 - If `monitor.mjs` exists, it is the source of truth: fix bugs verification surfaces, do not rewrite.
@@ -17,6 +17,11 @@
   - `.net` → `https://rdap.verisign.com/net/v1/domain/{domain}`
   - other TLD → `https://rdap.org/domain/{domain}`
   - HTTP **404 = available**; **200 = registered**. Registration date = `events[]` item where `eventAction === "registration"`, field `eventDate`.
+- **Discovery (v2) — Roblox explore-api, no key (`sessionId` = any UUID):**
+  - `GET https://apis.roblox.com/explore-api/v1/get-sorts?sessionId={uuid}` → list of sorts
+  - `GET https://apis.roblox.com/explore-api/v1/get-sort-content?sessionId={uuid}&sortId={id}` → `{ games: [{ universeId, rootPlaceId, name, playerCount, ... }] }`
+  - Game sortIds: `up-and-coming`, `top-trending`, `top-playing-now`, `fun-with-friends`, `top-revisited`. We use `up-and-coming` + `top-trending`.
+  - Legacy `games.roblox.com/v1/games/sorts|list` are **404 (deprecated)** — do not use.
 - Send a `User-Agent` header on every request. Wrap each call in an AbortController timeout (~15s).
 
 ## Gate thresholds + verdict semantics
@@ -59,5 +64,16 @@ Expect: row for "Grow a Garden 2", real CCU (hundreds of thousands), verdict **R
 ## Watchlist seed
 `[{ placeId: 97598239454123, slug: "growagarden2" }]` (Grow a Garden 2).
 
-## v2 (NOT built — validate v1 first)
-Auto-discovery / charts-scraping to populate the watchlist automatically. Explicitly out of scope until v1 is proven.
+## v2 discovery — spike radar (BUILT)
+Key empirical finding that shaped the design: **Roblox charts don't surface <7-day games** (youngest charted ≈ 24d; 0 under 7d in a live sample). So discovery can't serve the original "first-grab a brand-new game's EMD" use case directly. Decision (①+③):
+- **Discovery feeds gate B (spike), age-agnostic** — flags charted games whose CCU jumps ≥ `SPIKE_PCT` vs their rolling avg. Needs a few cron runs to build a baseline before it can fire (first sighting → no history → QUIET, expected).
+- **gate A (age<7 & CCU≥50k) stays for the pinned WATCHLIST** — true first-grab GREENs you add by hand (games found via social, not charts).
+- Pool = `up-and-coming` + `top-trending`, prefiltered `playerCount ≥ DISCOVERY_CCU_MIN`, merged with WATCHLIST (pinned wins), deduped by universeId, age/CCU via the existing `games?universeIds=` batch (chunked at 100).
+- Discovered games auto-pruned from state after `DISCOVERY_TTL_HOURS` (24h) absent from charts; pinned kept forever.
+- `deriveSlug()` extracts core brand from decorated names (strip `[..]/(..)/{..}`, cut at `: | •`): "Fisch 🏖️ [FISCHFEST]" → `fisch`, "BedWars [SUMMER WARS]" → `bedwars`. Still imperfect — **GREEN on a junk slug = noise, not opportunity**; eyeball the slug before acting.
+- New env: `DISCOVER` (0 = watchlist-only), `DISCOVERY_SORTS`, `DISCOVERY_CCU_MIN` (default = `ESTABLISHED_CCU_MIN`), `DISCOVERY_TTL_HOURS`, `SESSION_ID`.
+- **Main tuning knob = `SPIKE_PCT`** (default 200 = 3×). Watch the `spike%` table column over the first days; lower it if the radar is too quiet.
+- Output: prints pinned + candidates + the 5 hottest movers (by spike%) so the threshold is tunable against live data.
+
+## v3 ideas (NOT built)
+Smarter slug/brand extraction; per-source thresholds; alerting (the spike radar currently just prints — a GREEN/YELLOW only surfaces in the Actions run log / `state/alerts.json`).

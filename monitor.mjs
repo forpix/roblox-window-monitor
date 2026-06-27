@@ -23,6 +23,13 @@ const RETRIES              = num('RETRIES', 2);
 const STATE_FILE  = process.env.STATE_FILE  || 'state/monitor-state.json';
 const ALERTS_FILE = process.env.ALERTS_FILE || 'state/alerts.json';
 
+// ---- discovery (v2): pull candidate games from Roblox charts, no watchlist needed ----
+const DISCOVER            = process.env.DISCOVER !== '0'; // set DISCOVER=0 for watchlist-only
+const DISCOVERY_SORTS     = (process.env.DISCOVERY_SORTS || 'up-and-coming,top-trending').split(',').map(s => s.trim()).filter(Boolean);
+const DISCOVERY_CCU_MIN   = num('DISCOVERY_CCU_MIN', ESTABLISHED_CCU_MIN); // prefilter to bound the age lookup
+const DISCOVERY_TTL_HOURS = num('DISCOVERY_TTL_HOURS', 24); // drop discovered games gone from charts this long
+const SESSION_ID          = process.env.SESSION_ID || '11111111-1111-1111-1111-111111111111';
+
 const DAY = 86400000;
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const backoff = a => 500 * 2 ** a + Math.floor(Math.random() * 250); // jittered
@@ -84,6 +91,38 @@ async function getGames(universeIds) {
   return j.data || [];
 }
 
+// same, chunked at 100 (the batch endpoint caps the id list)
+async function getGamesChunked(universeIds) {
+  const out = [];
+  for (let i = 0; i < universeIds.length; i += 100) {
+    try { out.push(...await getGames(universeIds.slice(i, i + 100))); }
+    catch (e) {
+      if (e instanceof BlockedError) apiBlocked = true;
+      console.warn(`[warn] CCU batch chunk@${i} failed: ${e.message}`);
+    }
+  }
+  return out;
+}
+
+// pull Roblox explore-api charts -> [{ universeId, placeId, name, ccuHint }] (Roblox-only, no key)
+async function discover() {
+  const out = new Map();
+  for (const sortId of DISCOVERY_SORTS) {
+    try {
+      const j = await getJson(`https://apis.roblox.com/explore-api/v1/get-sort-content?sessionId=${SESSION_ID}&sortId=${sortId}`);
+      for (const g of j.games || []) {
+        if ((g.playerCount ?? 0) < DISCOVERY_CCU_MIN) continue;
+        if (!out.has(g.universeId))
+          out.set(g.universeId, { universeId: g.universeId, placeId: g.rootPlaceId, name: g.name, ccuHint: g.playerCount });
+      }
+    } catch (e) {
+      if (e instanceof BlockedError) apiBlocked = true;
+      console.warn(`[warn] discovery sort '${sortId}' failed: ${e.message}`);
+    }
+  }
+  return [...out.values()];
+}
+
 // ---- RDAP ----
 function rdapUrl(domain) {
   if (domain.endsWith('.com')) return `https://rdap.verisign.com/com/v1/domain/${domain}`;
@@ -139,49 +178,61 @@ function writeFileMkdir(file, data) {
   writeFileSync(file, data);
 }
 
+// discovered names are decorated ("Brand: subtitle", emoji, [event tags]) — extract the core-brand slug
+function deriveSlug(name) {
+  const core = name.replace(/[\[(\{][^\])\}]*[\])\}]/g, ' ').split(/[|:•]/)[0];
+  return core.toLowerCase().replace(/[^a-z0-9]/g, '') || name.toLowerCase().replace(/[^a-z0-9]/g, '');
+}
+
 // ---- main ----
 const state = loadState();
 const now = Date.now();
 
-// resolve universeIds (per-game failures warn, never crash)
-const entries = [];
+// build target set: pinned watchlist (placeId -> universeId) + discovered charts
+const watchKeys = new Set(WATCHLIST.map(w => String(w.placeId)));
+const targets = new Map(); // universeId -> { universeId, placeId, slug?, source }
+
 for (const w of WATCHLIST) {
   try {
-    entries.push({ ...w, universeId: await getUniverseId(w.placeId) });
+    const universeId = await getUniverseId(w.placeId);
+    targets.set(universeId, { universeId, placeId: w.placeId, slug: w.slug, source: 'watch' });
   } catch (e) {
     if (e instanceof BlockedError) apiBlocked = true;
     console.warn(`[warn] resolve universe failed placeId=${w.placeId}: ${e.message}`);
   }
 }
 
-let games = [];
-if (entries.length) {
-  try { games = await getGames(entries.map(e => e.universeId)); }
-  catch (e) {
-    if (e instanceof BlockedError) apiBlocked = true;
-    console.warn(`[warn] CCU batch failed: ${e.message}`);
-  }
+const discovered = DISCOVER ? await discover() : [];
+for (const d of discovered) {
+  if (!targets.has(d.universeId)) // pinned entries win over discovered
+    targets.set(d.universeId, { universeId: d.universeId, placeId: d.placeId, source: 'discover' });
 }
+
+const targetList = [...targets.values()];
+const pinnedCount = targetList.filter(t => t.source === 'watch').length;
+
+// one CCU/age batch for the whole pool
+const games = await getGamesChunked(targetList.map(t => t.universeId));
 const byUniverse = new Map(games.map(g => [g.id, g]));
 
 const rows = [];
 const candidates = [];
 
-for (const e of entries) {
+for (const t of targetList) {
   try {
-    const g = byUniverse.get(e.universeId);
-    if (!g) { console.warn(`[warn] no game data for universe=${e.universeId} (placeId=${e.placeId})`); continue; }
+    const g = byUniverse.get(t.universeId);
+    if (!g) { console.warn(`[warn] no game data for universe=${t.universeId} (placeId=${t.placeId})`); continue; }
 
     const playing = g.playing ?? 0;
     const ageDays = (now - new Date(g.created).getTime()) / DAY;
-    const slug = e.slug || g.name.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const slug = t.slug || deriveSlug(g.name);
 
-    const key = String(e.placeId);
+    const key = String(t.placeId);
     const prev = state[key] || { history: [] };
     const prior = prev.history.map(h => h.playing); // PRIOR samples only
     const rollingAvg = prior.length ? prior.reduce((a, b) => a + b, 0) / prior.length : 0;
 
-    // 量级门 A (new-viral) — fires even on first run (no history needed)
+    // 量级门 A (new-viral) — fires even on first sighting (no history needed)
     const gateA = ageDays < NEW_GAME_MAX_AGE_DAYS && playing >= NEW_GAME_CCU_MIN;
     // 量级门 B (spike) — needs prior history
     const spikePct = rollingAvg > 0 ? (playing - rollingAvg) / rollingAvg * 100 : 0;
@@ -192,13 +243,15 @@ for (const e of entries) {
     if (gateA || gateB) ({ verdict, detail } = await windowGate(slug));
 
     const history = [...prev.history, { t: now, playing }].slice(-HISTORY_MAX);
-    state[key] = { name: g.name, slug, history, lastVerdict: verdict };
+    state[key] = { name: g.name, slug, source: t.source, lastSeen: now, history, lastVerdict: verdict };
 
     const row = {
+      source: t.source,
       name: g.name,
       ccu: playing,
       ageDays: Number(ageDays.toFixed(1)),
       rollingAvg: Math.round(rollingAvg),
+      spikePct: rollingAvg > 0 ? Math.round(spikePct) : null, // null = no baseline yet
       gate: gateA ? 'A:new-viral' : gateB ? 'B:spike' : '-',
       verdict,
       detail,
@@ -206,20 +259,34 @@ for (const e of entries) {
     rows.push(row);
     if (gateA || gateB) candidates.push(row);
   } catch (err) {
-    console.warn(`[warn] game failed placeId=${e.placeId}: ${err.message}`);
+    console.warn(`[warn] game failed placeId=${t.placeId}: ${err.message}`);
   }
+}
+
+// prune discovered games gone from charts > TTL; pinned games are kept forever
+const ttlMs = DISCOVERY_TTL_HOURS * 3600000;
+for (const key of Object.keys(state)) {
+  if (watchKeys.has(key)) continue;
+  if (now - (state[key].lastSeen || 0) > ttlMs) delete state[key];
 }
 
 writeFileMkdir(STATE_FILE, JSON.stringify(state, null, 2));
 writeFileMkdir(ALERTS_FILE, JSON.stringify({ generatedAt: new Date(now).toISOString(), candidates }, null, 2));
 
-console.table(rows.map(r => ({ name: r.name, ccu: r.ccu, age: r.ageDays, avg: r.rollingAvg, gate: r.gate, verdict: r.verdict })));
+// spike radar: always show pinned + candidates + the 5 hottest movers (to tune SPIKE_PCT against live data)
+const hottest = rows.filter(r => r.spikePct != null).sort((a, b) => b.spikePct - a.spikePct).slice(0, 5);
+const showSet = new Set([...rows.filter(r => r.source === 'watch' || r.gate !== '-'), ...hottest]);
+const shown = [...showSet].sort((a, b) => b.ccu - a.ccu);
+console.log(`Scanned ${targetList.length} games (pinned ${pinnedCount} + discovered ${discovered.length}) → ${candidates.length} candidate(s), ${rows.length - shown.length} other QUIET.`);
+console.table(shown.map(r => ({ src: r.source, name: r.name, ccu: r.ccu, age: r.ageDays, avg: r.rollingAvg, 'spike%': r.spikePct ?? '—', gate: r.gate, verdict: r.verdict })));
 
+const order = { GREEN: 0, YELLOW: 1, RED: 2, CHECK: 3 };
 console.log('\nActionable candidates:');
 if (!candidates.length) {
-  console.log('  (none) — all QUIET');
+  console.log('  (none)');
 } else {
-  for (const c of candidates) console.log(`  [${c.verdict}] ${c.name} — CCU ${c.ccu}, ${c.gate}, ${c.detail}`);
+  for (const c of [...candidates].sort((a, b) => (order[a.verdict] ?? 9) - (order[b.verdict] ?? 9)))
+    console.log(`  [${c.verdict}] ${c.name} — CCU ${c.ccu}, ${c.gate}, ${c.detail}`);
 }
 
 if (apiBlocked) {
