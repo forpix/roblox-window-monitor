@@ -1,7 +1,48 @@
 {
+  "142823291": {
+    "name": "Murder Mystery 2",
+    "slug": "murdermystery2",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 224743
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "537413528": {
+    "name": "Build A Boat For Treasure",
+    "slug": "buildaboatfortreasure",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 33242
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "920587237": {
+    "name": "[🏕️] Adopt Me!",
+    "slug": "adoptme",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 378401
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
   "97598239454123": {
     "name": "Grow a Garden 2",
     "slug": "growagarden2",
+    "source": "watch",
+    "lastSeen": 1782547632506,
     "history": [
       {
         "t": 1782545529664,
@@ -10,6 +51,374 @@
       {
         "t": 1782546027259,
         "playing": 565931
+      },
+      {
+        "t": 1782547632506,
+        "playing": 582382
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "98800969324557": {
+    "name": "Storage Hunters: Open World",
+    "slug": "storagehunters",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 27570
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "78724049937437": {
+    "name": "[🎨] Paint And SEEK!",
+    "slug": "paintandseek",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 78216
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "109881277752094": {
+    "name": "Clean The Library 📖",
+    "slug": "cleanthelibrary",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 54719
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "71132543521245": {
+    "name": "[🌘UPD 0.5🩸] Anime Squadron",
+    "slug": "animesquadron",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 55412
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "84575720768520": {
+    "name": "Lucky Block Rush",
+    "slug": "luckyblockrush",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 34203
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "78515283254292": {
+    "name": "Animal Hospital (Anomaly) 🧪",
+    "slug": "animalhospital",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 256129
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "95082159892680": {
+    "name": "[X2] +1 Speed Keyboard Escape | Candy & Chocolate",
+    "slug": "1speedkeyboardescape",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 375066
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "6872265039": {
+    "name": "BedWars [🔫 SUMMER WARS + BATTLEPASS]",
+    "slug": "bedwars",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 29702
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "16146832113": {
+    "name": "Anime Vanguards: Eternal Adversaries",
+    "slug": "animevanguards",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 60040
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "109983668079237": {
+    "name": "Steal a Brainrot",
+    "slug": "stealabrainrot",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 206605
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "74188431054457": {
+    "name": "Mukbang Game [Testing]",
+    "slug": "mukbanggame",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 70006
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "16732694052": {
+    "name": "Fisch 🏖️ [FISCHFEST]",
+    "slug": "fisch",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 64357
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "12334109280": {
+    "name": "Guts & Blackpowder",
+    "slug": "gutsblackpowder",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 25777
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "134381727982611": {
+    "name": "Evomon[Release]",
+    "slug": "evomon",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 36559
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "102054284786904": {
+    "name": "Secure the Airport",
+    "slug": "securetheairport",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 22242
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "13967668166": {
+    "name": "LifeTogether 🏠 RP ",
+    "slug": "lifetogetherrp",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 44618
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "93978595733734": {
+    "name": "[CURE] Violence District",
+    "slug": "violencedistrict",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 80352
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "6961824067": {
+    "name": "Fling Things and People",
+    "slug": "flingthingsandpeople",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 44017
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "70411440483149": {
+    "name": "[CODE] 100 Days At Sea",
+    "slug": "100daysatsea",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 42238
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "128784467030899": {
+    "name": "Merge a Nuke!",
+    "slug": "mergeanuke",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 47345
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "18668065416": {
+    "name": "[🏆NEL LEAGUE] Blue Lock: Rivals",
+    "slug": "bluelock",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 23530
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "86378115369061": {
+    "name": "+1 Backflip Obby Escape",
+    "slug": "1backflipobbyescape",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 33034
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "112490729816320": {
+    "name": "[🔁] Spin a Soccer Card",
+    "slug": "spinasoccercard",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 33344
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "4924922222": {
+    "name": "Brookhaven 🏡RP",
+    "slug": "brookhavenrp",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 517028
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "15101393044": {
+    "name": "Dress To Impress⭐",
+    "slug": "dresstoimpress",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 59163
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "18687417158": {
+    "name": "Forsaken",
+    "slug": "forsaken",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 65950
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "131346454575416": {
+    "name": "[💥] Mini War",
+    "slug": "miniwar",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 46538
+      }
+    ],
+    "lastVerdict": "QUIET"
+  },
+  "99567941238278": {
+    "name": "[🔥] Ink Game",
+    "slug": "inkgame",
+    "source": "discover",
+    "lastSeen": 1782547632506,
+    "history": [
+      {
+        "t": 1782547632506,
+        "playing": 21722
       }
     ],
     "lastVerdict": "QUIET"
