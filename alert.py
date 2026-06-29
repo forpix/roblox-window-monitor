@@ -135,6 +135,7 @@ def main():
 
     new = [c for name, c in found.items() if emailed.get(name) != c["verdict"]]
 
+    sent = True
     if new:
         new.sort(key=lambda c: ACTIONABLE.index(c["verdict"]))
         g = sum(1 for c in new if c["verdict"] == "GREEN")
@@ -144,13 +145,15 @@ def main():
                 + "\n".join(fmt(c) for c in new)
                 + "\n\nGREEN = a domain is free, grab it. YELLOW = recently taken, window closing.\n"
                 + "Repo: https://github.com/forpix/roblox-window-monitor\n")
-        send_email(subject, body)
-        for c in new:
-            emailed[c["name"]] = c["verdict"]
+        sent = send_email(subject, body)
+        if sent:  # only mark emailed on success — a failed send must retry, not vanish
+            for c in new:
+                emailed[c["name"]] = c["verdict"]
     else:
         print("alert: no new actionable candidates")
 
-    seen["lastCommit"] = commits[0]
+    if sent:  # advance the scan pointer only when nothing is left pending resend
+        seen["lastCommit"] = commits[0]
     seen["emailed"] = emailed
     save_seen(seen)
     return 0
