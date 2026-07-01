@@ -2,7 +2,7 @@ name: monitor
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "15,45 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,6 +21,8 @@ jobs:
         with:
           node-version: "20"
       - run: node monitor.mjs
+        env:
+          SPIKE_PCT: "100"
       - name: Commit state if changed
         run: |
           git config user.name "github-actions[bot]"
