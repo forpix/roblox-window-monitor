@@ -1,79 +1,68 @@
 {
-  "generatedAt": "2026-07-02T21:48:26.828Z",
+  "generatedAt": "2026-07-02T23:20:42.182Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 51997,
-      "ageDays": 17.1,
-      "rollingAvg": 33494,
-      "spikePct": 55,
+      "ccu": 47088,
+      "ageDays": 17.2,
+      "rollingAvg": 34349,
+      "spikePct": 37,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.9d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 4.9d ago"
     },
     {
       "source": "discover",
-      "name": "Clean The Library 📖 [FIXED!]",
-      "ccu": 67558,
-      "ageDays": 37.1,
-      "rollingAvg": 66748,
-      "spikePct": 1,
+      "name": "Clean The Library 📖 [EASY MODE!]",
+      "ccu": 58325,
+      "ageDays": 37.2,
+      "rollingAvg": 66328,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.7d (cleanthelibrary.com, cleanthelibrary.net); .com registered 10.7d ago"
+      "detail": "both taken, oldest 10.8d (cleanthelibrary.com, cleanthelibrary.net); .com registered 10.8d ago"
     },
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [CUP]",
-      "ccu": 34692,
-      "ageDays": 29.3,
-      "rollingAvg": 32398,
-      "spikePct": 7,
+      "ccu": 30919,
+      "ageDays": 29.4,
+      "rollingAvg": 32411,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
-      "detail": "available: buildasoccersquad.net; .com registered 5.1d ago"
-    },
-    {
-      "source": "discover",
-      "name": "Paint My Keyboard! 🎨",
-      "ccu": 21968,
-      "ageDays": 35.8,
-      "rollingAvg": 23462,
-      "spikePct": -6,
-      "gate": "C:fresh-com",
-      "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.7d (paintmykeyboard.com, paintmykeyboard.net); .com registered 6.7d ago"
+      "detail": "available: buildasoccersquad.net; .com registered 5.2d ago"
     },
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 83256,
-      "ageDays": 26.7,
-      "rollingAvg": 90799,
-      "spikePct": -8,
+      "ccu": 74583,
+      "ageDays": 26.8,
+      "rollingAvg": 87028,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
-      "detail": "available: paintorseek.net; .com registered 5.1d ago"
+      "detail": "available: paintorseek.net; .com registered 5.2d ago"
     },
     {
       "source": "discover",
       "name": "Mukbang Game [Testing]",
-      "ccu": 67136,
+      "ccu": 66926,
       "ageDays": 91.2,
-      "rollingAvg": 71197,
+      "rollingAvg": 70858,
       "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
-      "detail": "available: mukbanggame.net; .com registered 7.2d ago"
+      "detail": "available: mukbanggame.net; .com registered 7.3d ago"
     },
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 33159,
-      "ageDays": 104.1,
-      "rollingAvg": 32535,
-      "spikePct": 2,
+      "ccu": 30036,
+      "ageDays": 104.2,
+      "rollingAvg": 32494,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
       "detail": "available: securetheairport.net; .com registered 4.4d ago"
@@ -81,10 +70,10 @@
     {
       "source": "discover",
       "name": "Build A Boat For Treasure",
-      "ccu": 29934,
+      "ccu": 26335,
       "ageDays": 3529.3,
-      "rollingAvg": 33107,
-      "spikePct": -10,
+      "rollingAvg": 32776,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
       "detail": "available: buildaboatfortreasure.net; .com registered 3.5d ago"
@@ -92,10 +81,10 @@
     {
       "source": "discover",
       "name": "[CURE] Violence District",
-      "ccu": 35161,
-      "ageDays": 609.9,
-      "rollingAvg": 62230,
-      "spikePct": -43,
+      "ccu": 37772,
+      "ageDays": 610,
+      "rollingAvg": 61338,
+      "spikePct": -38,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
       "detail": "available: violencedistrict.net; .com registered 13.6d ago"
@@ -103,21 +92,21 @@
     {
       "source": "discover",
       "name": "LifeTogether 🏠 RP ",
-      "ccu": 67420,
-      "ageDays": 1093,
-      "rollingAvg": 62107,
-      "spikePct": 9,
+      "ccu": 60639,
+      "ageDays": 1093.1,
+      "rollingAvg": 61837,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
-      "detail": "available: lifetogetherrp.net; .com registered 3.3d ago"
+      "detail": "available: lifetogetherrp.net; .com registered 3.4d ago"
     },
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 24925,
-      "ageDays": 46.9,
-      "rollingAvg": 27558,
-      "spikePct": -10,
+      "ccu": 23235,
+      "ageDays": 47,
+      "rollingAvg": 27476,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "GREEN",
       "detail": "available: 1mineperclick.net; .com registered 2.8d ago"
