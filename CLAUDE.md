@@ -28,7 +28,8 @@
 Per game, `ageDays = now - created`:
 - **量级门 A (new-viral):** `ageDays < NEW_GAME_MAX_AGE_DAYS (7)` AND `playing >= NEW_GAME_CCU_MIN (50000)`. Must fire on the first run (no history).
 - **量级门 B (spike):** `playing >= ESTABLISHED_CCU_MIN (20000)` AND `(playing - rollingAvg)/rollingAvg*100 >= SPIKE_PCT (200)`; `rollingAvg` = avg of **PRIOR** stored samples only.
-- Neither → **QUIET** (just record sample).
+- **量级门 C (fresh-com, discovery 主信号):** `{slug}.com` registered AND registration age `< FRESH_REG_DAYS (14)` → someone is actively grabbing this brand → fires regardless of CCU/spike. One batched RDAP `.com` check per pooled game every run (8-concurrent). RDAP unresolved → silent non-fire + one summary warn (no CHECK spam). `.com` available → printed in a "Free .coms" list only, NOT a candidate/email (junk slugs are often free; a *paid* fresh registration self-validates the slug). Rationale: gate B structurally misses steady climbers (rolling avg chases growth) — proven by missed Violence District & Clean the Supermarket grabs, 2026-06/07.
+- None of A/B/C → **QUIET** (just record sample).
 - **窗口门 (candidates only):** RDAP-check `{slug}.com` and `{slug}.net`:
   - any available (404) → **GREEN**
   - both taken, oldest registration age ≤ `FRESH_DAYS (3)` → **YELLOW**
@@ -83,4 +84,4 @@ Detection (cloud Actions) and notification (local) are separate, so the cloud re
 - Emails GREEN+YELLOW only; RED/CHECK are not sent.
 
 ## v3 ideas (NOT built)
-Smarter slug/brand extraction; per-source gate thresholds; instant alerting (current email latency = up to 4h, bounded by the local cron; would need cloud email + a GitHub Secret).
+Smarter slug/brand extraction; per-source gate thresholds; instant alerting (current email latency = up to 4h, bounded by the local cron; would need cloud email + a GitHub Secret); gate C extensions — `{slug}.wiki` freshness as a forward scout (VD case: .wiki registered 6d before .com, would turn gate C into a first-mover signal; costs +1 rdap.org call/game) and promoting the print-only free-.com list to email once its noise level is known.

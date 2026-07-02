@@ -16,6 +16,7 @@ const ESTABLISHED_CCU_MIN   = num('ESTABLISHED_CCU_MIN', 20000);
 const SPIKE_PCT             = num('SPIKE_PCT', 200);
 const FRESH_DAYS            = num('FRESH_DAYS', 3);
 const STALE_DAYS            = num('STALE_DAYS', 10);
+const FRESH_REG_DAYS        = num('FRESH_REG_DAYS', 14);
 const HISTORY_MAX           = num('HISTORY_MAX', 36);
 const TIMEOUT_MS            = num('TIMEOUT_MS', 15000);
 const RETRIES              = num('RETRIES', 2);
@@ -147,9 +148,9 @@ async function rdapCheck(domain) {
 }
 
 // window gate over {slug}.com and {slug}.net. NEVER promote uncertainty to GREEN.
-async function windowGate(slug) {
+async function windowGate(slug, comCheck = null) {
   const domains = [`${slug}.com`, `${slug}.net`];
-  const checks = await Promise.all(domains.map(rdapCheck));
+  const checks = await Promise.all([comCheck ?? rdapCheck(domains[0]), rdapCheck(domains[1])]);
 
   if (checks.some(c => c === null))
     return { verdict: 'CHECK', detail: 'RDAP could not resolve one or more domains' };
@@ -215,8 +216,25 @@ const pinnedCount = targetList.filter(t => t.source === 'watch').length;
 const games = await getGamesChunked(targetList.map(t => t.universeId));
 const byUniverse = new Map(games.map(g => [g.id, g]));
 
+// gate C prefetch: one {slug}.com check per game, batched (serial would stall on timeouts).
+// A fresh registration is the "someone is grabbing this brand right now" signal — CCU gates
+// structurally miss steady climbers (rolling avg chases the growth, spike% never fires).
+const slugFor = t => { const g = byUniverse.get(t.universeId); return g ? (t.slug || deriveSlug(g.name)) : null; };
+const comChecks = new Map();
+{
+  const slugs = [...new Set(targetList.map(slugFor).filter(Boolean))];
+  for (let i = 0; i < slugs.length; i += 8) {
+    const batch = slugs.slice(i, i + 8);
+    const res = await Promise.all(batch.map(s => rdapCheck(`${s}.com`)));
+    batch.forEach((s, j) => comChecks.set(s, res[j]));
+  }
+  const unresolved = slugs.filter(s => comChecks.get(s) === null);
+  if (unresolved.length) console.warn(`[warn] gate C: RDAP unresolved for ${unresolved.length} slug(s): ${unresolved.join(', ')}`);
+}
+
 const rows = [];
 const candidates = [];
+const freeComs = [];
 
 for (const t of targetList) {
   try {
@@ -237,10 +255,19 @@ for (const t of targetList) {
     // 量级门 B (spike) — needs prior history
     const spikePct = rollingAvg > 0 ? (playing - rollingAvg) / rollingAvg * 100 : 0;
     const gateB = playing >= ESTABLISHED_CCU_MIN && rollingAvg > 0 && spikePct >= SPIKE_PCT;
+    // 量级门 C (fresh-com) — {slug}.com registered days ago = active land-grab, regardless of spike.
+    // RDAP unresolved -> silent non-fire (warned above), never CHECK spam across the whole pool.
+    const com = comChecks.get(slug);
+    const comRegDays = com && !com.available && com.regDate ? (now - com.regDate.getTime()) / DAY : null;
+    const gateC = comRegDays !== null && comRegDays < FRESH_REG_DAYS;
+    if (com?.available) freeComs.push({ slug, name: g.name, ccu: playing, ageDays });
 
     let verdict = 'QUIET';
     let detail = '';
-    if (gateA || gateB) ({ verdict, detail } = await windowGate(slug));
+    if (gateA || gateB || gateC) {
+      ({ verdict, detail } = await windowGate(slug, com));
+      if (gateC) detail += `; .com registered ${comRegDays.toFixed(1)}d ago`;
+    }
 
     const history = [...prev.history, { t: now, playing }].slice(-HISTORY_MAX);
     state[key] = { name: g.name, slug, source: t.source, lastSeen: now, history, lastVerdict: verdict };
@@ -252,12 +279,12 @@ for (const t of targetList) {
       ageDays: Number(ageDays.toFixed(1)),
       rollingAvg: Math.round(rollingAvg),
       spikePct: rollingAvg > 0 ? Math.round(spikePct) : null, // null = no baseline yet
-      gate: gateA ? 'A:new-viral' : gateB ? 'B:spike' : '-',
+      gate: gateA ? 'A:new-viral' : gateB ? 'B:spike' : gateC ? 'C:fresh-com' : '-',
       verdict,
       detail,
     };
     rows.push(row);
-    if (gateA || gateB) candidates.push(row);
+    if (gateA || gateB || gateC) candidates.push(row);
   } catch (err) {
     console.warn(`[warn] game failed placeId=${t.placeId}: ${err.message}`);
   }
@@ -287,6 +314,13 @@ if (!candidates.length) {
 } else {
   for (const c of [...candidates].sort((a, b) => (order[a.verdict] ?? 9) - (order[b.verdict] ?? 9)))
     console.log(`  [${c.verdict}] ${c.name} — CCU ${c.ccu}, ${c.gate}, ${c.detail}`);
+}
+
+// first-mover visibility, print-only: junk slugs are often free, so this stays out of alerts/email
+if (freeComs.length) {
+  console.log('\nFree .coms on charted games (not emailed — eyeball the slug before acting):');
+  for (const f of [...freeComs].sort((a, b) => b.ccu - a.ccu))
+    console.log(`  ${f.slug}.com — ${f.name} (CCU ${f.ccu}, age ${f.ageDays.toFixed(1)}d)`);
 }
 
 if (apiBlocked) {
