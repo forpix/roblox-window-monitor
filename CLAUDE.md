@@ -28,14 +28,16 @@
 Per game, `ageDays = now - created`:
 - **量级门 A (new-viral):** `ageDays < NEW_GAME_MAX_AGE_DAYS (7)` AND `playing >= NEW_GAME_CCU_MIN (50000)`. Must fire on the first run (no history).
 - **量级门 B (spike):** `playing >= ESTABLISHED_CCU_MIN (20000)` AND `(playing - rollingAvg)/rollingAvg*100 >= SPIKE_PCT (200)`; `rollingAvg` = avg of **PRIOR** stored samples only.
-- **量级门 C (fresh-com, discovery 主信号):** `{slug}.com` registered AND registration age `< FRESH_REG_DAYS (14)` → someone is actively grabbing this brand → fires regardless of CCU/spike. One batched RDAP `.com` check per pooled game every run (8-concurrent). RDAP unresolved → silent non-fire + one summary warn (no CHECK spam). `.com` available → printed in a "Free .coms" list only, NOT a candidate/email (junk slugs are often free; a *paid* fresh registration self-validates the slug). Rationale: gate B structurally misses steady climbers (rolling avg chases growth) — proven by missed Violence District & Clean the Supermarket grabs, 2026-06/07.
-- None of A/B/C → **QUIET** (just record sample).
+- **量级门 C (fresh-com, 跟随信号 — intel only, do NOT treat as entry signal):** `{slug}.com` registered AND registration age `< FRESH_REG_DAYS (14)` → someone is actively grabbing this brand → fires regardless of CCU/spike. One batched RDAP `.com` check per pooled game every run (8-concurrent). RDAP unresolved → silent non-fire + one summary warn (no CHECK spam). `.com` available → printed in a "Free .coms" list only, NOT a candidate/email (junk slugs are often free; a *paid* fresh registration self-validates the slug). Rationale: gate B structurally misses steady climbers (rolling avg chases growth) — proven by missed Violence District & Clean the Supermarket grabs, 2026-06/07. **2026-07-04 demotion:** a template pipeline operator (title pattern "X Wiki, Codes, Tier List and Tools") registers AND deploys same-day (reg→first TLS cert 0-1d, verified via crt.sh), so by the time gate C fires the window is already closed for head-on entry.
+- **量级门 D (young-chart, 前置主信号):** `ageDays <= GATE_D_MAX_AGE_DAYS (60)` AND `playing >= GATE_D_CCU_MIN (20000)` → fires every run regardless of domain state; the window gate then decides. Rationale (2026-07-04 backtest, evidence in `indie-builder-brain/keywords/paint or seek.md`): the pipeline operator works off the same charts, publish→his-registration = 13-29d on fresh games, and this monitor's first-seen beat his registration in 3 of 4 live races — the detection was in hand, only gate C waited for HIS move. Gate D runs his playbook one step ahead.
+- None of A/B/C/D → **QUIET** (just record sample).
 - **窗口门 (candidates only):** RDAP-check `{slug}.com` and `{slug}.net`:
   - any available (404) → **GREEN**
   - both taken, oldest registration age ≤ `FRESH_DAYS (3)` → **YELLOW**
   - both taken, oldest age ≥ `STALE_DAYS (10)` → **RED**
   - both taken, age in between → **YELLOW**
   - RDAP could not resolve → **CHECK** (NEVER promote uncertainty to GREEN)
+- **GREEN post-check (site probe):** if verdict is GREEN but `{slug}.com` is registered, GET `https://{slug}.com` and classify: real `<title>` → **built** → demote to RED with the title in detail (competitor already live; net-only entry is a losing race); no title / parking-page title / NXDOMAIN → **parked** → stays GREEN (the 1mineperclick pattern: paid .com + no site = self-validated demand, net window open); 403/429/timeout → **unknown** → demote to CHECK (uncertainty never stays GREEN).
 - `slug` = watchlist entry, else auto-derive = name lowercased, alphanumeric only.
 - **Every threshold overridable by an env var of the same name.**
 
@@ -80,7 +82,7 @@ Key empirical finding that shaped the design: **Roblox charts don't surface <7-d
 Detection (cloud Actions) and notification (local) are separate, so the cloud repo stays secret-free.
 - **`alert.py`** (Python stdlib, no deps): `git pull` → find NEW GREEN/YELLOW → email via the **same Gmail-SMTP setup as game-monitor** (`GM_SMTP_USER`/`GM_SMTP_PASS` app password/`GM_MAIL_TO`, missing creds → silently skip). `--print` mode pulls + prints recent actionable candidates, no email.
 - **Transient-candidate handling**: gate B candidates only appear in the run their spike fires, so `alert.py` scans the **git history** of `state/alerts.json` since the last processed commit (tracked in gitignored `.alert-seen.json`), not just the latest file → never misses one between polls. Dedups by name+verdict so a standing GREEN isn't re-mailed; first run = latest commit only (no historical flood).
-- **`com.yy.roblox-window-monitor.plist`**: launchd LaunchAgent, runs `alert.py` every 4h (StartCalendarInterval 0/4/8/12/16/20) on the always-on Mac mini. Committed with placeholder `GM_SMTP_*`; real creds live only in the installed copy under `~/Library/LaunchAgents` (mirror them from `com.yy.game-monitor.plist`). Activate: `cp` to `~/Library/LaunchAgents/` + `launchctl load`.
+- **`com.yy.roblox-window-monitor.plist`**: launchd LaunchAgent, runs `alert.py` hourly (StartCalendarInterval Minute=0; was 4h — gate D races are hour-scale) on the always-on Mac mini. Committed with placeholder `GM_SMTP_*`; real creds live only in the installed copy under `~/Library/LaunchAgents` (mirror them from `com.yy.game-monitor.plist`). Activate: `cp` to `~/Library/LaunchAgents/` + `launchctl load`.
 - Emails GREEN+YELLOW only; RED/CHECK are not sent.
 
 ## v3 ideas (NOT built)

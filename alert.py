@@ -144,6 +144,11 @@ def main():
         body = ("New open/closing domain windows from the Roblox monitor:\n\n"
                 + "\n".join(fmt(c) for c in new)
                 + "\n\nGREEN = a domain is free, grab it. YELLOW = recently taken, window closing.\n"
+                + "\nGREEN response checklist (same day — the .com pipeline deploys day-of):\n"
+                + "  1. eyeball slug + game (junk slug / brand IP -> skip)\n"
+                + "  2. SERP top-10: >=3 exact-match EMD -> skip (sites.md iron rule)\n"
+                + "  3. register the free domain TODAY (Cloudflare)\n"
+                + "  4. site live within 24h (1mineperclick playbook)\n"
                 + "Repo: https://github.com/forpix/roblox-window-monitor\n")
         sent = send_email(subject, body)
         if sent:  # only mark emailed on success — a failed send must retry, not vanish

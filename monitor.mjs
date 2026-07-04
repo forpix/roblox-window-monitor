@@ -17,6 +17,8 @@ const SPIKE_PCT             = num('SPIKE_PCT', 200);
 const FRESH_DAYS            = num('FRESH_DAYS', 3);
 const STALE_DAYS            = num('STALE_DAYS', 10);
 const FRESH_REG_DAYS        = num('FRESH_REG_DAYS', 14);
+const GATE_D_MAX_AGE_DAYS   = num('GATE_D_MAX_AGE_DAYS', 60);
+const GATE_D_CCU_MIN        = num('GATE_D_CCU_MIN', 20000);
 const HISTORY_MAX           = num('HISTORY_MAX', 36);
 const TIMEOUT_MS            = num('TIMEOUT_MS', 15000);
 const RETRIES              = num('RETRIES', 2);
@@ -168,6 +170,29 @@ async function windowGate(slug, comCheck = null) {
   return { verdict, detail: `both taken, oldest ${oldest.toFixed(1)}d (${domains.join(', ')})` };
 }
 
+// live-site probe on a registered .com: the template pipeline deploys the same day it
+// registers (2026-07 backtest: reg->first TLS cert = 0-1d), so "registered" no longer
+// implies "parked". A GREEN acted on must mean nobody has BUILT there yet.
+// -> 'built' | 'parked' | 'unknown'; uncertainty never stays GREEN.
+const PARKED_TITLE = /for sale|parked|godaddy|sedo|afternic|dan\.com|namecheap|coming soon/i;
+async function siteProbe(domain) {
+  try {
+    const res = await httpFetch(`https://${domain}`);
+    if (res.ok) {
+      const text = await res.text();
+      const title = (text.match(/<title[^>]*>([^<]*)<\/title>/i)?.[1] || '').trim();
+      if (!title || PARKED_TITLE.test(title)) return { status: 'parked', title };
+      return { status: 'built', title };
+    }
+    if (res.status === 404) return { status: 'parked', title: '' };
+    return { status: 'unknown', title: '' }; // 403/429/5xx: could be a bot-challenged real site
+  } catch (e) {
+    const code = e?.cause?.code || '';
+    if (code === 'ENOTFOUND' || code === 'ECONNREFUSED') return { status: 'parked', title: '' };
+    return { status: 'unknown', title: '' };
+  }
+}
+
 // ---- state ----
 function loadState() {
   try { return JSON.parse(readFileSync(STATE_FILE, 'utf8')); }
@@ -261,12 +286,23 @@ for (const t of targetList) {
     const comRegDays = com && !com.available && com.regDate ? (now - com.regDate.getTime()) / DAY : null;
     const gateC = comRegDays !== null && comRegDays < FRESH_REG_DAYS;
     if (com?.available) freeComs.push({ slug, name: g.name, ccu: playing, ageDays });
+    // 量级门 D (young-chart): charted while still young = the land-grab pipeline will come for
+    // this word within days (2026-07 backtest: publish -> their .com reg = 13-29d on fresh games;
+    // our first-seen beat their registration in 3 of 4 live races). Fire BEFORE anyone registers.
+    const gateD = ageDays <= GATE_D_MAX_AGE_DAYS && playing >= GATE_D_CCU_MIN;
 
     let verdict = 'QUIET';
     let detail = '';
-    if (gateA || gateB || gateC) {
+    if (gateA || gateB || gateC || gateD) {
       ({ verdict, detail } = await windowGate(slug, com));
       if (gateC) detail += `; .com registered ${comRegDays.toFixed(1)}d ago`;
+      // a GREEN whose .com is registered is only actionable if nobody BUILT there yet
+      if (verdict === 'GREEN' && com && !com.available) {
+        const probe = await siteProbe(`${slug}.com`);
+        if (probe.status === 'built') { verdict = 'RED'; detail += `; .com BUILT: "${probe.title.slice(0, 60)}"`; }
+        else if (probe.status === 'parked') detail += '; .com parked, net window open';
+        else { verdict = 'CHECK'; detail += '; .com probe inconclusive — check by hand'; }
+      }
     }
 
     const history = [...prev.history, { t: now, playing }].slice(-HISTORY_MAX);
@@ -279,12 +315,12 @@ for (const t of targetList) {
       ageDays: Number(ageDays.toFixed(1)),
       rollingAvg: Math.round(rollingAvg),
       spikePct: rollingAvg > 0 ? Math.round(spikePct) : null, // null = no baseline yet
-      gate: gateA ? 'A:new-viral' : gateB ? 'B:spike' : gateC ? 'C:fresh-com' : '-',
+      gate: gateA ? 'A:new-viral' : gateB ? 'B:spike' : gateC ? 'C:fresh-com' : gateD ? 'D:young-chart' : '-',
       verdict,
       detail,
     };
     rows.push(row);
-    if (gateA || gateB || gateC) candidates.push(row);
+    if (gateA || gateB || gateC || gateD) candidates.push(row);
   } catch (err) {
     console.warn(`[warn] game failed placeId=${t.placeId}: ${err.message}`);
   }
