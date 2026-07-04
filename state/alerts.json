@@ -1,159 +1,159 @@
 {
-  "generatedAt": "2026-07-04T01:15:54.828Z",
+  "generatedAt": "2026-07-04T05:28:20.776Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 524331,
-      "ageDays": 43.2,
-      "rollingAvg": 512238,
-      "spikePct": 2,
+      "ccu": 539061,
+      "ageDays": 43.4,
+      "rollingAvg": 511732,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 328.6d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 328.8d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 49018,
-      "ageDays": 27.8,
-      "rollingAvg": 63578,
-      "spikePct": -23,
+      "ccu": 48828,
+      "ageDays": 28,
+      "rollingAvg": 62668,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: paintorseek.net; .com registered 6.3d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
+      "detail": "available: paintorseek.net; .com registered 6.4d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 46848,
-      "ageDays": 18.3,
-      "rollingAvg": 42221,
-      "spikePct": 11,
+      "ccu": 44020,
+      "ageDays": 18.4,
+      "rollingAvg": 42951,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.0d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 6.0d ago"
-    },
-    {
-      "source": "discover",
-      "name": "Clean The Library 📖 [EASY MODE!]",
-      "ccu": 49267,
-      "ageDays": 38.2,
-      "rollingAvg": 61271,
-      "spikePct": -20,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "both taken, oldest 11.9d (cleanthelibrary.com, cleanthelibrary.net); .com registered 11.9d ago"
+      "detail": "both taken, oldest 6.2d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 6.2d ago"
     },
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 27340,
-      "ageDays": 31.5,
-      "rollingAvg": 35598,
-      "spikePct": -23,
+      "ccu": 29741,
+      "ageDays": 31.7,
+      "rollingAvg": 35223,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5688.9d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5689.1d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 590060,
-      "ageDays": 54.4,
-      "rollingAvg": 506612,
-      "spikePct": 16,
+      "ccu": 467546,
+      "ageDays": 54.6,
+      "rollingAvg": 510632,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 10487.9d (animalhospital.com, animalhospital.net)"
+      "detail": "both taken, oldest 10488.1d (animalhospital.com, animalhospital.net)"
     },
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 30070,
-      "ageDays": 105.3,
-      "rollingAvg": 33323,
-      "spikePct": -10,
+      "ccu": 35117,
+      "ageDays": 105.5,
+      "rollingAvg": 33120,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: securetheairport.net; .com registered 5.5d ago; .com BUILT: \"Secure the Airport Guide &amp; Tools 2026\""
+      "detail": "available: securetheairport.net; .com registered 5.7d ago; .com BUILT: \"Secure the Airport Guide &amp; Tools 2026\""
+    },
+    {
+      "source": "discover",
+      "name": "Clean The Library 📖",
+      "ccu": 49860,
+      "ageDays": 38.4,
+      "rollingAvg": 60733,
+      "spikePct": -18,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "both taken, oldest 12.1d (cleanthelibrary.com, cleanthelibrary.net); .com registered 12.1d ago"
     },
     {
       "source": "discover",
       "name": "Mukbang Game [Testing]",
-      "ccu": 81671,
-      "ageDays": 92.3,
-      "rollingAvg": 69728,
-      "spikePct": 17,
+      "ccu": 79602,
+      "ageDays": 92.5,
+      "rollingAvg": 69736,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: mukbanggame.net; .com registered 8.4d ago; .com BUILT: \"Mukbang Game Wiki, Codes, Tier List and Tools\""
+      "detail": "available: mukbanggame.net; .com registered 8.5d ago; .com BUILT: \"Mukbang Game Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "Build A Boat For Treasure",
-      "ccu": 25839,
-      "ageDays": 3530.4,
-      "rollingAvg": 31568,
-      "spikePct": -18,
+      "ccu": 24200,
+      "ageDays": 3530.6,
+      "rollingAvg": 31262,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildaboatfortreasure.net; .com registered 4.6d ago; .com BUILT: \"Build A Boat For Treasure Wiki, Codes &amp; Guidebook\""
+      "detail": "available: buildaboatfortreasure.net; .com registered 4.8d ago; .com BUILT: \"Build A Boat For Treasure Wiki, Codes &amp; Guidebook\""
     },
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X + CODES]",
-      "ccu": 40394,
-      "ageDays": 30.5,
-      "rollingAvg": 35335,
-      "spikePct": 14,
+      "ccu": 32978,
+      "ageDays": 30.6,
+      "rollingAvg": 35459,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.3d (buildasoccersquad.com, buildasoccersquad.net); .com registered 6.3d ago"
+      "detail": "both taken, oldest 6.4d (buildasoccersquad.com, buildasoccersquad.net); .com registered 6.4d ago"
     },
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 57169,
-      "ageDays": 43.5,
-      "rollingAvg": 47108,
-      "spikePct": 21,
+      "ccu": 53975,
+      "ageDays": 43.7,
+      "rollingAvg": 50462,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 23.3d (mergeanuke.com, mergeanuke.net)"
+      "detail": "both taken, oldest 23.5d (mergeanuke.com, mergeanuke.net)"
     },
     {
       "source": "discover",
       "name": "LifeTogether 🏠 RP ",
-      "ccu": 53376,
-      "ageDays": 1094.2,
-      "rollingAvg": 62245,
-      "spikePct": -14,
+      "ccu": 43734,
+      "ageDays": 1094.4,
+      "rollingAvg": 62195,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: lifetogetherrp.net; .com registered 4.5d ago; .com BUILT: \"LifeTogether RP Wiki - Codes, Houses, Jobs, Map &amp; Outfit\""
+      "detail": "available: lifetogetherrp.net; .com registered 4.6d ago; .com BUILT: \"LifeTogether RP Wiki - Codes, Houses, Jobs, Map &amp; Outfit\""
     },
     {
       "source": "discover",
       "name": " 🖌️ Paint To Hide!",
-      "ccu": 39469,
-      "ageDays": 45.9,
-      "rollingAvg": 39068,
-      "spikePct": 1,
+      "ccu": 32858,
+      "ageDays": 46.1,
+      "rollingAvg": 38842,
+      "spikePct": -15,
       "gate": "C:fresh-com",
-      "verdict": "GREEN",
-      "detail": "available: painttohide.net; .com registered 0.0d ago; .com parked, net window open"
+      "verdict": "RED",
+      "detail": "available: painttohide.net; .com registered 0.2d ago; .com BUILT: \"Paint To Hide Wiki — Roblox Codes, Hider &amp; Seeker Guides\""
     },
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 27330,
-      "ageDays": 48,
-      "rollingAvg": 28304,
-      "spikePct": -3,
+      "ccu": 28145,
+      "ageDays": 48.2,
+      "rollingAvg": 28096,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.9d (1mineperclick.com, 1mineperclick.net); .com registered 3.9d ago"
+      "detail": "both taken, oldest 4.1d (1mineperclick.com, 1mineperclick.net); .com registered 4.1d ago"
     }
   ]
 }
