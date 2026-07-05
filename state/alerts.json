@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-05T22:38:14.001Z",
+  "generatedAt": "2026-07-05T23:42:56.268Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 533200,
-      "ageDays": 45.1,
-      "rollingAvg": 557789,
-      "spikePct": -4,
+      "ccu": 493844,
+      "ageDays": 45.2,
+      "rollingAvg": 558845,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 330.5d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 330.6d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 25547,
+      "ccu": 26485,
       "ageDays": 32.1,
-      "rollingAvg": 31534,
-      "spikePct": -19,
+      "rollingAvg": 30935,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 43047,
-      "ageDays": 29.7,
-      "rollingAvg": 54120,
-      "spikePct": -20,
+      "ccu": 44116,
+      "ageDays": 29.8,
+      "rollingAvg": 53886,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 8.2d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 50279,
-      "ageDays": 20.1,
-      "rollingAvg": 48725,
-      "spikePct": 3,
+      "ccu": 48667,
+      "ageDays": 20.2,
+      "rollingAvg": 49126,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.9d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 7.9d ago"
@@ -48,32 +48,21 @@
     {
       "source": "discover",
       "name": "[Update] Storage Hunters: Open World",
-      "ccu": 33699,
+      "ccu": 30424,
       "ageDays": 33.4,
-      "rollingAvg": 32589,
-      "spikePct": 3,
+      "rollingAvg": 32765,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5690.8d (storagehunters.com, storagehunters.net)"
-    },
-    {
-      "source": "discover",
-      "name": "[UPD] Paint My Keyboard! 🎨",
-      "ccu": 26248,
-      "ageDays": 38.9,
-      "rollingAvg": 24482,
-      "spikePct": 7,
-      "gate": "C:fresh-com",
-      "verdict": "YELLOW",
-      "detail": "both taken, oldest 9.8d (paintmykeyboard.com, paintmykeyboard.net); .com registered 9.8d ago"
+      "detail": "both taken, oldest 5690.9d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 579734,
+      "ccu": 579102,
       "ageDays": 56.3,
-      "rollingAvg": 564087,
-      "spikePct": 3,
+      "rollingAvg": 570531,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 10489.8d (animalhospital.com, animalhospital.net)"
@@ -81,10 +70,10 @@
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 33839,
+      "ccu": 33459,
       "ageDays": 107.2,
-      "rollingAvg": 36827,
-      "spikePct": -8,
+      "rollingAvg": 37015,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 7.4d ago; .com BUILT: \"Secure the Airport Guide &amp; Tools 2026\""
@@ -92,10 +81,10 @@
     {
       "source": "discover",
       "name": "Mukbang Game [Testing]",
-      "ccu": 63943,
-      "ageDays": 94.2,
-      "rollingAvg": 71474,
-      "spikePct": -11,
+      "ccu": 65729,
+      "ageDays": 94.3,
+      "rollingAvg": 71764,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: mukbanggame.net; .com registered 10.3d ago; .com BUILT: \"Mukbang Game Wiki, Codes, Tier List and Tools\""
@@ -103,10 +92,10 @@
     {
       "source": "discover",
       "name": "Clean The Library 📖",
-      "ccu": 46868,
-      "ageDays": 40.1,
-      "rollingAvg": 49557,
-      "spikePct": -5,
+      "ccu": 44767,
+      "ageDays": 40.2,
+      "rollingAvg": 49768,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.8d (cleanthelibrary.com, cleanthelibrary.net); .com registered 13.8d ago"
@@ -114,21 +103,21 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X + CODES]",
-      "ccu": 35096,
+      "ccu": 34978,
       "ageDays": 32.4,
-      "rollingAvg": 42648,
-      "spikePct": -18,
+      "rollingAvg": 42932,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.1d (buildasoccersquad.com, buildasoccersquad.net); .com registered 8.1d ago"
+      "detail": "both taken, oldest 8.2d (buildasoccersquad.com, buildasoccersquad.net); .com registered 8.2d ago"
     },
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 38292,
+      "ccu": 41124,
       "ageDays": 45.4,
-      "rollingAvg": 52245,
-      "spikePct": -27,
+      "rollingAvg": 51764,
+      "spikePct": -21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 25.2d (mergeanuke.com, mergeanuke.net)"
@@ -136,10 +125,10 @@
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 28665,
-      "ageDays": 49.9,
-      "rollingAvg": 36275,
-      "spikePct": -21,
+      "ccu": 28301,
+      "ageDays": 50,
+      "rollingAvg": 36316,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.8d (1mineperclick.com, 1mineperclick.net); .com registered 5.8d ago"
@@ -147,10 +136,10 @@
     {
       "source": "discover",
       "name": "LifeTogether 🏠 RP ",
-      "ccu": 63643,
+      "ccu": 60944,
       "ageDays": 1096.1,
-      "rollingAvg": 59945,
-      "spikePct": 6,
+      "rollingAvg": 59512,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: lifetogetherrp.net; .com registered 6.4d ago; .com BUILT: \"LifeTogether RP Wiki - Codes, Houses, Jobs, Map &amp; Outfit\""
