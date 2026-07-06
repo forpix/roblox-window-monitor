@@ -1,8 +1,8 @@
 name: monitor
 
+# Schedule disabled 2026-07-06: GitHub throttled cron to ~5h gaps; primary is now
+# local launchd on the Mac mini (run-monitor.sh). Manual dispatch kept as fallback.
 on:
-  schedule:
-    - cron: "15,45 * * * *"
   workflow_dispatch:
 
 permissions:

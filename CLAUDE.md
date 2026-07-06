@@ -48,14 +48,14 @@ Per game, `ageDays = now - created`:
 - **Datacenter-IP hardening (decided risk, not in original spec):** Roblox can throttle/challenge Azure IPs (GitHub Actions). Mitigations baked in: browser-ish `User-Agent`/`Accept`, retry on 403/429/5xx with jittered backoff (`RETRIES`, default 2), and an explicit **`API_BLOCKED`** banner so a block never reads as "all clear" (`getJson` treats 403/429 and non-JSON bot-challenge bodies as `BlockedError`). RDAP nulls stay → CHECK (safe).
 
 ## Plan of record (how this was deployed)
-- **Primary = GitHub Actions** (this repo's `monitor.yml`). Strategy: ship → manual `workflow_dispatch` once → read logs to see if datacenter IP is actually blocked (it's a *risk*, not confirmed; can't be tested from a local residential IP).
-- **Fallback if Actions is persistently blocked = local cron/launchd** on macOS, running the *same* `monitor.mjs` from a residential IP. Use **launchd `StartCalendarInterval`** (not crontab — it re-runs missed jobs on wake; multi-day window tolerates the gap) and add a delivery path (macOS notification + logfile) since stdout otherwise vanishes. Not built yet — only if Actions fails the test.
+- **Primary = local launchd on the Mac mini** (since 2026-07-06). GitHub Actions wasn't IP-blocked, but GitHub throttled the `15,45 * * * *` cron to ~5h gaps — unusable for hour-scale gate D races. `run-monitor.sh` (git pull --rebase → `SPIKE_PCT=100 node monitor.mjs` → commit+push `state/`) driven by `com.yy.roblox-window-monitor.monitor.plist` at :15/:45, `StartCalendarInterval` (missed runs coalesce into one catch-up on wake; Mac mini is `pmset sleep 0` anyway) + `RunAtLoad` (covers reboots). Logs → `~/Library/Logs/roblox-window-monitor.monitor.log`. Push auth = local git creds (user forpix-mini). Install: `cp` plist to `~/Library/LaunchAgents/` + `launchctl load` (no secrets in it).
+- **Fallback = manual `workflow_dispatch`** of `monitor.yml` (schedule removed, job kept intact) if the mini is down.
 
 ## Workflow (.github/workflows/monitor.yml)
-- `on: schedule: cron "0 */2 * * *"` + `workflow_dispatch`.
+- `on: workflow_dispatch:` only (schedule removed 2026-07-06, see plan of record).
 - `permissions: contents: write`. `concurrency: { group: monitor, cancel-in-progress: false }`.
 - checkout → setup-node@v4 (node 20) → `node monitor.mjs` → commit `state/` back as `github-actions[bot]` only if changed (`[skip ci]` in message).
-- `state/` MUST be committed back, not gitignored (it's the CCU history).
+- `state/` MUST be committed back, not gitignored (it's the CCU history — local runs commit it the same way).
 
 ## Verification command (must actually run + show output)
 ```sh
