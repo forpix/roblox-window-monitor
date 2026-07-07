@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-07T01:15:08.021Z",
+  "generatedAt": "2026-07-07T01:45:03.614Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 479379,
+      "ccu": 470406,
       "ageDays": 46.2,
-      "rollingAvg": 514661,
-      "spikePct": -7,
+      "rollingAvg": 511975,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 331.6d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 39131,
+      "ccu": 37280,
       "ageDays": 33.2,
-      "rollingAvg": 38079,
-      "spikePct": 3,
+      "rollingAvg": 38449,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 47824,
+      "ccu": 48311,
       "ageDays": 21.3,
-      "rollingAvg": 50992,
+      "rollingAvg": 51174,
       "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 47973,
-      "ageDays": 30.8,
-      "rollingAvg": 49239,
-      "spikePct": -3,
+      "ccu": 48615,
+      "ageDays": 30.9,
+      "rollingAvg": 49136,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 9.3d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "[Update] Storage Hunters: Open World",
-      "ccu": 27599,
+      "ccu": 28957,
       "ageDays": 34.5,
-      "rollingAvg": 33483,
-      "spikePct": -18,
+      "rollingAvg": 33390,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5691.9d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5692.0d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 580720,
+      "ccu": 579819,
       "ageDays": 57.4,
-      "rollingAvg": 611067,
-      "spikePct": -5,
+      "rollingAvg": 613975,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 10490.9d (animalhospital.com, animalhospital.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 28549,
+      "ccu": 28442,
       "ageDays": 108.3,
-      "rollingAvg": 36388,
-      "spikePct": -22,
+      "rollingAvg": 36065,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 8.5d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "Mukbang Game [Testing]",
-      "ccu": 73858,
+      "ccu": 73884,
       "ageDays": 95.3,
-      "rollingAvg": 68251,
+      "rollingAvg": 68443,
       "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Clean The Library 📖",
-      "ccu": 40807,
-      "ageDays": 41.2,
-      "rollingAvg": 44864,
-      "spikePct": -9,
+      "ccu": 41278,
+      "ageDays": 41.3,
+      "rollingAvg": 44959,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 14.9d (cleanthelibrary.com, cleanthelibrary.net)"
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [LIMITBREAKER]",
-      "ccu": 32104,
+      "ccu": 31073,
       "ageDays": 33.5,
-      "rollingAvg": 38103,
-      "spikePct": -16,
+      "rollingAvg": 37873,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.3d (buildasoccersquad.com, buildasoccersquad.net); .com registered 9.3d ago"
@@ -114,10 +114,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 52324,
+      "ccu": 50337,
       "ageDays": 46.5,
-      "rollingAvg": 46857,
-      "spikePct": 12,
+      "rollingAvg": 46708,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 26.3d (mergeanuke.com, mergeanuke.net)"
@@ -125,10 +125,10 @@
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 24298,
-      "ageDays": 51,
-      "rollingAvg": 33277,
-      "spikePct": -27,
+      "ccu": 24713,
+      "ageDays": 51.1,
+      "rollingAvg": 32716,
+      "spikePct": -24,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.9d (1mineperclick.com, 1mineperclick.net); .com registered 6.9d ago"
