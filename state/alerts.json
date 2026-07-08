@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T07:15:02.863Z",
+  "generatedAt": "2026-07-08T07:45:02.908Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 462942,
+      "ccu": 476559,
       "ageDays": 47.5,
-      "rollingAvg": 476097,
-      "spikePct": -3,
+      "rollingAvg": 473951,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 332.9d (growagarden2.com, growagarden2.net)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 48587,
+      "ccu": 48330,
       "ageDays": 34.4,
-      "rollingAvg": 56307,
+      "rollingAvg": 56142,
       "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "GREEN",
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 21996,
+      "ccu": 21542,
       "ageDays": 11.8,
-      "rollingAvg": 22549,
-      "spikePct": -2,
+      "rollingAvg": 22523,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11258.1d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11258.2d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 42233,
+      "ccu": 41030,
       "ageDays": 32.1,
-      "rollingAvg": 54169,
-      "spikePct": -22,
+      "rollingAvg": 53904,
+      "spikePct": -24,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 10.5d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 33616,
+      "ccu": 32497,
       "ageDays": 22.5,
-      "rollingAvg": 46676,
-      "spikePct": -28,
+      "rollingAvg": 46451,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.3d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 10.3d ago"
@@ -59,32 +59,32 @@
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 362869,
+      "ccu": 363004,
       "ageDays": 58.7,
-      "rollingAvg": 559814,
+      "rollingAvg": 554686,
       "spikePct": -35,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 10492.1d (animalhospital.com, animalhospital.net)"
+      "detail": "both taken, oldest 10492.2d (animalhospital.com, animalhospital.net)"
     },
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 23583,
+      "ccu": 23812,
       "ageDays": 109.5,
-      "rollingAvg": 29837,
-      "spikePct": -21,
+      "rollingAvg": 29627,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: securetheairport.net; .com registered 9.7d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
+      "detail": "available: securetheairport.net; .com registered 9.8d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
     },
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 25124,
+      "ccu": 24009,
       "ageDays": 34.7,
-      "rollingAvg": 31567,
-      "spikePct": -20,
+      "rollingAvg": 31296,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.5d (buildasoccersquad.com, buildasoccersquad.net); .com registered 10.5d ago"
@@ -92,21 +92,21 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 57514,
+      "ccu": 57016,
       "ageDays": 47.7,
-      "rollingAvg": 54716,
+      "rollingAvg": 54326,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 27.5d (mergeanuke.com, mergeanuke.net)"
+      "detail": "both taken, oldest 27.6d (mergeanuke.com, mergeanuke.net)"
     },
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 25584,
+      "ccu": 26030,
       "ageDays": 52.3,
-      "rollingAvg": 26035,
-      "spikePct": -2,
+      "rollingAvg": 25779,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.2d (1mineperclick.com, 1mineperclick.net); .com registered 8.2d ago"
