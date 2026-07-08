@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T16:45:03.940Z",
+  "generatedAt": "2026-07-08T17:15:05.797Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 497536,
+      "ccu": 492006,
       "ageDays": 47.9,
-      "rollingAvg": 475620,
-      "spikePct": 5,
+      "rollingAvg": 476752,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 333.3d (growagarden2.com, growagarden2.net)"
@@ -15,20 +15,20 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 26009,
+      "ccu": 25402,
       "ageDays": 12.2,
-      "rollingAvg": 23632,
-      "spikePct": 10,
+      "rollingAvg": 23725,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11258.5d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11258.6d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 76539,
+      "ccu": 77567,
       "ageDays": 34.8,
-      "rollingAvg": 56434,
+      "rollingAvg": 56975,
       "spikePct": 36,
       "gate": "D:young-chart",
       "verdict": "GREEN",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 22891,
+      "ccu": 23117,
       "ageDays": 38.8,
-      "rollingAvg": 21539,
-      "spikePct": 6,
+      "rollingAvg": 21595,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: survive7daysinarctic.com, survive7daysinarctic.net"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 47170,
+      "ccu": 45690,
       "ageDays": 32.5,
-      "rollingAvg": 48604,
-      "spikePct": -3,
+      "rollingAvg": 48485,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 10.9d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -59,54 +59,43 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 46716,
+      "ccu": 47017,
       "ageDays": 22.9,
-      "rollingAvg": 40274,
-      "spikePct": 16,
+      "rollingAvg": 40168,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.7d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 10.7d ago"
     },
     {
       "source": "discover",
-      "name": "Roll to Defend",
-      "ccu": 25643,
-      "ageDays": 54.7,
-      "rollingAvg": 0,
-      "spikePct": null,
-      "gate": "C:fresh-com",
-      "verdict": "YELLOW",
-      "detail": "both taken, oldest 4.0d (rolltodefend.com, rolltodefend.net); .com registered 4.0d ago"
-    },
-    {
-      "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 598212,
-      "ageDays": 59,
-      "rollingAvg": 480998,
-      "spikePct": 24,
+      "ccu": 607118,
+      "ageDays": 59.1,
+      "rollingAvg": 480847,
+      "spikePct": 26,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 10492.5d (animalhospital.com, animalhospital.net)"
+      "detail": "both taken, oldest 10492.6d (animalhospital.com, animalhospital.net)"
     },
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 33073,
+      "ccu": 32750,
       "ageDays": 109.9,
-      "rollingAvg": 27554,
-      "spikePct": 20,
+      "rollingAvg": 27644,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: securetheairport.net; .com registered 10.1d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
+      "detail": "available: securetheairport.net; .com registered 10.2d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
     },
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 36950,
+      "ccu": 36470,
       "ageDays": 35.1,
-      "rollingAvg": 28570,
-      "spikePct": 29,
+      "rollingAvg": 28675,
+      "spikePct": 27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.9d (buildasoccersquad.com, buildasoccersquad.net); .com registered 10.9d ago"
@@ -114,10 +103,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 51482,
+      "ccu": 49051,
       "ageDays": 48.1,
-      "rollingAvg": 56758,
-      "spikePct": -9,
+      "rollingAvg": 57016,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 27.9d (mergeanuke.com, mergeanuke.net)"
@@ -125,9 +114,9 @@
     {
       "source": "discover",
       "name": "Haze Seas [RELEASE + UPD 1]",
-      "ccu": 20886,
+      "ccu": 20833,
       "ageDays": 1858,
-      "rollingAvg": 20457,
+      "rollingAvg": 20500,
       "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -136,10 +125,10 @@
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 28736,
+      "ccu": 27495,
       "ageDays": 52.7,
-      "rollingAvg": 26001,
-      "spikePct": 11,
+      "rollingAvg": 26186,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.6d (1mineperclick.com, 1mineperclick.net); .com registered 8.6d ago"
