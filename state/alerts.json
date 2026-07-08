@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T22:45:06.655Z",
+  "generatedAt": "2026-07-08T23:15:03.726Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 383260,
+      "ccu": 393798,
       "ageDays": 48.1,
-      "rollingAvg": 473097,
-      "spikePct": -19,
+      "rollingAvg": 471339,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 333.5d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 23163,
-      "ageDays": 12.4,
-      "rollingAvg": 24191,
-      "spikePct": -4,
+      "ccu": 23022,
+      "ageDays": 12.5,
+      "rollingAvg": 24175,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11258.8d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 68306,
+      "ccu": 73676,
       "ageDays": 35.1,
-      "rollingAvg": 63373,
-      "spikePct": 8,
+      "rollingAvg": 63978,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 43053,
-      "ageDays": 32.7,
-      "rollingAvg": 46264,
+      "ccu": 42678,
+      "ageDays": 32.8,
+      "rollingAvg": 46063,
       "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 43890,
-      "ageDays": 23.1,
-      "rollingAvg": 41112,
-      "spikePct": 7,
+      "ccu": 42026,
+      "ageDays": 23.2,
+      "rollingAvg": 41096,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.9d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 10.9d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 569727,
+      "ccu": 557684,
       "ageDays": 59.3,
-      "rollingAvg": 496568,
-      "spikePct": 15,
+      "rollingAvg": 499061,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 10492.8d (animalhospital.com, animalhospital.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 29095,
+      "ccu": 30028,
       "ageDays": 110.2,
-      "rollingAvg": 28929,
-      "spikePct": 1,
+      "rollingAvg": 29026,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 10.4d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -81,24 +81,35 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 29082,
+      "ccu": 27894,
       "ageDays": 35.4,
-      "rollingAvg": 30397,
-      "spikePct": -4,
+      "rollingAvg": 30473,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 11.1d (buildasoccersquad.com, buildasoccersquad.net); .com registered 11.1d ago"
+      "detail": "both taken, oldest 11.2d (buildasoccersquad.com, buildasoccersquad.net); .com registered 11.2d ago"
     },
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 39878,
+      "ccu": 40301,
       "ageDays": 48.4,
-      "rollingAvg": 54592,
-      "spikePct": -27,
+      "rollingAvg": 54097,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 28.2d (mergeanuke.com, mergeanuke.net)"
+    },
+    {
+      "source": "discover",
+      "name": "[🏖️Summer/🏆World Tournament] Blue Lock: Rivals",
+      "ccu": 63457,
+      "ageDays": 712.2,
+      "rollingAvg": 28502,
+      "spikePct": 123,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 8520.8d (bluelock.com, bluelock.net)"
     }
   ]
 }
