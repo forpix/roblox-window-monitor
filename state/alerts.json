@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T14:45:01.779Z",
+  "generatedAt": "2026-07-08T15:15:02.387Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 509659,
+      "ccu": 493127,
       "ageDays": 47.8,
-      "rollingAvg": 473571,
-      "spikePct": 8,
+      "rollingAvg": 474702,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 333.2d (growagarden2.com, growagarden2.net)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 29389,
+      "ccu": 27897,
       "ageDays": 12.1,
-      "rollingAvg": 23184,
-      "spikePct": 27,
+      "rollingAvg": 23361,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11258.4d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11258.5d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 73873,
-      "ageDays": 34.7,
-      "rollingAvg": 55041,
-      "spikePct": 34,
+      "ccu": 75460,
+      "ageDays": 34.8,
+      "rollingAvg": 55427,
+      "spikePct": 36,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 21606,
+      "ccu": 21984,
       "ageDays": 38.7,
-      "rollingAvg": 21479,
-      "spikePct": 1,
+      "rollingAvg": 21485,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: survive7daysinarctic.com, survive7daysinarctic.net"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 50331,
+      "ccu": 48605,
       "ageDays": 32.4,
-      "rollingAvg": 49226,
-      "spikePct": 2,
+      "rollingAvg": 48989,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 10.8d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 43494,
+      "ccu": 44666,
       "ageDays": 22.8,
-      "rollingAvg": 41054,
-      "spikePct": 6,
+      "rollingAvg": 40746,
+      "spikePct": 10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.6d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 10.6d ago"
@@ -70,21 +70,21 @@
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 551057,
+      "ccu": 557089,
       "ageDays": 59,
-      "rollingAvg": 487675,
-      "spikePct": 13,
+      "rollingAvg": 484730,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 10492.4d (animalhospital.com, animalhospital.net)"
+      "detail": "both taken, oldest 10492.5d (animalhospital.com, animalhospital.net)"
     },
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 32494,
-      "ageDays": 109.8,
-      "rollingAvg": 27529,
-      "spikePct": 18,
+      "ccu": 32262,
+      "ageDays": 109.9,
+      "rollingAvg": 27504,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 10.1d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 35545,
-      "ageDays": 35,
-      "rollingAvg": 28526,
-      "spikePct": 25,
+      "ccu": 34862,
+      "ageDays": 35.1,
+      "rollingAvg": 28523,
+      "spikePct": 22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.8d (buildasoccersquad.com, buildasoccersquad.net); .com registered 10.8d ago"
@@ -103,20 +103,20 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 62503,
-      "ageDays": 48,
-      "rollingAvg": 55727,
-      "spikePct": 12,
+      "ccu": 58373,
+      "ageDays": 48.1,
+      "rollingAvg": 56121,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 27.8d (mergeanuke.com, mergeanuke.net)"
+      "detail": "both taken, oldest 27.9d (mergeanuke.com, mergeanuke.net)"
     },
     {
       "source": "discover",
       "name": "Haze Seas [RELEASE + UPD 1]",
-      "ccu": 20623,
+      "ccu": 20815,
       "ageDays": 1857.9,
-      "rollingAvg": 20288,
+      "rollingAvg": 20336,
       "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -125,10 +125,10 @@
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 31996,
+      "ccu": 30722,
       "ageDays": 52.6,
-      "rollingAvg": 25446,
-      "spikePct": 26,
+      "rollingAvg": 25626,
+      "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.5d (1mineperclick.com, 1mineperclick.net); .com registered 8.5d ago"
