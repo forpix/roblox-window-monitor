@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-09T00:15:02.140Z",
+  "generatedAt": "2026-07-09T00:45:02.532Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 364216,
+      "ccu": 360065,
       "ageDays": 48.2,
-      "rollingAvg": 467353,
+      "rollingAvg": 464529,
       "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 23934,
+      "ccu": 25459,
       "ageDays": 12.5,
-      "rollingAvg": 24222,
-      "spikePct": -1,
+      "rollingAvg": 24295,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11258.8d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11258.9d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 75519,
-      "ageDays": 35.1,
-      "rollingAvg": 65723,
-      "spikePct": 15,
+      "ccu": 66242,
+      "ageDays": 35.2,
+      "rollingAvg": 66598,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 42539,
+      "ccu": 43305,
       "ageDays": 32.8,
-      "rollingAvg": 45788,
-      "spikePct": -7,
+      "rollingAvg": 45727,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 11.2d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 39247,
+      "ccu": 39677,
       "ageDays": 23.2,
-      "rollingAvg": 41022,
-      "spikePct": -4,
+      "rollingAvg": 41010,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.0d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 11.0d ago"
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 547120,
+      "ccu": 547499,
       "ageDays": 59.4,
-      "rollingAvg": 505754,
-      "spikePct": 8,
+      "rollingAvg": 509997,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 10492.8d (animalhospital.com, animalhospital.net)"
+      "detail": "both taken, oldest 10492.9d (animalhospital.com, animalhospital.net)"
     },
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 29189,
-      "ageDays": 110.2,
-      "rollingAvg": 29362,
-      "spikePct": -1,
+      "ccu": 27589,
+      "ageDays": 110.3,
+      "rollingAvg": 29533,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 10.5d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 27996,
+      "ccu": 28267,
       "ageDays": 35.4,
-      "rollingAvg": 30655,
-      "spikePct": -9,
+      "rollingAvg": 30789,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.2d (buildasoccersquad.com, buildasoccersquad.net); .com registered 11.2d ago"
@@ -92,13 +92,13 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 44830,
-      "ageDays": 48.4,
-      "rollingAvg": 53175,
-      "spikePct": -16,
+      "ccu": 48717,
+      "ageDays": 48.5,
+      "rollingAvg": 52845,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 28.2d (mergeanuke.com, mergeanuke.net)"
+      "detail": "both taken, oldest 28.3d (mergeanuke.com, mergeanuke.net)"
     }
   ]
 }
