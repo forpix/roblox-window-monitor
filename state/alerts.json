@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-09T01:45:02.023Z",
+  "generatedAt": "2026-07-09T02:15:03.564Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 358331,
-      "ageDays": 48.2,
-      "rollingAvg": 459053,
+      "ccu": 355813,
+      "ageDays": 48.3,
+      "rollingAvg": 456038,
       "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 333.6d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 333.7d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 26821,
+      "ccu": 26996,
       "ageDays": 12.6,
-      "rollingAvg": 24518,
-      "spikePct": 9,
+      "rollingAvg": 24642,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11258.9d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 64711,
+      "ccu": 69596,
       "ageDays": 35.2,
-      "rollingAvg": 67628,
-      "spikePct": -4,
+      "rollingAvg": 68092,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 44092,
+      "ccu": 46094,
       "ageDays": 32.9,
-      "rollingAvg": 45733,
-      "spikePct": -4,
+      "rollingAvg": 45775,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 11.3d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 40477,
+      "ccu": 41374,
       "ageDays": 23.3,
-      "rollingAvg": 41186,
-      "spikePct": -2,
+      "rollingAvg": 41345,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.0d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 11.0d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 536903,
+      "ccu": 532398,
       "ageDays": 59.4,
-      "rollingAvg": 519701,
-      "spikePct": 3,
+      "rollingAvg": 524548,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 10492.9d (animalhospital.com, animalhospital.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 27846,
+      "ccu": 27128,
       "ageDays": 110.3,
-      "rollingAvg": 29792,
-      "spikePct": -7,
+      "rollingAvg": 29921,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 10.5d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 27935,
+      "ccu": 29166,
       "ageDays": 35.5,
-      "rollingAvg": 31043,
-      "spikePct": -10,
+      "rollingAvg": 31138,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.3d (buildasoccersquad.com, buildasoccersquad.net); .com registered 11.3d ago"
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 54193,
+      "ccu": 56169,
       "ageDays": 48.5,
-      "rollingAvg": 52473,
-      "spikePct": 3,
+      "rollingAvg": 52390,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 28.3d (mergeanuke.com, mergeanuke.net)"
@@ -103,13 +103,13 @@
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 20952,
+      "ccu": 21175,
       "ageDays": 53.1,
-      "rollingAvg": 26463,
-      "spikePct": -21,
+      "rollingAvg": 26409,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.9d (1mineperclick.com, 1mineperclick.net); .com registered 8.9d ago"
+      "detail": "both taken, oldest 9.0d (1mineperclick.com, 1mineperclick.net); .com registered 9.0d ago"
     }
   ]
 }
