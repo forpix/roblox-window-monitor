@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-09T13:45:06.738Z",
+  "generatedAt": "2026-07-09T14:15:01.929Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 488871,
-      "ageDays": 48.7,
-      "rollingAvg": 411104,
-      "spikePct": 19,
+      "ccu": 487866,
+      "ageDays": 48.8,
+      "rollingAvg": 412245,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 334.1d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 334.2d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 87750,
+      "ccu": 86532,
       "ageDays": 35.7,
-      "rollingAvg": 69120,
-      "spikePct": 27,
+      "rollingAvg": 69452,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 48366,
+      "ccu": 46986,
       "ageDays": 13.1,
-      "rollingAvg": 29308,
-      "spikePct": 65,
+      "rollingAvg": 29967,
+      "spikePct": 57,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11259.4d (chameleon.com, chameleon.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 21154,
+      "ccu": 21159,
       "ageDays": 39.7,
-      "rollingAvg": 21686,
+      "rollingAvg": 21668,
       "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "GREEN",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 41352,
+      "ccu": 40862,
       "ageDays": 33.4,
-      "rollingAvg": 38833,
+      "rollingAvg": 38627,
       "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 38615,
+      "ccu": 39408,
       "ageDays": 23.8,
-      "rollingAvg": 37662,
-      "spikePct": 3,
+      "rollingAvg": 37323,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.5d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 11.5d ago"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[💫UPD 3.5] Anime Fighting Simulator",
-      "ccu": 20057,
+      "ccu": 20311,
       "ageDays": 25.9,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20057,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 198.0d (animefightingsimulator.com, animefightingsimulator.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Animal Hospital (Anomaly) 🧪",
-      "ccu": 541969,
+      "ccu": 548586,
       "ageDays": 59.9,
-      "rollingAvg": 479706,
-      "spikePct": 13,
+      "rollingAvg": 476952,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 10493.4d (animalhospital.com, animalhospital.net)"
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 34458,
+      "ccu": 34604,
       "ageDays": 110.8,
-      "rollingAvg": 28183,
-      "spikePct": 22,
+      "rollingAvg": 28201,
+      "spikePct": 23,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 11.0d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 38984,
+      "ccu": 39882,
       "ageDays": 36,
-      "rollingAvg": 29226,
-      "spikePct": 33,
+      "rollingAvg": 29280,
+      "spikePct": 36,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.8d (buildasoccersquad.com, buildasoccersquad.net); .com registered 11.8d ago"
@@ -114,10 +114,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 74576,
+      "ccu": 71295,
       "ageDays": 49,
-      "rollingAvg": 54755,
-      "spikePct": 36,
+      "rollingAvg": 55573,
+      "spikePct": 28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 28.8d (mergeanuke.com, mergeanuke.net)"
@@ -125,21 +125,21 @@
     {
       "source": "discover",
       "name": "[⛰️] Mine a Mountain",
-      "ccu": 20477,
-      "ageDays": 51.7,
-      "rollingAvg": 22062,
-      "spikePct": -7,
+      "ccu": 22935,
+      "ageDays": 51.8,
+      "rollingAvg": 21990,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: mineamountain.net; .com registered 12.3d ago; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
+      "detail": "available: mineamountain.net; .com registered 12.4d ago; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "Haze Seas [RELEASE + UPD 1]",
-      "ccu": 23361,
+      "ccu": 23794,
       "ageDays": 1858.9,
-      "rollingAvg": 20796,
-      "spikePct": 12,
+      "rollingAvg": 20939,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.6d (hazeseas.com, hazeseas.net); .com registered 8.6d ago"
@@ -147,13 +147,13 @@
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 38330,
+      "ccu": 37623,
       "ageDays": 53.6,
-      "rollingAvg": 25490,
-      "spikePct": 50,
+      "rollingAvg": 25791,
+      "spikePct": 46,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 9.4d (1mineperclick.com, 1mineperclick.net); .com registered 9.4d ago"
+      "detail": "both taken, oldest 9.5d (1mineperclick.com, 1mineperclick.net); .com registered 9.5d ago"
     }
   ]
 }
