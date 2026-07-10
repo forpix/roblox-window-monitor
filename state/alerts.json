@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-10T06:45:06.825Z",
+  "generatedAt": "2026-07-10T07:15:04.444Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 466222,
+      "ccu": 477153,
       "ageDays": 49.5,
-      "rollingAvg": 463329,
-      "spikePct": 1,
+      "rollingAvg": 462749,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 334.9d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 39580,
+      "ccu": 40198,
       "ageDays": 13.8,
-      "rollingAvg": 42671,
-      "spikePct": -7,
+      "rollingAvg": 42558,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11260.1d (chameleon.com, chameleon.net)"
@@ -26,42 +26,42 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 83643,
+      "ccu": 82812,
       "ageDays": 36.4,
-      "rollingAvg": 85893,
-      "spikePct": -3,
+      "rollingAvg": 85944,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
     },
     {
       "source": "discover",
-      "name": "Clean the Supermarket!",
-      "ccu": 27183,
-      "ageDays": 24.5,
-      "rollingAvg": 38372,
-      "spikePct": -29,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "both taken, oldest 12.2d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 12.2d ago"
-    },
-    {
-      "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 47308,
+      "ccu": 46027,
       "ageDays": 34.1,
-      "rollingAvg": 42261,
-      "spikePct": 12,
+      "rollingAvg": 42543,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 12.5d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
+      "name": "Clean the Supermarket!",
+      "ccu": 25758,
+      "ageDays": 24.5,
+      "rollingAvg": 38183,
+      "spikePct": -33,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "both taken, oldest 12.3d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 12.3d ago"
+    },
+    {
+      "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 21708,
+      "ccu": 21611,
       "ageDays": 111.5,
-      "rollingAvg": 29733,
+      "rollingAvg": 29449,
       "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 25326,
+      "ccu": 25525,
       "ageDays": 36.7,
-      "rollingAvg": 34081,
-      "spikePct": -26,
+      "rollingAvg": 33824,
+      "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.5d (buildasoccersquad.com, buildasoccersquad.net); .com registered 12.5d ago"
@@ -81,24 +81,35 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 56222,
+      "ccu": 56466,
       "ageDays": 49.7,
-      "rollingAvg": 56756,
-      "spikePct": -1,
+      "rollingAvg": 56283,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 29.5d (mergeanuke.com, mergeanuke.net)"
     },
     {
       "source": "discover",
-      "name": "+1 Mine Per Click ⛏️",
-      "ccu": 23183,
-      "ageDays": 54.3,
-      "rollingAvg": 28890,
-      "spikePct": -20,
+      "name": "[⛰️] Mine a Mountain",
+      "ccu": 21878,
+      "ageDays": 52.5,
+      "rollingAvg": 21811,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.1d (1mineperclick.com, 1mineperclick.net); .com registered 10.1d ago"
+      "detail": "available: mineamountain.net; .com registered 13.1d ago; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
+    },
+    {
+      "source": "discover",
+      "name": "+1 Mine Per Click ⛏️",
+      "ccu": 23457,
+      "ageDays": 54.3,
+      "rollingAvg": 28544,
+      "spikePct": -18,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "both taken, oldest 10.2d (1mineperclick.com, 1mineperclick.net); .com registered 10.2d ago"
     }
   ]
 }
