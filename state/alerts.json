@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-10T20:15:04.984Z",
+  "generatedAt": "2026-07-10T20:45:05.006Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 455535,
+      "ccu": 461601,
       "ageDays": 50,
-      "rollingAvg": 473096,
-      "spikePct": -4,
+      "rollingAvg": 473089,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 335.4d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 58645,
-      "ageDays": 14.3,
-      "rollingAvg": 47919,
-      "spikePct": 22,
+      "ccu": 55856,
+      "ageDays": 14.4,
+      "rollingAvg": 48338,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11260.7d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 75088,
+      "ccu": 71735,
       "ageDays": 37,
-      "rollingAvg": 85321,
-      "spikePct": -12,
+      "rollingAvg": 85008,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4658.9d (drainthelake.com, drainthelake.net)"
@@ -37,32 +37,21 @@
     {
       "source": "discover",
       "name": "[MAGIC!] Clean the Squishies!",
-      "ccu": 38213,
-      "ageDays": 16.7,
-      "rollingAvg": 27630,
-      "spikePct": 38,
+      "ccu": 37082,
+      "ageDays": 16.8,
+      "rollingAvg": 27990,
+      "spikePct": 32,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanthesquishies.net; .com registered 0.1d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
-      "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 20690,
-      "ageDays": 41,
-      "rollingAvg": 22358,
-      "spikePct": -7,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: survive7daysinarctic.com, survive7daysinarctic.net; competitor BUILT: survive7daysinarctic.online \"Survive 7 Days In Arctic Wiki, Codes &am\", survive7daysinarctic.wiki \"Survive 7 Days In Arctic Wiki — Guides, \", survive-7-days-in-arctic.wiki \"Survive 7 Days In Arctic Wiki Roblox Gui\" +3 more"
+      "detail": "available: cleanthesquishies.net; .com registered 0.2d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 49046,
+      "ccu": 48018,
       "ageDays": 34.6,
-      "rollingAvg": 51040,
-      "spikePct": -4,
+      "rollingAvg": 50685,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 13.1d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -70,10 +59,10 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 39694,
-      "ageDays": 25,
-      "rollingAvg": 31442,
-      "spikePct": 26,
+      "ccu": 38829,
+      "ageDays": 25.1,
+      "rollingAvg": 31575,
+      "spikePct": 23,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.8d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 12.8d ago"
@@ -81,10 +70,10 @@
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 24337,
+      "ccu": 23326,
       "ageDays": 112.1,
-      "rollingAvg": 24360,
-      "spikePct": 0,
+      "rollingAvg": 24374,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 12.3d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -92,43 +81,32 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 40210,
+      "ccu": 37784,
       "ageDays": 37.3,
-      "rollingAvg": 32121,
-      "spikePct": 25,
+      "rollingAvg": 32457,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 13.0d (buildasoccersquad.com, buildasoccersquad.net); .com registered 13.0d ago"
+      "detail": "both taken, oldest 13.1d (buildasoccersquad.com, buildasoccersquad.net); .com registered 13.1d ago"
     },
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 37528,
+      "ccu": 35589,
       "ageDays": 50.3,
-      "rollingAvg": 53572,
-      "spikePct": -30,
+      "rollingAvg": 53085,
+      "spikePct": -33,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.1d (mergeanuke.com, mergeanuke.net)"
     },
     {
       "source": "discover",
-      "name": "[⛰️] Mine a Mountain",
-      "ccu": 20284,
-      "ageDays": 53,
-      "rollingAvg": 26468,
-      "spikePct": -23,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: mineamountain.net; .com registered 13.6d ago; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
-    },
-    {
-      "source": "discover",
       "name": "Haze Seas [RELEASE + UPD 1]",
-      "ccu": 21767,
+      "ccu": 21103,
       "ageDays": 1860.2,
-      "rollingAvg": 22054,
-      "spikePct": -1,
+      "rollingAvg": 22061,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.9d (hazeseas.com, hazeseas.net); .com registered 9.9d ago"
@@ -136,13 +114,13 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 22687,
+      "ccu": 21979,
       "ageDays": 212.6,
-      "rollingAvg": 24303,
-      "spikePct": -7,
+      "rollingAvg": 24222,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 4.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: beafishbait.net; .com registered 4.4d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     }
   ]
 }
