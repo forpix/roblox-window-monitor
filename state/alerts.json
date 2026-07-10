@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-10T02:45:02.739Z",
+  "generatedAt": "2026-07-10T03:15:03.361Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 455799,
+      "ccu": 440957,
       "ageDays": 49.3,
-      "rollingAvg": 466216,
-      "spikePct": -2,
+      "rollingAvg": 467253,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 334.7d (growagarden2.com, growagarden2.net)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 43578,
+      "ccu": 43635,
       "ageDays": 13.6,
-      "rollingAvg": 41444,
-      "spikePct": 5,
+      "rollingAvg": 41845,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11259.9d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11260.0d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 86378,
-      "ageDays": 36.2,
-      "rollingAvg": 82269,
-      "spikePct": 5,
+      "ccu": 87576,
+      "ageDays": 36.3,
+      "rollingAvg": 82992,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: drainthelake.net; .com parked, net window open"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[MAGIC!] Clean the Squishies!",
-      "ccu": 21710,
+      "ccu": 21299,
       "ageDays": 16,
-      "rollingAvg": 24537,
-      "spikePct": -12,
+      "rollingAvg": 24388,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: cleanthesquishies.com, cleanthesquishies.net"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 61814,
+      "ccu": 61477,
       "ageDays": 33.9,
-      "rollingAvg": 36664,
-      "spikePct": 69,
+      "rollingAvg": 37587,
+      "spikePct": 64,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 12.3d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 34897,
+      "ccu": 34978,
       "ageDays": 24.3,
-      "rollingAvg": 37760,
+      "rollingAvg": 37934,
       "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Secure the Airport",
-      "ccu": 23822,
-      "ageDays": 111.3,
-      "rollingAvg": 30865,
-      "spikePct": -23,
+      "ccu": 24393,
+      "ageDays": 111.4,
+      "rollingAvg": 30804,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: securetheairport.net; .com registered 11.6d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 28082,
-      "ageDays": 36.5,
-      "rollingAvg": 34759,
-      "spikePct": -19,
+      "ccu": 27437,
+      "ageDays": 36.6,
+      "rollingAvg": 34834,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.3d (buildasoccersquad.com, buildasoccersquad.net); .com registered 12.3d ago"
@@ -92,21 +92,32 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 55077,
-      "ageDays": 49.5,
-      "rollingAvg": 59101,
-      "spikePct": -7,
+      "ccu": 54154,
+      "ageDays": 49.6,
+      "rollingAvg": 59003,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 29.3d (mergeanuke.com, mergeanuke.net)"
+      "detail": "both taken, oldest 29.4d (mergeanuke.com, mergeanuke.net)"
+    },
+    {
+      "source": "discover",
+      "name": "[⛰️] Mine a Mountain",
+      "ccu": 20165,
+      "ageDays": 52.3,
+      "rollingAvg": 21867,
+      "spikePct": -8,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: mineamountain.net; .com registered 12.9d ago; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "Haze Seas [RELEASE + UPD 1]",
-      "ccu": 21088,
+      "ccu": 20780,
       "ageDays": 1859.4,
-      "rollingAvg": 21628,
-      "spikePct": -2,
+      "rollingAvg": 21641,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.1d (hazeseas.com, hazeseas.net); .com registered 9.1d ago"
@@ -114,10 +125,10 @@
     {
       "source": "discover",
       "name": "+1 Mine Per Click ⛏️",
-      "ccu": 21720,
+      "ccu": 21802,
       "ageDays": 54.1,
-      "rollingAvg": 30468,
-      "spikePct": -29,
+      "rollingAvg": 30328,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 10.0d (1mineperclick.com, 1mineperclick.net); .com registered 10.0d ago"
