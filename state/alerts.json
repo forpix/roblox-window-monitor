@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-10T22:15:03.118Z",
+  "generatedAt": "2026-07-10T22:45:01.177Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 455259,
+      "ccu": 445355,
       "ageDays": 50.1,
-      "rollingAvg": 475002,
-      "spikePct": -4,
+      "rollingAvg": 475675,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 335.5d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 51096,
+      "ccu": 52775,
       "ageDays": 14.4,
-      "rollingAvg": 49364,
-      "spikePct": 4,
+      "rollingAvg": 49734,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11260.8d (chameleon.com, chameleon.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 60239,
+      "ccu": 59973,
       "ageDays": 37.1,
-      "rollingAvg": 83482,
+      "rollingAvg": 83045,
       "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4658.9d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4659.0d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "[MAGIC!] Clean the Squishies!",
-      "ccu": 31851,
-      "ageDays": 16.8,
-      "rollingAvg": 28808,
-      "spikePct": 11,
+      "ccu": 31613,
+      "ageDays": 16.9,
+      "rollingAvg": 28997,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanthesquishies.net; .com registered 0.2d ago; .com probe inconclusive — check by hand"
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 50423,
+      "ccu": 51303,
       "ageDays": 34.7,
-      "rollingAvg": 49995,
-      "spikePct": 1,
+      "rollingAvg": 49937,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: paintorseek.net; .com registered 13.1d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
+      "detail": "available: paintorseek.net; .com registered 13.2d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 32851,
+      "ccu": 31629,
       "ageDays": 25.1,
-      "rollingAvg": 31731,
-      "spikePct": 4,
+      "rollingAvg": 31737,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.9d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 12.9d ago"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 31498,
-      "ageDays": 37.3,
-      "rollingAvg": 33167,
-      "spikePct": -5,
+      "ccu": 30997,
+      "ageDays": 37.4,
+      "rollingAvg": 33376,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.1d (buildasoccersquad.com, buildasoccersquad.net); .com registered 13.1d ago"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 31292,
+      "ccu": 32785,
       "ageDays": 50.4,
-      "rollingAvg": 51443,
-      "spikePct": -39,
+      "rollingAvg": 51033,
+      "spikePct": -36,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.2d (mergeanuke.com, mergeanuke.net)"
@@ -92,13 +92,13 @@
     {
       "source": "discover",
       "name": "Haze Seas [DRAG HYBRID COUNTDOWN]",
-      "ccu": 21412,
-      "ageDays": 1860.2,
-      "rollingAvg": 22101,
+      "ccu": 21573,
+      "ageDays": 1860.3,
+      "rollingAvg": 22132,
       "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 9.9d (hazeseas.com, hazeseas.net); .com registered 9.9d ago"
+      "detail": "both taken, oldest 10.0d (hazeseas.com, hazeseas.net); .com registered 10.0d ago"
     }
   ]
 }
