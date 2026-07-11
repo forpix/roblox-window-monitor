@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-11T12:45:00.864Z",
+  "generatedAt": "2026-07-11T13:15:05.052Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 402757,
+      "ccu": 399656,
       "ageDays": 50.7,
-      "rollingAvg": 437520,
+      "rollingAvg": 436134,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 80870,
-      "ageDays": 15,
-      "rollingAvg": 60807,
-      "spikePct": 33,
+      "ccu": 83774,
+      "ageDays": 15.1,
+      "rollingAvg": 61309,
+      "spikePct": 37,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11261.4d (chameleon.com, chameleon.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 91340,
+      "ccu": 95347,
       "ageDays": 37.7,
-      "rollingAvg": 72660,
-      "spikePct": 26,
+      "rollingAvg": 72982,
+      "spikePct": 31,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4659.5d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4659.6d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "[MAGIC!] Clean the Squishies!",
-      "ccu": 44496,
-      "ageDays": 17.4,
-      "rollingAvg": 35492,
-      "spikePct": 25,
+      "ccu": 46472,
+      "ageDays": 17.5,
+      "rollingAvg": 35652,
+      "spikePct": 30,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanthesquishies.net; .com registered 0.8d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 29246,
-      "ageDays": 41.6,
-      "rollingAvg": 24223,
-      "spikePct": 21,
+      "ccu": 30792,
+      "ageDays": 41.7,
+      "rollingAvg": 24411,
+      "spikePct": 26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: survive7daysinarctic.com, survive7daysinarctic.net; competitor BUILT: survive7daysinarctic.online \"Survive 7 Days In Arctic Wiki, Codes &am\", survive7daysinarctic.wiki \"Survive 7 Days In Arctic Wiki — Guides, \", survive-7-days-in-arctic.wiki \"Survive 7 Days In Arctic Wiki Roblox Gui\" +3 more"
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 62175,
+      "ccu": 65013,
       "ageDays": 35.3,
-      "rollingAvg": 52612,
-      "spikePct": 18,
+      "rollingAvg": 52923,
+      "spikePct": 23,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: paintorseek.net; .com registered 13.7d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
+      "detail": "available: paintorseek.net; .com registered 13.8d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 35578,
-      "ageDays": 25.7,
-      "rollingAvg": 33347,
-      "spikePct": 7,
+      "ccu": 37250,
+      "ageDays": 25.8,
+      "rollingAvg": 33249,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.5d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 13.5d ago"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[💫X2] Anime Fighting Simulator",
-      "ccu": 20073,
+      "ccu": 20130,
       "ageDays": 27.8,
-      "rollingAvg": 19999,
-      "spikePct": 0,
+      "rollingAvg": 20024,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 200.0d (animefightingsimulator.com, animefightingsimulator.net)"
@@ -92,21 +92,21 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 38177,
-      "ageDays": 37.9,
-      "rollingAvg": 31420,
-      "spikePct": 22,
+      "ccu": 39296,
+      "ageDays": 38,
+      "rollingAvg": 31423,
+      "spikePct": 25,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 13.7d (buildasoccersquad.com, buildasoccersquad.net); .com registered 13.7d ago"
+      "detail": "both taken, oldest 13.8d (buildasoccersquad.com, buildasoccersquad.net); .com registered 13.8d ago"
     },
     {
       "source": "discover",
       "name": "[⛰️] Mine a Mountain",
-      "ccu": 21105,
+      "ccu": 24073,
       "ageDays": 53.7,
-      "rollingAvg": 27389,
-      "spikePct": -23,
+      "rollingAvg": 26485,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mineamountain.net; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
@@ -114,10 +114,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 74215,
+      "ccu": 75280,
       "ageDays": 51,
-      "rollingAvg": 52362,
-      "spikePct": 42,
+      "rollingAvg": 53237,
+      "spikePct": 41,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.8d (mergeanuke.com, mergeanuke.net)"
@@ -125,9 +125,9 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 32291,
+      "ccu": 32538,
       "ageDays": 213.3,
-      "rollingAvg": 27089,
+      "rollingAvg": 27283,
       "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -136,13 +136,13 @@
     {
       "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 33479,
-      "ageDays": 1860.8,
-      "rollingAvg": 23896,
-      "spikePct": 40,
+      "ccu": 35812,
+      "ageDays": 1860.9,
+      "rollingAvg": 24197,
+      "spikePct": 48,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.5d (hazeseas.com, hazeseas.net); .com registered 10.5d ago"
+      "detail": "both taken, oldest 10.6d (hazeseas.com, hazeseas.net); .com registered 10.6d ago"
     }
   ]
 }
