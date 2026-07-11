@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-11T04:15:05.350Z",
+  "generatedAt": "2026-07-11T04:45:03.018Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 461941,
+      "ccu": 443502,
       "ageDays": 50.4,
-      "rollingAvg": 466886,
-      "spikePct": -1,
+      "rollingAvg": 466403,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 335.7d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 335.8d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "🦎 Chameleon!",
-      "ccu": 61031,
+      "ccu": 59170,
       "ageDays": 14.7,
-      "rollingAvg": 55889,
-      "spikePct": 9,
+      "rollingAvg": 56448,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11261.0d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 77164,
+      "ccu": 75283,
       "ageDays": 37.3,
-      "rollingAvg": 81011,
-      "spikePct": -5,
+      "rollingAvg": 80794,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4659.2d (drainthelake.com, drainthelake.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[MAGIC!] Clean the Squishies!",
-      "ccu": 33392,
+      "ccu": 32299,
       "ageDays": 17.1,
-      "rollingAvg": 31978,
-      "spikePct": 4,
+      "rollingAvg": 32314,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanthesquishies.net; .com registered 0.5d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[NEW!🔥] Paint Or Seek",
-      "ccu": 57873,
+      "ccu": 55955,
       "ageDays": 35,
-      "rollingAvg": 53285,
-      "spikePct": 9,
+      "rollingAvg": 53639,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: paintorseek.net; .com registered 13.4d ago; .com BUILT: \"Paint Or Seek Wiki, Codes, Tier List and Tools\""
@@ -59,32 +59,21 @@
     {
       "source": "discover",
       "name": "Clean the Supermarket!",
-      "ccu": 35258,
+      "ccu": 34373,
       "ageDays": 25.4,
-      "rollingAvg": 33957,
-      "spikePct": 4,
+      "rollingAvg": 34231,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 13.1d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 13.1d ago"
-    },
-    {
-      "source": "discover",
-      "name": "Secure the Airport",
-      "ccu": 23334,
-      "ageDays": 112.4,
-      "rollingAvg": 24537,
-      "spikePct": -5,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: securetheairport.net; .com registered 12.6d ago; .com BUILT: \"Secure the Airport Guide (July 2026) - Codes &amp; Tools\""
+      "detail": "both taken, oldest 13.2d (cleanthesupermarket.com, cleanthesupermarket.net); .com registered 13.2d ago"
     },
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 27408,
+      "ccu": 27848,
       "ageDays": 37.6,
-      "rollingAvg": 34556,
-      "spikePct": -21,
+      "rollingAvg": 34529,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.4d (buildasoccersquad.com, buildasoccersquad.net); .com registered 13.4d ago"
@@ -92,10 +81,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 60386,
+      "ccu": 60533,
       "ageDays": 50.6,
-      "rollingAvg": 49694,
-      "spikePct": 22,
+      "rollingAvg": 49848,
+      "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.4d (mergeanuke.com, mergeanuke.net)"
@@ -103,42 +92,42 @@
     {
       "source": "discover",
       "name": "[⛰️] Mine a Mountain",
-      "ccu": 28916,
+      "ccu": 27999,
       "ageDays": 53.4,
-      "rollingAvg": 27394,
-      "spikePct": 6,
+      "rollingAvg": 27558,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: mineamountain.net; .com registered 13.9d ago; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
-    },
-    {
-      "source": "discover",
-      "name": "Haze Seas [DRAG HYBRID COUNTDOWN]",
-      "ccu": 25262,
-      "ageDays": 1860.5,
-      "rollingAvg": 22877,
-      "spikePct": 10,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "both taken, oldest 10.2d (hazeseas.com, hazeseas.net); .com registered 10.2d ago"
+      "detail": "available: mineamountain.net; .com registered 14.0d ago; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "[🎮] Guess My Game",
-      "ccu": 22530,
+      "ccu": 21773,
       "ageDays": 44.6,
-      "rollingAvg": 23205,
-      "spikePct": -3,
+      "rollingAvg": 23168,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: guessmygame.com, guessmygame.net; competitor BUILT: guessmygame.netlify.app \"Guess My Number!\", guess-my-game.vercel.app \"Guess my number\", guess-my-game.netlify.app \"Guess My Number!\""
     },
     {
       "source": "discover",
+      "name": "Haze Seas [DRAG HYBRID COUNTDOWN]",
+      "ccu": 26206,
+      "ageDays": 1860.5,
+      "rollingAvg": 23020,
+      "spikePct": 14,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "both taken, oldest 10.2d (hazeseas.com, hazeseas.net); .com registered 10.2d ago"
+    },
+    {
+      "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 28778,
+      "ccu": 28842,
       "ageDays": 212.9,
-      "rollingAvg": 24552,
+      "rollingAvg": 24684,
       "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
