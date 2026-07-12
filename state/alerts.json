@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-07-12T16:15:00.879Z",
+  "generatedAt": "2026-07-12T16:45:01.807Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 335385,
+      "ccu": 334380,
       "ageDays": 51.9,
-      "rollingAvg": 365202,
+      "rollingAvg": 364126,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 337.2d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 337.3d (growagarden2.com, growagarden2.net)"
+    },
+    {
+      "source": "discover",
+      "name": "[SUMMER MAP!] Chameleon",
+      "ccu": 21106,
+      "ageDays": 37,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 11262.5d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 67245,
+      "ccu": 75458,
       "ageDays": 16.2,
-      "rollingAvg": 60836,
-      "spikePct": 11,
+      "rollingAvg": 61118,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11262.5d (chameleon.com, chameleon.net)"
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 21072,
+      "ccu": 23334,
       "ageDays": 23.9,
-      "rollingAvg": 20244,
-      "spikePct": 4,
+      "rollingAvg": 20658,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
@@ -37,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 48508,
+      "ccu": 48947,
       "ageDays": 18.6,
-      "rollingAvg": 40060,
-      "spikePct": 21,
+      "rollingAvg": 40086,
+      "spikePct": 22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 2.0d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +59,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 88005,
+      "ccu": 84252,
       "ageDays": 38.8,
-      "rollingAvg": 90517,
-      "spikePct": -3,
+      "rollingAvg": 90473,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4660.7d (drainthelake.com, drainthelake.net)"
@@ -59,10 +70,10 @@
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 25086,
+      "ccu": 25570,
       "ageDays": 42.8,
-      "rollingAvg": 22784,
-      "spikePct": 10,
+      "rollingAvg": 22745,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: survive7daysinarctic.com, survive7daysinarctic.net; competitor BUILT: survive7daysinarctic.online \"Survive 7 Days In Arctic Wiki, Codes &am\", survive7daysinarctic.wiki \"Survive 7 Days In Arctic Wiki — Guides, \", survive-7-days-in-arctic.wiki \"Survive 7 Days In Arctic Wiki Roblox Gui\" +3 more"
@@ -70,21 +81,21 @@
     {
       "source": "discover",
       "name": "[⚔️1v1] Clean the Supermarket!",
-      "ccu": 30723,
+      "ccu": 31910,
       "ageDays": 26.9,
-      "rollingAvg": 26732,
-      "spikePct": 15,
+      "rollingAvg": 26675,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 14.6d (cleanthesupermarket.com, cleanthesupermarket.net)"
+      "detail": "both taken, oldest 14.7d (cleanthesupermarket.com, cleanthesupermarket.net)"
     },
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 39410,
+      "ccu": 40094,
       "ageDays": 39.1,
-      "rollingAvg": 32029,
-      "spikePct": 23,
+      "rollingAvg": 32120,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 14.9d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -92,10 +103,10 @@
     {
       "source": "discover",
       "name": "LifeTogether 🏠 RP ",
-      "ccu": 77485,
+      "ccu": 80349,
       "ageDays": 1102.8,
-      "rollingAvg": 52480,
-      "spikePct": 48,
+      "rollingAvg": 53617,
+      "spikePct": 50,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: lifetogetherrp.net; .com registered 13.1d ago; .com BUILT: \"LifeTogether RP Wiki - Codes, Houses, Jobs, Map &amp; Outfit\""
@@ -103,10 +114,10 @@
     {
       "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 31591,
+      "ccu": 31197,
       "ageDays": 1862,
-      "rollingAvg": 29499,
-      "spikePct": 7,
+      "rollingAvg": 29603,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.7d (hazeseas.com, hazeseas.net); .com registered 11.7d ago"
@@ -114,10 +125,10 @@
     {
       "source": "discover",
       "name": "Merge a Nuke!",
-      "ccu": 43933,
+      "ccu": 43234,
       "ageDays": 52.1,
-      "rollingAvg": 58012,
-      "spikePct": -24,
+      "rollingAvg": 58318,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 31.9d (mergeanuke.com, mergeanuke.net)"
@@ -125,10 +136,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 27518,
+      "ccu": 27507,
       "ageDays": 214.4,
-      "rollingAvg": 26299,
-      "spikePct": 5,
+      "rollingAvg": 26497,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 6.2d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
