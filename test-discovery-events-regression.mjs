@@ -11,6 +11,8 @@
 //   ④ 三轮 TTL 测试：上榜→掉榜→重新上榜，只产生一条 source_first_seen
 //   ⑤ 跨榜测试：同游戏先中一个 sort、后中另一个 sort，产生两条独立 source_first_seen
 //   ⑥ games 批量 API 整体故障：source_first_seen 不受影响，gate_first_seen 延后到恢复才产生
+//   ⑦ 池完整性：首次 gate bootstrap 那轮某个 sort 挂了（games API 本身 ok）——不能完成 bootstrap，
+//     否则失败 sort 独有的游戏在 sort 恢复后会被误记成 gate_first_seen（应该是 gate_baseline）
 //
 // 跑法：node test-discovery-events-regression.mjs；断言失败即非零退出。
 
@@ -304,6 +306,58 @@ console.log('\n=== 场景⑥: games 批量 API 整体故障 ===');
     gateEvents.some(e => e.eventType === 'gate_first_seen' && e.universeId === 901 && e.gate === 'D'));
   expect('round2: 不产生 gate_baseline（gate 层不是这一轮才 bootstrap 的）',
     !gateEvents.some(e => e.eventType === 'gate_baseline' && e.universeId === 901));
+}
+
+// ============================================================
+// 场景⑦：池完整性 — 首次 gate bootstrap 那轮 top-trending 挂了（games API 本身完整成功），
+// gate bootstrap 必须推迟；第二轮 top-trending 恢复，它独有的游戏 W 拿到的是 gate_baseline
+// 而不是 gate_first_seen
+// ============================================================
+console.log('\n=== 场景⑦: 池不完整时 gate bootstrap 推迟 ===');
+{
+  const dir = mkdtempSync(join(tmpdir(), 'events-poolincomplete-'));
+  setupEnv(dir);
+  process.env.DISCOVERY_SORTS = 'up-and-coming,top-trending';
+
+  // W 只出现在 top-trending（挂掉的那个 sort）——旧行为下 round1 会用不含 W 的池完成 gate bootstrap，
+  // round2 W 进池、满足 gate D，就被误记成 gate_first_seen
+  const W = { universeId: 951, rootPlaceId: 1051, name: 'Pool Gap Game W', playerCount: 30000 };
+  const W_GAME = { id: 951, rootPlaceId: 1051, name: 'Pool Gap Game W', playing: 30000, created: iso(10) }; // young+high CCU -> gate D
+  const WATCH_GAME = { id: 9001, rootPlaceId: 97598239454123, name: 'Grow a Garden 2', playing: 500, created: iso(400) };
+
+  let round = 1;
+  globalThis.fetch = async (url) => {
+    const u = new URL(String(url));
+    if (u.hostname === 'apis.roblox.com' && u.pathname.includes('/universes/v1/places/')) return json({ universeId: 9001 });
+    if (u.hostname === 'apis.roblox.com' && u.pathname.includes('get-sort-content')) {
+      const sort = u.searchParams.get('sortId');
+      if (sort === 'up-and-coming') return json({ games: [] }); // 一直成功但一直是空
+      if (round === 1) return serverError(); // top-trending round1 挂
+      return json({ games: [W] });
+    }
+    if (u.hostname === 'games.roblox.com') {
+      const ids = (u.searchParams.get('universeIds') || '').split(',').map(Number);
+      return json({ data: [WATCH_GAME, W_GAME].filter(g => ids.includes(g.id)) }); // games API 全程健康
+    }
+    if (u.hostname.startsWith('rdap.')) return notFound();
+    return dnsFail();
+  };
+
+  await freshImport(); // round1
+  let gateEvents = readJsonl(process.env.GATE_EVENTS_FILE);
+  let bootstrap = JSON.parse(readFileSync(process.env.DISCOVERY_BOOTSTRAP_FILE, 'utf8'));
+  expect('round1: games API 完整成功但池不完整 -> gate 层不完成 bootstrap', bootstrap.gate?.bootstrapped !== true);
+  expect('round1: 不产生任何 gate 事件', gateEvents.length === 0);
+  expect('round1: up-and-coming（成功的 sort）自己的 bootstrap 正常完成', bootstrap.sources?.['up-and-coming']?.bootstrapped === true);
+
+  round = 2;
+  await freshImport(); // round2: top-trending 恢复，池完整
+  gateEvents = readJsonl(process.env.GATE_EVENTS_FILE);
+  bootstrap = JSON.parse(readFileSync(process.env.DISCOVERY_BOOTSTRAP_FILE, 'utf8'));
+  expect('round2: 池完整 -> gate 层这一轮完成 bootstrap', bootstrap.gate?.bootstrapped === true);
+  expect('round2: W 拿到的是 gate_baseline（leftCensored），不是 gate_first_seen',
+    gateEvents.some(e => e.eventType === 'gate_baseline' && e.universeId === 951 && e.leftCensored === true));
+  expect('round2: 全程没有任何 gate_first_seen', !gateEvents.some(e => e.eventType === 'gate_first_seen'));
 }
 
 console.log(failed ? `\n${failed} 条回归失败` : '\n回归全过');

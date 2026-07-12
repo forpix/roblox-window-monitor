@@ -55,6 +55,13 @@ const HEADERS = {
 let apiBlocked = false;
 class BlockedError extends Error {}
 
+// Part 0.1: gate 层 bootstrap 的池完整性检查用——任一 sort 调用失败或 watchlist 解析失败的轮次，
+// 目标池本身不完整（失败 sort 独有的游戏根本不在池里），这轮不能完成 gate bootstrap，否则那批
+// 游戏在 sort 恢复后会被误记成 gate_first_seen（跟按 sortId 独立 bootstrap 防的是同一类左删失，
+// 只是故障域在池的上游）。已 bootstrap 之后不受此影响：缺席只是延后，不产生假事件。
+let discoverySortFailures = 0;
+let watchlistResolveFailures = 0;
+
 // ---- watchlist ----
 const WATCHLIST = [
   { placeId: 97598239454123, slug: 'growagarden2' }, // Grow a Garden 2
@@ -144,6 +151,7 @@ async function discover() {
       console.warn(`[warn] discovery sort '${sortId}' failed: ${e.message}`);
       ok = false;
       errMsg = e.message;
+      discoverySortFailures++;
     }
     const finishedAt = new Date().toISOString();
     const eligible = games.filter(g => (g.playerCount ?? 0) >= DISCOVERY_CCU_MIN);
@@ -367,6 +375,7 @@ for (const w of WATCHLIST) {
   } catch (e) {
     if (e instanceof BlockedError) apiBlocked = true;
     console.warn(`[warn] resolve universe failed placeId=${w.placeId}: ${e.message}`);
+    watchlistResolveFailures++;
   }
 }
 
@@ -502,18 +511,28 @@ for (const t of targetList) {
 // Part 0.1: gate_baseline / gate_first_seen — only on a fully-'ok' games-batch run (see comment
 // at gamesStatus above). Bootstrap is one flag for the whole gate layer, not per-letter: the
 // first fully-ok run baselines every currently-gated (universeId,gate) combo at once.
+// Completing bootstrap additionally requires the target pool itself to be complete this run
+// (every sort call + every watchlist resolution succeeded) — a failed sort's exclusive games
+// aren't in the pool at all, so a baseline built without them would misread them as
+// gate_first_seen once the sort recovers. Post-bootstrap runs don't need this check: an
+// incomplete pool only delays events, it can't fabricate them.
+const poolComplete = discoverySortFailures === 0 && watchlistResolveFailures === 0;
 if (gamesStatus === 'ok') {
   if (!bootstrapState.gate.bootstrapped) {
-    for (const h of gateHits) {
-      appendFileMkdir(GATE_EVENTS_FILE, JSON.stringify({
-        eventType: 'gate_baseline', leftCensored: true, observedAt: gamesFinishedAt,
-        universeId: h.universeId, gate: h.gate, playing: h.playing, ageDays: h.ageDays,
-      }) + '\n');
+    if (!poolComplete) {
+      console.warn(`[warn] gate bootstrap deferred: target pool incomplete this run (${discoverySortFailures} sort / ${watchlistResolveFailures} watchlist failures)`);
+    } else {
+      for (const h of gateHits) {
+        appendFileMkdir(GATE_EVENTS_FILE, JSON.stringify({
+          eventType: 'gate_baseline', leftCensored: true, observedAt: gamesFinishedAt,
+          universeId: h.universeId, gate: h.gate, playing: h.playing, ageDays: h.ageDays,
+        }) + '\n');
+      }
+      // persist immediately, even when gateHits was empty this run — see the identical rationale
+      // on the source-layer bootstrap above.
+      bootstrapState.gate = { bootstrapped: true, bootstrappedAt: gamesFinishedAt };
+      writeFileMkdir(DISCOVERY_BOOTSTRAP_FILE, JSON.stringify(bootstrapState, null, 2));
     }
-    // persist immediately, even when gateHits was empty this run — see the identical rationale
-    // on the source-layer bootstrap above.
-    bootstrapState.gate = { bootstrapped: true, bootstrappedAt: gamesFinishedAt };
-    writeFileMkdir(DISCOVERY_BOOTSTRAP_FILE, JSON.stringify(bootstrapState, null, 2));
   } else {
     for (const h of gateHits) {
       const gkey = `${h.universeId}|${h.gate}`;

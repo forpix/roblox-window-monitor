@@ -17,6 +17,13 @@ const iso = daysAgo => new Date(now - daysAgo * DAY).toISOString();
 const tmp = mkdtempSync(join(tmpdir(), 'roblox-regression-'));
 process.env.STATE_FILE = join(tmp, 'state.json');
 process.env.ALERTS_FILE = join(tmp, 'alerts.json');
+// Part 0.1 的四个事件/状态文件也必须隔离——2026-07-13 教训：漏了这四个，fixture 事件写进生产
+// state/ 并抢先完成了假 bootstrap，当晚真实 cron 首轮把全部在榜老游戏误记成 first_seen。
+// 任何 import monitor.mjs 的测试都要带上这一组覆盖。
+process.env.DISCOVERY_EVENTS_FILE = join(tmp, 'discovery-events.jsonl');
+process.env.GATE_EVENTS_FILE = join(tmp, 'gate-events.jsonl');
+process.env.DISCOVERY_RUNS_FILE = join(tmp, 'discovery-source-runs.jsonl');
+process.env.DISCOVERY_BOOTSTRAP_FILE = join(tmp, 'discovery-bootstrap.json');
 process.env.RETRIES = '0';
 process.env.TIMEOUT_MS = '2000';
 

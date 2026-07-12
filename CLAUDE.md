@@ -186,13 +186,29 @@ additive — it does not read back into gate/verdict computation, only decides w
   which would otherwise leave no trace to mark it bootstrapped and re-trigger bogus rebootstrapping
   forever. `everSeenSourceKeys`/`everGatedKeys` (the actual dedup sets) are rebuilt fresh from the
   event log every run instead of trusted from a snapshot, so a mid-write crash can't desync them.
+- **Pool completeness (2026-07-13 fix):** completing gate-layer bootstrap additionally requires the
+  target pool itself to have been complete that run — every sort call AND every watchlist resolution
+  succeeded — not just a fully-ok games-batch. A failed sort's exclusive games aren't in the pool at
+  all, so a gate baseline built without them would misread them as `gate_first_seen` once the sort
+  recovers (same left-censoring class the per-sortId bootstrap prevents, one failure domain upstream).
+  Post-bootstrap runs skip this check: an incomplete pool only delays events, it can't fabricate them.
+- **Test isolation (2026-07-13 lesson):** ANY test that imports `monitor.mjs` MUST override all four
+  Part 0.1 env vars (`DISCOVERY_EVENTS_FILE`/`GATE_EVENTS_FILE`/`DISCOVERY_RUNS_FILE`/
+  `DISCOVERY_BOOTSTRAP_FILE`), not just `STATE_FILE`/`ALERTS_FILE`. `test-regression.mjs` originally
+  missed these: its fixtures wrote into production `state/`, falsely completed bootstrap, and the
+  next real cron run recorded ~34 pre-existing charted games as `source_first_seen` (+15
+  `gate_first_seen`) — exactly the left-censor pollution this design exists to prevent, caused by
+  test leakage rather than API failure. The four production event/state files were reset once on
+  2026-07-13 to re-bootstrap cleanly; event history before that reset is void.
 - **Test:** `test-discovery-events-regression.mjs` — offline, stubbed `fetch`, covers cold-start
   baseline suppression, a combined-failure bootstrap (one sortId ok / one down / games-batch partial,
   recovering next round), TTL-delete-then-reappear (one `source_first_seen`, not two), cross-sort
-  first-seen (same game, two sortIds, two independent events), and a total games-batch outage
-  (`source_first_seen` unaffected, `gate_first_seen` deferred to the recovery run). `test-regression.mjs`
-  (gate/verdict logic) continues to pass unchanged — this layer never altered `alerts.json`/
-  `monitor-state.json` output.
+  first-seen (same game, two sortIds, two independent events), a total games-batch outage
+  (`source_first_seen` unaffected, `gate_first_seen` deferred to the recovery run), and
+  pool-incomplete bootstrap deferral (sort down while games-batch is ok → gate bootstrap waits;
+  the recovered sort's exclusive games get `gate_baseline`, not `gate_first_seen`).
+  `test-regression.mjs` (gate/verdict logic) continues to pass unchanged — this layer never altered
+  `alerts.json`/`monitor-state.json` output.
 
 ## Guide-sites codes/wiki radar (BUILT, 2026-07-13 — Part A of indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md)
 **Purpose:** watch whether third-party codes/wiki sites have already started publishing "codes for
