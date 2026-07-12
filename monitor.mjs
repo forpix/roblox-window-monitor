@@ -2,7 +2,7 @@
 // Roblox EMD land-grab window monitor. Watchlist-only, zero-dep, Node 20+, ESM.
 // For each watched game: pull CCU -> volume gate -> RDAP domain window gate -> verdict.
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, appendFileSync, mkdirSync, existsSync } from 'node:fs';
 import { dirname } from 'node:path';
 
 // ---- thresholds (every one overridable by env var of the same name) ----
@@ -25,6 +25,14 @@ const RETRIES              = num('RETRIES', 2);
 
 const STATE_FILE  = process.env.STATE_FILE  || 'state/monitor-state.json';
 const ALERTS_FILE = process.env.ALERTS_FILE || 'state/alerts.json';
+
+// ---- Part 0.1 (indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md) ----
+// append-only discovery/gate event log + per-sourceKey run health, additive only —
+// never read back to change gate/verdict computation, only to decide what to log.
+const DISCOVERY_EVENTS_FILE    = process.env.DISCOVERY_EVENTS_FILE    || 'state/discovery-events.jsonl';
+const GATE_EVENTS_FILE         = process.env.GATE_EVENTS_FILE         || 'state/gate-events.jsonl';
+const DISCOVERY_RUNS_FILE      = process.env.DISCOVERY_RUNS_FILE      || 'state/discovery-source-runs.jsonl';
+const DISCOVERY_BOOTSTRAP_FILE = process.env.DISCOVERY_BOOTSTRAP_FILE || 'state/discovery-bootstrap.json';
 
 // ---- discovery (v2): pull candidate games from Roblox charts, no watchlist needed ----
 const DISCOVER            = process.env.DISCOVER !== '0'; // set DISCOVER=0 for watchlist-only
@@ -95,35 +103,92 @@ async function getGames(universeIds) {
 }
 
 // same, chunked at 100 (the batch endpoint caps the id list)
+// -> { games, failedChunks, totalChunks } — caller uses the counts for the games-batch health record
 async function getGamesChunked(universeIds) {
   const out = [];
+  const totalChunks = Math.ceil(universeIds.length / 100);
+  let failedChunks = 0;
   for (let i = 0; i < universeIds.length; i += 100) {
     try { out.push(...await getGames(universeIds.slice(i, i + 100))); }
     catch (e) {
       if (e instanceof BlockedError) apiBlocked = true;
       console.warn(`[warn] CCU batch chunk@${i} failed: ${e.message}`);
+      failedChunks++;
     }
   }
-  return out;
+  return { games: out, failedChunks, totalChunks };
 }
 
 // pull Roblox explore-api charts -> [{ universeId, placeId, name, ccuHint }] (Roblox-only, no key)
+//
+// Part 0.1: also writes, per sortId, one line to DISCOVERY_RUNS_FILE (ok/error health) and — only
+// on a successful call — either `source_baseline` (that sortId's bootstrap not done yet: baseline
+// everything seen this run, leftCensored, then it's bootstrapped from here on) or `source_first_seen`
+// (bootstrap already done: only (universeId,sortId) combos not in everSeenSourceKeys) to
+// DISCOVERY_EVENTS_FILE. A failed call writes only the health line — no baseline/first_seen — so a
+// down sortId never gets misread as "genuinely nothing new", and its bootstrap waits for whichever
+// later run it actually first succeeds on (bootstrap status is per-sortId, not a global flag — see brief).
 async function discover() {
-  const out = new Map();
+  const discoveredMap = new Map();
   for (const sortId of DISCOVERY_SORTS) {
+    const sourceKey = `explore-sort:${sortId}`;
+    const startedAt = new Date().toISOString();
+    let games = [];
+    let ok = true;
+    let errMsg = null;
     try {
       const j = await getJson(`https://apis.roblox.com/explore-api/v1/get-sort-content?sessionId=${SESSION_ID}&sortId=${sortId}`);
-      for (const g of j.games || []) {
-        if ((g.playerCount ?? 0) < DISCOVERY_CCU_MIN) continue;
-        if (!out.has(g.universeId))
-          out.set(g.universeId, { universeId: g.universeId, placeId: g.rootPlaceId, name: g.name, ccuHint: g.playerCount });
-      }
+      games = j.games || [];
     } catch (e) {
       if (e instanceof BlockedError) apiBlocked = true;
       console.warn(`[warn] discovery sort '${sortId}' failed: ${e.message}`);
+      ok = false;
+      errMsg = e.message;
+    }
+    const finishedAt = new Date().toISOString();
+    const eligible = games.filter(g => (g.playerCount ?? 0) >= DISCOVERY_CCU_MIN);
+
+    appendFileMkdir(DISCOVERY_RUNS_FILE, JSON.stringify({
+      runId: RUN_ID, sourceKey, scheduledAt: startedAt, startedAt, finishedAt,
+      status: ok ? 'ok' : 'error', fetchedCount: games.length, eligibleCount: eligible.length,
+      error: ok ? null : errMsg,
+    }) + '\n');
+
+    if (ok) {
+      if (!bootstrapState.sources[sortId]?.bootstrapped) {
+        for (const g of eligible) {
+          appendFileMkdir(DISCOVERY_EVENTS_FILE, JSON.stringify({
+            eventType: 'source_baseline', leftCensored: true, observedAt: finishedAt,
+            source: 'explore-api', sortId, universeId: g.universeId, placeId: g.rootPlaceId, ccuHint: g.playerCount,
+          }) + '\n');
+          everSeenSourceKeys.add(`${g.universeId}|${sortId}`);
+        }
+        // persist immediately, even when `eligible` was empty — a genuinely-empty successful
+        // observation still completes bootstrap; inferring "bootstrapped" from baseline-event
+        // presence alone would leave this sortId stuck re-bootstrapping forever after an empty run.
+        bootstrapState.sources[sortId] = { bootstrapped: true, bootstrappedAt: finishedAt };
+        writeFileMkdir(DISCOVERY_BOOTSTRAP_FILE, JSON.stringify(bootstrapState, null, 2));
+      } else {
+        for (const g of eligible) {
+          const skey = `${g.universeId}|${sortId}`;
+          if (everSeenSourceKeys.has(skey)) continue;
+          everSeenSourceKeys.add(skey);
+          appendFileMkdir(DISCOVERY_EVENTS_FILE, JSON.stringify({
+            eventType: 'source_first_seen', observedAt: finishedAt,
+            source: 'explore-api', sortId, universeId: g.universeId, placeId: g.rootPlaceId, ccuHint: g.playerCount,
+          }) + '\n');
+        }
+      }
+    }
+
+    // target-pool merge: unchanged from pre-Part-0.1 behavior — first sortId (in DISCOVERY_SORTS
+    // order) to see a universeId wins, regardless of health/bootstrap state above.
+    for (const g of eligible) {
+      if (!discoveredMap.has(g.universeId))
+        discoveredMap.set(g.universeId, { universeId: g.universeId, placeId: g.rootPlaceId, name: g.name, ccuHint: g.playerCount });
     }
   }
-  return [...out.values()];
+  return [...discoveredMap.values()];
 }
 
 // ---- RDAP ----
@@ -236,6 +301,28 @@ function writeFileMkdir(file, data) {
   if (dir && !existsSync(dir)) mkdirSync(dir, { recursive: true });
   writeFileSync(file, data);
 }
+function appendFileMkdir(file, line) {
+  const dir = dirname(file);
+  if (dir && !existsSync(dir)) mkdirSync(dir, { recursive: true });
+  appendFileSync(file, line);
+}
+
+// Part 0.1: rebuild everSeen/bootstrapped state from the event log itself every run, instead of
+// trusting a separate snapshot file that could desync from it on a mid-write crash (see brief's
+// "non-blocking implementation reminder"). Malformed lines are skipped, not fatal.
+function readJsonlKeys(file, keyFn) {
+  const out = new Set();
+  let text;
+  try { text = readFileSync(file, 'utf8'); } catch { return out; }
+  for (const line of text.split('\n')) {
+    if (!line.trim()) continue;
+    try {
+      const k = keyFn(JSON.parse(line));
+      if (k) out.add(k);
+    } catch { /* skip malformed line */ }
+  }
+  return out;
+}
 
 // discovered names are decorated ("Brand: subtitle", emoji, [event tags]) — extract the core-brand slug
 function deriveSlug(name) {
@@ -246,6 +333,28 @@ function deriveSlug(name) {
 // ---- main ----
 const state = loadState();
 const now = Date.now();
+const RUN_ID = new Date(now).toISOString();
+
+// Part 0.1: bootstrap status is per-sourceKey (per sortId; one combined flag for the whole gate
+// layer) and lives in its own persisted file (DISCOVERY_BOOTSTRAP_FILE), NOT inferred from
+// whether a baseline event happens to exist in the log — a sortId/gate-layer's first successful
+// observation can legitimately be empty (nothing eligible/gated yet), which would leave no
+// baseline-event trace to infer "bootstrapped" from, and re-trigger a bogus re-bootstrap next run.
+// everSeen*Keys stay purely log-derived (rebuilt fresh every run — see brief's non-blocking
+// implementation reminder — since that set only needs to grow monotonically with what was
+// actually observed, unlike the bootstrap flag which must also cover observed-but-empty runs).
+function loadBootstrapState() {
+  try {
+    const j = JSON.parse(readFileSync(DISCOVERY_BOOTSTRAP_FILE, 'utf8'));
+    return { sources: j.sources || {}, gate: j.gate || { bootstrapped: false } };
+  } catch { return { sources: {}, gate: { bootstrapped: false } }; }
+}
+const bootstrapState = loadBootstrapState();
+
+const everSeenSourceKeys = readJsonlKeys(DISCOVERY_EVENTS_FILE, e =>
+  (e.eventType === 'source_baseline' || e.eventType === 'source_first_seen') ? `${e.universeId}|${e.sortId}` : null);
+const everGatedKeys = readJsonlKeys(GATE_EVENTS_FILE, e =>
+  (e.eventType === 'gate_baseline' || e.eventType === 'gate_first_seen') ? `${e.universeId}|${e.gate}` : null);
 
 // build target set: pinned watchlist (placeId -> universeId) + discovered charts
 const watchKeys = new Set(WATCHLIST.map(w => String(w.placeId)));
@@ -271,8 +380,23 @@ const targetList = [...targets.values()];
 const pinnedCount = targetList.filter(t => t.source === 'watch').length;
 
 // one CCU/age batch for the whole pool
-const games = await getGamesChunked(targetList.map(t => t.universeId));
+const gamesStartedAt = new Date().toISOString();
+const { games, failedChunks, totalChunks } = await getGamesChunked(targetList.map(t => t.universeId));
+const gamesFinishedAt = new Date().toISOString();
 const byUniverse = new Map(games.map(g => [g.id, g]));
+
+// Part 0.1: games-batch health, and the games-batch/gate half of the gate bootstrap gate (see
+// discover() above for the sort-API half). `ok` requires EVERY chunk to have succeeded — a
+// partial batch must not complete gate-layer bootstrap, and (conservatively, matching the brief's
+// games-API-failure test) must not produce gate_first_seen either; those targets' gate events
+// simply wait for the next run where the whole batch succeeds.
+const gamesStatus = failedChunks === 0 ? 'ok' : failedChunks === totalChunks ? 'error' : 'partial';
+appendFileMkdir(DISCOVERY_RUNS_FILE, JSON.stringify({
+  runId: RUN_ID, sourceKey: 'games-batch', scheduledAt: gamesStartedAt, startedAt: gamesStartedAt, finishedAt: gamesFinishedAt,
+  status: gamesStatus, fetchedCount: games.length, eligibleCount: targetList.length,
+  error: gamesStatus === 'ok' ? null : `${failedChunks}/${totalChunks} chunks failed`,
+}) + '\n');
+const gateHits = []; // { universeId, gate, playing, ageDays } collected in the per-target loop below
 
 // gate C prefetch: one {slug}.com check per game, batched (serial would stall on timeouts).
 // A fresh registration is the "someone is grabbing this brand right now" signal — CCU gates
@@ -324,6 +448,12 @@ for (const t of targetList) {
     // our first-seen beat their registration in 3 of 4 live races). Fire BEFORE anyone registers.
     const gateD = ageDays <= GATE_D_MAX_AGE_DAYS && playing >= GATE_D_CCU_MIN;
 
+    // Part 0.1: record which gate(s) fired for gate-event logging below (independent of the
+    // display-only 'gate' column further down, which only shows the first match by priority).
+    const roundedAgeDays = Number(ageDays.toFixed(1));
+    for (const [flag, letter] of [[gateA, 'A'], [gateB, 'B'], [gateC, 'C'], [gateD, 'D']])
+      if (flag) gateHits.push({ universeId: t.universeId, gate: letter, playing, ageDays: roundedAgeDays });
+
     let verdict = 'QUIET';
     let detail = '';
     if (gateA || gateB || gateC || gateD) {
@@ -366,6 +496,34 @@ for (const t of targetList) {
     if (gateA || gateB || gateC || gateD) candidates.push(row);
   } catch (err) {
     console.warn(`[warn] game failed placeId=${t.placeId}: ${err.message}`);
+  }
+}
+
+// Part 0.1: gate_baseline / gate_first_seen — only on a fully-'ok' games-batch run (see comment
+// at gamesStatus above). Bootstrap is one flag for the whole gate layer, not per-letter: the
+// first fully-ok run baselines every currently-gated (universeId,gate) combo at once.
+if (gamesStatus === 'ok') {
+  if (!bootstrapState.gate.bootstrapped) {
+    for (const h of gateHits) {
+      appendFileMkdir(GATE_EVENTS_FILE, JSON.stringify({
+        eventType: 'gate_baseline', leftCensored: true, observedAt: gamesFinishedAt,
+        universeId: h.universeId, gate: h.gate, playing: h.playing, ageDays: h.ageDays,
+      }) + '\n');
+    }
+    // persist immediately, even when gateHits was empty this run — see the identical rationale
+    // on the source-layer bootstrap above.
+    bootstrapState.gate = { bootstrapped: true, bootstrappedAt: gamesFinishedAt };
+    writeFileMkdir(DISCOVERY_BOOTSTRAP_FILE, JSON.stringify(bootstrapState, null, 2));
+  } else {
+    for (const h of gateHits) {
+      const gkey = `${h.universeId}|${h.gate}`;
+      if (everGatedKeys.has(gkey)) continue;
+      everGatedKeys.add(gkey);
+      appendFileMkdir(GATE_EVENTS_FILE, JSON.stringify({
+        eventType: 'gate_first_seen', observedAt: gamesFinishedAt,
+        universeId: h.universeId, gate: h.gate, playing: h.playing, ageDays: h.ageDays,
+      }) + '\n');
+    }
   }
 }
 

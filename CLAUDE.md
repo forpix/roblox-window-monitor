@@ -121,5 +121,39 @@ signal — needs several weeks of accumulated history before drawing conclusions
 - **Test:** `test-sitemap-regression.mjs` — offline, stubbed `fetch`, asserts cold-start
   suppression + diff/enrichment correctness. `node test-sitemap-regression.mjs`.
 
+## Discovery/gate event log (BUILT, 2026-07-13 — Part 0.1 of indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md)
+**Purpose:** `state[key]` only has `lastSeen`/`lastVerdict` — discovered (non-pinned) games older than
+`DISCOVERY_TTL_HOURS` get deleted outright, so there was no durable "explore-api first saw this at
+HH:MM" / "gate D first fired at HH:MM" record. That cross-project "who found it first" comparison
+(sitemap vs A-class guide sites vs explore-api vs gate thresholds) needs one. This layer is purely
+additive — it does not read back into gate/verdict computation, only decides what to log.
+
+- **Files:** `state/discovery-events.jsonl` (`source_first_seen`, written the instant a sortId's own
+  `get-sort-content` call succeeds — does not wait on the games-batch call), `state/gate-events.jsonl`
+  (`gate_first_seen`, written after the games-batch call + gate computation succeeds), both dedup'd
+  forever (`source_first_seen` by `(universeId,sortId)`, `gate_first_seen` by `(universeId,gate letter)`
+  — independent of the unrelated `DISCOVERY_TTL_HOURS` prune of `state`, so a TTL'd-then-reappearing
+  game does NOT get a second first_seen). `state/discovery-source-runs.jsonl` — per-run health
+  (`ok`/`partial`/`error`) for `explore-sort:{sortId}` and `games-batch` separately (games-batch is
+  `partial` when some but not all 100-id chunks failed, `error` when all did).
+- **Cold-start baseline:** first-ever pre-existing games must not read as "discovered today". Each
+  sortId writes `source_baseline` (`leftCensored:true`) instead of `source_first_seen` on its own
+  first successful call (whatever round that turns out to be); the gate layer likewise writes
+  `gate_baseline` on the first games-batch run where **every** chunk succeeds (a partial run must not
+  complete gate bootstrap, even for the targets that did come back clean — see brief for the "why").
+  Bootstrap completion is tracked in `state/discovery-bootstrap.json`, one flag per sortId + one for
+  the whole gate layer — **not** inferred from whether any baseline event exists in the log, because a
+  sortId's first successful call can legitimately return zero eligible games (nothing to baseline),
+  which would otherwise leave no trace to mark it bootstrapped and re-trigger bogus rebootstrapping
+  forever. `everSeenSourceKeys`/`everGatedKeys` (the actual dedup sets) are rebuilt fresh from the
+  event log every run instead of trusted from a snapshot, so a mid-write crash can't desync them.
+- **Test:** `test-discovery-events-regression.mjs` — offline, stubbed `fetch`, covers cold-start
+  baseline suppression, a combined-failure bootstrap (one sortId ok / one down / games-batch partial,
+  recovering next round), TTL-delete-then-reappear (one `source_first_seen`, not two), cross-sort
+  first-seen (same game, two sortIds, two independent events), and a total games-batch outage
+  (`source_first_seen` unaffected, `gate_first_seen` deferred to the recovery run). `test-regression.mjs`
+  (gate/verdict logic) continues to pass unchanged — this layer never altered `alerts.json`/
+  `monitor-state.json` output.
+
 ## v3 ideas (NOT built)
 Smarter slug/brand extraction; per-source gate thresholds; instant alerting (current email latency = up to 4h, bounded by the local cron; would need cloud email + a GitHub Secret); gate C extensions — `{slug}.wiki` freshness as a forward scout (VD case: .wiki registered 6d before .com, would turn gate C into a first-mover signal; costs +1 rdap.org call/game) and promoting the print-only free-.com list to email once its noise level is known.
