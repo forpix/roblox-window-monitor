@@ -85,5 +85,41 @@ Detection (cloud Actions) and notification (local) are separate, so the cloud re
 - **`com.yy.roblox-window-monitor.plist`**: launchd LaunchAgent, runs `alert.py` hourly (StartCalendarInterval Minute=0; was 4h — gate D races are hour-scale) on the always-on Mac mini. Committed with placeholder `GM_SMTP_*`; real creds live only in the installed copy under `~/Library/LaunchAgents` (mirror them from `com.yy.game-monitor.plist`). Activate: `cp` to `~/Library/LaunchAgents/` + `launchctl load`.
 - Emails GREEN+YELLOW only; RED/CHECK are not sent.
 
+## Sitemap discovery radar (BUILT, 2026-07-12 — exploratory, not wired into gates yet)
+**Purpose:** test whether Roblox's own SEO sitemap surfaces new games earlier than the
+explore-api charts do (which have a known blind spot: youngest charted ≈ 24d, nothing
+under 7d — see v2 discovery above). This is a **hypothesis under test**, not a confirmed
+signal — needs several weeks of accumulated history before drawing conclusions.
+
+- **Source:** `https://www.roblox.com/sitemap-games.xml` (declared in `robots.txt`, Roblox's
+  own resource — still "Roblox only", no third-party site added). It's a sitemap **index**
+  with 10 shards (`sitemap-games-N.xml`), ~1000 URLs each, ~10,000 games total. **No `lastmod`
+  field** — can't tell when an entry was added, only whether it's currently present. Sampled
+  ordering mixes very-old and very-new placeIds — this looks like Roblox's own internal
+  "worth indexing" quality/relevance score, **not** a chronological or full dump (Roblox has
+  tens of millions of games; this sitemap is a curated ~10k).
+- **`sitemap-monitor.mjs`:** fetch all 10 shards → parse `{placeId, slug}` from each `<loc>`
+  → diff against `state/sitemap-known.json`'s previous placeId set → newly-appeared placeIds
+  get enriched (universeId → CCU/age via the same Roblox games API `monitor.mjs` uses) and
+  appended to `state/sitemap-newly-seen.jsonl` (append-only, one JSON object per line: `seenAt,
+  placeId, slug, universeId, name, playing, createdAt, ageDaysAtDiscovery`). **Cold start
+  (no prior `sitemap-known.json`) only establishes the baseline and reports 0 new** — "the
+  first run says everything is new" carries no information, so it's suppressed by design.
+- **Known open question / risk:** since the sitemap looks rank-cutoff-based rather than a
+  stable membership list, games may churn in/out of the top-~10k across polls even when the
+  underlying "genuinely new game" rate is low — expect some noise in the newly-seen log,
+  especially in the first weeks. Don't treat every "new" entry as a fresh game without
+  checking `ageDaysAtDiscovery`.
+- **Not yet done:** cross-referencing `sitemap-newly-seen.jsonl` timestamps against
+  `monitor-state.json`'s own discovery/gate timestamps to actually answer "did sitemap beat
+  explore-api on any of these" — needs enough accumulated history first. Not wired into
+  gate A–D or `alert.py`; this is a pure data-collection component for now.
+- **Deployment:** `.github/workflows/sitemap-monitor.yml`, real `schedule: cron` (every 6h,
+  offset from `monitor.yml`'s :15/:45) — unlike gate D, this is a day-scale question, so
+  GitHub's cron throttling (which forced `monitor.yml` back to local launchd) is a non-issue
+  here; no need to run this on the Mac mini.
+- **Test:** `test-sitemap-regression.mjs` — offline, stubbed `fetch`, asserts cold-start
+  suppression + diff/enrichment correctness. `node test-sitemap-regression.mjs`.
+
 ## v3 ideas (NOT built)
 Smarter slug/brand extraction; per-source gate thresholds; instant alerting (current email latency = up to 4h, bounded by the local cron; would need cloud email + a GitHub Secret); gate C extensions — `{slug}.wiki` freshness as a forward scout (VD case: .wiki registered 6d before .com, would turn gate C into a first-mover signal; costs +1 rdap.org call/game) and promoting the print-only free-.com list to email once its noise level is known.

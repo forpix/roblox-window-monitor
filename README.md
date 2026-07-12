@@ -115,6 +115,17 @@ launchctl load ~/Library/LaunchAgents/com.yy.roblox-window-monitor.plist
 
 Real credentials live only in the installed copy under `~/Library/LaunchAgents` — the committed plist has placeholders. Emails GREEN+YELLOW only.
 
+## Sitemap discovery radar (exploratory, 2026-07-12)
+
+A second, independent script — `sitemap-monitor.mjs` — tests a hypothesis: does Roblox's own SEO sitemap (`sitemap-games.xml`, ~10,000 curated game URLs across 10 shards, declared in `robots.txt`) surface new games *earlier* than the `explore-api` charts do? The charts have a known blind spot (youngest charted ≈ 24 days, nothing under 7 days — see Discovery above); the sitemap isn't bound by that same algorithm, so it might catch games in that gap.
+
+```sh
+node sitemap-monitor.mjs      # first run: establishes baseline, reports 0 new (by design)
+node sitemap-monitor.mjs      # subsequent runs: diffs against the baseline, enriches new entries with CCU/age
+```
+
+This is **not yet wired into the GREEN/YELLOW/RED gates** — it's a standalone data-collection component. It needs several weeks of accumulated history in `state/sitemap-newly-seen.jsonl` before anyone can answer whether it actually beats chart discovery. Runs on its own GitHub Actions schedule (`sitemap-monitor.yml`, every 6h) since — unlike gate D — this is a day-scale question, so cron throttling doesn't matter here. See `CLAUDE.md` for the full data-shape contract and known caveats (no `lastmod` field, possible rank-cutoff churn noise).
+
 ## Scope
 
-Roblox only — including discovery (v2 uses Roblox's own explore-api charts; no third-party sources, no keys). Email alerting is local-only (no cloud secrets).
+Roblox only — including discovery (v2 uses Roblox's own explore-api charts; sitemap radar uses Roblox's own sitemap; no third-party sources, no keys). Email alerting is local-only (no cloud secrets).

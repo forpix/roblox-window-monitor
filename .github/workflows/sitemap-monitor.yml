@@ -1,0 +1,37 @@
+name: sitemap-monitor
+
+# 不像 monitor.yml（gate D 小时级赛跑，被 GitHub cron 节流到 ~5h 逼得退回本地 launchd）——
+# 这条线是天级现象（验证 sitemap 收录是否比 explore-api 图表更早发现新游戏），
+# GitHub 免费 cron 的节流延迟完全可以接受，不需要退回本地。
+on:
+  schedule:
+    - cron: '20 */6 * * *'   # 每 6 小时一次，错开 monitor 的 :15/:45
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sitemap-monitor
+  cancel-in-progress: false
+
+jobs:
+  sitemap-monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: node sitemap-monitor.mjs
+      - name: Commit state if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/sitemap-known.json state/sitemap-newly-seen.jsonl
+          if git diff --cached --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "chore: update sitemap-monitor state [skip ci]"
+            git push
+          fi
