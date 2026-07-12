@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Local guide-sitemap-monitor agent (Part A, indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md):
+     runs guide-sitemap-monitor.mjs every 2h from the Mac mini (residential IP), commits state/ back.
+     Local-only by design (not GitHub Actions) — TryHardGuides/Beebom/Dexerto are media sites more
+     sensitive to datacenter IPs than Roblox's own APIs (TryHardGuides already 429'd once).
+     StartCalendarInterval = missed runs coalesce into one catch-up run on wake; RunAtLoad covers reboots.
+     Shares run-monitor.sh's file lock (/tmp/roblox-window-monitor.runlock) so the two runners never
+     touch state/ at the same time. No secrets — install verbatim:
+       cp com.yy.roblox-window-monitor.guide.plist ~/Library/LaunchAgents/
+       launchctl load ~/Library/LaunchAgents/com.yy.roblox-window-monitor.guide.plist
+     NOT installed/activated by this commit — activation is a manual, deliberate step. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.yy.roblox-window-monitor.guide</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/sh</string>
+    <string>/Users/yy/projects/roblox-window-monitor/run-guide-monitor.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/yy/projects/roblox-window-monitor</string>
+
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>0</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>2</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>4</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>6</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>8</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>10</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>12</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>14</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>16</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>18</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>20</integer></dict>
+    <dict><key>Minute</key><integer>0</integer><key>Hour</key><integer>22</integer></dict>
+  </array>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/yy/Library/Logs/roblox-window-monitor.guide.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/yy/Library/Logs/roblox-window-monitor.guide.log</string>
+</dict>
+</plist>

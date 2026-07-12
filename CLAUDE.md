@@ -3,7 +3,13 @@
 **Purpose (1 line):** cron-able Node script that, for a watchlist of Roblox games, pulls CCU → volume gate → RDAP domain "window gate" → emits GREEN/YELLOW/RED/CHECK telling me whether the EMD land-grab window is still open. Free on GitHub Actions, no keys.
 
 ## Hard scope / non-goals (do NOT do these)
-- **Roblox only.** Do not add non-Roblox sources.
+- **Roblox only.** Do not add non-Roblox sources. **Carve-out (2026-07-13, Part A of
+  `indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md`):** `guide-sitemap-monitor.mjs`
+  deliberately watches three third-party Roblox-codes sites (TryHardGuides/Beebom/Dexerto) — allowed
+  because it's a pure side-channel reference signal, wired into nothing (`monitor.mjs`'s gate
+  computation and `state/alerts.json` are untouched), same discipline as S6's `sitemap-monitor.mjs`
+  being a separate exploratory collector. `monitor.mjs` itself still adds zero non-Roblox sources —
+  that constraint stands for the core gate script. See "Guide-sites codes/wiki radar" below.
 - **Roblox-only sources, incl. discovery.** v1 was watchlist-only; **v2 (BUILT) adds chart discovery via Roblox explore-api** — still no third-party sources, no keys. See "v2 discovery" below.
 - **Zero npm dependencies.** Node 20, global `fetch`, ESM (`.mjs`). No `package.json` required.
 - **No secrets** (Roblox + RDAP need none). If a keyed source is ever added, use GitHub Secrets — but not now.
@@ -50,6 +56,11 @@ Per game, `ageDays = now - created`:
 ## Plan of record (how this was deployed)
 - **Primary = local launchd on the Mac mini** (since 2026-07-06). GitHub Actions wasn't IP-blocked, but GitHub throttled the `15,45 * * * *` cron to ~5h gaps — unusable for hour-scale gate D races. `run-monitor.sh` (git pull --rebase → `SPIKE_PCT=100 node monitor.mjs` → commit+push `state/`) driven by `com.yy.roblox-window-monitor.monitor.plist` at :15/:45, `StartCalendarInterval` (missed runs coalesce into one catch-up on wake; Mac mini is `pmset sleep 0` anyway) + `RunAtLoad` (covers reboots). Logs → `~/Library/Logs/roblox-window-monitor.monitor.log`. Push auth = local git creds (user forpix-mini). Install: `cp` plist to `~/Library/LaunchAgents/` + `launchctl load` (no secrets in it).
 - **Fallback = manual `workflow_dispatch`** of `monitor.yml` (schedule removed, job kept intact) if the mini is down.
+- **File lock (2026-07-13, added alongside guide-sitemap-monitor.mjs):** `run-monitor.sh` now acquires
+  an mkdir-based lock (`/tmp/roblox-window-monitor.runlock`, stale after 600s, gives up after 30×2s
+  tries and skips the run rather than hanging) before touching `state/` — `run-guide-monitor.sh` uses
+  the identical `LOCK_DIR`, so the two local runners never race on the same `state/` commit. No
+  `flock` dependency (macOS doesn't ship it); mkdir is atomic on all POSIX filesystems.
 
 ## Workflow (.github/workflows/monitor.yml)
 - `on: workflow_dispatch:` only (schedule removed 2026-07-06, see plan of record).
@@ -182,6 +193,130 @@ additive — it does not read back into gate/verdict computation, only decides w
   (`source_first_seen` unaffected, `gate_first_seen` deferred to the recovery run). `test-regression.mjs`
   (gate/verdict logic) continues to pass unchanged — this layer never altered `alerts.json`/
   `monitor-state.json` output.
+
+## Guide-sites codes/wiki radar (BUILT, 2026-07-13 — Part A of indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md)
+**Purpose:** watch whether third-party codes/wiki sites have already started publishing "codes for
+Game X" articles — that's evidence a competitor noticed the game, and it's a much stronger signal
+than any Roblox-internal chart (a real editor spent real time writing a page). Pure reference signal
+for a later cross-project "who found it first" comparison (Part C, a separate `builder-tools` script)
+— **not wired into gate A-D or `alerts.json`**, same discipline as the sitemap discovery radar above.
+
+- **Script:** `guide-sitemap-monitor.mjs`, self-contained (zero shared imports with `monitor.mjs`/
+  `sitemap-monitor.mjs` by design — duplication across the three `.mjs` files is intentional per this
+  project's zero-npm-deps convention). Reuses `monitor.mjs`'s exact `httpFetch`/jittered-backoff/
+  `BlockedError`/browser-ish `HEADERS` pattern.
+- **Sites (07-13 live-verified — brief's 07-12 numbers had already drifted by one day; don't trust
+  either set blindly, re-verify before relying on shard counts):**
+  - **TryHardGuides** (`tryhardguides.com/sitemap_index.xml`) — weekly shards
+    (`post-sitemap-YYYY-W.xml`), 266 of them live (not spot-checked against brief, just confirmed the
+    pattern + index-level lastmod still hold), plus 6 non-post shards (`page-sitemap1.xml`,
+    `web-story-sitemap1.xml`, `fortnite-db-sitemap1.xml`, `author-sitemap.xml`, `category-sitemap.xml`,
+    `news-sitemap.xml`) filtered out by URL pattern.
+  - **Beebom** (`beebom.com/sitemap_index.xml`) — **real count is 50 numbered `post-sitemapN.xml`
+    shards (+ unnumbered `post-sitemap.xml` = shard "1"), not the 55 the brief cited** — the index
+    also lists 4 non-post shards (`page-sitemap.xml`, `category-sitemap.xml`, `post_tag-sitemap.xml`,
+    `author-sitemap.xml`) that must be filtered out (`/post-sitemap\d*\.xml$`, which does NOT match
+    `post_tag-sitemap.xml` since the literal substring differs). Confirmed live: shard number ≠
+    chronological order (`post-sitemap.xml`, i.e. "shard 1", contains 2016-era tech articles, not the
+    newest content) — every run reads all shards' index-level lastmod and refetches whichever changed,
+    picking by lastmod-diff only; a log-only warning fires if the shard with the latest lastmod isn't
+    the highest-numbered one. **Live surprise (07-13):** the index-level lastmod for `post-sitemap.xml`
+    and `post-sitemap50.xml` were identical to the second despite `post-sitemap.xml`'s actual entries
+    being untouched since 2016 — looks like a whole-index regeneration event stamps every currently
+    active shard's lastmod, not just the ones whose content changed. Harmless for correctness (new-vs-
+    not is decided by the URL ever-seen set, never by lastmod — see below) but means Beebom may cause
+    more redundant refetches than TryHardGuides/Dexerto; worth watching if it turns out to happen every
+    run rather than as a one-off.
+  - **Dexerto** (`dexerto.com`) — monthly shards via `?year=YYYY&month=M` (149 months back to 2018-04
+    at index level, confirmed live). **The top-level index carries no lastmod at all** (07-13 finding,
+    brief didn't mention this) — Dexerto's collector never fetches the index for shard-selection at
+    all, it constructs current-month + previous-month URLs directly from the clock and always refetches
+    both every run (index-level lastmod isn't in the decision path for this site). Entry-level lastmod
+    inside each month shard does exist and is used for `updated` detection like the other two sites.
+    **Live finding on the A.3 "articles link the game directly" assumption:** true for TryHardGuides and
+    Beebom (both commonly embed a `roblox.com/games/{placeId}` link), but spot-checked 4 Dexerto codes
+    articles and only 1 of 4 had the link — Dexerto codes pages more often just don't link the game
+    page, so expect a much higher `name_only`/`failed` rate from Dexerto than from the other two.
+- **Article filter:** URL must match `/roblox/i` AND `/(codes|wiki)/i` — all three sites mix in large
+  amounts of unrelated content (TryHardGuides has wordle/crossword pages, Beebom is a general tech
+  site, Dexerto is a general gaming/entertainment news site); this narrows to actual "codes for a
+  specific game" articles and excludes generic Roblox news (e.g. a Dexerto "Roblox × Rolling Stones
+  collab" story, which mentions Roblox but isn't a codes page for one game).
+- **Universal principle (brief Part 0.3, same rule S6 already follows):** `lastmod` only decides
+  *which shard to refetch this round* — it NEVER decides "is this a new page". "New" is always: is
+  this URL in the site's permanent ever-seen set or not. A URL whose lastmod changed but is already in
+  ever-seen produces an `updated` event (informational), not `first_seen` — an editor swapping a
+  redeem code in an old article must never look like a new page.
+- **Cold-start baseline suppression is per-shard, not per-site** (`bootstrappedShards` inside each
+  site's known-state file) — identical reasoning to `monitor.mjs`'s `discovery-bootstrap.json`: if
+  shard N fails on a site's very first run while every other shard succeeds, shard N's bootstrap stays
+  pending — its `childLastmods`/`bootstrappedShards` entries are simply never written on a failed
+  fetch — until whichever later run actually fetches it successfully; THAT run baselines shard N's
+  URLs (`eventType: 'baseline'`, `leftCensored: true`), even if the site has been running for weeks by
+  then. Never inferred from "does a baseline event exist for this shard" — explicitly persisted, same
+  bug class this project already hit once in `monitor.mjs`.
+- **Data model:**
+  - `state/guide-newly-seen.jsonl` — one line per `baseline | first_seen | updated` event: `eventType`,
+    `leftCensored`, `observedAt`, `runId`, `site` (`tryhardguides|beebom|dexerto`), `url`,
+    `articleTitle`, `rawSlug`, `extractedGameName` (nullable), `extracted` (bool), `placeId` (nullable),
+    `universeId` (nullable), `extractionStatus` (`exact_id|name_only|failed`), `lastmod` (if provided),
+    `sourceLastmodTrusted` (bool).
+  - `state/guide-known-{site}.json` per site — `everSeenUrls`, `lastmodByUrl` (detects `updated`),
+    `childLastmods` (per-shard, decides what to refetch — absent/undefined for Dexerto, which doesn't
+    use lastmod for shard selection), `bootstrappedShards` (per-shard bootstrap flag), `enrichmentByUrl`
+    (`{status: pending|done|failed, attempts, placeId, universeId}` — the retryable placeId→universeId
+    resolution state), `updatedAt`.
+  - `state/guide-source-runs.jsonl` — one line per site per run, same unified schema as
+    `discovery-source-runs.jsonl`/S6's manifest: `runId, sourceKey, scheduledAt, startedAt, finishedAt,
+    status, fetchedCount, eligibleCount, error`. `sourceKey` = site name; `fetchedCount`/`eligibleCount`
+    here mean "shards successfully fetched"/"shards attempted this round" (shard-based, like S6 — not
+    item-based like `discovery-source-runs.jsonl`'s `games-batch` row). `status`: `ok` only if every
+    shard attempted this round succeeded (or zero shards needed checking — vacuously healthy); `partial`
+    if some but not all succeeded; `error` if none did (including "the site's index itself was
+    unreachable", which for TryHardGuides/Beebom means no shard list could even be produced this round).
+- **Game-name extraction (A.3):** last URL path segment, strip `roblox-` prefix, strip `-codes`/
+  `-codes-<suffix>`/trailing numeric ID (Dexerto slugs end in `-<articleId>`), hyphens→spaces,
+  title-case. Extraction failure is allowed and expected — `rawSlug` is always kept regardless;
+  `extracted`/`extractedGameName` just describe whether the heuristic produced something clean (flagged
+  failed if the residual string still contains "codes"/"wiki" or is purely numeric, meaning the
+  prefix/suffix rule didn't actually match this slug's shape — confirmed live on a real TryHardGuides
+  slug like `roblox-peroxide-codes-for-product-essence`, where "codes" sits mid-slug rather than as a
+  clean suffix).
+- **placeId/universeId enrichment:** only for `first_seen`/`updated` events, never for `baseline` —
+  fetching+parsing HTML for a cold-start batch of (potentially hundreds of) historical URLs would be
+  expensive and pointless (S6 skips cold-start enrichment for the same reason). Fetches the article
+  HTML, greps for `roblox.com/games/(\d+)` and the `<title>`. universeId resolution
+  (`apis.roblox.com/universes/v1/places/{placeId}/universe`, same contract as `monitor.mjs`) retries up
+  to `ENRICH_RETRY_MAX` (default 5) attempts across runs, tracked in `enrichmentByUrl`. Because
+  `guide-newly-seen.jsonl` is append-only, a `universeId` that resolves on a *later* retry is NOT
+  back-filled into the original event line — the event line's `universeId` is a point-in-time snapshot;
+  a consumer wanting the latest resolved value should cross-reference `guide-known-{site}.json`'s
+  `enrichmentByUrl`, which always holds the current status.
+- **Failure semantics:** a shard fetch failure only skips that one shard (its `childLastmods`/
+  `bootstrappedShards` entries are left untouched, everything else in that site's known-state still
+  gets saved); a site's index itself being unreachable skips the whole site for this round without
+  touching its known-state at all; either way the other two sites run normally. A bug in one site's
+  processing (uncaught exception) is also caught at the top level so it can't take down the other two.
+- **Deployment:** `run-guide-monitor.sh` (git pull --rebase → `node guide-sitemap-monitor.mjs` →
+  commit+push `state/`, with a 3-attempt jittered-backoff push retry — unlike `run-monitor.sh`, which
+  just warns and waits for the next run on push failure) + `com.yy.roblox-window-monitor.guide.plist`,
+  every 2h (`StartCalendarInterval` at Hour=0,2,4,...,22, Minute=0) — local Mac mini only, not GitHub
+  Actions (media sites are more sensitive to datacenter IPs than Roblox's own API, and TryHardGuides has
+  already 429'd once). Shares `run-monitor.sh`'s file lock. **The plist is a template only — not
+  installed/activated by this change.** Manual install:
+  ```sh
+  cp com.yy.roblox-window-monitor.guide.plist ~/Library/LaunchAgents/
+  launchctl load ~/Library/LaunchAgents/com.yy.roblox-window-monitor.guide.plist
+  ```
+- **Test:** `test-guide-sitemap-regression.mjs` — offline, stubbed `fetch`, covers cold-start baseline
+  suppression (300 historical URLs → 0 `first_seen`), a genuinely new URL → exactly one `first_seen`
+  with successful placeId/universeId enrichment, an already-seen URL's lastmod changing → `updated`
+  (not a second `first_seen`), a two-shard site where one shard fails on round 1 and only succeeds on
+  round 2 (that shard's URLs baseline on round 2, not miscounted as `first_seen` or against the other
+  shard's already-completed bootstrap), a Beebom-specific case with shard lastmods read out of numeric
+  order (confirms shard selection is lastmod-diff-driven, not number-driven, plus the order-mismatch
+  warning), and a light Dexerto cold-start + next-month-boundary-agnostic new-article check.
+  `node test-guide-sitemap-regression.mjs`.
 
 ## v3 ideas (NOT built)
 Smarter slug/brand extraction; per-source gate thresholds; instant alerting (current email latency = up to 4h, bounded by the local cron; would need cloud email + a GitHub Secret); gate C extensions — `{slug}.wiki` freshness as a forward scout (VD case: .wiki registered 6d before .com, would turn gate C into a first-mover signal; costs +1 rdap.org call/game) and promoting the print-only free-.com list to email once its noise level is known.
