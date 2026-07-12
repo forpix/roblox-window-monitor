@@ -31,6 +31,7 @@ const RESOLVE_BATCH = num('RESOLVE_BATCH', 8); // 新增条目做 universeId 解
 const SITEMAP_INDEX = process.env.SITEMAP_INDEX || 'https://www.roblox.com/sitemap-games.xml';
 const KNOWN_FILE     = process.env.KNOWN_FILE     || 'state/sitemap-known.json';
 const NEWSEEN_FILE   = process.env.NEWSEEN_FILE   || 'state/sitemap-newly-seen.jsonl';
+const RUNS_FILE      = process.env.RUNS_FILE      || 'state/sitemap-source-runs.jsonl';
 
 const DAY = 86400000;
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -90,11 +91,16 @@ function parseGameUrl(url) {
   return m ? { placeId: Number(m[1]), slug: m[2] } : null;
 }
 
+// -> { entries, expectedShards, succeededShards } — caller decides whether the run was clean
+// enough to persist (Part 0.2: a partial shard failure must not overwrite the baseline with an
+// incomplete set, or the failed shard's placeIds look like "new" once it's fetched successfully
+// again next run).
 async function fetchAllGameEntries() {
   const indexXml = await getText(SITEMAP_INDEX);
   const shardUrls = extractLocs(indexXml);
   if (!shardUrls.length) throw new Error('sitemap index 里没有分片 <loc>——结构可能变了，先手动检查');
   const entries = new Map(); // placeId -> slug
+  let succeededShards = 0;
   for (const shardUrl of shardUrls) {
     try {
       const xml = await getText(shardUrl);
@@ -102,12 +108,13 @@ async function fetchAllGameEntries() {
         const g = parseGameUrl(loc);
         if (g) entries.set(g.placeId, g.slug);
       }
+      succeededShards++;
     } catch (e) {
       if (e instanceof BlockedError) apiBlocked = true;
       console.warn(`[warn] shard failed ${shardUrl}: ${e.message}`);
     }
   }
-  return entries;
+  return { entries, expectedShards: shardUrls.length, succeededShards };
 }
 
 // ---- Roblox games API（同 monitor.mjs 的既有契约，用于给新增条目富化 CCU/age）----
@@ -150,61 +157,110 @@ function appendFileMkdir(file, line) {
 // ---- main ----
 const now = Date.now();
 const nowIso = new Date(now).toISOString();
+const runId = nowIso;
 
 const known = loadJson(KNOWN_FILE, null); // null = 冷启动，没有基线可对比
-const current = await fetchAllGameEntries();
-console.log(`抓到 sitemap 当前 ${current.size} 条游戏 URL（${SITEMAP_INDEX}）`);
 
-if (known === null) {
-  // 冷启动：只建基线，不判定新增——没有上一轮，"全部都是新的"这句话没有信息量
-  writeFileMkdir(KNOWN_FILE, JSON.stringify({
-    placeIds: [...current.keys()], updatedAt: nowIso, totalRuns: 1,
-  }, null, 2));
-  console.log(`首次运行：建立基线 ${current.size} 个已知游戏，本轮不判定新增（下一轮才有 diff）。`);
+// Part 0.2: index/shard fetch health — must be a persisted, traceable fact regardless of whether
+// the run ends up clean enough to update the baseline (a partial run's health record is exactly
+// what lets Part C tell "this source was down" apart from "this source found nothing new").
+let fetchResult = null;
+let indexError = null;
+const startedAt = nowIso;
+try {
+  fetchResult = await fetchAllGameEntries();
+} catch (e) {
+  if (e instanceof BlockedError) apiBlocked = true;
+  indexError = e.message;
+  console.error(`[error] sitemap index 抓取失败: ${e.message}`);
+}
+const finishedAt = new Date().toISOString();
+const expectedShards = fetchResult?.expectedShards ?? 0;
+const succeededShards = fetchResult?.succeededShards ?? 0;
+const current = fetchResult?.entries ?? new Map();
+// 全部分片必须成功才能更新基线——分片失败会用残缺集合覆盖 known.json，下一轮网络恢复、
+// 之前失败的分片重新抓到时，那批游戏的 placeId 会被误判成"新增"（假新增）。
+const allShardsOk = fetchResult !== null && succeededShards === expectedShards;
+const runStatus = indexError ? 'error' : allShardsOk ? 'ok' : 'partial';
+
+appendFileMkdir(RUNS_FILE, JSON.stringify({
+  runId, sourceKey: 'roblox-sitemap', scheduledAt: startedAt, startedAt, finishedAt,
+  status: runStatus, fetchedCount: succeededShards, eligibleCount: expectedShards,
+  error: indexError,
+}) + '\n');
+
+if (!allShardsOk) {
+  console.error(`分片未全部成功（${succeededShards}/${expectedShards}）——本轮不更新基线，非零退出，下一轮重新全量抓取。`);
+  process.exitCode = 1;
 } else {
-  const knownSet = new Set(known.placeIds);
-  const newEntries = [...current.entries()].filter(([placeId]) => !knownSet.has(placeId));
-  const removedCount = known.placeIds.filter(id => !current.has(id)).length;
-  console.log(`本轮新增 ${newEntries.length} 个，从榜单消失 ${removedCount} 个（第 ${(known.totalRuns || 0) + 1} 轮）。`);
+  console.log(`抓到 sitemap 当前 ${current.size} 条游戏 URL（${SITEMAP_INDEX}）`);
 
-  // 只对新增的做 CCU/age 富化——正常情况下是小批量；解析失败的也记一条，不静默丢
-  const enriched = [];
-  for (let i = 0; i < newEntries.length; i += RESOLVE_BATCH) {
-    const batch = newEntries.slice(i, i + RESOLVE_BATCH);
-    const universeIds = await Promise.all(batch.map(async ([placeId]) => {
-      try { return await getUniverseId(placeId); }
-      catch (e) { if (e instanceof BlockedError) apiBlocked = true; return null; }
-    }));
-    const resolved = batch.map((b, j) => ({ placeId: b[0], slug: b[1], universeId: universeIds[j] }));
-    const games = await getGamesChunked(resolved.filter(p => p.universeId).map(p => p.universeId));
-    const byUniverse = new Map(games.map(g => [g.id, g]));
-    for (const p of resolved) {
-      const g = p.universeId ? byUniverse.get(p.universeId) : null;
-      enriched.push({
-        seenAt: nowIso,
-        placeId: p.placeId,
-        slug: p.slug,
-        universeId: p.universeId ?? null,
-        name: g?.name ?? null,
-        playing: g?.playing ?? null,
-        createdAt: g?.created ?? null,
-        ageDaysAtDiscovery: g?.created ? Number(((now - new Date(g.created).getTime()) / DAY).toFixed(1)) : null,
-      });
-    }
-  }
-
-  for (const e of enriched) appendFileMkdir(NEWSEEN_FILE, JSON.stringify(e) + '\n');
-  writeFileMkdir(KNOWN_FILE, JSON.stringify({
-    placeIds: [...current.keys()], updatedAt: nowIso, totalRuns: (known.totalRuns || 0) + 1,
-  }, null, 2));
-
-  if (enriched.length) {
-    console.table(enriched.map(e => ({
-      name: e.name ?? '(解析失败)', placeId: e.placeId, ccu: e.playing ?? '—',
-      ageDaysAtDiscovery: e.ageDaysAtDiscovery ?? '—',
-    })));
+  if (known === null) {
+    // 冷启动：只建基线，不判定新增——没有上一轮，"全部都是新的"这句话没有信息量
+    const placeIds = [...current.keys()];
+    writeFileMkdir(KNOWN_FILE, JSON.stringify({
+      currentPlaceIds: placeIds, everSeenPlaceIds: placeIds, updatedAt: nowIso, totalRuns: 1,
+    }, null, 2));
+    console.log(`首次运行：建立基线 ${current.size} 个已知游戏，本轮不判定新增（下一轮才有 diff）。`);
   } else {
-    console.log('本轮无新增。');
+    // currentPlaceIds = 上一轮快照（判定 reentered 用），everSeenPlaceIds = 历史累计、永不删除
+    // （判定 first_seen 用）——旧版 known.json 只有单一的 placeIds 字段，两个概念都从它初始化，
+    // 一次性完成迁移。
+    const prevCurrentSet = new Set(known.currentPlaceIds ?? known.placeIds ?? []);
+    const everSeenSet = new Set(known.everSeenPlaceIds ?? known.placeIds ?? []);
+
+    const toEnrich = [];
+    for (const [placeId, slug] of current.entries()) {
+      if (!everSeenSet.has(placeId)) toEnrich.push({ placeId, slug, eventType: 'first_seen' });
+      else if (!prevCurrentSet.has(placeId)) toEnrich.push({ placeId, slug, eventType: 'reentered' });
+    }
+    const removedCount = [...prevCurrentSet].filter(id => !current.has(id)).length;
+    const firstSeenCount = toEnrich.filter(e => e.eventType === 'first_seen').length;
+    const reenteredCount = toEnrich.filter(e => e.eventType === 'reentered').length;
+    console.log(`本轮新增 ${firstSeenCount} 个，重新上榜 ${reenteredCount} 个，从榜单消失 ${removedCount} 个（第 ${(known.totalRuns || 0) + 1} 轮）。`);
+
+    // 新增 + 重新上榜都做 CCU/age 富化——正常情况下是小批量；解析失败的也记一条，不静默丢
+    const enriched = [];
+    for (let i = 0; i < toEnrich.length; i += RESOLVE_BATCH) {
+      const batch = toEnrich.slice(i, i + RESOLVE_BATCH);
+      const universeIds = await Promise.all(batch.map(async (b) => {
+        try { return await getUniverseId(b.placeId); }
+        catch (e) { if (e instanceof BlockedError) apiBlocked = true; return null; }
+      }));
+      const resolved = batch.map((b, j) => ({ ...b, universeId: universeIds[j] }));
+      const games = await getGamesChunked(resolved.filter(p => p.universeId).map(p => p.universeId));
+      const byUniverse = new Map(games.map(g => [g.id, g]));
+      for (const p of resolved) {
+        const g = p.universeId ? byUniverse.get(p.universeId) : null;
+        enriched.push({
+          eventType: p.eventType,
+          seenAt: nowIso,
+          placeId: p.placeId,
+          slug: p.slug,
+          universeId: p.universeId ?? null,
+          name: g?.name ?? null,
+          playing: g?.playing ?? null,
+          createdAt: g?.created ?? null,
+          ageDaysAtDiscovery: g?.created ? Number(((now - new Date(g.created).getTime()) / DAY).toFixed(1)) : null,
+        });
+      }
+    }
+
+    for (const e of enriched) appendFileMkdir(NEWSEEN_FILE, JSON.stringify(e) + '\n');
+    writeFileMkdir(KNOWN_FILE, JSON.stringify({
+      currentPlaceIds: [...current.keys()],
+      everSeenPlaceIds: [...new Set([...everSeenSet, ...current.keys()])],
+      updatedAt: nowIso, totalRuns: (known.totalRuns || 0) + 1,
+    }, null, 2));
+
+    if (enriched.length) {
+      console.table(enriched.map(e => ({
+        event: e.eventType, name: e.name ?? '(解析失败)', placeId: e.placeId, ccu: e.playing ?? '—',
+        ageDaysAtDiscovery: e.ageDaysAtDiscovery ?? '—',
+      })));
+    } else {
+      console.log('本轮无新增。');
+    }
   }
 }
 

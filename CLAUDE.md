@@ -119,7 +119,35 @@ signal — needs several weeks of accumulated history before drawing conclusions
   GitHub's cron throttling (which forced `monitor.yml` back to local launchd) is a non-issue
   here; no need to run this on the Mac mini.
 - **Test:** `test-sitemap-regression.mjs` — offline, stubbed `fetch`, asserts cold-start
-  suppression + diff/enrichment correctness. `node test-sitemap-regression.mjs`.
+  suppression + diff/enrichment correctness + the three Part 0.2 fixes below.
+  `node test-sitemap-regression.mjs`.
+
+**Part 0.2 fixes (2026-07-13, indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md):**
+- **A partial shard failure no longer overwrites the baseline.** `fetchAllGameEntries()` now
+  reports `{entries, expectedShards, succeededShards}`; unless every shard succeeded this run,
+  `sitemap-known.json` is left untouched and the process sets `process.exitCode = 1` (not
+  `process.exit()`, so it stays test-harness-safe) — otherwise a shard that failed one run and
+  recovered the next would have its placeIds misread as "newly launched". A health record is
+  still appended to `state/sitemap-source-runs.jsonl` either way (`ok`/`partial`/`error`,
+  `sourceKey: "roblox-sitemap"`, same schema as Part 0.1's `discovery-source-runs.jsonl` and
+  A.6's `guide-source-runs.jsonl`), so the failure itself is traceable to Part C even when
+  nothing else got persisted.
+- **`first_seen` vs `reentered` are now tracked separately.** `sitemap-known.json` used to hold
+  one `placeIds` array that got wholesale-replaced every run, so a placeId that dropped off and
+  came back looked "new" again. It now holds `currentPlaceIds` (last run's snapshot, used for the
+  removed/reentered diff) and `everSeenPlaceIds` (accumulates forever, used for the first_seen
+  check) — old files with only `placeIds` migrate automatically (both fields seed from it on
+  first read). `state/sitemap-newly-seen.jsonl` entries now carry `eventType: 'first_seen' |
+  'reentered'`.
+- **The GitHub Actions workflow** (`sitemap-monitor.yml`) no longer does a bare
+  `git add state/sitemap-known.json state/sitemap-newly-seen.jsonl` — that fails atomically
+  (exit 128, nothing staged at all) whenever `newly-seen.jsonl` doesn't exist yet (no new pages
+  this run), silently dropping the `known.json` update too. It now only adds paths that exist,
+  runs with `if: always()` (so the health record still gets committed even when the fetch step
+  above exited non-zero), and retries `git pull --rebase && git push` up to 3 times with jittered
+  backoff — the local Mac mini runner (`monitor.mjs`) and this GH-Actions-only job can both touch
+  `state/` around the same time, and unlike `monitor.mjs`/A-class (same-machine file lock),
+  nothing local can coordinate with a job running on a GitHub-hosted runner.
 
 ## Discovery/gate event log (BUILT, 2026-07-13 — Part 0.1 of indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md)
 **Purpose:** `state[key]` only has `lastSeen`/`lastVerdict` — discovered (non-pinned) games older than

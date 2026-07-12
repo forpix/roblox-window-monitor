@@ -25,13 +25,34 @@ jobs:
           node-version: "20"
       - run: node sitemap-monitor.mjs
       - name: Commit state if changed
+        # always run this even if the fetch step above exited non-zero (Part 0.2: a partial
+        # shard failure now fails the job on purpose) — the health record in
+        # sitemap-source-runs.jsonl must still get committed so the failure itself is
+        # traceable, even though sitemap-known.json/sitemap-newly-seen.jsonl won't have changed.
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/sitemap-known.json state/sitemap-newly-seen.jsonl
+          # sitemap-newly-seen.jsonl / sitemap-source-runs.jsonl only get created once they have
+          # their first line — `git add` on a nonexistent path is an atomic failure (exit 128,
+          # nothing staged, not even the paths that do exist), so only add what's actually there.
+          FILES="state/sitemap-known.json"
+          for f in state/sitemap-newly-seen.jsonl state/sitemap-source-runs.jsonl; do
+            [ -f "$f" ] && FILES="$FILES $f"
+          done
+          git add $FILES
           if git diff --cached --quiet; then
             echo "no state changes"
-          else
-            git commit -m "chore: update sitemap-monitor state [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update sitemap-monitor state [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --quiet && git push --quiet; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt failed, retrying..."
+            sleep $(( (RANDOM % 5) + attempt * 2 ))
+          done
+          echo "::error::push failed after 3 attempts"
+          exit 1
