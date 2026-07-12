@@ -193,6 +193,39 @@ async function siteProbe(domain) {
   }
 }
 
+// competitor sweep: a BUILT site on any exact/near-match surface kills a GREEN.
+// 2026-07-10 lesson: pipeline operator entered drainthelake.org while only .com was watched.
+const COMPETITOR_TLDS = (process.env.COMPETITOR_TLDS || 'com,net,org,online,wiki,info,gg,io').split(',').map(s => s.trim()).filter(Boolean);
+
+function hyphenSlug(name) {
+  const core = name.replace(/[\[(\{][^\])\}]*[\])\}]/g, ' ').split(/[|:•]/)[0];
+  return core.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+function competitorHosts(name, slug) {
+  const hy = hyphenSlug(name);
+  const bases = [...new Set([slug, hy, `${slug}wiki`, hy ? `${hy}-wiki` : null].filter(Boolean))];
+  const hosts = bases.flatMap(b => COMPETITOR_TLDS.map(tld => `${b}.${tld}`));
+  for (const b of new Set([slug, hy].filter(Boolean))) hosts.push(`${b}.pages.dev`, `${b}.vercel.app`, `${b}.netlify.app`);
+  return [...new Set(hosts)];
+}
+
+// probe every surface, return the ones somebody BUILT on (candidates only — bounded load)
+async function competitorSweep(name, slug) {
+  const hosts = competitorHosts(name, slug);
+  const built = [];
+  let unknown = 0;
+  for (let i = 0; i < hosts.length; i += 8) {
+    const batch = hosts.slice(i, i + 8);
+    const res = await Promise.all(batch.map(h => siteProbe(h)));
+    res.forEach((p, j) => {
+      if (p.status === 'built') built.push({ host: batch[j], title: p.title });
+      else if (p.status === 'unknown') unknown++;
+    });
+  }
+  return { built, unknown, probed: hosts.length };
+}
+
 // ---- state ----
 function loadState() {
   try { return JSON.parse(readFileSync(STATE_FILE, 'utf8')); }
@@ -296,12 +329,22 @@ for (const t of targetList) {
     if (gateA || gateB || gateC || gateD) {
       ({ verdict, detail } = await windowGate(slug, com));
       if (gateC) detail += `; .com registered ${comRegDays.toFixed(1)}d ago`;
-      // a GREEN whose .com is registered is only actionable if nobody BUILT there yet
+      // a GREEN is only actionable if nobody BUILT on ANY exact/near-match surface —
+      // free .com/.net is just one sub-signal, not "zero direct competition"
       if (verdict === 'GREEN' && com && !com.available) {
         const probe = await siteProbe(`${slug}.com`);
         if (probe.status === 'built') { verdict = 'RED'; detail += `; .com BUILT: "${probe.title.slice(0, 60)}"`; }
-        else if (probe.status === 'parked') detail += '; .com parked, net window open';
+        else if (probe.status === 'parked') detail += '; .com parked';
         else { verdict = 'CHECK'; detail += '; .com probe inconclusive — check by hand'; }
+      }
+      if (verdict === 'GREEN') {
+        const sweep = await competitorSweep(g.name, slug);
+        if (sweep.built.length) {
+          verdict = 'RED';
+          detail += `; competitor BUILT: ${sweep.built.slice(0, 3).map(b => `${b.host} "${b.title.slice(0, 40)}"`).join(', ')}${sweep.built.length > 3 ? ` +${sweep.built.length - 3} more` : ''}`;
+        } else {
+          detail += `; sweep clean (${sweep.probed} surfaces${sweep.unknown ? `, ${sweep.unknown} inconclusive` : ''})`;
+        }
       }
     }
 
