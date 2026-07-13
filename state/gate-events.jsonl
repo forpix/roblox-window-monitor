@@ -11,3 +11,4 @@
 {"eventType":"gate_baseline","leftCensored":true,"observedAt":"2026-07-12T23:32:27.191Z","universeId":2644656496,"gate":"C","playing":25788,"ageDays":1862.3}
 {"eventType":"gate_baseline","leftCensored":true,"observedAt":"2026-07-12T23:32:27.191Z","universeId":10199301628,"gate":"D","playing":33404,"ageDays":52.4}
 {"eventType":"gate_baseline","leftCensored":true,"observedAt":"2026-07-12T23:32:27.191Z","universeId":9330616906,"gate":"C","playing":20997,"ageDays":214.7}
+{"eventType":"gate_first_seen","observedAt":"2026-07-13T10:15:05.866Z","universeId":10247797619,"gate":"D","playing":20285,"ageDays":43.5}
