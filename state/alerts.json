@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-13T13:45:07.477Z",
+  "generatedAt": "2026-07-13T14:15:03.959Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 379831,
-      "ageDays": 52.7,
-      "rollingAvg": 331654,
-      "spikePct": 15,
+      "ccu": 364273,
+      "ageDays": 52.8,
+      "rollingAvg": 333681,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 338.1d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 338.2d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 75535,
+      "ccu": 73451,
       "ageDays": 17.1,
-      "rollingAvg": 57870,
-      "spikePct": 31,
+      "rollingAvg": 57915,
+      "spikePct": 27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11263.4d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 40684,
+      "ccu": 40780,
       "ageDays": 19.5,
-      "rollingAvg": 35316,
-      "spikePct": 15,
+      "rollingAvg": 35032,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 2.9d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 71349,
+      "ccu": 68733,
       "ageDays": 39.7,
-      "rollingAvg": 60899,
-      "spikePct": 17,
+      "rollingAvg": 60634,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4661.6d (drainthelake.com, drainthelake.net)"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 23783,
+      "ccu": 23856,
       "ageDays": 43.7,
-      "rollingAvg": 23898,
+      "rollingAvg": 23912,
       "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[⚔️1v1] Clean the Supermarket!",
-      "ccu": 22773,
+      "ccu": 23373,
       "ageDays": 27.8,
-      "rollingAvg": 28238,
-      "spikePct": -19,
+      "rollingAvg": 28197,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 15.5d (cleanthesupermarket.com, cleanthesupermarket.net)"
@@ -70,9 +70,9 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 37247,
+      "ccu": 37266,
       "ageDays": 40,
-      "rollingAvg": 28912,
+      "rollingAvg": 28836,
       "spikePct": 29,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -80,22 +80,11 @@
     },
     {
       "source": "discover",
-      "name": "LifeTogether 🏠 RP ",
-      "ccu": 54852,
-      "ageDays": 1103.7,
-      "rollingAvg": 55830,
-      "spikePct": -2,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: lifetogetherrp.net; .com registered 14.0d ago; .com BUILT: \"LifeTogether RP Wiki - Codes, Houses, Jobs, Map &amp; Outfit\""
-    },
-    {
-      "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 30512,
+      "ccu": 30777,
       "ageDays": 1862.9,
-      "rollingAvg": 26245,
-      "spikePct": 16,
+      "rollingAvg": 26283,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.6d (hazeseas.com, hazeseas.net); .com registered 12.6d ago"
@@ -103,13 +92,24 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 32604,
+      "ccu": 31956,
       "ageDays": 215.3,
-      "rollingAvg": 23817,
-      "spikePct": 37,
+      "rollingAvg": 24033,
+      "spikePct": 33,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 7.1d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+    },
+    {
+      "source": "discover",
+      "name": "[⛰️] Mine a Mountain",
+      "ccu": 25646,
+      "ageDays": 55.8,
+      "rollingAvg": 23570,
+      "spikePct": 9,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: mineamountain.net; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
     }
   ]
 }
