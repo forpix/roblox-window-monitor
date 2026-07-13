@@ -37,7 +37,8 @@ jobs:
           # their first line — `git add` on a nonexistent path is an atomic failure (exit 128,
           # nothing staged, not even the paths that do exist), so only add what's actually there.
           FILES="state/sitemap-known.json"
-          for f in state/sitemap-newly-seen.jsonl state/sitemap-source-runs.jsonl; do
+          for f in state/sitemap-newly-seen.jsonl state/sitemap-source-runs.jsonl \
+                   state/sitemap-enrich-queue.json state/sitemap-baseline.json; do
             [ -f "$f" ] && FILES="$FILES $f"
           done
           git add $FILES

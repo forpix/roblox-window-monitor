@@ -130,7 +130,10 @@ signal — needs several weeks of accumulated history before drawing conclusions
   GitHub's cron throttling (which forced `monitor.yml` back to local launchd) is a non-issue
   here; no need to run this on the Mac mini.
 - **Test:** `test-sitemap-regression.mjs` — offline, stubbed `fetch`, asserts cold-start
-  suppression + diff/enrichment correctness + the three Part 0.2 fixes below.
+  suppression + diff/enrichment correctness + the three Part 0.2 fixes below + the enrichment
+  backfill queue / left-censor baseline behaviors below (discovery-time failure → queue + non-ok
+  enrich health; recovery → `enriched` event with original seenAt; queue seeding; `ENRICH_ONLY`;
+  attempts→failed promotion; baseline written once and never rewritten).
   `node test-sitemap-regression.mjs`.
 
 **Part 0.2 fixes (2026-07-13, indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md):**
@@ -159,6 +162,42 @@ signal — needs several weeks of accumulated history before drawing conclusions
   backoff — the local Mac mini runner (`monitor.mjs`) and this GH-Actions-only job can both touch
   `state/` around the same time, and unlike `monitor.mjs`/A-class (same-machine file lock),
   nothing local can coordinate with a job running on a GitHub-hosted runner.
+
+**Enrichment health track + backfill queue (2026-07-13, Codex review blocking item 2):**
+- Health in `state/sitemap-source-runs.jsonl` is now **two tracks**: `roblox-sitemap` (shard
+  fetch only, semantics unchanged) and `roblox-sitemap-enrich` (the placeId→universeId→CCU/age
+  enrichment step; one record per run, same schema; `eligibleCount` = placeIds attempted this
+  run, `fetchedCount` = succeeded; `ok` when zero attempted or all succeeded, `partial`/`error`
+  otherwise). Before this split, enrichment failures were invisible — GH Actions datacenter IPs
+  get 403'd by the games API, 480/796 events had `universeId: null`, yet every health record
+  said `ok`, so a consumer would read a hollow window as healthy.
+- Enrichment failures go into `state/sitemap-enrich-queue.json` (`{pending, failed, updatedAt}`,
+  both maps keyed by placeId → `{seenAt, attempts}`). The discovery event itself is still written
+  immediately with `universeId: null` — the first-seen timestamp is sacred and never rewritten.
+  Each run retries up to `ENRICH_MAX_PER_RUN` (120) pending entries after the normal flow (same
+  8-concurrent batch rhythm as discovery enrichment); at 8 attempts an entry moves to `failed`
+  for audit. A missing queue file is seeded by scanning `newly-seen.jsonl` for null-universeId
+  `first_seen`/`reentered` events with no later `enriched` event — historical debt enters the
+  backfill track automatically.
+- Successful backfill appends an **`enriched` event** to `newly-seen.jsonl`:
+  `{eventType, seenAt (the ORIGINAL discovery timestamp), enrichedAt, placeId, universeId, name,
+  createdAt, ageDaysAtDiscovery, playingAtEnrich}`. `ageDaysAtDiscovery` is computed from the
+  original `seenAt` ("how old was the game when S6 saw it"), never from now; the current CCU is
+  named `playingAtEnrich` because the CCU at discovery time is unknowable — don't fake `playing`.
+- **`ENRICH_ONLY=1`** skips sitemap fetch/diff/baseline entirely and runs only the queue (plus
+  its enrich health record; no `roblox-sitemap` record — didn't fetch, don't report). Used for
+  local backfill from the Mac mini's residential IP; take the `/tmp/roblox-window-monitor.runlock`
+  mkdir lock first, same as the shell runners.
+
+**Cold-start left-censor baseline (2026-07-13, Codex review blocking item 3):** the cold-start
+branch now also writes `state/sitemap-baseline.json` (`{generatedAt, leftCensored: true,
+placeIds}`) alongside `known.json`, and no later run ever touches it — the ~10k games already in
+the sitemap when observation began are left-censored, and a consumer reading only the event log
+would otherwise misjudge "already there at t0" as "S6 discovered it first". The current
+deployment predated this file, so it was reconstructed once: `everSeenPlaceIds` minus every
+placeId appearing in `newly-seen.jsonl` (any eventType); `generatedAt` = the cold-start
+`known.json`'s own `updatedAt` (2026-07-12T15:00:16.005Z, recovered from the cold-start commit
+in git history, so no `reconstructed` flag was needed).
 
 ## Discovery/gate event log (BUILT, 2026-07-13 — Part 0.1 of indie-builder-brain/briefs/2026-07-12-sitemap-discovery-radar.md)
 **Purpose:** `state[key]` only has `lastSeen`/`lastVerdict` — discovered (non-pinned) games older than
