@@ -1,0 +1,3 @@
+{"runId":"2026-07-13T04:04:24.672Z","sourceKey":"tryhardguides","scheduledAt":"2026-07-13T04:04:24.673Z","startedAt":"2026-07-13T04:04:24.673Z","finishedAt":"2026-07-13T04:19:20.290Z","status":"partial","fetchedCount":212,"eligibleCount":267,"error":"212/267 分片成功"}
+{"runId":"2026-07-13T04:04:24.672Z","sourceKey":"beebom","scheduledAt":"2026-07-13T04:19:20.303Z","startedAt":"2026-07-13T04:19:20.303Z","finishedAt":"2026-07-13T04:20:08.772Z","status":"ok","fetchedCount":50,"eligibleCount":50,"error":null}
+{"runId":"2026-07-13T04:04:24.672Z","sourceKey":"dexerto","scheduledAt":"2026-07-13T04:20:08.774Z","startedAt":"2026-07-13T04:20:08.774Z","finishedAt":"2026-07-13T04:20:12.361Z","status":"ok","fetchedCount":2,"eligibleCount":2,"error":null}
