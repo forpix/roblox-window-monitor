@@ -105,10 +105,17 @@ function shardKeyFromUrl(url) {
   return url.split('/').filter(Boolean).pop();
 }
 // 三站都混着大量非 Roblox 内容（THG 有 wordle/crossword，Beebom 是综合科技站，Dexerto 是综合
-// 游戏/娱乐新闻站）——用 url 里同时出现 roblox + codes/wiki 收窄到"codes 类文章"，排除掉泛新闻
-// （比如 Dexerto 「Roblox collab with Rolling Stones」这类不是某个游戏的 codes 页）。
+// 游戏/娱乐新闻站）——收窄到"codes 类文章"。
+// 07-13 实测修正：最初要求 url 同时含 roblox + codes/wiki，但 THG/Beebom 的 codes 文章 slug
+// 惯例是 <game>-codes、绝大多数不带 roblox（THG 本周分片 168 篇 codes 只有 3 篇带 roblox，
+// Beebom 319 篇只有 60 篇）——按 roblox 词过滤会丢 THG 98%/Beebom 80% 的目标文章。
+// 现规则：slug 以 -codes 结尾（尾缀形态跟 extractGameName 的剥离规则同构：-codes /
+// -codes-july2026 / -codes-<数字id>），或 roblox+wiki 组合（THG 的 wiki 类长 slug）。
+// 非 Roblox 游戏的 codes 文章（少数）会混进来，由富化的 placeId 提取 + Part C 的 universeId
+// 对齐兜底排除——这里选召回优先：漏掉信号比混进可排除的噪音贵得多。
 function isCodesArticleUrl(url) {
-  return /roblox/i.test(url) && /(codes|wiki)/i.test(url);
+  return /-codes(-[a-z]+-?\d{2,4})?(-\d+)?\/?$/i.test(url.replace(/[?#].*$/, ''))
+    || (/roblox/i.test(url) && /wiki/i.test(url));
 }
 
 // ---- 游戏名提取（A.3）：从 URL 最后一段 slug 提取，允许失败，永远保留 rawSlug ----

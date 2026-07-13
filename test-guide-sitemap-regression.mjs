@@ -50,8 +50,19 @@ function readJsonl(file) {
   const RUNS = join(tmp, 'guide-source-runs.jsonl');
 
   const N = 300;
-  const baselineUrls = Array.from({ length: N }, (_, i) => ({ loc: `https://tryhardguides.com/roblox-game${i + 1}-codes/`, lastmod: '2026-06-01T00:00:00+00:00' }));
-  const NEW_URL = 'https://tryhardguides.com/roblox-game301-codes/';
+  // 07-13 实测：THG/Beebom 的 codes slug 绝大多数不带 roblox 前缀（<game>-codes），带前缀的是少数——
+  // 基线混用两种形态 + 掺入必须被过滤掉的非 codes 文章，锁住 isCodesArticleUrl 的召回和精度两头
+  const baselineUrls = Array.from({ length: N }, (_, i) => ({
+    loc: i % 2 === 0
+      ? `https://tryhardguides.com/game${i + 1}-codes/` // 无 roblox 前缀（多数派，曾被漏采 98%）
+      : `https://tryhardguides.com/roblox-game${i + 1}-codes/`,
+    lastmod: '2026-06-01T00:00:00+00:00',
+  }));
+  const NOISE_URLS = [
+    { loc: 'https://tryhardguides.com/wordle-answer-today-july-13/', lastmod: '2026-06-01T00:00:00+00:00' },
+    { loc: 'https://tryhardguides.com/best-anime-games-on-roblox/', lastmod: '2026-06-01T00:00:00+00:00' }, // 有 roblox 无 codes/wiki
+  ];
+  const NEW_URL = 'https://tryhardguides.com/game301-codes/'; // 新增也用无前缀形态
   const UPDATED_URL = baselineUrls[4].loc; // game5
 
   let round = 1;
@@ -62,10 +73,10 @@ function readJsonl(file) {
       return text(indexXml([{ loc: 'https://tryhardguides.com/post-sitemap-2026-1.xml', lastmod }]));
     }
     if (u.includes('post-sitemap-2026-1.xml')) {
-      if (round === 1) return text(urlsetXml(baselineUrls));
-      if (round === 2) return text(urlsetXml([...baselineUrls, { loc: NEW_URL, lastmod: '2026-07-01T00:00:00+00:00' }]));
+      if (round === 1) return text(urlsetXml([...baselineUrls, ...NOISE_URLS]));
+      if (round === 2) return text(urlsetXml([...baselineUrls, ...NOISE_URLS, { loc: NEW_URL, lastmod: '2026-07-01T00:00:00+00:00' }]));
       // round 3: game5 的 lastmod 变了，其余不变
-      const urls = [...baselineUrls, { loc: NEW_URL, lastmod: '2026-07-01T00:00:00+00:00' }]
+      const urls = [...baselineUrls, ...NOISE_URLS, { loc: NEW_URL, lastmod: '2026-07-01T00:00:00+00:00' }]
         .map(u2 => u2.loc === UPDATED_URL ? { ...u2, lastmod: '2026-07-10T00:00:00+00:00' } : u2);
       return text(urlsetXml(urls));
     }
@@ -77,7 +88,8 @@ function readJsonl(file) {
 
   await import(`./guide-sitemap-monitor.mjs?s1round=1`);
   const known1 = JSON.parse(readFileSync(KNOWN, 'utf8'));
-  expect('冷启动建立 300 条 everSeenUrls', known1.everSeenUrls.length === N);
+  expect('冷启动建立 300 条 everSeenUrls（无前缀的 codes slug 不再被漏采）', known1.everSeenUrls.length === N);
+  expect('非 codes 噪音（wordle / 无 codes 的 roblox 文）被过滤', !known1.everSeenUrls.some(u => /wordle|best-anime/.test(u)));
   const events1 = readJsonl(NEWSEEN);
   expect('冷启动只产出 baseline 事件（300 条）', events1.length === N && events1.every(e => e.eventType === 'baseline' && e.leftCensored === true));
   expect('冷启动不产出 first_seen', events1.filter(e => e.eventType === 'first_seen').length === 0);
