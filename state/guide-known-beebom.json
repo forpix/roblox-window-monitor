@@ -1987,7 +1987,7 @@
     "https://beebom.com/be-a-youtuber-codes/": "2026-07-04T17:00:37+00:00",
     "https://beebom.com/hunty-zombies-codes/": "2026-07-04T18:01:09+00:00",
     "https://beebom.com/sailor-piece-codes/": "2026-07-04T19:19:12+00:00",
-    "https://beebom.com/anime-destiny-codes/": "2026-07-04T19:26:14+00:00",
+    "https://beebom.com/anime-destiny-codes/": "2026-07-13T05:17:55+00:00",
     "https://beebom.com/midnight-chasers-codes/": "2026-07-04T19:27:32+00:00",
     "https://beebom.com/legends-rewritten-codes/": "2026-07-04T19:37:06+00:00",
     "https://beebom.com/roblox-wanted-codes/": "2026-07-04T19:37:51+00:00",
@@ -2043,7 +2043,7 @@
     "https://beebom.com/mojave-valley-codes/": "2026-07-06T11:45:57+00:00",
     "https://beebom.com/fix-it-up-codes/": "2026-07-06T11:47:44+00:00",
     "https://beebom.com/attack-on-titan-revolution-aotr-codes/": "2026-07-06T17:36:06+00:00",
-    "https://beebom.com/jujutsu-shenanigans-codes/": "2026-07-07T04:59:26+00:00",
+    "https://beebom.com/jujutsu-shenanigans-codes/": "2026-07-13T05:18:52+00:00",
     "https://beebom.com/build-a-ring-farm-codes/": "2026-07-07T05:38:11+00:00",
     "https://beebom.com/gym-star-simulator-codes/": "2026-07-07T05:39:10+00:00",
     "https://beebom.com/broken-blade-codes/": "2026-07-07T05:48:44+00:00",
@@ -2144,7 +2144,7 @@
     "https://beebom.com/highway-legends-codes/": "2026-07-10T19:11:12+00:00",
     "https://beebom.com/roblox-drive-world-codes/": "2026-07-10T20:20:54+00:00",
     "https://beebom.com/anime-duelists-codes/": "2026-07-10T20:29:23+00:00",
-    "https://beebom.com/card-chronicles-codes/": "2026-07-10T21:49:13+00:00",
+    "https://beebom.com/card-chronicles-codes/": "2026-07-13T05:19:41+00:00",
     "https://beebom.com/fc-mobile-codes/": "2026-07-10T21:50:56+00:00",
     "https://beebom.com/roblox-ultimate-football-codes/": "2026-07-10T22:16:37+00:00",
     "https://beebom.com/100-days-at-sea-codes/": "2026-07-11T00:09:47+00:00",
@@ -2200,7 +2200,7 @@
     "https://beebom.com/heavyweight-fishing-codes/": "2026-07-13T03:23:50+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-13T03:23:50+00:00",
+    "post-sitemap.xml": "2026-07-13T05:55:07+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T08:38:44+00:00",
     "post-sitemap4.xml": "2018-02-26T10:10:03+00:00",
@@ -2249,7 +2249,7 @@
     "post-sitemap47.xml": "2026-03-12T17:34:20+00:00",
     "post-sitemap48.xml": "2026-05-05T11:06:15+00:00",
     "post-sitemap49.xml": "2026-06-30T21:22:57+00:00",
-    "post-sitemap50.xml": "2026-07-13T03:23:50+00:00"
+    "post-sitemap50.xml": "2026-07-13T05:55:07+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2453,6 +2453,25 @@
       "bootstrappedAt": "2026-07-13T04:20:08.750Z"
     }
   },
-  "enrichmentByUrl": {},
-  "updatedAt": "2026-07-13T04:04:24.672Z"
+  "enrichmentByUrl": {
+    "https://beebom.com/anime-destiny-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 82674355647259,
+      "universeId": 9270705076
+    },
+    "https://beebom.com/jujutsu-shenanigans-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 9391468976,
+      "universeId": 3508322461
+    },
+    "https://beebom.com/card-chronicles-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 114758508835875,
+      "universeId": 9844129216
+    }
+  },
+  "updatedAt": "2026-07-13T06:00:03.486Z"
 }
