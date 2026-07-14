@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-14T11:15:02.004Z",
+  "generatedAt": "2026-07-14T11:45:01.861Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 371983,
-      "ageDays": 53.6,
-      "rollingAvg": 351887,
-      "spikePct": 6,
+      "ccu": 393399,
+      "ageDays": 53.7,
+      "rollingAvg": 352294,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 339.0d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 339.1d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 24077,
-      "ageDays": 38.7,
-      "rollingAvg": 24262,
-      "spikePct": -1,
+      "ccu": 25123,
+      "ageDays": 38.8,
+      "rollingAvg": 24225,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11264.3d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 50174,
+      "ccu": 53388,
       "ageDays": 18,
-      "rollingAvg": 49457,
-      "spikePct": 1,
+      "rollingAvg": 48873,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11264.3d (chameleon.com, chameleon.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 28636,
+      "ccu": 29864,
       "ageDays": 20.4,
-      "rollingAvg": 33491,
-      "spikePct": -14,
+      "rollingAvg": 32958,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 3.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 56094,
+      "ccu": 59551,
       "ageDays": 40.6,
-      "rollingAvg": 53923,
-      "spikePct": 4,
+      "rollingAvg": 53610,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4662.5d (drainthelake.com, drainthelake.net)"
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 40117,
+      "ccu": 40566,
       "ageDays": 465.5,
-      "rollingAvg": 40169,
-      "spikePct": 0,
+      "rollingAvg": 39982,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: universaltowerdefensez.net; .com registered 0.4d ago; .com probe inconclusive — check by hand"
+      "detail": "available: universaltowerdefensez.net; .com registered 0.5d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 35913,
+      "ccu": 37815,
       "ageDays": 40.9,
-      "rollingAvg": 29114,
-      "spikePct": 23,
+      "rollingAvg": 29066,
+      "spikePct": 30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.7d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 28276,
+      "ccu": 29755,
       "ageDays": 216.2,
-      "rollingAvg": 24797,
-      "spikePct": 14,
+      "rollingAvg": 24786,
+      "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 8.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 24675,
+      "ccu": 25423,
       "ageDays": 1863.8,
-      "rollingAvg": 24910,
-      "spikePct": -1,
+      "rollingAvg": 24767,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.5d (hazeseas.com, hazeseas.net); .com registered 13.5d ago"
