@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-14T09:45:01.880Z",
+  "generatedAt": "2026-07-14T10:15:08.097Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 371412,
+      "ccu": 378688,
       "ageDays": 53.6,
-      "rollingAvg": 351019,
-      "spikePct": 6,
+      "rollingAvg": 351153,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 339.0d (growagarden2.com, growagarden2.net)"
@@ -15,32 +15,32 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 20270,
+      "ccu": 21581,
       "ageDays": 38.7,
-      "rollingAvg": 24558,
-      "spikePct": -17,
+      "rollingAvg": 24431,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11264.2d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11264.3d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 43716,
+      "ccu": 46021,
       "ageDays": 17.9,
-      "rollingAvg": 51510,
-      "spikePct": -15,
+      "rollingAvg": 50746,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11264.2d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11264.3d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 25091,
+      "ccu": 26844,
       "ageDays": 20.3,
-      "rollingAvg": 35051,
-      "spikePct": -28,
+      "rollingAvg": 34522,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 3.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 52006,
-      "ageDays": 40.5,
-      "rollingAvg": 55007,
-      "spikePct": -5,
+      "ccu": 53616,
+      "ageDays": 40.6,
+      "rollingAvg": 54605,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4662.4d (drainthelake.com, drainthelake.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 39294,
+      "ccu": 39498,
       "ageDays": 465.5,
-      "rollingAvg": 40858,
-      "spikePct": -4,
+      "rollingAvg": 40610,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: universaltowerdefensez.net; .com registered 0.4d ago; .com probe inconclusive — check by hand"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 30782,
+      "ccu": 32384,
       "ageDays": 40.8,
-      "rollingAvg": 29541,
-      "spikePct": 4,
+      "rollingAvg": 29344,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.6d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 25616,
-      "ageDays": 216.1,
-      "rollingAvg": 25075,
-      "spikePct": 2,
+      "ccu": 26153,
+      "ageDays": 216.2,
+      "rollingAvg": 24940,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 7.9d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 23383,
+      "ccu": 23888,
       "ageDays": 1863.7,
-      "rollingAvg": 25466,
-      "spikePct": -8,
+      "rollingAvg": 25262,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.4d (hazeseas.com, hazeseas.net); .com registered 13.4d ago"
