@@ -1100,7 +1100,9 @@
     "https://beebom.com/heavyweight-fishing-codes/",
     "https://beebom.com/redliner-codes/",
     "https://beebom.com/grand-alfheim-codes/",
-    "https://beebom.com/mini-cup-codes/"
+    "https://beebom.com/mini-cup-codes/",
+    "https://beebom.com/anime-overseer-codes/",
+    "https://beebom.com/naramo-nuclear-plant-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2074,7 +2076,7 @@
     "https://beebom.com/anime-ultron-simulator-codes/": "2026-07-08T07:55:54+00:00",
     "https://beebom.com/flashpoint-worlds-collide-codes/": "2026-07-08T08:04:54+00:00",
     "https://beebom.com/vv-ultimatum-codes/": "2026-07-08T08:20:16+00:00",
-    "https://beebom.com/anime-card-battle-codes/": "2026-07-08T08:33:42+00:00",
+    "https://beebom.com/anime-card-battle-codes/": "2026-07-14T12:52:30+00:00",
     "https://beebom.com/power-blast-lucky-blocks-codes/": "2026-07-08T08:37:28+00:00",
     "https://beebom.com/cooking-chaos-codes/": "2026-07-08T08:41:15+00:00",
     "https://beebom.com/slime-seas-codes/": "2026-07-08T09:37:18+00:00",
@@ -2203,10 +2205,12 @@
     "https://beebom.com/heavyweight-fishing-codes/": "2026-07-14T04:04:28+00:00",
     "https://beebom.com/redliner-codes/": "2026-07-14T09:15:37+00:00",
     "https://beebom.com/grand-alfheim-codes/": "2026-07-14T09:38:12+00:00",
-    "https://beebom.com/mini-cup-codes/": "2026-07-14T09:57:57+00:00"
+    "https://beebom.com/mini-cup-codes/": "2026-07-14T09:57:57+00:00",
+    "https://beebom.com/anime-overseer-codes/": "2026-07-14T12:51:00+00:00",
+    "https://beebom.com/naramo-nuclear-plant-codes/": "2026-07-14T12:14:23+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-14T11:31:22+00:00",
+    "post-sitemap.xml": "2026-07-14T13:29:41+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T08:38:44+00:00",
     "post-sitemap4.xml": "2018-02-26T10:10:03+00:00",
@@ -2255,7 +2259,7 @@
     "post-sitemap47.xml": "2026-03-12T17:34:20+00:00",
     "post-sitemap48.xml": "2026-05-05T11:06:15+00:00",
     "post-sitemap49.xml": "2026-06-30T21:35:31+00:00",
-    "post-sitemap50.xml": "2026-07-14T11:31:22+00:00"
+    "post-sitemap50.xml": "2026-07-14T13:29:41+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2597,7 +2601,25 @@
       "attempts": 1,
       "placeId": 71132543521245,
       "universeId": 8356066619
+    },
+    "https://beebom.com/anime-overseer-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 119710171449943,
+      "universeId": 10150180145
+    },
+    "https://beebom.com/naramo-nuclear-plant-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 98626216952426,
+      "universeId": 7101140819
+    },
+    "https://beebom.com/anime-card-battle-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 130253630950453,
+      "universeId": 10092619788
     }
   },
-  "updatedAt": "2026-07-14T12:00:03.342Z"
+  "updatedAt": "2026-07-14T14:00:08.638Z"
 }
