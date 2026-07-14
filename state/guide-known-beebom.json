@@ -1999,7 +1999,7 @@
     "https://beebom.com/special-anime-defense-codes/": "2026-07-05T16:29:35+00:00",
     "https://beebom.com/fortnite-steal-the-brainrot-codes/": "2026-07-05T19:05:18+00:00",
     "https://beebom.com/roblox-8-ball-x-codes/": "2026-07-06T02:08:56+00:00",
-    "https://beebom.com/saber-unbound-codes/": "2026-07-06T02:09:04+00:00",
+    "https://beebom.com/saber-unbound-codes/": "2026-07-14T04:07:19+00:00",
     "https://beebom.com/paint-and-hide-codes/": "2026-07-06T07:20:00+00:00",
     "https://beebom.com/roblox-rivals-codes/": "2026-07-06T05:37:12+00:00",
     "https://beebom.com/roblox-the-forge-codes/": "2026-07-06T05:37:57+00:00",
@@ -2098,7 +2098,7 @@
     "https://beebom.com/kingshot-codes/": "2026-07-09T06:57:00+00:00",
     "https://beebom.com/roblox-fruit-battlegrounds-codes/": "2026-07-09T07:07:49+00:00",
     "https://beebom.com/anime-final-quest-codes/": "2026-07-09T07:10:33+00:00",
-    "https://beebom.com/roblox-da-hood-codes/": "2026-07-09T07:22:56+00:00",
+    "https://beebom.com/roblox-da-hood-codes/": "2026-07-14T05:40:12+00:00",
     "https://beebom.com/pickaxe-simulator-codes/": "2026-07-09T09:18:26+00:00",
     "https://beebom.com/borderlands-4-shift-codes/": "2026-07-09T09:30:31+00:00",
     "https://beebom.com/scratchy-loot-codes/": "2026-07-09T09:37:17+00:00",
@@ -2112,7 +2112,7 @@
     "https://beebom.com/be-dino-codes/": "2026-07-10T02:00:12+00:00",
     "https://beebom.com/duel-warriors-codes/": "2026-07-10T03:09:51+00:00",
     "https://beebom.com/roblox-jailbreak-codes/": "2026-07-10T06:39:19+00:00",
-    "https://beebom.com/anime-paradox-codes/": "2026-07-10T06:40:38+00:00",
+    "https://beebom.com/anime-paradox-codes/": "2026-07-14T05:23:41+00:00",
     "https://beebom.com/plus-1-magic-evolution-codes/": "2026-07-10T06:48:30+00:00",
     "https://beebom.com/realistic-car-driving-codes/": "2026-07-10T07:56:44+00:00",
     "https://beebom.com/roblox-kaizen-codes/": "2026-07-10T08:26:42+00:00",
@@ -2197,10 +2197,10 @@
     "https://beebom.com/anime-rng-codes/": "2026-07-13T03:08:15+00:00",
     "https://beebom.com/yeet-a-brainrot-codes/": "2026-07-13T03:11:21+00:00",
     "https://beebom.com/duck-duck-codes/": "2026-07-13T03:19:15+00:00",
-    "https://beebom.com/heavyweight-fishing-codes/": "2026-07-13T03:23:50+00:00"
+    "https://beebom.com/heavyweight-fishing-codes/": "2026-07-14T04:04:28+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-14T03:12:39+00:00",
+    "post-sitemap.xml": "2026-07-14T05:40:12+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T08:38:44+00:00",
     "post-sitemap4.xml": "2018-02-26T10:10:03+00:00",
@@ -2249,7 +2249,7 @@
     "post-sitemap47.xml": "2026-03-12T17:34:20+00:00",
     "post-sitemap48.xml": "2026-05-05T11:06:15+00:00",
     "post-sitemap49.xml": "2026-06-30T21:23:00+00:00",
-    "post-sitemap50.xml": "2026-07-14T03:12:39+00:00"
+    "post-sitemap50.xml": "2026-07-14T05:40:12+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2477,7 +2477,31 @@
       "attempts": 1,
       "placeId": 121863161094252,
       "universeId": 10241922839
+    },
+    "https://beebom.com/heavyweight-fishing-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 98502499119821,
+      "universeId": 8342498724
+    },
+    "https://beebom.com/saber-unbound-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 105882032562407,
+      "universeId": 8407708933
+    },
+    "https://beebom.com/anime-paradox-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 76806550943352,
+      "universeId": 7652830984
+    },
+    "https://beebom.com/roblox-da-hood-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 2788229376,
+      "universeId": 1008451066
     }
   },
-  "updatedAt": "2026-07-14T04:00:06.310Z"
+  "updatedAt": "2026-07-14T06:00:06.264Z"
 }
