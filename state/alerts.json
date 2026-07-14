@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-14T16:45:01.236Z",
+  "generatedAt": "2026-07-14T17:15:01.252Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 374785,
+      "ccu": 379788,
       "ageDays": 53.9,
-      "rollingAvg": 360904,
-      "spikePct": 4,
+      "rollingAvg": 361680,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 339.3d (growagarden2.com, growagarden2.net)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 30428,
+      "ccu": 30646,
       "ageDays": 39,
-      "rollingAvg": 25620,
-      "spikePct": 19,
+      "rollingAvg": 25899,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11264.5d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11264.6d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 23354,
+      "ccu": 23537,
       "ageDays": 25.9,
-      "rollingAvg": 23158,
-      "spikePct": 1,
+      "rollingAvg": 23111,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
@@ -37,20 +37,20 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 52685,
+      "ccu": 51437,
       "ageDays": 18.2,
-      "rollingAvg": 46893,
-      "spikePct": 12,
+      "rollingAvg": 46898,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11264.5d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11264.6d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 21323,
+      "ccu": 21162,
       "ageDays": 44.8,
-      "rollingAvg": 22415,
+      "rollingAvg": 22313,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 38310,
+      "ccu": 38896,
       "ageDays": 20.6,
-      "rollingAvg": 29246,
-      "spikePct": 31,
+      "rollingAvg": 29269,
+      "spikePct": 33,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 4.0d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -70,9 +70,9 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 64279,
+      "ccu": 64425,
       "ageDays": 40.8,
-      "rollingAvg": 53131,
+      "rollingAvg": 53356,
       "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -80,33 +80,22 @@
     },
     {
       "source": "discover",
-      "name": "Build a Base and Steal😈",
-      "ccu": 20091,
-      "ageDays": 25.1,
-      "rollingAvg": 0,
-      "spikePct": null,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 0.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
-    },
-    {
-      "source": "discover",
       "name": "[⚔️1v1] Clean the Supermarket!",
-      "ccu": 21880,
+      "ccu": 22069,
       "ageDays": 28.9,
-      "rollingAvg": 23647,
-      "spikePct": -7,
+      "rollingAvg": 23568,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.7d (cleanthesupermarket.com, cleanthesupermarket.net)"
     },
     {
       "source": "discover",
-      "name": "[X5] +1 Speed Keyboard Escape | Candy & Chocolate",
-      "ccu": 811769,
+      "name": "[X7] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "ccu": 1212229,
       "ageDays": 177,
-      "rollingAvg": 352578,
-      "spikePct": 130,
+      "rollingAvg": 366561,
+      "spikePct": 231,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net; competitor BUILT: 1speedkeyboardescape.wiki \"1 Speed Keyboard Escape wiki, Codes &amp\", 1speedkeyboardescape.pages.dev \"1 Speed Keyboard Escape wiki, Codes &amp\""
@@ -114,10 +103,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 39457,
-      "ageDays": 465.7,
-      "rollingAvg": 39173,
-      "spikePct": 1,
+      "ccu": 38271,
+      "ageDays": 465.8,
+      "rollingAvg": 39157,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: universaltowerdefensez.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
@@ -125,10 +114,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 46976,
+      "ccu": 45871,
       "ageDays": 41.1,
-      "rollingAvg": 31322,
-      "spikePct": 50,
+      "rollingAvg": 31821,
+      "spikePct": 44,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.9d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -136,10 +125,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 29645,
+      "ccu": 28392,
       "ageDays": 216.4,
-      "rollingAvg": 25926,
-      "spikePct": 14,
+      "rollingAvg": 26053,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 8.2d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -147,24 +136,13 @@
     {
       "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 27898,
+      "ccu": 27473,
       "ageDays": 1864,
-      "rollingAvg": 24906,
-      "spikePct": 12,
+      "rollingAvg": 24966,
+      "spikePct": 10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.7d (hazeseas.com, hazeseas.net); .com registered 13.7d ago"
-    },
-    {
-      "source": "discover",
-      "name": "[⛰️] Mine a Mountain",
-      "ccu": 21194,
-      "ageDays": 56.9,
-      "rollingAvg": 23426,
-      "spikePct": -10,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: mineamountain.net; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
     }
   ]
 }
