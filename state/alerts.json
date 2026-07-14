@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-14T03:15:02.502Z",
+  "generatedAt": "2026-07-14T03:45:03.015Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 343975,
+      "ccu": 347934,
       "ageDays": 53.3,
-      "rollingAvg": 352418,
-      "spikePct": -2,
+      "rollingAvg": 352347,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 338.7d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 27757,
+      "ccu": 29249,
       "ageDays": 38.4,
-      "rollingAvg": 24700,
-      "spikePct": 12,
+      "rollingAvg": 24809,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11264.0d (chameleon.com, chameleon.net)"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 42092,
-      "ageDays": 17.6,
-      "rollingAvg": 61595,
+      "ccu": 41521,
+      "ageDays": 17.7,
+      "rollingAvg": 61281,
       "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,31 +37,31 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 26390,
-      "ageDays": 20,
-      "rollingAvg": 40221,
-      "spikePct": -34,
+      "ccu": 25497,
+      "ageDays": 20.1,
+      "rollingAvg": 40076,
+      "spikePct": -36,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 3.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 3.5d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 43925,
+      "ccu": 43777,
       "ageDays": 40.3,
-      "rollingAvg": 62446,
-      "spikePct": -30,
+      "rollingAvg": 62030,
+      "spikePct": -29,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4662.1d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4662.2d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 38413,
+      "ccu": 38101,
       "ageDays": 465.2,
-      "rollingAvg": 44601,
+      "rollingAvg": 44359,
       "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -70,35 +70,35 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 23777,
+      "ccu": 23609,
       "ageDays": 40.6,
-      "rollingAvg": 32716,
-      "spikePct": -27,
+      "rollingAvg": 32625,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 16.3d (buildasoccersquad.com, buildasoccersquad.net)"
+      "detail": "both taken, oldest 16.4d (buildasoccersquad.com, buildasoccersquad.net)"
     },
     {
       "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 24252,
-      "ageDays": 1863.4,
-      "rollingAvg": 27373,
-      "spikePct": -11,
+      "ccu": 23680,
+      "ageDays": 1863.5,
+      "rollingAvg": 27354,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 13.1d (hazeseas.com, hazeseas.net); .com registered 13.1d ago"
+      "detail": "both taken, oldest 13.2d (hazeseas.com, hazeseas.net); .com registered 13.2d ago"
     },
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 22940,
+      "ccu": 22841,
       "ageDays": 215.9,
-      "rollingAvg": 27326,
+      "rollingAvg": 27271,
       "spikePct": -16,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 7.6d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: beafishbait.net; .com registered 7.7d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     }
   ]
 }
