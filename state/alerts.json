@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-14T17:15:01.252Z",
+  "generatedAt": "2026-07-14T17:45:03.819Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 379788,
+      "ccu": 364684,
       "ageDays": 53.9,
-      "rollingAvg": 361680,
-      "spikePct": 5,
+      "rollingAvg": 362743,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 339.3d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 30646,
+      "ccu": 31350,
       "ageDays": 39,
-      "rollingAvg": 25899,
-      "spikePct": 18,
+      "rollingAvg": 26000,
+      "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11264.6d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 23537,
+      "ccu": 24420,
       "ageDays": 25.9,
-      "rollingAvg": 23111,
-      "spikePct": 2,
+      "rollingAvg": 23089,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 51437,
+      "ccu": 50717,
       "ageDays": 18.2,
-      "rollingAvg": 46898,
-      "spikePct": 10,
+      "rollingAvg": 46901,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11264.6d (chameleon.com, chameleon.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 21162,
-      "ageDays": 44.8,
-      "rollingAvg": 22313,
-      "spikePct": -5,
+      "ccu": 21512,
+      "ageDays": 44.9,
+      "rollingAvg": 22235,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: survive7daysinarctic.com, survive7daysinarctic.net; competitor BUILT: survive7daysinarctic.online \"Survive 7 Days In Arctic Wiki, Codes &am\", survive7daysinarctic.wiki \"Survive 7 Days In Arctic Wiki — Guides, \", survive-7-days-in-arctic.wiki \"Survive 7 Days In Arctic Wiki Roblox Gui\" +3 more"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 38896,
+      "ccu": 39181,
       "ageDays": 20.6,
-      "rollingAvg": 29269,
-      "spikePct": 33,
+      "rollingAvg": 29331,
+      "spikePct": 34,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 4.0d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -70,32 +70,32 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 64425,
-      "ageDays": 40.8,
-      "rollingAvg": 53356,
-      "spikePct": 21,
+      "ccu": 63627,
+      "ageDays": 40.9,
+      "rollingAvg": 53608,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4662.7d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4662.8d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "[⚔️1v1] Clean the Supermarket!",
-      "ccu": 22069,
+      "ccu": 22264,
       "ageDays": 28.9,
-      "rollingAvg": 23568,
-      "spikePct": -6,
+      "rollingAvg": 23527,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.7d (cleanthesupermarket.com, cleanthesupermarket.net)"
     },
     {
       "source": "discover",
-      "name": "[X7] +1 Speed Keyboard Escape | Candy & Chocolate",
-      "ccu": 1212229,
+      "name": "[X10] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "ccu": 1868316,
       "ageDays": 177,
-      "rollingAvg": 366561,
-      "spikePct": 231,
+      "rollingAvg": 391377,
+      "spikePct": 377,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net; competitor BUILT: 1speedkeyboardescape.wiki \"1 Speed Keyboard Escape wiki, Codes &amp\", 1speedkeyboardescape.pages.dev \"1 Speed Keyboard Escape wiki, Codes &amp\""
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 38271,
+      "ccu": 37135,
       "ageDays": 465.8,
-      "rollingAvg": 39157,
-      "spikePct": -2,
+      "rollingAvg": 39132,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: universaltowerdefensez.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
@@ -114,10 +114,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 45871,
-      "ageDays": 41.1,
-      "rollingAvg": 31821,
-      "spikePct": 44,
+      "ccu": 45068,
+      "ageDays": 41.2,
+      "rollingAvg": 32334,
+      "spikePct": 39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.9d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -125,10 +125,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 28392,
-      "ageDays": 216.4,
-      "rollingAvg": 26053,
-      "spikePct": 9,
+      "ccu": 27530,
+      "ageDays": 216.5,
+      "rollingAvg": 26165,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 8.2d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -136,13 +136,13 @@
     {
       "source": "discover",
       "name": "Haze Seas [DRAGON HYBRID]",
-      "ccu": 27473,
+      "ccu": 26660,
       "ageDays": 1864,
-      "rollingAvg": 24966,
-      "spikePct": 10,
+      "rollingAvg": 25024,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 13.7d (hazeseas.com, hazeseas.net); .com registered 13.7d ago"
+      "detail": "both taken, oldest 13.8d (hazeseas.com, hazeseas.net); .com registered 13.8d ago"
     }
   ]
 }
