@@ -2198,7 +2198,7 @@
     "https://beebom.com/reign-piece-codes/": "2026-07-12T19:05:15+00:00",
     "https://beebom.com/roblox-fistborn-codes/": "2026-07-12T19:06:56+00:00",
     "https://beebom.com/ultimate-tower-defense-codes/": "2026-07-12T19:10:35+00:00",
-    "https://beebom.com/gakuran-codes/": "2026-07-14T20:55:09+00:00",
+    "https://beebom.com/gakuran-codes/": "2026-07-15T01:04:06+00:00",
     "https://beebom.com/demon-born-codes/": "2026-07-13T02:30:51+00:00",
     "https://beebom.com/lineage-piece-codes/": "2026-07-13T03:01:59+00:00",
     "https://beebom.com/roblox-ink-game-codes/": "2026-07-13T03:05:01+00:00",
@@ -2216,7 +2216,7 @@
     "https://beebom.com/roll-to-defend-codes/": "2026-07-14T22:38:39+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-14T22:47:58+00:00",
+    "post-sitemap.xml": "2026-07-15T01:04:06+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T08:38:44+00:00",
     "post-sitemap4.xml": "2018-02-26T10:10:03+00:00",
@@ -2265,7 +2265,7 @@
     "post-sitemap47.xml": "2026-03-12T19:45:29+00:00",
     "post-sitemap48.xml": "2026-05-05T11:19:50+00:00",
     "post-sitemap49.xml": "2026-06-30T21:35:43+00:00",
-    "post-sitemap50.xml": "2026-07-14T22:47:58+00:00"
+    "post-sitemap50.xml": "2026-07-15T01:04:06+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2598,7 +2598,7 @@
     },
     "https://beebom.com/gakuran-codes/": {
       "status": "done",
-      "attempts": 2,
+      "attempts": 3,
       "placeId": 128736949265057,
       "universeId": 9199655655
     },
@@ -2681,5 +2681,5 @@
       "universeId": 8321616508
     }
   },
-  "updatedAt": "2026-07-15T00:00:03.120Z"
+  "updatedAt": "2026-07-15T02:00:05.476Z"
 }
