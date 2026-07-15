@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-15T23:15:01.665Z",
+  "generatedAt": "2026-07-15T23:45:04.665Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 389485,
-      "ageDays": 55.1,
-      "rollingAvg": 395349,
-      "spikePct": -1,
+      "ccu": 389296,
+      "ageDays": 55.2,
+      "rollingAvg": 396410,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 340.5d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 340.6d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 32619,
-      "ageDays": 40.2,
-      "rollingAvg": 32257,
-      "spikePct": 1,
+      "ccu": 32227,
+      "ageDays": 40.3,
+      "rollingAvg": 32326,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.8d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 23967,
+      "ccu": 24212,
       "ageDays": 27.2,
-      "rollingAvg": 24800,
-      "spikePct": -3,
+      "rollingAvg": 24805,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 52138,
+      "ccu": 52106,
       "ageDays": 42.1,
-      "rollingAvg": 59678,
+      "rollingAvg": 59907,
       "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 20611,
+      "ccu": 31128,
       "ageDays": 26.4,
-      "rollingAvg": 21497,
-      "spikePct": -4,
+      "rollingAvg": 21408,
+      "spikePct": 45,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 1.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 33800,
+      "ccu": 33554,
       "ageDays": 21.9,
-      "rollingAvg": 32972,
-      "spikePct": 3,
+      "rollingAvg": 33322,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 5.3d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 30316,
+      "ccu": 31016,
       "ageDays": 19.5,
-      "rollingAvg": 36776,
-      "spikePct": -18,
+      "rollingAvg": 36775,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.8d (chameleon.com, chameleon.net)"
@@ -81,13 +81,13 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 26573,
+      "ccu": 26119,
       "ageDays": 467,
-      "rollingAvg": 32781,
-      "spikePct": -19,
+      "rollingAvg": 32587,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: universaltowerdefensez.net; .com registered 1.9d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
+      "detail": "available: universaltowerdefensez.net; .com registered 2.0d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
     }
   ]
 }
