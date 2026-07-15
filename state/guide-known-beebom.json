@@ -1105,7 +1105,9 @@
     "https://beebom.com/naramo-nuclear-plant-codes/",
     "https://beebom.com/be-the-final-boss-codes/",
     "https://beebom.com/build-a-keyboard-codes/",
-    "https://beebom.com/roll-to-defend-codes/"
+    "https://beebom.com/roll-to-defend-codes/",
+    "https://beebom.com/level-your-weapon-codes/",
+    "https://beebom.com/my-boba-store-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -1690,7 +1692,7 @@
     "https://beebom.com/universal-piece-codes/": "2026-05-09T14:04:13+00:00",
     "https://beebom.com/roblox-car-dealership-tycoon-codes/": "2026-05-09T19:05:25+00:00",
     "https://beebom.com/roblox-doodle-world-codes/": "2026-05-09T19:08:32+00:00",
-    "https://beebom.com/roblox-yeet-a-friend-codes/": "2026-05-12T12:40:29+00:00",
+    "https://beebom.com/roblox-yeet-a-friend-codes/": "2026-07-15T09:04:54+00:00",
     "https://beebom.com/throw-a-basketball-codes/": "2026-05-14T05:41:37+00:00",
     "https://beebom.com/roblox-subterra-codes/": "2026-05-14T07:07:16+00:00",
     "https://beebom.com/subnautica-2-console-commands-and-cheat-codes/": "2026-05-15T05:17:58+00:00",
@@ -2005,7 +2007,7 @@
     "https://beebom.com/superstar-baseball-codes/": "2026-07-04T19:48:08+00:00",
     "https://beebom.com/fish-it-codes/": "2026-07-05T11:46:26+00:00",
     "https://beebom.com/special-anime-defense-codes/": "2026-07-05T16:29:35+00:00",
-    "https://beebom.com/fortnite-steal-the-brainrot-codes/": "2026-07-05T19:05:18+00:00",
+    "https://beebom.com/fortnite-steal-the-brainrot-codes/": "2026-07-15T07:33:21+00:00",
     "https://beebom.com/roblox-8-ball-x-codes/": "2026-07-06T02:08:56+00:00",
     "https://beebom.com/saber-unbound-codes/": "2026-07-14T04:07:19+00:00",
     "https://beebom.com/paint-and-hide-codes/": "2026-07-06T07:20:00+00:00",
@@ -2213,10 +2215,12 @@
     "https://beebom.com/naramo-nuclear-plant-codes/": "2026-07-15T04:26:15+00:00",
     "https://beebom.com/be-the-final-boss-codes/": "2026-07-14T14:19:00+00:00",
     "https://beebom.com/build-a-keyboard-codes/": "2026-07-14T21:18:43+00:00",
-    "https://beebom.com/roll-to-defend-codes/": "2026-07-14T22:38:39+00:00"
+    "https://beebom.com/roll-to-defend-codes/": "2026-07-14T22:38:39+00:00",
+    "https://beebom.com/level-your-weapon-codes/": "2026-07-15T08:37:36+00:00",
+    "https://beebom.com/my-boba-store-codes/": "2026-07-15T09:11:14+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-15T06:28:36+00:00",
+    "post-sitemap.xml": "2026-07-15T09:04:54+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T08:38:44+00:00",
     "post-sitemap4.xml": "2018-02-26T10:10:03+00:00",
@@ -2264,8 +2268,8 @@
     "post-sitemap46.xml": "2026-01-31T21:10:12+00:00",
     "post-sitemap47.xml": "2026-03-12T19:45:29+00:00",
     "post-sitemap48.xml": "2026-05-05T12:06:18+00:00",
-    "post-sitemap49.xml": "2026-06-30T21:56:43+00:00",
-    "post-sitemap50.xml": "2026-07-15T06:28:36+00:00"
+    "post-sitemap49.xml": "2026-06-30T21:56:50+00:00",
+    "post-sitemap50.xml": "2026-07-15T09:04:54+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2727,7 +2731,25 @@
       "attempts": 1,
       "placeId": 14067600077,
       "universeId": 4871329703
+    },
+    "https://beebom.com/level-your-weapon-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 131372854229024,
+      "universeId": 9646739021
+    },
+    "https://beebom.com/my-boba-store-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 82338394608938,
+      "universeId": 9669550807
+    },
+    "https://beebom.com/roblox-yeet-a-friend-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 11708967881,
+      "universeId": 4147392742
     }
   },
-  "updatedAt": "2026-07-15T08:00:04.382Z"
+  "updatedAt": "2026-07-15T10:00:04.336Z"
 }
