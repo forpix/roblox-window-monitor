@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-15T10:45:01.975Z",
+  "generatedAt": "2026-07-15T11:15:05.258Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 416505,
+      "ccu": 408001,
       "ageDays": 54.6,
-      "rollingAvg": 363005,
-      "spikePct": 15,
+      "rollingAvg": 364163,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 340.0d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 26077,
+      "ccu": 27120,
       "ageDays": 39.7,
-      "rollingAvg": 25974,
-      "spikePct": 0,
+      "rollingAvg": 26126,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.3d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 60578,
+      "ccu": 63354,
       "ageDays": 41.6,
-      "rollingAvg": 53016,
-      "spikePct": 14,
+      "rollingAvg": 52913,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4663.5d (drainthelake.com, drainthelake.net)"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 32266,
+      "ccu": 33552,
       "ageDays": 21.4,
-      "rollingAvg": 29534,
-      "spikePct": 9,
+      "rollingAvg": 29366,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 4.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 4.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 35980,
-      "ageDays": 18.9,
-      "rollingAvg": 37658,
-      "spikePct": -4,
+      "ccu": 38700,
+      "ageDays": 19,
+      "rollingAvg": 37194,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.3d (chameleon.com, chameleon.net)"
@@ -59,24 +59,35 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 33672,
+      "ccu": 33713,
       "ageDays": 466.5,
-      "rollingAvg": 34033,
-      "spikePct": -1,
+      "rollingAvg": 33872,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 1.4d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
     },
     {
       "source": "discover",
-      "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 25628,
-      "ageDays": 217.2,
-      "rollingAvg": 23625,
-      "spikePct": 8,
+      "name": "Missiles vs Cities",
+      "ccu": 21382,
+      "ageDays": 45.3,
+      "rollingAvg": 0,
+      "spikePct": null,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 8.9d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: missilesvscities.net; .com registered 7.7d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
+    },
+    {
+      "source": "discover",
+      "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
+      "ccu": 26520,
+      "ageDays": 217.2,
+      "rollingAvg": 23514,
+      "spikePct": 13,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: beafishbait.net; .com registered 9.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     }
   ]
 }
