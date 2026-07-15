@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-15T07:15:01.971Z",
+  "generatedAt": "2026-07-15T07:45:07.203Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 385132,
+      "ccu": 382710,
       "ageDays": 54.5,
-      "rollingAvg": 360111,
-      "spikePct": 7,
+      "rollingAvg": 361002,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 339.9d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 47919,
+      "ccu": 48908,
       "ageDays": 41.4,
-      "rollingAvg": 55505,
-      "spikePct": -14,
+      "rollingAvg": 55000,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4663.3d (drainthelake.com, drainthelake.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 22336,
+      "ccu": 22549,
       "ageDays": 21.2,
-      "rollingAvg": 31569,
-      "spikePct": -29,
+      "rollingAvg": 31285,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 4.6d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -37,20 +37,20 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 30733,
+      "ccu": 31570,
       "ageDays": 18.8,
-      "rollingAvg": 42289,
-      "spikePct": -27,
+      "rollingAvg": 41487,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11265.1d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11265.2d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 32896,
+      "ccu": 32679,
       "ageDays": 466.4,
-      "rollingAvg": 35516,
+      "rollingAvg": 35309,
       "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 23325,
+      "ccu": 23287,
       "ageDays": 217,
-      "rollingAvg": 25112,
-      "spikePct": -7,
+      "rollingAvg": 24875,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 8.8d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
