@@ -4348,7 +4348,11 @@
     "https://tryhardguides.com/soccer-training-codes/",
     "https://tryhardguides.com/trench-ww1-codes/",
     "https://tryhardguides.com/lurking-giants-codes/",
-    "https://tryhardguides.com/redliner-codes/"
+    "https://tryhardguides.com/redliner-codes/",
+    "https://tryhardguides.com/tr-legacy-codes/",
+    "https://tryhardguides.com/anime-souls-codes/",
+    "https://tryhardguides.com/roll-anime-to-fight-codes/",
+    "https://tryhardguides.com/clean-the-squishies-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-07-12T21:03:10+00:00",
@@ -8699,10 +8703,14 @@
     "https://tryhardguides.com/soccer-training-codes/": "2026-07-14T11:52:00+00:00",
     "https://tryhardguides.com/trench-ww1-codes/": "2026-07-14T11:37:00+00:00",
     "https://tryhardguides.com/lurking-giants-codes/": "2026-07-14T11:22:00+00:00",
-    "https://tryhardguides.com/redliner-codes/": "2026-07-14T11:07:00+00:00"
+    "https://tryhardguides.com/redliner-codes/": "2026-07-14T11:07:00+00:00",
+    "https://tryhardguides.com/tr-legacy-codes/": "2026-07-15T11:52:00+00:00",
+    "https://tryhardguides.com/anime-souls-codes/": "2026-07-15T11:37:00+00:00",
+    "https://tryhardguides.com/roll-anime-to-fight-codes/": "2026-07-15T11:22:00+00:00",
+    "https://tryhardguides.com/clean-the-squishies-codes/": "2026-07-15T11:07:00+00:00"
   },
   "childLastmods": {
-    "post-sitemap-2026-29.xml": "2026-07-15T10:00:16+00:00",
+    "post-sitemap-2026-29.xml": "2026-07-15T12:00:11+00:00",
     "post-sitemap-2026-28.xml": "2026-07-12T23:59:59+00:00",
     "post-sitemap-2026-27.xml": "2026-07-05T23:59:59+00:00",
     "post-sitemap-2026-26.xml": "2026-06-28T23:59:59+00:00",
@@ -10527,7 +10535,25 @@
       "attempts": 1,
       "placeId": 6299805723,
       "universeId": 2324662457
+    },
+    "https://tryhardguides.com/tr-legacy-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 127089247654125,
+      "universeId": 8813969120
+    },
+    "https://tryhardguides.com/anime-souls-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 118884500321949,
+      "universeId": 10385510755
+    },
+    "https://tryhardguides.com/roll-anime-to-fight-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 107653945083776,
+      "universeId": 10298144467
     }
   },
-  "updatedAt": "2026-07-15T10:00:04.336Z"
+  "updatedAt": "2026-07-15T12:00:03.298Z"
 }
