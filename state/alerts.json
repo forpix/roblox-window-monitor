@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-15T12:45:05.648Z",
+  "generatedAt": "2026-07-15T13:15:02.575Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 414865,
+      "ccu": 409174,
       "ageDays": 54.7,
-      "rollingAvg": 368597,
-      "spikePct": 13,
+      "rollingAvg": 370125,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 340.1d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 36516,
+      "ccu": 37809,
       "ageDays": 39.8,
-      "rollingAvg": 26864,
-      "spikePct": 36,
+      "rollingAvg": 27279,
+      "spikePct": 39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.4d (chameleon.com, chameleon.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 69423,
+      "ccu": 70216,
       "ageDays": 41.7,
-      "rollingAvg": 53182,
+      "rollingAvg": 53465,
       "spikePct": 31,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4663.5d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4663.6d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "Survive 7 Days In Arctic [Alpha]",
-      "ccu": 20098,
-      "ageDays": 45.6,
-      "rollingAvg": 21935,
-      "spikePct": -8,
+      "ccu": 20623,
+      "ageDays": 45.7,
+      "rollingAvg": 21845,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: survive7daysinarctic.com, survive7daysinarctic.net; competitor BUILT: survive7daysinarctic.online \"Survive 7 Days In Arctic Wiki, Codes &am\", survive7daysinarctic.wiki \"Survive 7 Days In Arctic Wiki — Guides, \", survive-7-days-in-arctic.wiki \"Survive 7 Days In Arctic Wiki Roblox Gui\" +3 more"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 33158,
-      "ageDays": 21.4,
-      "rollingAvg": 28991,
-      "spikePct": 14,
+      "ccu": 33145,
+      "ageDays": 21.5,
+      "rollingAvg": 28861,
+      "spikePct": 15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 4.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 45379,
-      "ageDays": 19,
-      "rollingAvg": 36471,
-      "spikePct": 24,
+      "ccu": 45663,
+      "ageDays": 19.1,
+      "rollingAvg": 36449,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.4d (chameleon.com, chameleon.net)"
@@ -70,9 +70,9 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 34398,
+      "ccu": 34106,
       "ageDays": 466.6,
-      "rollingAvg": 33599,
+      "rollingAvg": 33560,
       "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 24205,
+      "ccu": 24399,
       "ageDays": 45.4,
-      "rollingAvg": 22431,
-      "spikePct": 8,
+      "rollingAvg": 22875,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 7.8d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -92,9 +92,9 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 29847,
+      "ccu": 30075,
       "ageDays": 217.3,
-      "rollingAvg": 23566,
+      "rollingAvg": 23712,
       "spikePct": 27,
       "gate": "C:fresh-com",
       "verdict": "RED",
