@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-15T01:45:05.407Z",
+  "generatedAt": "2026-07-15T02:15:01.863Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 364914,
-      "ageDays": 54.2,
-      "rollingAvg": 364218,
-      "spikePct": 0,
+      "ccu": 374916,
+      "ageDays": 54.3,
+      "rollingAvg": 364374,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 339.6d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 339.7d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 21574,
+      "ccu": 20032,
       "ageDays": 26.3,
-      "rollingAvg": 24302,
-      "spikePct": -11,
+      "rollingAvg": 24180,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 35773,
+      "ccu": 34766,
       "ageDays": 18.6,
-      "rollingAvg": 46835,
-      "spikePct": -24,
+      "rollingAvg": 46774,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11264.9d (chameleon.com, chameleon.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 48639,
+      "ccu": 47050,
       "ageDays": 41.2,
-      "rollingAvg": 58319,
-      "spikePct": -17,
+      "rollingAvg": 58382,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4663.1d (drainthelake.com, drainthelake.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 27753,
+      "ccu": 26829,
       "ageDays": 21,
-      "rollingAvg": 32547,
-      "spikePct": -15,
+      "rollingAvg": 32678,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 4.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 38405,
+      "ccu": 38069,
       "ageDays": 466.1,
-      "rollingAvg": 36949,
-      "spikePct": 4,
+      "rollingAvg": 36950,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 1.1d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [⭐]",
-      "ccu": 29335,
+      "ccu": 28732,
       "ageDays": 41.5,
-      "rollingAvg": 37723,
-      "spikePct": -22,
+      "rollingAvg": 37816,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 17.3d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 21941,
+      "ccu": 21789,
       "ageDays": 216.8,
-      "rollingAvg": 26617,
+      "rollingAvg": 26580,
       "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
