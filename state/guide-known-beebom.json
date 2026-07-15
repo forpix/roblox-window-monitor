@@ -1110,7 +1110,8 @@
     "https://beebom.com/my-boba-store-codes/",
     "https://beebom.com/prior-extinction-codes/",
     "https://beebom.com/anime-expeditions-codes/",
-    "https://beebom.com/roblox-final-swarm-codes/"
+    "https://beebom.com/roblox-final-swarm-codes/",
+    "https://beebom.com/mine-a-planet-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2094,7 +2095,7 @@
     "https://beebom.com/ball-game-codes/": "2026-07-08T16:45:11+00:00",
     "https://beebom.com/giant-simulator-reborn-codes/": "2026-07-08T17:48:40+00:00",
     "https://beebom.com/anime-fighting-simulator-endless-codes/": "2026-07-08T14:58:05+00:00",
-    "https://beebom.com/anime-astral-simulator-codes/": "2026-07-08T15:22:53+00:00",
+    "https://beebom.com/anime-astral-simulator-codes/": "2026-07-15T20:32:35+00:00",
     "https://beebom.com/airdrop-arena-codes/": "2026-07-08T19:49:05+00:00",
     "https://beebom.com/spin-a-car-codes/": "2026-07-09T01:51:15+00:00",
     "https://beebom.com/dragon-blox-codes/": "2026-07-09T02:38:11+00:00",
@@ -2223,10 +2224,11 @@
     "https://beebom.com/my-boba-store-codes/": "2026-07-15T09:11:14+00:00",
     "https://beebom.com/prior-extinction-codes/": "2026-07-15T09:46:00+00:00",
     "https://beebom.com/anime-expeditions-codes/": "2026-07-15T16:37:07+00:00",
-    "https://beebom.com/roblox-final-swarm-codes/": "2026-07-15T19:05:45+00:00"
+    "https://beebom.com/roblox-final-swarm-codes/": "2026-07-15T19:05:45+00:00",
+    "https://beebom.com/mine-a-planet-codes/": "2026-07-15T20:14:57+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-15T19:05:45+00:00",
+    "post-sitemap.xml": "2026-07-15T20:56:51+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T08:38:44+00:00",
     "post-sitemap4.xml": "2018-02-26T10:10:03+00:00",
@@ -2275,7 +2277,7 @@
     "post-sitemap47.xml": "2026-03-12T19:45:29+00:00",
     "post-sitemap48.xml": "2026-05-05T12:06:18+00:00",
     "post-sitemap49.xml": "2026-06-30T22:01:00+00:00",
-    "post-sitemap50.xml": "2026-07-15T19:05:45+00:00"
+    "post-sitemap50.xml": "2026-07-15T20:56:51+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2797,7 +2799,19 @@
       "attempts": 1,
       "placeId": 99521272836282,
       "universeId": 9551044479
+    },
+    "https://beebom.com/mine-a-planet-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 121125129560252,
+      "universeId": 10406668651
+    },
+    "https://beebom.com/anime-astral-simulator-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 113236157544232,
+      "universeId": 9797806474
     }
   },
-  "updatedAt": "2026-07-15T20:00:06.342Z"
+  "updatedAt": "2026-07-15T22:00:05.074Z"
 }
