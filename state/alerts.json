@@ -1,34 +1,23 @@
 {
-  "generatedAt": "2026-07-15T05:45:03.689Z",
+  "generatedAt": "2026-07-15T06:15:04.837Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 357718,
+      "ccu": 381484,
       "ageDays": 54.4,
-      "rollingAvg": 360959,
-      "spikePct": -1,
+      "rollingAvg": 359968,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 339.8d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
-      "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 30495,
-      "ageDays": 18.7,
-      "rollingAvg": 44433,
-      "spikePct": -31,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "both taken, oldest 11265.1d (chameleon.com, chameleon.net)"
-    },
-    {
-      "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 44744,
+      "ccu": 44523,
       "ageDays": 41.4,
-      "rollingAvg": 56959,
+      "rollingAvg": 56548,
       "spikePct": -21,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -36,22 +25,33 @@
     },
     {
       "source": "discover",
+      "name": "[BACKROOMS!]🦎 Chameleon!",
+      "ccu": 29476,
+      "ageDays": 18.8,
+      "rollingAvg": 43797,
+      "spikePct": -33,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 11265.1d (chameleon.com, chameleon.net)"
+    },
+    {
+      "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 21109,
-      "ageDays": 21.1,
-      "rollingAvg": 32364,
+      "ccu": 20780,
+      "ageDays": 21.2,
+      "rollingAvg": 32121,
       "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 4.5d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 4.6d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 32903,
+      "ccu": 33233,
       "ageDays": 466.3,
-      "rollingAvg": 36137,
-      "spikePct": -9,
+      "rollingAvg": 35924,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 1.2d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
@@ -59,13 +59,13 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 22452,
+      "ccu": 22788,
       "ageDays": 217,
-      "rollingAvg": 25763,
-      "spikePct": -13,
+      "rollingAvg": 25561,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 8.7d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: beafishbait.net; .com registered 8.8d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     }
   ]
 }
