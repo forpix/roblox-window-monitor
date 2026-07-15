@@ -487,12 +487,8 @@
     "name": "Grow a Garden 2",
     "slug": "growagarden2",
     "source": "watch",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
-      {
-        "t": 1784074501279,
-        "playing": 337951
-      },
       {
         "t": 1784076303030,
         "playing": 339687
@@ -632,6 +628,10 @@
       {
         "t": 1784137503470,
         "playing": 392427
+      },
+      {
+        "t": 1784139301245,
+        "playing": 392465
       }
     ],
     "lastVerdict": "RED"
@@ -1864,12 +1864,8 @@
     "name": "🪣 Drain the Lake",
     "slug": "drainthelake",
     "source": "discover",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
-      {
-        "t": 1784074501279,
-        "playing": 51144
-      },
       {
         "t": 1784076303030,
         "playing": 50504
@@ -2009,6 +2005,10 @@
       {
         "t": 1784137503470,
         "playing": 68702
+      },
+      {
+        "t": 1784139301245,
+        "playing": 68095
       }
     ],
     "lastVerdict": "RED"
@@ -2323,12 +2323,8 @@
     "name": "[BACKROOMS!]🦎 Chameleon!",
     "slug": "chameleon",
     "source": "discover",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
-      {
-        "t": 1784074501279,
-        "playing": 37315
-      },
       {
         "t": 1784076303030,
         "playing": 37378
@@ -2468,6 +2464,10 @@
       {
         "t": 1784137503470,
         "playing": 43045
+      },
+      {
+        "t": 1784139301245,
+        "playing": 41100
       }
     ],
     "lastVerdict": "RED"
@@ -2476,12 +2476,8 @@
     "name": "Survive 7 Days In Arctic [Alpha]",
     "slug": "survive7daysinarctic",
     "source": "discover",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
-      {
-        "t": 1783966502440,
-        "playing": 23191
-      },
       {
         "t": 1783968302317,
         "playing": 23527
@@ -2621,6 +2617,10 @@
       {
         "t": 1784137503470,
         "playing": 22667
+      },
+      {
+        "t": 1784139301245,
+        "playing": 22471
       }
     ],
     "lastVerdict": "RED"
@@ -2782,12 +2782,8 @@
     "name": "[AURA!] Clean the Squishies!",
     "slug": "cleanthesquishies",
     "source": "discover",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
-      {
-        "t": 1784074501279,
-        "playing": 28760
-      },
       {
         "t": 1784076303030,
         "playing": 27947
@@ -2927,6 +2923,10 @@
       {
         "t": 1784137503470,
         "playing": 39124
+      },
+      {
+        "t": 1784139301245,
+        "playing": 40935
       }
     ],
     "lastVerdict": "RED"
@@ -3853,12 +3853,8 @@
     "name": "Experience Abstraction",
     "slug": "experienceabstraction",
     "source": "discover",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
-      {
-        "t": 1783986303381,
-        "playing": 22622
-      },
       {
         "t": 1783988102314,
         "playing": 24676
@@ -3998,6 +3994,10 @@
       {
         "t": 1784137503470,
         "playing": 28981
+      },
+      {
+        "t": 1784139301245,
+        "playing": 27491
       }
     ],
     "lastVerdict": "CHECK"
@@ -4006,12 +4006,8 @@
     "name": "[SUMMER MAP!] Chameleon",
     "slug": "chameleon",
     "source": "discover",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
-      {
-        "t": 1784043904042,
-        "playing": 29220
-      },
       {
         "t": 1784045701246,
         "playing": 28977
@@ -4151,6 +4147,10 @@
       {
         "t": 1784137503470,
         "playing": 40890
+      },
+      {
+        "t": 1784139301245,
+        "playing": 39918
       }
     ],
     "lastVerdict": "RED"
@@ -4796,7 +4796,7 @@
     "name": "Build a Base and Steal😈",
     "slug": "buildabaseandsteal",
     "source": "discover",
-    "lastSeen": 1784137503470,
+    "lastSeen": 1784139301245,
     "history": [
       {
         "t": 1784047501236,
@@ -4829,6 +4829,10 @@
       {
         "t": 1784137503470,
         "playing": 23125
+      },
+      {
+        "t": 1784139301245,
+        "playing": 22094
       }
     ],
     "lastVerdict": "RED"
