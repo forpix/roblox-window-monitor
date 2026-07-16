@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-16T11:15:04.910Z",
+  "generatedAt": "2026-07-16T11:45:02.206Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 420613,
-      "ageDays": 55.6,
-      "rollingAvg": 381509,
+      "ccu": 421516,
+      "ageDays": 55.7,
+      "rollingAvg": 382435,
       "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 341.0d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 341.1d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 26716,
-      "ageDays": 40.7,
-      "rollingAvg": 29645,
-      "spikePct": -10,
+      "ccu": 28098,
+      "ageDays": 40.8,
+      "rollingAvg": 29273,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11266.3d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 50524,
+      "ccu": 52917,
       "ageDays": 42.6,
-      "rollingAvg": 50148,
-      "spikePct": 1,
+      "rollingAvg": 49673,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4664.5d (drainthelake.com, drainthelake.net)"
@@ -37,21 +37,32 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 29273,
+      "ccu": 30239,
       "ageDays": 22.4,
-      "rollingAvg": 32458,
-      "spikePct": -10,
+      "rollingAvg": 32211,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 5.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
+      "name": "[RETURN + UPD6] Anime Astral Simulator",
+      "ccu": 33563,
+      "ageDays": 1.8,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
+    },
+    {
+      "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 35049,
+      "ccu": 38849,
       "ageDays": 20,
-      "rollingAvg": 30167,
-      "spikePct": 16,
+      "rollingAvg": 29954,
+      "spikePct": 30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11266.3d (chameleon.com, chameleon.net)"
@@ -59,21 +70,21 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 25254,
+      "ccu": 25371,
       "ageDays": 467.5,
-      "rollingAvg": 26773,
-      "spikePct": -6,
+      "rollingAvg": 26526,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: universaltowerdefensez.net; .com registered 2.4d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
+      "detail": "available: universaltowerdefensez.net; .com registered 2.5d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
     },
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 22294,
+      "ccu": 23118,
       "ageDays": 46.3,
-      "rollingAvg": 23487,
-      "spikePct": -5,
+      "rollingAvg": 23437,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 8.7d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -81,10 +92,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 27630,
+      "ccu": 29232,
       "ageDays": 218.2,
-      "rollingAvg": 25246,
-      "spikePct": 9,
+      "rollingAvg": 25302,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 10.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
