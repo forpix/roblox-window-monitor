@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-16T02:15:03.334Z",
+  "generatedAt": "2026-07-16T02:45:06.768Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 410500,
+      "ccu": 390286,
       "ageDays": 55.3,
-      "rollingAvg": 398816,
-      "spikePct": 3,
+      "rollingAvg": 399527,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 340.7d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 30623,
+      "ccu": 30256,
       "ageDays": 40.4,
-      "rollingAvg": 33463,
-      "spikePct": -8,
+      "rollingAvg": 33705,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.9d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 43499,
+      "ccu": 42473,
       "ageDays": 42.2,
-      "rollingAvg": 59956,
-      "spikePct": -27,
+      "rollingAvg": 59792,
+      "spikePct": -29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4664.1d (drainthelake.com, drainthelake.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 32194,
+      "ccu": 31174,
       "ageDays": 22,
-      "rollingAvg": 34713,
-      "spikePct": -7,
+      "rollingAvg": 34961,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 5.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 29134,
+      "ccu": 28337,
       "ageDays": 19.6,
-      "rollingAvg": 36748,
-      "spikePct": -21,
+      "rollingAvg": 36694,
+      "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.9d (chameleon.com, chameleon.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 25543,
-      "ageDays": 467.1,
-      "rollingAvg": 31542,
-      "spikePct": -19,
+      "ccu": 25774,
+      "ageDays": 467.2,
+      "rollingAvg": 31343,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 2.1d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
