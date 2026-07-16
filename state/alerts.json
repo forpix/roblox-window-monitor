@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-16T21:45:01.386Z",
+  "generatedAt": "2026-07-16T22:15:01.375Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 425909,
+      "ccu": 429148,
       "ageDays": 56.1,
-      "rollingAvg": 403881,
+      "rollingAvg": 407303,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 41290,
+      "ccu": 39289,
       "ageDays": 41.2,
-      "rollingAvg": 28523,
-      "spikePct": 45,
+      "rollingAvg": 28917,
+      "spikePct": 36,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11266.7d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11266.8d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 21477,
+      "ccu": 20968,
       "ageDays": 28.1,
-      "rollingAvg": 23696,
-      "spikePct": -9,
+      "rollingAvg": 23736,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 47225,
-      "ageDays": 43,
-      "rollingAvg": 52162,
-      "spikePct": -9,
+      "ccu": 45678,
+      "ageDays": 43.1,
+      "rollingAvg": 52356,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4664.9d (drainthelake.com, drainthelake.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 29094,
+      "ccu": 26690,
       "ageDays": 22.8,
-      "rollingAvg": 32267,
-      "spikePct": -10,
+      "rollingAvg": 32286,
+      "spikePct": -17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 6.2d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 33815,
+      "ccu": 33623,
       "ageDays": 2.3,
-      "rollingAvg": 35955,
+      "rollingAvg": 35853,
       "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,42 +70,31 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 31298,
+      "ccu": 30679,
       "ageDays": 20.4,
-      "rollingAvg": 34605,
-      "spikePct": -10,
+      "rollingAvg": 34710,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11266.7d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11266.8d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 21877,
+      "ccu": 21430,
       "ageDays": 468,
-      "rollingAvg": 25132,
-      "spikePct": -13,
+      "rollingAvg": 25047,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 2.9d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
     },
     {
       "source": "discover",
-      "name": "Missiles vs Cities",
-      "ccu": 20131,
-      "ageDays": 46.7,
-      "rollingAvg": 24143,
-      "spikePct": -17,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: missilesvscities.net; .com registered 9.1d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
-    },
-    {
-      "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 23701,
-      "ageDays": 218.6,
-      "rollingAvg": 25263,
+      "ccu": 23795,
+      "ageDays": 218.7,
+      "rollingAvg": 25318,
       "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
