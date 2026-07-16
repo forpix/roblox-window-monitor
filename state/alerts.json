@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-16T18:15:06.264Z",
+  "generatedAt": "2026-07-16T18:45:02.219Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 420947,
-      "ageDays": 55.9,
-      "rollingAvg": 398367,
-      "spikePct": 6,
+      "ccu": 418375,
+      "ageDays": 56,
+      "rollingAvg": 399314,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 341.3d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 341.4d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 32902,
-      "ageDays": 41,
-      "rollingAvg": 27733,
-      "spikePct": 19,
+      "ccu": 33247,
+      "ageDays": 41.1,
+      "rollingAvg": 27776,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11266.6d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 21581,
+      "ccu": 22470,
       "ageDays": 28,
-      "rollingAvg": 24007,
-      "spikePct": -10,
+      "rollingAvg": 23919,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 65720,
+      "ccu": 67170,
       "ageDays": 42.9,
-      "rollingAvg": 48521,
-      "spikePct": 35,
+      "rollingAvg": 49043,
+      "spikePct": 37,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4664.8d (drainthelake.com, drainthelake.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 40890,
+      "ccu": 42187,
       "ageDays": 22.7,
-      "rollingAvg": 30603,
-      "spikePct": 34,
+      "rollingAvg": 30917,
+      "spikePct": 36,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 6.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 20054,
+      "ccu": 20410,
       "ageDays": 27.9,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20054,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 36191,
+      "ccu": 36022,
       "ageDays": 2.1,
-      "rollingAvg": 36358,
-      "spikePct": 0,
+      "rollingAvg": 36346,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 39652,
+      "ccu": 40259,
       "ageDays": 20.3,
-      "rollingAvg": 32898,
+      "rollingAvg": 33163,
       "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -92,20 +92,20 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 24739,
+      "ccu": 24577,
       "ageDays": 467.8,
-      "rollingAvg": 25484,
-      "spikePct": -3,
+      "rollingAvg": 25470,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: universaltowerdefensez.net; .com registered 2.7d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
+      "detail": "available: universaltowerdefensez.net; .com registered 2.8d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
     },
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 25411,
+      "ccu": 25590,
       "ageDays": 46.6,
-      "rollingAvg": 24067,
+      "rollingAvg": 24148,
       "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -114,10 +114,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 24801,
+      "ccu": 24588,
       "ageDays": 218.5,
-      "rollingAvg": 25341,
-      "spikePct": -2,
+      "rollingAvg": 25272,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 10.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
