@@ -1,45 +1,34 @@
 {
-  "generatedAt": "2026-07-16T01:45:03.271Z",
+  "generatedAt": "2026-07-16T02:15:03.334Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 412529,
-      "ageDays": 55.2,
-      "rollingAvg": 397987,
-      "spikePct": 4,
+      "ccu": 410500,
+      "ageDays": 55.3,
+      "rollingAvg": 398816,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 340.6d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 340.7d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 31456,
-      "ageDays": 40.3,
-      "rollingAvg": 33201,
-      "spikePct": -5,
+      "ccu": 30623,
+      "ageDays": 40.4,
+      "rollingAvg": 33463,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.9d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
-      "name": "Experience Abstraction",
-      "ccu": 20985,
-      "ageDays": 27.3,
-      "rollingAvg": 24535,
-      "spikePct": -14,
-      "gate": "D:young-chart",
-      "verdict": "CHECK",
-      "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 44060,
+      "ccu": 43499,
       "ageDays": 42.2,
-      "rollingAvg": 60091,
+      "rollingAvg": 59956,
       "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,9 +37,9 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 32179,
+      "ccu": 32194,
       "ageDays": 22,
-      "rollingAvg": 34445,
+      "rollingAvg": 34713,
       "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +48,10 @@
     {
       "source": "discover",
       "name": "[BACKROOMS!]🦎 Chameleon!",
-      "ccu": 30252,
+      "ccu": 29134,
       "ageDays": 19.6,
-      "rollingAvg": 36785,
-      "spikePct": -18,
+      "rollingAvg": 36748,
+      "spikePct": -21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11265.9d (chameleon.com, chameleon.net)"
@@ -70,10 +59,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 25464,
+      "ccu": 25543,
       "ageDays": 467.1,
-      "rollingAvg": 31748,
-      "spikePct": -20,
+      "rollingAvg": 31542,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 2.1d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
