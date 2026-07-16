@@ -2078,7 +2078,7 @@
     "https://beebom.com/catch-and-tame-codes/": "2026-07-15T15:33:59+00:00",
     "https://beebom.com/roblox-twisted-codes/": "2026-07-08T05:46:10+00:00",
     "https://beebom.com/roblox-peroxide-codes/": "2026-07-08T05:47:28+00:00",
-    "https://beebom.com/roblox-shindo-life-codes/": "2026-07-08T05:56:49+00:00",
+    "https://beebom.com/roblox-shindo-life-codes/": "2026-07-16T13:24:49+00:00",
     "https://beebom.com/anime-defense-rng-codes/": "2026-07-14T06:00:21+00:00",
     "https://beebom.com/roblox-clover-retribution-codes/": "2026-07-08T07:05:15+00:00",
     "https://beebom.com/k2-climbing-simulation-codes/": "2026-07-08T07:37:33+00:00",
@@ -2205,7 +2205,7 @@
     "https://beebom.com/reign-piece-codes/": "2026-07-12T19:05:15+00:00",
     "https://beebom.com/roblox-fistborn-codes/": "2026-07-12T19:06:56+00:00",
     "https://beebom.com/ultimate-tower-defense-codes/": "2026-07-12T19:10:35+00:00",
-    "https://beebom.com/gakuran-codes/": "2026-07-15T01:04:06+00:00",
+    "https://beebom.com/gakuran-codes/": "2026-07-16T11:53:55+00:00",
     "https://beebom.com/demon-born-codes/": "2026-07-15T04:10:35+00:00",
     "https://beebom.com/lineage-piece-codes/": "2026-07-15T03:52:11+00:00",
     "https://beebom.com/roblox-ink-game-codes/": "2026-07-13T03:05:01+00:00",
@@ -2230,7 +2230,7 @@
     "https://beebom.com/roblox-flag-football-codes/": "2026-07-16T05:15:51+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-16T11:33:28+00:00",
+    "post-sitemap.xml": "2026-07-16T13:28:57+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T10:09:46+00:00",
     "post-sitemap4.xml": "2018-02-26T11:07:25+00:00",
@@ -2279,7 +2279,7 @@
     "post-sitemap47.xml": "2026-03-13T02:50:46+00:00",
     "post-sitemap48.xml": "2026-05-05T12:29:54+00:00",
     "post-sitemap49.xml": "2026-06-30T22:01:27+00:00",
-    "post-sitemap50.xml": "2026-07-16T11:33:28+00:00"
+    "post-sitemap50.xml": "2026-07-16T13:28:57+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2612,7 +2612,7 @@
     },
     "https://beebom.com/gakuran-codes/": {
       "status": "done",
-      "attempts": 3,
+      "attempts": 4,
       "placeId": 128736949265057,
       "universeId": 9199655655
     },
@@ -2855,7 +2855,13 @@
       "attempts": 1,
       "placeId": 17516596118,
       "universeId": 5995470825
+    },
+    "https://beebom.com/roblox-shindo-life-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 4616652839,
+      "universeId": 1511883870
     }
   },
-  "updatedAt": "2026-07-16T12:00:06.828Z"
+  "updatedAt": "2026-07-16T14:00:03.883Z"
 }
