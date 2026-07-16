@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-16T12:15:06.634Z",
+  "generatedAt": "2026-07-16T12:45:03.041Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 446967,
+      "ccu": 453313,
       "ageDays": 55.7,
-      "rollingAvg": 383243,
-      "spikePct": 17,
+      "rollingAvg": 384757,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 341.1d (growagarden2.com, growagarden2.net)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 28934,
+      "ccu": 29116,
       "ageDays": 40.8,
-      "rollingAvg": 28918,
-      "spikePct": 0,
+      "rollingAvg": 28613,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11266.3d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11266.4d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 54446,
-      "ageDays": 42.6,
-      "rollingAvg": 49235,
-      "spikePct": 11,
+      "ccu": 56435,
+      "ageDays": 42.7,
+      "rollingAvg": 48855,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4664.5d (drainthelake.com, drainthelake.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 31428,
+      "ccu": 33043,
       "ageDays": 22.4,
-      "rollingAvg": 31964,
-      "spikePct": -2,
+      "rollingAvg": 31700,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 5.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 34356,
+      "ccu": 34991,
       "ageDays": 1.9,
-      "rollingAvg": 33563,
-      "spikePct": 2,
+      "rollingAvg": 33960,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 40780,
+      "ccu": 44274,
       "ageDays": 20,
-      "rollingAvg": 29838,
-      "spikePct": 37,
+      "rollingAvg": 29829,
+      "spikePct": 48,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11266.3d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11266.4d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 25519,
+      "ccu": 25859,
       "ageDays": 467.6,
-      "rollingAvg": 26308,
-      "spikePct": -3,
+      "rollingAvg": 26113,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 2.5d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
@@ -81,21 +81,21 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 24115,
+      "ccu": 25338,
       "ageDays": 46.4,
-      "rollingAvg": 23425,
-      "spikePct": 3,
+      "rollingAvg": 23451,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: missilesvscities.net; .com registered 8.7d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
+      "detail": "available: missilesvscities.net; .com registered 8.8d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 29354,
-      "ageDays": 218.2,
-      "rollingAvg": 25377,
-      "spikePct": 16,
+      "ccu": 29963,
+      "ageDays": 218.3,
+      "rollingAvg": 25415,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 10.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
