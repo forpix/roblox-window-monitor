@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-16T11:45:02.206Z",
+  "generatedAt": "2026-07-16T12:15:06.634Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 421516,
+      "ccu": 446967,
       "ageDays": 55.7,
-      "rollingAvg": 382435,
-      "spikePct": 10,
+      "rollingAvg": 383243,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 341.1d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SUMMER MAP!] Chameleon",
-      "ccu": 28098,
+      "ccu": 28934,
       "ageDays": 40.8,
-      "rollingAvg": 29273,
-      "spikePct": -4,
+      "rollingAvg": 28918,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11266.3d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 52917,
+      "ccu": 54446,
       "ageDays": 42.6,
-      "rollingAvg": 49673,
-      "spikePct": 7,
+      "rollingAvg": 49235,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4664.5d (drainthelake.com, drainthelake.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 30239,
+      "ccu": 31428,
       "ageDays": 22.4,
-      "rollingAvg": 32211,
-      "spikePct": -6,
+      "rollingAvg": 31964,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 5.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 33563,
-      "ageDays": 1.8,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "ccu": 34356,
+      "ageDays": 1.9,
+      "rollingAvg": 33563,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 38849,
+      "ccu": 40780,
       "ageDays": 20,
-      "rollingAvg": 29954,
-      "spikePct": 30,
+      "rollingAvg": 29838,
+      "spikePct": 37,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11266.3d (chameleon.com, chameleon.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 25371,
-      "ageDays": 467.5,
-      "rollingAvg": 26526,
-      "spikePct": -4,
+      "ccu": 25519,
+      "ageDays": 467.6,
+      "rollingAvg": 26308,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 2.5d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 23118,
-      "ageDays": 46.3,
-      "rollingAvg": 23437,
-      "spikePct": -1,
+      "ccu": 24115,
+      "ageDays": 46.4,
+      "rollingAvg": 23425,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 8.7d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -92,9 +92,9 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 29232,
+      "ccu": 29354,
       "ageDays": 218.2,
-      "rollingAvg": 25302,
+      "rollingAvg": 25377,
       "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "RED",
