@@ -4379,7 +4379,9 @@
     "https://tryhardguides.com/impact-arena-codes/",
     "https://tryhardguides.com/pop-starz-codes/",
     "https://tryhardguides.com/goalbound-codes/",
-    "https://tryhardguides.com/zombie-war-tycoon-codes/"
+    "https://tryhardguides.com/zombie-war-tycoon-codes/",
+    "https://tryhardguides.com/complex-furnishings-codes/",
+    "https://tryhardguides.com/bl-r-recreation-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-07-12T21:03:10+00:00",
@@ -8761,10 +8763,12 @@
     "https://tryhardguides.com/impact-arena-codes/": "2025-12-29T08:30:52+00:00",
     "https://tryhardguides.com/pop-starz-codes/": "2025-12-29T08:13:04+00:00",
     "https://tryhardguides.com/goalbound-codes/": "2025-12-29T08:01:59+00:00",
-    "https://tryhardguides.com/zombie-war-tycoon-codes/": "2025-12-29T07:44:24+00:00"
+    "https://tryhardguides.com/zombie-war-tycoon-codes/": "2025-12-29T07:44:24+00:00",
+    "https://tryhardguides.com/complex-furnishings-codes/": "2026-07-16T11:22:00+00:00",
+    "https://tryhardguides.com/bl-r-recreation-codes/": "2026-07-16T11:07:00+00:00"
   },
   "childLastmods": {
-    "post-sitemap-2026-29.xml": "2026-07-16T09:36:04+00:00",
+    "post-sitemap-2026-29.xml": "2026-07-16T11:57:00+00:00",
     "post-sitemap-2026-28.xml": "2026-07-12T23:59:59+00:00",
     "post-sitemap-2026-27.xml": "2026-07-05T23:59:59+00:00",
     "post-sitemap-2026-26.xml": "2026-06-28T23:59:59+00:00",
@@ -10684,7 +10688,19 @@
       "attempts": 1,
       "placeId": 115317601829407,
       "universeId": 7661221876
+    },
+    "https://tryhardguides.com/complex-furnishings-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 140202088182537,
+      "universeId": 10258782387
+    },
+    "https://tryhardguides.com/bl-r-recreation-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 139589080661680,
+      "universeId": 10448889633
     }
   },
-  "updatedAt": "2026-07-16T10:00:04.648Z"
+  "updatedAt": "2026-07-16T12:00:06.828Z"
 }

@@ -2035,7 +2035,7 @@
     "https://beebom.com/roblox-mugen-codes/": "2026-07-06T08:50:07+00:00",
     "https://beebom.com/anime-last-stand-codes/": "2026-07-06T08:50:54+00:00",
     "https://beebom.com/anime-overload-codes/": "2026-07-06T08:55:11+00:00",
-    "https://beebom.com/roblox-hypershot-codes/": "2026-07-06T09:01:25+00:00",
+    "https://beebom.com/roblox-hypershot-codes/": "2026-07-16T09:52:43+00:00",
     "https://beebom.com/sorcerer-tower-defense-codes/": "2026-07-06T09:08:07+00:00",
     "https://beebom.com/catch-a-monster-codes/": "2026-07-14T22:43:43+00:00",
     "https://beebom.com/tower-defense-simulator-tds-codes/": "2026-07-06T09:17:27+00:00",
@@ -2140,7 +2140,7 @@
     "https://beebom.com/demon-soul-simulator-codes/": "2026-07-10T10:37:25+00:00",
     "https://beebom.com/restaurant-tycoon-3-codes/": "2026-07-10T12:04:32+00:00",
     "https://beebom.com/lake-sipping-codes/": "2026-07-10T12:11:10+00:00",
-    "https://beebom.com/evomon-codes/": "2026-07-14T11:09:00+00:00",
+    "https://beebom.com/evomon-codes/": "2026-07-16T11:33:28+00:00",
     "https://beebom.com/dumpling-squishy-race-codes/": "2026-07-10T12:51:59+00:00",
     "https://beebom.com/plus-1-speed-evolve-codes/": "2026-07-14T06:21:16+00:00",
     "https://beebom.com/iron-soul-dungeon-codes/": "2026-07-10T13:02:42+00:00",
@@ -2224,13 +2224,13 @@
     "https://beebom.com/level-your-weapon-codes/": "2026-07-15T08:37:36+00:00",
     "https://beebom.com/my-boba-store-codes/": "2026-07-15T09:11:14+00:00",
     "https://beebom.com/prior-extinction-codes/": "2026-07-15T09:46:00+00:00",
-    "https://beebom.com/anime-expeditions-codes/": "2026-07-15T16:37:07+00:00",
+    "https://beebom.com/anime-expeditions-codes/": "2026-07-16T09:46:14+00:00",
     "https://beebom.com/roblox-final-swarm-codes/": "2026-07-15T19:05:45+00:00",
     "https://beebom.com/mine-a-planet-codes/": "2026-07-16T05:20:28+00:00",
     "https://beebom.com/roblox-flag-football-codes/": "2026-07-16T05:15:51+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-16T08:08:26+00:00",
+    "post-sitemap.xml": "2026-07-16T11:33:28+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T10:09:46+00:00",
     "post-sitemap4.xml": "2018-02-26T11:07:25+00:00",
@@ -2279,7 +2279,7 @@
     "post-sitemap47.xml": "2026-03-13T02:50:46+00:00",
     "post-sitemap48.xml": "2026-05-05T12:29:54+00:00",
     "post-sitemap49.xml": "2026-06-30T22:01:27+00:00",
-    "post-sitemap50.xml": "2026-07-16T08:08:26+00:00"
+    "post-sitemap50.xml": "2026-07-16T11:33:28+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2534,7 +2534,7 @@
     },
     "https://beebom.com/evomon-codes/": {
       "status": "done",
-      "attempts": 2,
+      "attempts": 3,
       "placeId": 134381727982611,
       "universeId": 9826885587
     },
@@ -2849,7 +2849,13 @@
       "attempts": 1,
       "placeId": 76911729991355,
       "universeId": 9965411707
+    },
+    "https://beebom.com/roblox-hypershot-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 17516596118,
+      "universeId": 5995470825
     }
   },
-  "updatedAt": "2026-07-16T10:00:04.648Z"
+  "updatedAt": "2026-07-16T12:00:06.828Z"
 }
