@@ -1734,7 +1734,7 @@
     "https://beebom.com/gta-5-cheat-codes/": "2026-06-11T10:36:05+00:00",
     "https://beebom.com/black-grimoire-codes/": "2026-06-12T06:55:59+00:00",
     "https://beebom.com/dandys-world-codes/": "2026-06-13T07:16:33+00:00",
-    "https://beebom.com/roblox-dragon-adventures-codes/": "2026-06-13T08:20:37+00:00",
+    "https://beebom.com/roblox-dragon-adventures-codes/": "2026-07-16T04:20:11+00:00",
     "https://beebom.com/lucky-block-rush-codes/": "2026-06-13T15:05:18+00:00",
     "https://beebom.com/highschool-hoops-codes/": "2026-06-13T15:21:18+00:00",
     "https://beebom.com/anime-arise-evolution-codes/": "2026-06-13T15:29:51+00:00",
@@ -1933,7 +1933,7 @@
     "https://beebom.com/fish-training-codes/": "2026-06-30T22:30:24+00:00",
     "https://beebom.com/pokemon-unite-codes/": "2026-06-30T22:30:25+00:00",
     "https://beebom.com/soul-knight-codes/": "2026-06-30T22:30:27+00:00",
-    "https://beebom.com/heroes-battlegrounds-codes/": "2026-06-30T22:30:30+00:00",
+    "https://beebom.com/heroes-battlegrounds-codes/": "2026-07-16T04:05:57+00:00",
     "https://beebom.com/military-tycoon-codes/": "2026-06-30T22:30:35+00:00",
     "https://beebom.com/cali-shootout-codes/": "2026-06-30T22:30:39+00:00",
     "https://beebom.com/supermarket-simulator-codes/": "2026-06-30T22:32:09+00:00",
@@ -2157,7 +2157,7 @@
     "https://beebom.com/roblox-nft-battle-codes/": "2026-07-10T19:09:24+00:00",
     "https://beebom.com/highway-legends-codes/": "2026-07-10T19:11:12+00:00",
     "https://beebom.com/roblox-drive-world-codes/": "2026-07-10T20:20:54+00:00",
-    "https://beebom.com/anime-duelists-codes/": "2026-07-10T20:29:23+00:00",
+    "https://beebom.com/anime-duelists-codes/": "2026-07-16T04:02:11+00:00",
     "https://beebom.com/card-chronicles-codes/": "2026-07-13T05:19:41+00:00",
     "https://beebom.com/fc-mobile-codes/": "2026-07-10T21:50:56+00:00",
     "https://beebom.com/roblox-ultimate-football-codes/": "2026-07-10T22:16:37+00:00",
@@ -2228,7 +2228,7 @@
     "https://beebom.com/mine-a-planet-codes/": "2026-07-15T20:14:57+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-16T02:52:40+00:00",
+    "post-sitemap.xml": "2026-07-16T04:20:11+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T08:38:44+00:00",
     "post-sitemap4.xml": "2018-02-26T10:10:03+00:00",
@@ -2276,8 +2276,8 @@
     "post-sitemap46.xml": "2026-01-31T21:10:12+00:00",
     "post-sitemap47.xml": "2026-03-12T19:45:29+00:00",
     "post-sitemap48.xml": "2026-05-05T12:06:18+00:00",
-    "post-sitemap49.xml": "2026-06-30T22:01:05+00:00",
-    "post-sitemap50.xml": "2026-07-16T02:52:40+00:00"
+    "post-sitemap49.xml": "2026-06-30T22:01:11+00:00",
+    "post-sitemap50.xml": "2026-07-16T04:20:11+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2811,7 +2811,25 @@
       "attempts": 1,
       "placeId": 113236157544232,
       "universeId": 9797806474
+    },
+    "https://beebom.com/anime-duelists-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 135858844777165,
+      "universeId": 10303014624
+    },
+    "https://beebom.com/heroes-battlegrounds-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 13076380114,
+      "universeId": 4568630521
+    },
+    "https://beebom.com/roblox-dragon-adventures-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 3475397644,
+      "universeId": 1235188606
     }
   },
-  "updatedAt": "2026-07-16T04:00:05.972Z"
+  "updatedAt": "2026-07-16T06:00:03.828Z"
 }
