@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T06:45:02.726Z",
+  "generatedAt": "2026-07-17T07:15:02.485Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 423880,
+      "ccu": 420697,
       "ageDays": 56.5,
-      "rollingAvg": 429452,
-      "spikePct": -1,
+      "rollingAvg": 428635,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 341.9d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 26180,
+      "ccu": 24851,
       "ageDays": 41.6,
-      "rollingAvg": 34359,
-      "spikePct": -24,
+      "rollingAvg": 34277,
+      "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.1d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 47720,
+      "ccu": 49017,
       "ageDays": 43.4,
-      "rollingAvg": 49880,
-      "spikePct": -4,
+      "rollingAvg": 49637,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4665.3d (drainthelake.com, drainthelake.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 31379,
-      "ageDays": 2.6,
-      "rollingAvg": 34266,
-      "spikePct": -8,
+      "ccu": 31161,
+      "ageDays": 2.7,
+      "rollingAvg": 34165,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 27470,
+      "ccu": 27610,
       "ageDays": 20.8,
-      "rollingAvg": 34621,
-      "spikePct": -21,
+      "rollingAvg": 34154,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.1d (chameleon.com, chameleon.net)"
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 20417,
-      "ageDays": 468.3,
-      "rollingAvg": 23525,
+      "ccu": 20294,
+      "ageDays": 468.4,
+      "rollingAvg": 23391,
       "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 24363,
+      "ccu": 24433,
       "ageDays": 219,
-      "rollingAvg": 24873,
-      "spikePct": -2,
+      "rollingAvg": 24718,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 10.8d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
