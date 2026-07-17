@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T03:45:04.906Z",
+  "generatedAt": "2026-07-17T04:15:01.298Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 429168,
-      "ageDays": 56.3,
-      "rollingAvg": 427841,
-      "spikePct": 0,
+      "ccu": 424978,
+      "ageDays": 56.4,
+      "rollingAvg": 428209,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 341.7d (growagarden2.com, growagarden2.net)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 31417,
+      "ccu": 31512,
       "ageDays": 41.4,
-      "rollingAvg": 33813,
+      "rollingAvg": 34006,
       "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 35235,
+      "ccu": 38925,
       "ageDays": 43.3,
-      "rollingAvg": 51310,
-      "spikePct": -31,
+      "rollingAvg": 51004,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4665.2d (drainthelake.com, drainthelake.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 31585,
+      "ccu": 31544,
       "ageDays": 2.5,
-      "rollingAvg": 34758,
+      "rollingAvg": 34662,
       "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,32 +48,21 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 28524,
+      "ccu": 27505,
       "ageDays": 20.7,
-      "rollingAvg": 35945,
-      "spikePct": -21,
+      "rollingAvg": 35908,
+      "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.0d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
-      "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 20083,
-      "ageDays": 468.2,
-      "rollingAvg": 23904,
-      "spikePct": -16,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: universaltowerdefensez.net; .com registered 3.1d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
-    },
-    {
-      "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[DELULU UPD]",
-      "ccu": 23498,
+      "ccu": 23699,
       "ageDays": 218.9,
-      "rollingAvg": 25478,
-      "spikePct": -8,
+      "rollingAvg": 25427,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 10.7d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
