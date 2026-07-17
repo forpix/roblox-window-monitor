@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-17T11:15:03.942Z",
+  "generatedAt": "2026-07-17T11:45:04.519Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 381363,
-      "ageDays": 56.6,
-      "rollingAvg": 419154,
-      "spikePct": -9,
+      "ccu": 402568,
+      "ageDays": 56.7,
+      "rollingAvg": 418064,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 342.0d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 342.1d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 29345,
-      "ageDays": 41.7,
-      "rollingAvg": 32968,
-      "spikePct": -11,
+      "ccu": 29453,
+      "ageDays": 41.8,
+      "rollingAvg": 32826,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.3d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 57546,
+      "ccu": 60568,
       "ageDays": 43.6,
-      "rollingAvg": 48757,
-      "spikePct": 18,
+      "rollingAvg": 48588,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4665.5d (drainthelake.com, drainthelake.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 31917,
+      "ccu": 32343,
       "ageDays": 2.8,
-      "rollingAvg": 32884,
-      "spikePct": -3,
+      "rollingAvg": 32749,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 33149,
+      "ccu": 35746,
       "ageDays": 21,
-      "rollingAvg": 30832,
-      "spikePct": 8,
+      "rollingAvg": 30626,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.3d (chameleon.com, chameleon.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 23980,
+      "ccu": 24898,
       "ageDays": 23.4,
-      "rollingAvg": 30502,
-      "spikePct": -21,
+      "rollingAvg": 30328,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 6.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 21913,
+      "ccu": 22050,
       "ageDays": 47.3,
-      "rollingAvg": 23722,
-      "spikePct": -8,
+      "rollingAvg": 23630,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 9.7d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -81,21 +81,21 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 20685,
+      "ccu": 20797,
       "ageDays": 468.5,
-      "rollingAvg": 21890,
-      "spikePct": -6,
+      "rollingAvg": 21710,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: universaltowerdefensez.net; .com registered 3.4d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
+      "detail": "available: universaltowerdefensez.net; .com registered 3.5d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
     },
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[SOON UPD]",
-      "ccu": 32908,
+      "ccu": 35440,
       "ageDays": 219.2,
-      "rollingAvg": 24310,
-      "spikePct": 35,
+      "rollingAvg": 24497,
+      "spikePct": 45,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 11.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
