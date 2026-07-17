@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T19:45:06.769Z",
+  "generatedAt": "2026-07-17T20:15:03.168Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 395878,
+      "ccu": 411532,
       "ageDays": 57,
-      "rollingAvg": 412473,
-      "spikePct": -4,
+      "rollingAvg": 411723,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 342.4d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 36064,
+      "ccu": 34051,
       "ageDays": 42.1,
-      "rollingAvg": 30733,
-      "spikePct": 17,
+      "rollingAvg": 30660,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.7d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 7]",
-      "ccu": 20502,
+      "ccu": 20218,
       "ageDays": 19.9,
-      "rollingAvg": 21856,
-      "spikePct": -6,
+      "rollingAvg": 21766,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.2d (mineaplanet.com, mineaplanet.net); .com registered 3.2d ago"
@@ -37,20 +37,20 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 54607,
-      "ageDays": 43.9,
-      "rollingAvg": 52136,
-      "spikePct": 5,
+      "ccu": 52386,
+      "ageDays": 44,
+      "rollingAvg": 52627,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4665.8d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4665.9d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 20324,
-      "ageDays": 29,
-      "rollingAvg": 23737,
+      "ccu": 20253,
+      "ageDays": 29.1,
+      "rollingAvg": 23670,
       "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "CHECK",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 30274,
+      "ccu": 29954,
       "ageDays": 3.2,
-      "rollingAvg": 31928,
-      "spikePct": -5,
+      "rollingAvg": 31870,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 29233,
+      "ccu": 28049,
       "ageDays": 21.3,
-      "rollingAvg": 31470,
-      "spikePct": -7,
+      "rollingAvg": 31480,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.7d (chameleon.com, chameleon.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 28873,
+      "ccu": 28083,
       "ageDays": 23.7,
-      "rollingAvg": 26335,
-      "spikePct": 10,
+      "rollingAvg": 26015,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 7.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 24253,
-      "ageDays": 219.5,
-      "rollingAvg": 28434,
-      "spikePct": -15,
+      "ccu": 23405,
+      "ageDays": 219.6,
+      "rollingAvg": 28488,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 11.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 20831,
+      "ccu": 20505,
       "ageDays": 29,
-      "rollingAvg": 20573,
-      "spikePct": 1,
+      "rollingAvg": 20598,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
