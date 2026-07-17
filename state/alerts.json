@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T21:45:02.382Z",
+  "generatedAt": "2026-07-17T22:15:04.488Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 417686,
+      "ccu": 414203,
       "ageDays": 57.1,
-      "rollingAvg": 410485,
-      "spikePct": 2,
+      "rollingAvg": 410166,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 342.5d (growagarden2.com, growagarden2.net)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 32153,
+      "ccu": 30335,
       "ageDays": 42.2,
-      "rollingAvg": 30641,
-      "spikePct": 5,
+      "rollingAvg": 30661,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11267.7d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11267.8d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 45627,
-      "ageDays": 44,
-      "rollingAvg": 53829,
-      "spikePct": -15,
+      "ccu": 43439,
+      "ageDays": 44.1,
+      "rollingAvg": 54118,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4665.9d (drainthelake.com, drainthelake.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 28966,
+      "ccu": 28727,
       "ageDays": 3.3,
-      "rollingAvg": 31676,
+      "rollingAvg": 31603,
       "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 25611,
+      "ccu": 25170,
       "ageDays": 21.4,
-      "rollingAvg": 31404,
-      "spikePct": -18,
+      "rollingAvg": 31323,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11267.7d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11267.8d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 23333,
+      "ccu": 22050,
       "ageDays": 23.8,
-      "rollingAvg": 25472,
-      "spikePct": -8,
+      "rollingAvg": 25379,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 7.2d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -70,9 +70,9 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 22144,
-      "ageDays": 219.6,
-      "rollingAvg": 28520,
+      "ccu": 22085,
+      "ageDays": 219.7,
+      "rollingAvg": 28482,
       "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
