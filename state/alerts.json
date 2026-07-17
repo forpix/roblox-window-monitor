@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-17T18:15:02.480Z",
+  "generatedAt": "2026-07-17T18:45:02.243Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 421273,
-      "ageDays": 56.9,
-      "rollingAvg": 413476,
-      "spikePct": 2,
+      "ccu": 415800,
+      "ageDays": 57,
+      "rollingAvg": 413473,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 342.3d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 342.4d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 34043,
-      "ageDays": 42,
-      "rollingAvg": 31268,
-      "spikePct": 9,
+      "ccu": 35550,
+      "ageDays": 42.1,
+      "rollingAvg": 31057,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.6d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 7]",
-      "ccu": 20650,
+      "ccu": 20991,
       "ageDays": 19.8,
-      "rollingAvg": 22133,
-      "spikePct": -7,
+      "rollingAvg": 22009,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.1d (mineaplanet.com, mineaplanet.net); .com registered 3.1d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 53934,
+      "ccu": 55143,
       "ageDays": 43.9,
-      "rollingAvg": 50813,
-      "spikePct": 6,
+      "rollingAvg": 51172,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4665.8d (drainthelake.com, drainthelake.net)"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 31130,
+      "ccu": 30907,
       "ageDays": 3.1,
-      "rollingAvg": 32071,
+      "rollingAvg": 32023,
       "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 29964,
+      "ccu": 29917,
       "ageDays": 21.3,
-      "rollingAvg": 31377,
+      "rollingAvg": 31422,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 28697,
+      "ccu": 29137,
       "ageDays": 23.7,
-      "rollingAvg": 27418,
-      "spikePct": 5,
+      "rollingAvg": 27043,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 7.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 25884,
+      "ccu": 25758,
       "ageDays": 219.5,
-      "rollingAvg": 28124,
-      "spikePct": -8,
+      "rollingAvg": 28236,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 11.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -92,24 +92,13 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 20648,
+      "ccu": 20774,
       "ageDays": 28.9,
-      "rollingAvg": 20459,
+      "rollingAvg": 20486,
       "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
-    },
-    {
-      "source": "discover",
-      "name": "🐒 +1 Speed Monkey Escape",
-      "ccu": 115636,
-      "ageDays": 69,
-      "rollingAvg": 28496,
-      "spikePct": 306,
-      "gate": "B:spike",
-      "verdict": "GREEN",
-      "detail": "available: 1speedmonkeyescape.com, 1speedmonkeyescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
