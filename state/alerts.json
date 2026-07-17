@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T10:15:02.486Z",
+  "generatedAt": "2026-07-17T10:45:05.097Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 326030,
+      "ccu": 365312,
       "ageDays": 56.6,
-      "rollingAvg": 422999,
-      "spikePct": -23,
+      "rollingAvg": 420724,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 342.0d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 27346,
+      "ccu": 28695,
       "ageDays": 41.7,
-      "rollingAvg": 33238,
-      "spikePct": -18,
+      "rollingAvg": 33106,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.3d (chameleon.com, chameleon.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 54036,
+      "ccu": 54520,
       "ageDays": 43.6,
-      "rollingAvg": 48836,
-      "spikePct": 11,
+      "rollingAvg": 48871,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4665.4d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4665.5d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 31478,
+      "ccu": 31688,
       "ageDays": 2.8,
-      "rollingAvg": 33213,
-      "spikePct": -5,
+      "rollingAvg": 33044,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 29243,
+      "ccu": 31295,
       "ageDays": 20.9,
-      "rollingAvg": 31404,
-      "spikePct": -7,
+      "rollingAvg": 31098,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.3d (chameleon.com, chameleon.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 22938,
-      "ageDays": 23.3,
-      "rollingAvg": 30809,
-      "spikePct": -26,
+      "ccu": 23550,
+      "ageDays": 23.4,
+      "rollingAvg": 30661,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 6.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 20624,
+      "ccu": 21498,
       "ageDays": 47.3,
-      "rollingAvg": 23920,
-      "spikePct": -14,
+      "rollingAvg": 23815,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 9.7d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[🕷️4.0🃏] Universal Tower Defense Z",
-      "ccu": 20306,
+      "ccu": 20539,
       "ageDays": 468.5,
-      "rollingAvg": 22343,
-      "spikePct": -9,
+      "rollingAvg": 22104,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: universaltowerdefensez.net; .com registered 3.4d ago; .com BUILT: \"Universal Tower Defense Z Wiki: Units, Tier List, Codes\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "😵‍💫BE A FISH BAIT!🐟[SOON UPD]",
-      "ccu": 29471,
+      "ccu": 31013,
       "ageDays": 219.2,
-      "rollingAvg": 24138,
-      "spikePct": 22,
+      "rollingAvg": 24199,
+      "spikePct": 28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 10.9d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
