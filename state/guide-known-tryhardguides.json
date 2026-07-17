@@ -4381,7 +4381,11 @@
     "https://tryhardguides.com/goalbound-codes/",
     "https://tryhardguides.com/zombie-war-tycoon-codes/",
     "https://tryhardguides.com/complex-furnishings-codes/",
-    "https://tryhardguides.com/bl-r-recreation-codes/"
+    "https://tryhardguides.com/bl-r-recreation-codes/",
+    "https://tryhardguides.com/looking-out-codes/",
+    "https://tryhardguides.com/flip-a-boat-codes/",
+    "https://tryhardguides.com/mine-a-planet-codes/",
+    "https://tryhardguides.com/anime-expeditions-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-07-16T20:26:55+00:00",
@@ -8765,10 +8769,14 @@
     "https://tryhardguides.com/goalbound-codes/": "2025-12-29T08:01:59+00:00",
     "https://tryhardguides.com/zombie-war-tycoon-codes/": "2025-12-29T07:44:24+00:00",
     "https://tryhardguides.com/complex-furnishings-codes/": "2026-07-16T11:22:00+00:00",
-    "https://tryhardguides.com/bl-r-recreation-codes/": "2026-07-16T11:07:00+00:00"
+    "https://tryhardguides.com/bl-r-recreation-codes/": "2026-07-16T11:07:00+00:00",
+    "https://tryhardguides.com/looking-out-codes/": "2026-07-17T11:52:00+00:00",
+    "https://tryhardguides.com/flip-a-boat-codes/": "2026-07-17T11:37:00+00:00",
+    "https://tryhardguides.com/mine-a-planet-codes/": "2026-07-17T11:22:00+00:00",
+    "https://tryhardguides.com/anime-expeditions-codes/": "2026-07-17T11:07:00+00:00"
   },
   "childLastmods": {
-    "post-sitemap-2026-29.xml": "2026-07-17T10:00:13+00:00",
+    "post-sitemap-2026-29.xml": "2026-07-17T11:52:00+00:00",
     "post-sitemap-2026-28.xml": "2026-07-12T23:59:59+00:00",
     "post-sitemap-2026-27.xml": "2026-07-05T23:59:59+00:00",
     "post-sitemap-2026-26.xml": "2026-06-28T23:59:59+00:00",
@@ -10766,7 +10774,31 @@
       "attempts": 1,
       "placeId": 12699642568,
       "universeId": 4452297356
+    },
+    "https://tryhardguides.com/looking-out-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 127579578101081,
+      "universeId": 10183561175
+    },
+    "https://tryhardguides.com/flip-a-boat-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 82018429695568,
+      "universeId": 9681438810
+    },
+    "https://tryhardguides.com/mine-a-planet-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 121125129560252,
+      "universeId": 10406668651
+    },
+    "https://tryhardguides.com/anime-expeditions-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 84515722934860,
+      "universeId": 7613921865
     }
   },
-  "updatedAt": "2026-07-17T10:00:02.960Z"
+  "updatedAt": "2026-07-17T12:00:06.670Z"
 }
