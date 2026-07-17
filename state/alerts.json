@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T18:45:02.243Z",
+  "generatedAt": "2026-07-17T19:15:02.032Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 415800,
+      "ccu": 394485,
       "ageDays": 57,
-      "rollingAvg": 413473,
-      "spikePct": 1,
+      "rollingAvg": 413210,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 342.4d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 35550,
+      "ccu": 35617,
       "ageDays": 42.1,
-      "rollingAvg": 31057,
-      "spikePct": 14,
+      "rollingAvg": 30882,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.6d (chameleon.com, chameleon.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 7]",
-      "ccu": 20991,
+      "ccu": 20886,
       "ageDays": 19.8,
-      "rollingAvg": 22009,
+      "rollingAvg": 21931,
       "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.1d (mineaplanet.com, mineaplanet.net); .com registered 3.1d ago"
+      "detail": "both taken, oldest 3.2d (mineaplanet.com, mineaplanet.net); .com registered 3.2d ago"
     },
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 55143,
+      "ccu": 55334,
       "ageDays": 43.9,
-      "rollingAvg": 51172,
-      "spikePct": 8,
+      "rollingAvg": 51639,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4665.8d (drainthelake.com, drainthelake.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 30907,
-      "ageDays": 3.1,
-      "rollingAvg": 32023,
-      "spikePct": -3,
+      "ccu": 30526,
+      "ageDays": 3.2,
+      "rollingAvg": 31980,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 29917,
+      "ccu": 29638,
       "ageDays": 21.3,
-      "rollingAvg": 31422,
-      "spikePct": -5,
+      "rollingAvg": 31445,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11267.6d (chameleon.com, chameleon.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 29137,
+      "ccu": 29145,
       "ageDays": 23.7,
-      "rollingAvg": 27043,
-      "spikePct": 8,
+      "rollingAvg": 26691,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 7.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 25758,
+      "ccu": 25512,
       "ageDays": 219.5,
-      "rollingAvg": 28236,
-      "spikePct": -9,
+      "rollingAvg": 28337,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 11.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 20774,
-      "ageDays": 28.9,
-      "rollingAvg": 20486,
-      "spikePct": 1,
+      "ccu": 20975,
+      "ageDays": 29,
+      "rollingAvg": 20522,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
