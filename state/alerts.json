@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-18T19:15:02.013Z",
+  "generatedAt": "2026-07-18T19:45:02.026Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 476233,
+      "ccu": 475526,
       "ageDays": 58,
-      "rollingAvg": 468035,
-      "spikePct": 2,
+      "rollingAvg": 468645,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 343.4d (growagarden2.com, growagarden2.net)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 25911,
+      "ccu": 27254,
       "ageDays": 43.1,
-      "rollingAvg": 25562,
-      "spikePct": 1,
+      "rollingAvg": 25461,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11268.6d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11268.7d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 22211,
+      "ccu": 22732,
       "ageDays": 23.1,
-      "rollingAvg": 20620,
-      "spikePct": 8,
+      "rollingAvg": 20819,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 58787,
+      "ccu": 59717,
       "ageDays": 44.9,
-      "rollingAvg": 51336,
-      "spikePct": 15,
+      "rollingAvg": 51582,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4666.8d (drainthelake.com, drainthelake.net)"
@@ -48,32 +48,32 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 21394,
+      "ccu": 21857,
       "ageDays": 29.2,
-      "rollingAvg": 24162,
-      "spikePct": -11,
+      "rollingAvg": 23910,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 4.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 4.5d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 40409,
+      "ccu": 40478,
       "ageDays": 22.3,
-      "rollingAvg": 42481,
+      "rollingAvg": 42720,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11268.6d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11268.7d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 26648,
+      "ccu": 26472,
       "ageDays": 4.2,
-      "rollingAvg": 27237,
-      "spikePct": -2,
+      "rollingAvg": 27209,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[ADMIN ABUSE] Clean the Squishies!",
-      "ccu": 29203,
+      "ccu": 23249,
       "ageDays": 24.7,
-      "rollingAvg": 25503,
-      "spikePct": 15,
+      "rollingAvg": 25747,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 8.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -92,9 +92,9 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 22811,
+      "ccu": 22626,
       "ageDays": 220.5,
-      "rollingAvg": 27013,
+      "rollingAvg": 26927,
       "spikePct": -16,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -103,13 +103,13 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 22881,
-      "ageDays": 48.6,
-      "rollingAvg": 21948,
+      "ccu": 22762,
+      "ageDays": 48.7,
+      "rollingAvg": 21909,
       "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: missilesvscities.net; .com registered 11.0d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
+      "detail": "available: missilesvscities.net; .com registered 11.1d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
     }
   ]
 }
