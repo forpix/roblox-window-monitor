@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-18T11:45:01.411Z",
+  "generatedAt": "2026-07-18T12:15:06.998Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 485450,
+      "ccu": 522119,
       "ageDays": 57.7,
-      "rollingAvg": 442247,
-      "spikePct": 10,
+      "rollingAvg": 444087,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 343.1d (growagarden2.com, growagarden2.net)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 7]",
-      "ccu": 20426,
+      "ccu": 21036,
       "ageDays": 20.5,
-      "rollingAvg": 21499,
-      "spikePct": -5,
+      "rollingAvg": 21466,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.8d (mineaplanet.com, mineaplanet.net); .com registered 3.8d ago"
+      "detail": "both taken, oldest 3.9d (mineaplanet.com, mineaplanet.net); .com registered 3.9d ago"
     },
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 23392,
+      "ccu": 24308,
       "ageDays": 42.8,
-      "rollingAvg": 28096,
-      "spikePct": -17,
+      "rollingAvg": 27804,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.3d (chameleon.com, chameleon.net)"
@@ -37,21 +37,32 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 51540,
+      "ccu": 53056,
       "ageDays": 44.6,
-      "rollingAvg": 49474,
-      "spikePct": 4,
+      "rollingAvg": 49378,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4666.5d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
+      "name": "Find and Mark!",
+      "ccu": 21201,
+      "ageDays": 14.6,
+      "rollingAvg": 21185,
+      "spikePct": 0,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: findandmark.com, findandmark.net; competitor BUILT: findandmark.wiki \"Find and Mark! Wiki — Guides, Badges &am\", find-and-mark.wiki \"Find and Mark! Wiki - Calculator, Strate\", findandmark.vercel.app \"Find and Mark! Wiki — Guides, Badges &am\" +1 more"
+    },
+    {
+      "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 47272,
+      "ccu": 50012,
       "ageDays": 22,
-      "rollingAvg": 34531,
-      "spikePct": 37,
+      "rollingAvg": 34992,
+      "spikePct": 43,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.3d (chameleon.com, chameleon.net)"
@@ -59,9 +70,9 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 27050,
-      "ageDays": 3.8,
-      "rollingAvg": 28180,
+      "ccu": 27010,
+      "ageDays": 3.9,
+      "rollingAvg": 28060,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,9 +81,9 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 27438,
+      "ccu": 27485,
       "ageDays": 24.4,
-      "rollingAvg": 24261,
+      "rollingAvg": 24244,
       "spikePct": 13,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -81,10 +92,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 28690,
+      "ccu": 29761,
       "ageDays": 220.2,
-      "rollingAvg": 25779,
-      "spikePct": 11,
+      "rollingAvg": 25838,
+      "spikePct": 15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 12.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -92,10 +103,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 22576,
-      "ageDays": 48.3,
-      "rollingAvg": 23123,
-      "spikePct": -2,
+      "ccu": 23082,
+      "ageDays": 48.4,
+      "rollingAvg": 23046,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 10.7d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
