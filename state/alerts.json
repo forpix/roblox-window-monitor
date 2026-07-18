@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-18T17:45:01.163Z",
+  "generatedAt": "2026-07-18T18:15:01.183Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 478830,
+      "ccu": 469735,
       "ageDays": 57.9,
-      "rollingAvg": 465620,
-      "spikePct": 3,
+      "rollingAvg": 466850,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 343.3d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 8]",
-      "ccu": 23339,
+      "ccu": 20999,
       "ageDays": 20.8,
-      "rollingAvg": 22098,
-      "spikePct": 6,
+      "rollingAvg": 22128,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.1d (mineaplanet.com, mineaplanet.net); .com registered 4.1d ago"
@@ -26,43 +26,21 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 25603,
+      "ccu": 24374,
       "ageDays": 43,
-      "rollingAvg": 25926,
-      "spikePct": -1,
+      "rollingAvg": 25820,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.6d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
-      "name": "Build a base RNG 🎲",
-      "ccu": 22883,
-      "ageDays": 47.9,
-      "rollingAvg": 28695,
-      "spikePct": -20,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: buildabaserng.net; .com registered 4.4d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
-    },
-    {
-      "source": "discover",
-      "name": "[🏆] Build an ASMR Tower",
-      "ccu": 20685,
-      "ageDays": 23,
-      "rollingAvg": 20609,
-      "spikePct": 0,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\""
-    },
-    {
-      "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 53597,
+      "ccu": 51693,
       "ageDays": 44.9,
-      "rollingAvg": 50804,
-      "spikePct": 5,
+      "rollingAvg": 51057,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4666.8d (drainthelake.com, drainthelake.net)"
@@ -70,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 21327,
-      "ageDays": 29.1,
-      "rollingAvg": 25737,
-      "spikePct": -17,
+      "ccu": 20014,
+      "ageDays": 29.2,
+      "rollingAvg": 25186,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 4.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -81,10 +59,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 39827,
-      "ageDays": 22.2,
-      "rollingAvg": 41702,
-      "spikePct": -4,
+      "ccu": 37099,
+      "ageDays": 22.3,
+      "rollingAvg": 42053,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.6d (chameleon.com, chameleon.net)"
@@ -92,10 +70,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 26986,
+      "ccu": 26738,
       "ageDays": 4.1,
-      "rollingAvg": 27340,
-      "spikePct": -1,
+      "rollingAvg": 27303,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -103,57 +81,35 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 27634,
-      "ageDays": 24.6,
-      "rollingAvg": 24925,
-      "spikePct": 11,
+      "ccu": 26585,
+      "ageDays": 24.7,
+      "rollingAvg": 25124,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 8.0d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
-    },
-    {
-      "source": "discover",
-      "name": "[🦖] 99 Nights in the Forest 🔦",
-      "ccu": 1132842,
-      "ageDays": 501.5,
-      "rollingAvg": 351316,
-      "spikePct": 222,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "both taken, oldest 392.5d (99nightsintheforest.com, 99nightsintheforest.net)"
+      "detail": "available: cleanthesquishies.net; .com registered 8.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 23506,
+      "ccu": 21665,
       "ageDays": 220.5,
-      "rollingAvg": 27241,
-      "spikePct": -14,
+      "rollingAvg": 27233,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 12.2d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: beafishbait.net; .com registered 12.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 22234,
+      "ccu": 21332,
       "ageDays": 48.6,
-      "rollingAvg": 22268,
-      "spikePct": 0,
+      "rollingAvg": 22175,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 11.0d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
-    },
-    {
-      "source": "discover",
-      "name": "[😈SHIDOU +🏆] Blue Lock: Rivals",
-      "ccu": 94502,
-      "ageDays": 721.9,
-      "rollingAvg": 34223,
-      "spikePct": 176,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "both taken, oldest 8530.6d (bluelock.com, bluelock.net)"
     }
   ]
 }
