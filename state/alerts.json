@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-18T05:15:06.111Z",
+  "generatedAt": "2026-07-18T05:45:04.410Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 434208,
+      "ccu": 441702,
       "ageDays": 57.4,
-      "rollingAvg": 424663,
-      "spikePct": 2,
+      "rollingAvg": 426131,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 342.8d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 26019,
+      "ccu": 25006,
       "ageDays": 42.5,
-      "rollingAvg": 31625,
-      "spikePct": -18,
+      "rollingAvg": 31533,
+      "spikePct": -21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.1d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 7]",
-      "ccu": 21806,
+      "ccu": 21384,
       "ageDays": 20.3,
-      "rollingAvg": 21643,
-      "spikePct": 1,
+      "rollingAvg": 21649,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.6d (mineaplanet.com, mineaplanet.net); .com registered 3.6d ago"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 47695,
-      "ageDays": 44.3,
-      "rollingAvg": 54671,
-      "spikePct": -13,
+      "ccu": 46606,
+      "ageDays": 44.4,
+      "rollingAvg": 54397,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4666.2d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4666.3d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "Find and Mark!",
-      "ccu": 22360,
-      "ageDays": 14.3,
-      "rollingAvg": 20981,
-      "spikePct": 7,
+      "ccu": 21029,
+      "ageDays": 14.4,
+      "rollingAvg": 21211,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: findandmark.com, findandmark.net; competitor BUILT: findandmark.wiki \"Find and Mark! Wiki — Guides, Badges &am\", find-and-mark.wiki \"Find and Mark! Wiki - Calculator, Strate\", findandmark.vercel.app \"Find and Mark! Wiki — Guides, Badges &am\" +1 more"
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 27440,
+      "ccu": 27411,
       "ageDays": 3.6,
-      "rollingAvg": 30249,
+      "rollingAvg": 30125,
       "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 42495,
+      "ccu": 41806,
       "ageDays": 21.7,
-      "rollingAvg": 33087,
-      "spikePct": 28,
+      "rollingAvg": 33346,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.1d (chameleon.com, chameleon.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 22361,
+      "ccu": 22550,
       "ageDays": 24.1,
-      "rollingAvg": 24878,
-      "spikePct": -10,
+      "rollingAvg": 24845,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 7.5d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 27300,
-      "ageDays": 219.9,
-      "rollingAvg": 28415,
-      "spikePct": -4,
+      "ccu": 27469,
+      "ageDays": 220,
+      "rollingAvg": 28259,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 11.7d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
