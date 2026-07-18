@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-18T12:45:06.729Z",
+  "generatedAt": "2026-07-18T13:15:06.735Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 493809,
+      "ccu": 495082,
       "ageDays": 57.7,
-      "rollingAvg": 446888,
+      "rollingAvg": 449055,
       "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 7]",
-      "ccu": 22171,
+      "ccu": 22974,
       "ageDays": 20.6,
-      "rollingAvg": 21453,
-      "spikePct": 3,
+      "rollingAvg": 21474,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.9d (mineaplanet.com, mineaplanet.net); .com registered 3.9d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 26310,
+      "ccu": 27606,
       "ageDays": 42.8,
-      "rollingAvg": 27533,
-      "spikePct": -4,
+      "rollingAvg": 27277,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.4d (chameleon.com, chameleon.net)"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 56323,
+      "ccu": 57246,
       "ageDays": 44.7,
-      "rollingAvg": 49354,
-      "spikePct": 14,
+      "rollingAvg": 49386,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 4666.5d (drainthelake.com, drainthelake.net)"
+      "detail": "both taken, oldest 4666.6d (drainthelake.com, drainthelake.net)"
     },
     {
       "source": "discover",
       "name": "Find and Mark!",
-      "ccu": 23866,
-      "ageDays": 14.6,
-      "rollingAvg": 21187,
-      "spikePct": 13,
+      "ccu": 24499,
+      "ageDays": 14.7,
+      "rollingAvg": 21485,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: findandmark.com, findandmark.net; competitor BUILT: findandmark.wiki \"Find and Mark! Wiki — Guides, Badges &am\", find-and-mark.wiki \"Find and Mark! Wiki - Calculator, Strate\", findandmark.vercel.app \"Find and Mark! Wiki — Guides, Badges &am\" +1 more"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 53680,
-      "ageDays": 22,
-      "rollingAvg": 35549,
-      "spikePct": 51,
+      "ccu": 55302,
+      "ageDays": 22.1,
+      "rollingAvg": 36209,
+      "spikePct": 53,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.4d (chameleon.com, chameleon.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[RETURN + UPD6] Anime Astral Simulator",
-      "ccu": 27230,
+      "ccu": 27325,
       "ageDays": 3.9,
-      "rollingAvg": 27945,
-      "spikePct": -3,
+      "rollingAvg": 27843,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[AURA!] Clean the Squishies!",
-      "ccu": 28991,
-      "ageDays": 24.4,
-      "rollingAvg": 24205,
-      "spikePct": 20,
+      "ccu": 29469,
+      "ageDays": 24.5,
+      "rollingAvg": 24213,
+      "spikePct": 22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 7.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 30414,
+      "ccu": 30931,
       "ageDays": 220.3,
-      "rollingAvg": 25945,
-      "spikePct": 17,
+      "rollingAvg": 26075,
+      "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 12.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 23400,
+      "ccu": 23482,
       "ageDays": 48.4,
-      "rollingAvg": 22966,
-      "spikePct": 2,
+      "rollingAvg": 22886,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 10.8d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
