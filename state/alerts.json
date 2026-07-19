@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T05:45:04.642Z",
+  "generatedAt": "2026-07-19T06:15:07.332Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 516227,
+      "ccu": 525443,
       "ageDays": 58.4,
-      "rollingAvg": 490273,
-      "spikePct": 5,
+      "rollingAvg": 491128,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 343.8d (growagarden2.com, growagarden2.net)"
@@ -15,31 +15,20 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 8]",
-      "ccu": 21725,
+      "ccu": 21300,
       "ageDays": 21.3,
-      "rollingAvg": 22406,
-      "spikePct": -3,
+      "rollingAvg": 22416,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.6d (mineaplanet.com, mineaplanet.net); .com registered 4.6d ago"
     },
     {
       "source": "discover",
-      "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 21230,
-      "ageDays": 43.5,
-      "rollingAvg": 25491,
-      "spikePct": -17,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "both taken, oldest 11269.1d (chameleon.com, chameleon.net)"
-    },
-    {
-      "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 48197,
+      "ccu": 47987,
       "ageDays": 45.4,
-      "rollingAvg": 54071,
+      "rollingAvg": 53978,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -47,22 +36,11 @@
     },
     {
       "source": "discover",
-      "name": "Find and Mark!",
-      "ccu": 20562,
-      "ageDays": 15.4,
-      "rollingAvg": 22257,
-      "spikePct": -8,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: findandmark.com, findandmark.net; competitor BUILT: findandmark.wiki \"Find and Mark! Wiki — Guides, Badges &am\", find-and-mark.wiki \"Find and Mark! Wiki - Calculator, Strate\", findandmark.vercel.app \"Find and Mark! Wiki — Guides, Badges &am\" +1 more"
-    },
-    {
-      "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 46455,
-      "ageDays": 22.7,
-      "rollingAvg": 44191,
-      "spikePct": 5,
+      "ccu": 45870,
+      "ageDays": 22.8,
+      "rollingAvg": 44168,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11269.1d (chameleon.com, chameleon.net)"
@@ -70,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 28517,
+      "ccu": 28503,
       "ageDays": 4.6,
-      "rollingAvg": 28108,
+      "rollingAvg": 28149,
       "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -81,24 +59,24 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23121,
-      "ageDays": 25.1,
-      "rollingAvg": 26306,
-      "spikePct": -12,
+      "ccu": 23306,
+      "ageDays": 25.2,
+      "rollingAvg": 26186,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 8.5d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 8.6d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 25152,
+      "ccu": 25020,
       "ageDays": 221,
-      "rollingAvg": 25507,
-      "spikePct": -1,
+      "rollingAvg": 25409,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 12.7d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: beafishbait.net; .com registered 12.8d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     }
   ]
 }
