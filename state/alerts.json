@@ -1,23 +1,34 @@
 {
-  "generatedAt": "2026-07-19T18:15:01.968Z",
+  "generatedAt": "2026-07-19T18:45:02.332Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 538594,
-      "ageDays": 58.9,
-      "rollingAvg": 515056,
+      "ccu": 540430,
+      "ageDays": 59,
+      "rollingAvg": 516941,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 344.3d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 344.4d (growagarden2.com, growagarden2.net)"
+    },
+    {
+      "source": "discover",
+      "name": "My Giant Sandwich",
+      "ccu": 20399,
+      "ageDays": 28.4,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: mygiantsandwich.net; .com registered 6.8d ago; .com BUILT: \"My Giant Sandwich Calculator, Codes &amp; Wiki\""
     },
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 28829,
-      "ageDays": 24,
-      "rollingAvg": 23782,
+      "ccu": 29024,
+      "ageDays": 24.1,
+      "rollingAvg": 24004,
       "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 28949,
+      "ccu": 28804,
       "ageDays": 30.2,
-      "rollingAvg": 22307,
-      "spikePct": 30,
+      "rollingAvg": 22497,
+      "spikePct": 28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -37,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 38222,
+      "ccu": 37438,
       "ageDays": 23.3,
-      "rollingAvg": 43377,
-      "spikePct": -12,
+      "rollingAvg": 43470,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11269.6d (chameleon.com, chameleon.net)"
@@ -48,9 +59,9 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 44677,
+      "ccu": 45357,
       "ageDays": 25.7,
-      "rollingAvg": 30971,
+      "rollingAvg": 31501,
       "spikePct": 44,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +70,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 28322,
+      "ccu": 27847,
       "ageDays": 49.6,
-      "rollingAvg": 23881,
-      "spikePct": 19,
+      "rollingAvg": 24015,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 12.0d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -70,9 +81,9 @@
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 21564,
+      "ccu": 21691,
       "ageDays": 31,
-      "rollingAvg": 21279,
+      "rollingAvg": 21422,
       "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "CHECK",
@@ -81,10 +92,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 22870,
+      "ccu": 22112,
       "ageDays": 221.5,
-      "rollingAvg": 25873,
-      "spikePct": -12,
+      "rollingAvg": 25914,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 13.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
@@ -92,10 +103,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 20727,
+      "ccu": 20744,
       "ageDays": 30.9,
-      "rollingAvg": 20272,
-      "spikePct": 2,
+      "rollingAvg": 20500,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
