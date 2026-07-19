@@ -1,35 +1,24 @@
 {
-  "generatedAt": "2026-07-19T18:45:02.332Z",
+  "generatedAt": "2026-07-19T19:15:03.682Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 540430,
+      "ccu": 406884,
       "ageDays": 59,
-      "rollingAvg": 516941,
-      "spikePct": 5,
+      "rollingAvg": 518611,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.4d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
-      "name": "My Giant Sandwich",
-      "ccu": 20399,
-      "ageDays": 28.4,
-      "rollingAvg": 0,
-      "spikePct": null,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: mygiantsandwich.net; .com registered 6.8d ago; .com BUILT: \"My Giant Sandwich Calculator, Codes &amp; Wiki\""
-    },
-    {
-      "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 29024,
+      "ccu": 25340,
       "ageDays": 24.1,
-      "rollingAvg": 24004,
-      "spikePct": 21,
+      "rollingAvg": 24235,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\""
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 28804,
+      "ccu": 23397,
       "ageDays": 30.2,
-      "rollingAvg": 22497,
-      "spikePct": 28,
+      "rollingAvg": 22723,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -48,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 37438,
+      "ccu": 27348,
       "ageDays": 23.3,
-      "rollingAvg": 43470,
-      "spikePct": -14,
+      "rollingAvg": 43541,
+      "spikePct": -37,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11269.6d (chameleon.com, chameleon.net)"
@@ -59,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 45357,
+      "ccu": 40672,
       "ageDays": 25.7,
-      "rollingAvg": 31501,
-      "spikePct": 44,
+      "rollingAvg": 32062,
+      "spikePct": 27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 9.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -70,10 +59,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 27847,
+      "ccu": 23052,
       "ageDays": 49.6,
-      "rollingAvg": 24015,
-      "spikePct": 16,
+      "rollingAvg": 24130,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 12.0d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -81,35 +70,13 @@
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 21691,
+      "ccu": 20362,
       "ageDays": 31,
-      "rollingAvg": 21422,
-      "spikePct": 1,
+      "rollingAvg": 21511,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
-      "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 22112,
-      "ageDays": 221.5,
-      "rollingAvg": 25914,
-      "spikePct": -15,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 13.3d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
-    },
-    {
-      "source": "discover",
-      "name": "this awesome game",
-      "ccu": 20744,
-      "ageDays": 30.9,
-      "rollingAvg": 20500,
-      "spikePct": 1,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
     }
   ]
 }
