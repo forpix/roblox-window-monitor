@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-19T00:15:03.272Z",
+  "generatedAt": "2026-07-19T00:45:02.009Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 493431,
+      "ccu": 498020,
       "ageDays": 58.2,
-      "rollingAvg": 475735,
+      "rollingAvg": 477015,
       "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 23765,
+      "ccu": 24453,
       "ageDays": 43.3,
-      "rollingAvg": 24625,
-      "spikePct": -3,
+      "rollingAvg": 24621,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11268.8d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11268.9d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 20934,
+      "ccu": 21521,
       "ageDays": 23.3,
-      "rollingAvg": 21007,
-      "spikePct": 0,
+      "rollingAvg": 21001,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 53596,
-      "ageDays": 45.1,
-      "rollingAvg": 52413,
-      "spikePct": 2,
+      "ccu": 52555,
+      "ageDays": 45.2,
+      "rollingAvg": 52623,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4667.0d (drainthelake.com, drainthelake.net)"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 20622,
+      "ccu": 20574,
       "ageDays": 29.4,
-      "rollingAvg": 22767,
+      "rollingAvg": 22660,
       "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 40467,
+      "ccu": 43145,
       "ageDays": 22.5,
-      "rollingAvg": 42595,
-      "spikePct": -5,
+      "rollingAvg": 42592,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11268.8d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11268.9d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 28853,
+      "ccu": 28786,
       "ageDays": 4.4,
-      "rollingAvg": 27579,
-      "spikePct": 5,
+      "rollingAvg": 27619,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24014,
+      "ccu": 23843,
       "ageDays": 24.9,
-      "rollingAvg": 26542,
+      "rollingAvg": 26570,
       "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 25481,
-      "ageDays": 220.7,
-      "rollingAvg": 25695,
-      "spikePct": -1,
+      "ccu": 26363,
+      "ageDays": 220.8,
+      "rollingAvg": 25648,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 12.5d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
