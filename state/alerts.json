@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T01:15:01.639Z",
+  "generatedAt": "2026-07-19T01:45:03.678Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 507782,
+      "ccu": 496206,
       "ageDays": 58.2,
-      "rollingAvg": 478249,
-      "spikePct": 6,
+      "rollingAvg": 479687,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 343.6d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 8]",
-      "ccu": 20616,
+      "ccu": 21553,
       "ageDays": 21.1,
-      "rollingAvg": 22076,
-      "spikePct": -7,
+      "rollingAvg": 22055,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.4d (mineaplanet.com, mineaplanet.net); .com registered 4.4d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 24352,
+      "ccu": 25145,
       "ageDays": 43.3,
-      "rollingAvg": 24662,
-      "spikePct": -1,
+      "rollingAvg": 24731,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.9d (chameleon.com, chameleon.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 21852,
+      "ccu": 22349,
       "ageDays": 23.3,
-      "rollingAvg": 21039,
-      "spikePct": 4,
+      "rollingAvg": 21093,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "🪣 Drain the Lake",
-      "ccu": 52962,
+      "ccu": 54230,
       "ageDays": 45.2,
-      "rollingAvg": 52775,
-      "spikePct": 0,
+      "rollingAvg": 52923,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 4667.1d (drainthelake.com, drainthelake.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 20953,
+      "ccu": 20701,
       "ageDays": 29.5,
-      "rollingAvg": 22561,
-      "spikePct": -7,
+      "rollingAvg": 22488,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 4.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Find and Mark!",
-      "ccu": 20263,
+      "ccu": 21194,
       "ageDays": 15.2,
-      "rollingAvg": 22326,
-      "spikePct": -9,
+      "rollingAvg": 22197,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: findandmark.com, findandmark.net; competitor BUILT: findandmark.wiki \"Find and Mark! Wiki — Guides, Badges &am\", find-and-mark.wiki \"Find and Mark! Wiki - Calculator, Strate\", findandmark.vercel.app \"Find and Mark! Wiki — Guides, Badges &am\" +1 more"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 43733,
+      "ccu": 45968,
       "ageDays": 22.6,
-      "rollingAvg": 42662,
-      "spikePct": 3,
+      "rollingAvg": 42762,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11268.9d (chameleon.com, chameleon.net)"
@@ -92,9 +92,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 28707,
+      "ccu": 28746,
       "ageDays": 4.4,
-      "rollingAvg": 27661,
+      "rollingAvg": 27706,
       "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -103,24 +103,24 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24769,
+      "ccu": 25000,
       "ageDays": 25,
-      "rollingAvg": 26566,
-      "spikePct": -7,
+      "rollingAvg": 26565,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 8.3d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 8.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 26200,
+      "ccu": 26777,
       "ageDays": 220.8,
-      "rollingAvg": 25634,
-      "spikePct": 2,
+      "rollingAvg": 25610,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 12.5d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: beafishbait.net; .com registered 12.6d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     }
   ]
 }
