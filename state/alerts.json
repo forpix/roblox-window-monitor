@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T19:15:03.682Z",
+  "generatedAt": "2026-07-19T19:45:04.777Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 406884,
+      "ccu": 447685,
       "ageDays": 59,
-      "rollingAvg": 518611,
-      "spikePct": -22,
+      "rollingAvg": 516319,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.4d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 25340,
+      "ccu": 26936,
       "ageDays": 24.1,
-      "rollingAvg": 24235,
-      "spikePct": 5,
+      "rollingAvg": 24322,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\""
@@ -26,31 +26,31 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 23397,
+      "ccu": 26718,
       "ageDays": 30.2,
-      "rollingAvg": 22723,
-      "spikePct": 3,
+      "rollingAvg": 22783,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 5.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 5.5d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 27348,
+      "ccu": 29681,
       "ageDays": 23.3,
-      "rollingAvg": 43541,
-      "spikePct": -37,
+      "rollingAvg": 43310,
+      "spikePct": -31,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11269.6d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11269.7d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 40672,
+      "ccu": 41401,
       "ageDays": 25.7,
-      "rollingAvg": 32062,
+      "rollingAvg": 32520,
       "spikePct": 27,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 23052,
-      "ageDays": 49.6,
-      "rollingAvg": 24130,
-      "spikePct": -4,
+      "ccu": 23552,
+      "ageDays": 49.7,
+      "rollingAvg": 24129,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: missilesvscities.net; .com registered 12.0d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
+      "detail": "available: missilesvscities.net; .com registered 12.1d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 20362,
+      "ccu": 21237,
       "ageDays": 31,
-      "rollingAvg": 21511,
-      "spikePct": -5,
+      "rollingAvg": 21224,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
