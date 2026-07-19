@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T20:15:04.186Z",
+  "generatedAt": "2026-07-19T20:45:05.848Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 475671,
+      "ccu": 479591,
       "ageDays": 59,
-      "rollingAvg": 515087,
-      "spikePct": -8,
+      "rollingAvg": 514593,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.4d (growagarden2.com, growagarden2.net)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 25842,
+      "ccu": 26011,
       "ageDays": 24.1,
-      "rollingAvg": 24439,
+      "rollingAvg": 24557,
       "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 25853,
+      "ccu": 24381,
       "ageDays": 30.3,
-      "rollingAvg": 22933,
-      "spikePct": 13,
+      "rollingAvg": 23095,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.5d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -37,32 +37,43 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 31628,
-      "ageDays": 23.3,
-      "rollingAvg": 43065,
-      "spikePct": -27,
+      "ccu": 29434,
+      "ageDays": 23.4,
+      "rollingAvg": 42820,
+      "spikePct": -31,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11269.7d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
+      "name": "[UPDATE 6.1] Anime Astral Simulator",
+      "ccu": 28540,
+      "ageDays": 5.2,
+      "rollingAvg": 28291,
+      "spikePct": 1,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
+    },
+    {
+      "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 39100,
-      "ageDays": 25.7,
-      "rollingAvg": 32990,
-      "spikePct": 19,
+      "ccu": 41067,
+      "ageDays": 25.8,
+      "rollingAvg": 33410,
+      "spikePct": 23,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 9.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 9.2d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 24638,
+      "ccu": 22787,
       "ageDays": 49.7,
-      "rollingAvg": 24149,
-      "spikePct": 2,
+      "rollingAvg": 24213,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 12.1d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -70,10 +81,10 @@
     {
       "source": "discover",
       "name": "Experience Abstraction",
-      "ccu": 20694,
+      "ccu": 20798,
       "ageDays": 31.1,
-      "rollingAvg": 21227,
-      "spikePct": -3,
+      "rollingAvg": 21138,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: experienceabstraction.net; .com probe inconclusive — check by hand"
