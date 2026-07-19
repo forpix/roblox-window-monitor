@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T14:45:02.498Z",
+  "generatedAt": "2026-07-19T15:15:06.920Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 529475,
+      "ccu": 536017,
       "ageDays": 58.8,
-      "rollingAvg": 504511,
-      "spikePct": 5,
+      "rollingAvg": 506049,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.2d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 8]",
-      "ccu": 20360,
-      "ageDays": 21.6,
-      "rollingAvg": 22281,
-      "spikePct": -9,
+      "ccu": 20412,
+      "ageDays": 21.7,
+      "rollingAvg": 22221,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.0d (mineaplanet.com, mineaplanet.net); .com registered 5.0d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 25669,
+      "ccu": 25666,
       "ageDays": 23.9,
-      "rollingAvg": 22777,
-      "spikePct": 13,
+      "rollingAvg": 22860,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\""
@@ -37,43 +37,32 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 25132,
+      "ccu": 26091,
       "ageDays": 30,
-      "rollingAvg": 22179,
-      "spikePct": 13,
+      "rollingAvg": 22266,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
-      "name": "Find and Mark!",
-      "ccu": 20374,
-      "ageDays": 15.7,
-      "rollingAvg": 22266,
-      "spikePct": -8,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: findandmark.com, findandmark.net; competitor BUILT: findandmark.wiki \"Find and Mark! Wiki — Guides, Badges &am\", find-and-mark.wiki \"Find and Mark! Wiki - Calculator, Strate\", findandmark.vercel.app \"Find and Mark! Wiki — Guides, Badges &am\" +1 more"
-    },
-    {
-      "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 43454,
+      "ccu": 41786,
       "ageDays": 23.1,
-      "rollingAvg": 42794,
-      "spikePct": 2,
+      "rollingAvg": 42976,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11269.4d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11269.5d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 38075,
+      "ccu": 38012,
       "ageDays": 25.5,
-      "rollingAvg": 28165,
-      "spikePct": 35,
+      "rollingAvg": 28455,
+      "spikePct": 34,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 8.9d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -81,32 +70,21 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 25996,
+      "ccu": 25468,
       "ageDays": 49.5,
-      "rollingAvg": 23100,
-      "spikePct": 13,
+      "rollingAvg": 23263,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: missilesvscities.net; .com registered 11.8d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
-    },
-    {
-      "source": "discover",
-      "name": "[NOW!!!] Throw a Coin",
-      "ccu": 78931,
-      "ageDays": 73.8,
-      "rollingAvg": 27507,
-      "spikePct": 187,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "available: throwacoin.net; .com parked; competitor BUILT: throwacoin.wiki \"Throw a Coin Codes, Tier List and Tools\", throw-a-coin.wiki \"Throw a Coin Wiki - Throw a Coin Roblox \", throwacoinwiki.wiki \"Throw a Coin Wiki - Roblox Items, Rariti\" +3 more"
+      "detail": "available: missilesvscities.net; .com registered 11.9d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
     },
     {
       "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 27251,
-      "ageDays": 221.3,
-      "rollingAvg": 25152,
-      "spikePct": 8,
+      "ccu": 26487,
+      "ageDays": 221.4,
+      "rollingAvg": 25327,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: beafishbait.net; .com registered 13.1d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
