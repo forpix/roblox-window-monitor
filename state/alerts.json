@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T13:15:02.616Z",
+  "generatedAt": "2026-07-19T13:45:08.173Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 525619,
-      "ageDays": 58.7,
-      "rollingAvg": 500350,
-      "spikePct": 5,
+      "ccu": 538012,
+      "ageDays": 58.8,
+      "rollingAvg": 501244,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.1d (growagarden2.com, growagarden2.net)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 26175,
+      "ccu": 26398,
       "ageDays": 23.8,
-      "rollingAvg": 22451,
+      "rollingAvg": 22567,
       "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 22792,
+      "ccu": 23397,
       "ageDays": 30,
-      "rollingAvg": 22059,
-      "spikePct": 3,
+      "rollingAvg": 22082,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.2d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Find and Mark!",
-      "ccu": 23396,
+      "ccu": 23386,
       "ageDays": 15.7,
-      "rollingAvg": 22202,
+      "rollingAvg": 22243,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 47314,
+      "ccu": 47384,
       "ageDays": 23.1,
-      "rollingAvg": 42188,
+      "rollingAvg": 42355,
       "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,20 +59,20 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 37877,
+      "ccu": 38234,
       "ageDays": 25.5,
-      "rollingAvg": 27257,
+      "rollingAvg": 27560,
       "spikePct": 39,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 8.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 8.9d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 27023,
+      "ccu": 27378,
       "ageDays": 49.4,
-      "rollingAvg": 22601,
+      "rollingAvg": 22749,
       "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -80,14 +80,25 @@
     },
     {
       "source": "discover",
+      "name": "[15m] Throw a Coin",
+      "ccu": 57023,
+      "ageDays": 73.8,
+      "rollingAvg": 24100,
+      "spikePct": 137,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "available: throwacoin.net; .com parked; competitor BUILT: throwacoin.wiki \"Throw a Coin Codes, Tier List and Tools\", throw-a-coin.wiki \"Throw a Coin Wiki - Throw a Coin Roblox \", throwacoin.vercel.app \"Create Next App\" +2 more"
+    },
+    {
+      "source": "discover",
       "name": "😁BE A FISH BAIT!🐟[UPD FOMO - BUGS FIXED]",
-      "ccu": 28084,
+      "ccu": 28793,
       "ageDays": 221.3,
-      "rollingAvg": 24737,
-      "spikePct": 14,
+      "rollingAvg": 24834,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: beafishbait.net; .com registered 13.0d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
+      "detail": "available: beafishbait.net; .com registered 13.1d ago; .com BUILT: \"Be a Fish Bait Codes &amp; Guide\""
     }
   ]
 }
