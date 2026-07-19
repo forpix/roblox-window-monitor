@@ -1,10 +1,8 @@
 {"runId":"2026-07-12T19:34:29.927Z","sourceKey":"roblox-sitemap","scheduledAt":"2026-07-12T19:34:29.927Z","startedAt":"2026-07-12T19:34:29.927Z","finishedAt":"2026-07-12T19:34:31.798Z","status":"ok","fetchedCount":10,"eligibleCount":10,"error":null}
 {"runId":"2026-07-13T04:05:10.290Z","sourceKey":"roblox-sitemap","scheduledAt":"2026-07-13T04:05:10.290Z","startedAt":"2026-07-13T04:05:10.290Z","finishedAt":"2026-07-13T04:05:14.276Z","status":"ok","fetchedCount":10,"eligibleCount":10,"error":null}
 {"runId":"2026-07-13T09:50:25.714Z","sourceKey":"roblox-sitemap","scheduledAt":"2026-07-13T09:50:25.714Z","startedAt":"2026-07-13T09:50:25.714Z","finishedAt":"2026-07-13T09:50:26.666Z","status":"ok","fetchedCount":10,"eligibleCount":10,"error":null}
-<<<<<<< HEAD
 {"runId":"2026-07-13T15:15:34.838Z","sourceKey":"roblox-sitemap","scheduledAt":"2026-07-13T15:15:34.838Z","startedAt":"2026-07-13T15:15:34.838Z","finishedAt":"2026-07-13T15:15:37.477Z","status":"ok","fetchedCount":10,"eligibleCount":10,"error":null}
 {"runId":"2026-07-13T15:15:34.838Z","sourceKey":"roblox-sitemap-enrich","scheduledAt":"2026-07-13T15:15:34.838Z","startedAt":"2026-07-13T15:15:34.838Z","finishedAt":"2026-07-13T15:15:55.898Z","status":"partial","fetchedCount":59,"eligibleCount":120,"error":"61/120 placeId 富化失败"}
-=======
 {"runId":"2026-07-13T14:49:58.175Z","sourceKey":"roblox-sitemap-enrich","scheduledAt":"2026-07-13T14:49:58.175Z","startedAt":"2026-07-13T14:49:58.175Z","finishedAt":"2026-07-13T14:50:34.861Z","status":"partial","fetchedCount":59,"eligibleCount":120,"error":"61/120 placeId 富化失败"}
 {"runId":"2026-07-13T14:50:48.208Z","sourceKey":"roblox-sitemap-enrich","scheduledAt":"2026-07-13T14:50:48.208Z","startedAt":"2026-07-13T14:50:48.208Z","finishedAt":"2026-07-13T14:51:38.946Z","status":"partial","fetchedCount":60,"eligibleCount":120,"error":"60/120 placeId 富化失败"}
 {"runId":"2026-07-13T14:51:52.669Z","sourceKey":"roblox-sitemap-enrich","scheduledAt":"2026-07-13T14:51:52.669Z","startedAt":"2026-07-13T14:51:52.669Z","finishedAt":"2026-07-13T14:52:34.643Z","status":"partial","fetchedCount":59,"eligibleCount":120,"error":"61/120 placeId 富化失败"}
@@ -21,4 +19,3 @@
 {"runId":"2026-07-13T15:06:25.551Z","sourceKey":"roblox-sitemap-enrich","scheduledAt":"2026-07-13T15:06:25.551Z","startedAt":"2026-07-13T15:06:25.551Z","finishedAt":"2026-07-13T15:06:27.701Z","status":"error","fetchedCount":0,"eligibleCount":3,"error":"3/3 placeId 富化失败"}
 {"runId":"2026-07-13T15:08:27.829Z","sourceKey":"roblox-sitemap-enrich","scheduledAt":"2026-07-13T15:08:27.829Z","startedAt":"2026-07-13T15:08:27.829Z","finishedAt":"2026-07-13T15:08:30.413Z","status":"error","fetchedCount":0,"eligibleCount":3,"error":"3/3 placeId 富化失败"}
 {"runId":"2026-07-13T15:10:30.540Z","sourceKey":"roblox-sitemap-enrich","scheduledAt":"2026-07-13T15:10:30.540Z","startedAt":"2026-07-13T15:10:30.540Z","finishedAt":"2026-07-13T15:10:34.103Z","status":"error","fetchedCount":0,"eligibleCount":3,"error":"3/3 placeId 富化失败"}
->>>>>>> af2d305 (chore: update monitor state [skip ci])
