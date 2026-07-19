@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-19T23:15:04.264Z",
+  "generatedAt": "2026-07-19T23:45:01.689Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 491507,
-      "ageDays": 59.1,
-      "rollingAvg": 510482,
+      "ccu": 489252,
+      "ageDays": 59.2,
+      "rollingAvg": 509659,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 344.5d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 344.6d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 22232,
+      "ccu": 22136,
       "ageDays": 30.4,
-      "rollingAvg": 23150,
-      "spikePct": -4,
+      "rollingAvg": 23184,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 28520,
+      "ccu": 29460,
       "ageDays": 23.5,
-      "rollingAvg": 40000,
-      "spikePct": -29,
+      "rollingAvg": 39419,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11269.8d (chameleon.com, chameleon.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 28890,
+      "ccu": 28810,
       "ageDays": 25.9,
-      "rollingAvg": 34746,
+      "rollingAvg": 34835,
       "spikePct": -17,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 25564,
+      "ccu": 25388,
       "ageDays": 5.3,
-      "rollingAvg": 28291,
+      "rollingAvg": 28252,
       "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
