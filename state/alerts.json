@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-20T01:15:01.232Z",
+  "generatedAt": "2026-07-20T01:45:01.921Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 487258,
+      "ccu": 478383,
       "ageDays": 59.2,
-      "rollingAvg": 507824,
-      "spikePct": -4,
+      "rollingAvg": 507027,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.6d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 20900,
+      "ccu": 21175,
       "ageDays": 30.5,
-      "rollingAvg": 23291,
-      "spikePct": -10,
+      "rollingAvg": 23309,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 28390,
+      "ccu": 28919,
       "ageDays": 23.6,
-      "rollingAvg": 37805,
-      "spikePct": -25,
+      "rollingAvg": 37294,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11269.9d (chameleon.com, chameleon.net)"
@@ -37,20 +37,20 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 25186,
+      "ccu": 24825,
       "ageDays": 26,
-      "rollingAvg": 35059,
-      "spikePct": -28,
+      "rollingAvg": 35110,
+      "spikePct": -29,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 9.3d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 9.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 24214,
+      "ccu": 24260,
       "ageDays": 5.4,
-      "rollingAvg": 28120,
+      "rollingAvg": 28052,
       "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
