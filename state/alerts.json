@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-20T07:45:03.566Z",
+  "generatedAt": "2026-07-20T08:15:01.950Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 448129,
+      "ccu": 456164,
       "ageDays": 59.5,
-      "rollingAvg": 491272,
-      "spikePct": -9,
+      "rollingAvg": 488775,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.9d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 26733,
+      "ccu": 28390,
       "ageDays": 24.6,
-      "rollingAvg": 25134,
-      "spikePct": 6,
+      "rollingAvg": 25288,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 25128,
+      "ccu": 26363,
       "ageDays": 26.2,
-      "rollingAvg": 31978,
-      "spikePct": -21,
+      "rollingAvg": 31614,
+      "spikePct": -17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 9.6d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 24396,
+      "ccu": 24959,
       "ageDays": 23.8,
-      "rollingAvg": 31034,
-      "spikePct": -21,
+      "rollingAvg": 30396,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.2d (chameleon.com, chameleon.net)"
