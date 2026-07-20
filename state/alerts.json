@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-07-20T03:45:07.339Z",
+  "generatedAt": "2026-07-20T04:15:02.558Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 478584,
-      "ageDays": 59.3,
-      "rollingAvg": 502899,
-      "spikePct": -5,
+      "ccu": 471355,
+      "ageDays": 59.4,
+      "rollingAvg": 501986,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.7d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
+      "name": "[🏆] Build an ASMR Tower",
+      "ccu": 22455,
+      "ageDays": 24.5,
+      "rollingAvg": 24856,
+      "spikePct": -10,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\""
+    },
+    {
+      "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 25211,
+      "ccu": 23719,
       "ageDays": 23.7,
-      "rollingAvg": 35449,
-      "spikePct": -29,
+      "rollingAvg": 35042,
+      "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.0d (chameleon.com, chameleon.net)"
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23014,
+      "ccu": 21880,
       "ageDays": 26.1,
-      "rollingAvg": 34968,
-      "spikePct": -34,
+      "rollingAvg": 34665,
+      "spikePct": -37,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 9.5d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -37,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 24487,
+      "ccu": 24367,
       "ageDays": 5.5,
-      "rollingAvg": 27602,
+      "rollingAvg": 27450,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
