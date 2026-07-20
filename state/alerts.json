@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-20T22:45:05.993Z",
+  "generatedAt": "2026-07-20T23:15:01.933Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 29848,
+      "ccu": 28433,
       "ageDays": 25.2,
-      "rollingAvg": 36032,
-      "spikePct": -17,
+      "rollingAvg": 36226,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 23095,
+      "ccu": 21808,
       "ageDays": 31.4,
-      "rollingAvg": 23565,
-      "spikePct": -2,
+      "rollingAvg": 23557,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 6.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 31515,
+      "ccu": 30012,
       "ageDays": 26.9,
-      "rollingAvg": 33095,
-      "spikePct": -5,
+      "rollingAvg": 33370,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 10.2d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 10.3d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[CONSOLE!]🦎 Chameleon!",
-      "ccu": 32615,
-      "ageDays": 24.4,
-      "rollingAvg": 32496,
-      "spikePct": 0,
+      "ccu": 32276,
+      "ageDays": 24.5,
+      "rollingAvg": 32752,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.8d (chameleon.com, chameleon.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 28886,
+      "ccu": 28313,
       "ageDays": 32.1,
-      "rollingAvg": 27197,
-      "spikePct": 6,
+      "rollingAvg": 27251,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
