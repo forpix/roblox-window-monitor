@@ -1983,7 +1983,7 @@
     "https://beebom.com/staff-training-codes/": "2026-06-30T22:37:21+00:00",
     "https://beebom.com/plus-1-muscle-to-arm-wrestle-codes/": "2026-07-01T18:09:00+00:00",
     "https://beebom.com/roblox-death-ball-codes/": "2026-07-02T05:13:48+00:00",
-    "https://beebom.com/noob-incremental-codes/": "2026-07-20T18:19:01+00:00",
+    "https://beebom.com/noob-incremental-codes/": "2026-07-20T21:02:05+00:00",
     "https://beebom.com/99-nights-in-the-forest-codes/": "2026-07-02T06:42:49+00:00",
     "https://beebom.com/locked-codes/": "2026-07-19T16:31:30+00:00",
     "https://beebom.com/clash-of-critters-codes/": "2026-07-14T19:35:52+00:00",
@@ -2201,16 +2201,16 @@
     "https://beebom.com/anime-fighting-simulator-codes/": "2026-07-19T16:28:38+00:00",
     "https://beebom.com/jules-rng-codes/": "2026-07-12T18:53:49+00:00",
     "https://beebom.com/immortality-incremental-codes/": "2026-07-12T18:55:43+00:00",
-    "https://beebom.com/honkai-star-rail-redeem-codes/": "2026-07-15T10:32:55+00:00",
-    "https://beebom.com/zenless-zone-zero-codes/": "2026-07-18T18:18:54+00:00",
-    "https://beebom.com/neverness-to-everness-codes/": "2026-07-17T01:41:29+00:00",
-    "https://beebom.com/wuthering-waves-redeem-codes/": "2026-07-14T19:56:29+00:00",
+    "https://beebom.com/honkai-star-rail-redeem-codes/": "2026-07-20T20:45:45+00:00",
+    "https://beebom.com/zenless-zone-zero-codes/": "2026-07-20T20:23:29+00:00",
+    "https://beebom.com/neverness-to-everness-codes/": "2026-07-20T20:23:45+00:00",
+    "https://beebom.com/wuthering-waves-redeem-codes/": "2026-07-20T20:24:11+00:00",
     "https://beebom.com/anime-story-codes/": "2026-07-14T06:33:44+00:00",
     "https://beebom.com/fifa-super-soccer-codes/": "2026-07-12T19:01:22+00:00",
     "https://beebom.com/roll-an-anime-codes/": "2026-07-18T21:38:05+00:00",
     "https://beebom.com/roblox-pull-a-sword-codes/": "2026-07-20T18:28:53+00:00",
     "https://beebom.com/reign-piece-codes/": "2026-07-18T21:42:53+00:00",
-    "https://beebom.com/roblox-fistborn-codes/": "2026-07-12T19:06:56+00:00",
+    "https://beebom.com/roblox-fistborn-codes/": "2026-07-20T21:01:00+00:00",
     "https://beebom.com/ultimate-tower-defense-codes/": "2026-07-19T16:30:04+00:00",
     "https://beebom.com/gakuran-codes/": "2026-07-20T06:53:46+00:00",
     "https://beebom.com/demon-born-codes/": "2026-07-18T07:02:35+00:00",
@@ -2244,7 +2244,7 @@
     "https://beebom.com/grow-it-rng-codes/": "2026-07-20T09:25:34+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-20T19:11:21+00:00",
+    "post-sitemap.xml": "2026-07-20T21:02:05+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T10:09:46+00:00",
     "post-sitemap4.xml": "2018-02-26T11:07:25+00:00",
@@ -2293,7 +2293,7 @@
     "post-sitemap47.xml": "2026-03-13T06:12:39+00:00",
     "post-sitemap48.xml": "2026-05-05T17:39:19+00:00",
     "post-sitemap49.xml": "2026-06-30T22:30:35+00:00",
-    "post-sitemap50.xml": "2026-07-20T19:11:21+00:00"
+    "post-sitemap50.xml": "2026-07-20T21:02:05+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2860,7 +2860,7 @@
     },
     "https://beebom.com/noob-incremental-codes/": {
       "status": "done",
-      "attempts": 3,
+      "attempts": 4,
       "placeId": 76911729991355,
       "universeId": 9965411707
     },
@@ -3361,7 +3361,13 @@
       "attempts": 1,
       "placeId": 134073219566516,
       "universeId": 7248957095
+    },
+    "https://beebom.com/roblox-fistborn-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 106051943710043,
+      "universeId": 7255005317
     }
   },
-  "updatedAt": "2026-07-20T20:00:04.283Z"
+  "updatedAt": "2026-07-20T22:00:03.765Z"
 }
