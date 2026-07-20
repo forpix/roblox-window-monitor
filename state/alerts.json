@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-20T05:15:01.536Z",
+  "generatedAt": "2026-07-20T05:45:04.496Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 463239,
+      "ccu": 464353,
       "ageDays": 59.4,
-      "rollingAvg": 499335,
+      "rollingAvg": 497604,
       "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 23162,
+      "ccu": 23373,
       "ageDays": 24.5,
-      "rollingAvg": 24911,
-      "spikePct": -7,
+      "rollingAvg": 24933,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 22418,
+      "ccu": 23368,
       "ageDays": 23.7,
-      "rollingAvg": 34086,
-      "spikePct": -34,
+      "rollingAvg": 33544,
+      "spikePct": -30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.1d (chameleon.com, chameleon.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 21458,
+      "ccu": 21057,
       "ageDays": 26.1,
-      "rollingAvg": 33989,
+      "rollingAvg": 33608,
       "spikePct": -37,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 24356,
+      "ccu": 24357,
       "ageDays": 5.6,
-      "rollingAvg": 27153,
+      "rollingAvg": 27018,
       "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
