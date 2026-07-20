@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-20T00:15:02.883Z",
+  "generatedAt": "2026-07-20T00:45:01.757Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 493517,
+      "ccu": 486677,
       "ageDays": 59.2,
-      "rollingAvg": 508802,
-      "spikePct": -3,
+      "rollingAvg": 508430,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.6d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 22073,
+      "ccu": 21928,
       "ageDays": 30.4,
-      "rollingAvg": 23205,
-      "spikePct": -5,
+      "rollingAvg": 23240,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 29308,
+      "ccu": 29984,
       "ageDays": 23.5,
-      "rollingAvg": 38853,
-      "spikePct": -25,
+      "rollingAvg": 38312,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11269.8d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11269.9d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 27304,
+      "ccu": 26519,
       "ageDays": 25.9,
-      "rollingAvg": 34927,
-      "spikePct": -22,
+      "rollingAvg": 34994,
+      "spikePct": -24,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 9.3d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 25233,
+      "ccu": 25076,
       "ageDays": 5.4,
-      "rollingAvg": 28207,
+      "rollingAvg": 28166,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
