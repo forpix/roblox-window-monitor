@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-07-20T18:15:03.244Z",
+  "generatedAt": "2026-07-20T18:45:02.160Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 508580,
-      "ageDays": 59.9,
-      "rollingAvg": 493096,
+      "ccu": 506440,
+      "ageDays": 60,
+      "rollingAvg": 493515,
       "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 345.3d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 345.4d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 46217,
-      "ageDays": 25,
-      "rollingAvg": 32442,
-      "spikePct": 42,
+      "ccu": 47048,
+      "ageDays": 25.1,
+      "rollingAvg": 32925,
+      "spikePct": 43,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +1 more"
+      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
     },
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 26899,
+      "ccu": 28081,
       "ageDays": 31.2,
-      "rollingAvg": 23852,
-      "spikePct": 13,
+      "rollingAvg": 23901,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 6.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 41317,
+      "ccu": 42809,
       "ageDays": 26.7,
-      "rollingAvg": 29332,
-      "spikePct": 41,
+      "rollingAvg": 29721,
+      "spikePct": 44,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 10.1d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 36490,
+      "ccu": 37346,
       "ageDays": 24.3,
-      "rollingAvg": 30143,
-      "spikePct": 21,
+      "rollingAvg": 30342,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.6d (chameleon.com, chameleon.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Missiles vs Cities",
-      "ccu": 25717,
+      "ccu": 25848,
       "ageDays": 50.6,
-      "rollingAvg": 25225,
-      "spikePct": 2,
+      "rollingAvg": 25186,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: missilesvscities.net; .com registered 13.0d ago; .com BUILT: \"Missiles vs Cities Codes, Tier List and Tools\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 33380,
+      "ccu": 33942,
       "ageDays": 31.9,
-      "rollingAvg": 25029,
-      "spikePct": 33,
+      "rollingAvg": 25408,
+      "spikePct": 34,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
