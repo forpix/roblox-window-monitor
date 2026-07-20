@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-20T06:45:04.856Z",
+  "generatedAt": "2026-07-20T07:15:04.591Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 454974,
+      "ccu": 465624,
       "ageDays": 59.5,
-      "rollingAvg": 494938,
-      "spikePct": -8,
+      "rollingAvg": 492939,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 344.9d (growagarden2.com, growagarden2.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 24192,
+      "ccu": 25156,
       "ageDays": 24.6,
-      "rollingAvg": 24993,
-      "spikePct": -3,
+      "rollingAvg": 25043,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 23494,
+      "ccu": 23507,
       "ageDays": 23.8,
-      "rollingAvg": 32367,
-      "spikePct": -27,
+      "rollingAvg": 31696,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.1d (chameleon.com, chameleon.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22551,
+      "ccu": 23738,
       "ageDays": 26.2,
-      "rollingAvg": 32775,
-      "spikePct": -31,
+      "rollingAvg": 32371,
+      "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 9.6d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 24289,
-      "ageDays": 5.6,
-      "rollingAvg": 26767,
+      "ccu": 24207,
+      "ageDays": 5.7,
+      "rollingAvg": 26642,
       "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
