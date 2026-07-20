@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-20T08:15:01.950Z",
+  "generatedAt": "2026-07-20T08:45:04.621Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 456164,
+      "ccu": 453238,
       "ageDays": 59.5,
-      "rollingAvg": 488775,
+      "rollingAvg": 486776,
       "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 28390,
+      "ccu": 29753,
       "ageDays": 24.6,
-      "rollingAvg": 25288,
-      "spikePct": 12,
+      "rollingAvg": 25508,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 26363,
-      "ageDays": 26.2,
-      "rollingAvg": 31614,
-      "spikePct": -17,
+      "ccu": 28109,
+      "ageDays": 26.3,
+      "rollingAvg": 31296,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 9.6d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 9.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 24959,
-      "ageDays": 23.8,
-      "rollingAvg": 30396,
-      "spikePct": -18,
+      "ccu": 25458,
+      "ageDays": 23.9,
+      "rollingAvg": 29830,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.2d (chameleon.com, chameleon.net)"
