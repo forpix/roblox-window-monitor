@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-20T01:45:01.921Z",
+  "generatedAt": "2026-07-20T02:15:02.315Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 478383,
-      "ageDays": 59.2,
-      "rollingAvg": 507027,
-      "spikePct": -6,
+      "ccu": 492070,
+      "ageDays": 59.3,
+      "rollingAvg": 505975,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 344.6d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 344.7d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 21175,
+      "ccu": 20710,
       "ageDays": 30.5,
-      "rollingAvg": 23309,
-      "spikePct": -9,
+      "rollingAvg": 23324,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 5.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 28919,
+      "ccu": 28610,
       "ageDays": 23.6,
-      "rollingAvg": 37294,
+      "rollingAvg": 36807,
       "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24825,
+      "ccu": 25278,
       "ageDays": 26,
-      "rollingAvg": 35110,
-      "spikePct": -29,
+      "rollingAvg": 35157,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 9.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 24260,
-      "ageDays": 5.4,
-      "rollingAvg": 28052,
-      "spikePct": -14,
+      "ccu": 24513,
+      "ageDays": 5.5,
+      "rollingAvg": 27990,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
