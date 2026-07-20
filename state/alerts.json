@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-20T04:15:02.558Z",
+  "generatedAt": "2026-07-20T04:45:04.948Z",
   "candidates": [
     {
       "source": "watch",
       "name": "Grow a Garden 2",
-      "ccu": 471355,
+      "ccu": 466478,
       "ageDays": 59.4,
-      "rollingAvg": 501986,
-      "spikePct": -6,
+      "rollingAvg": 500748,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 344.7d (growagarden2.com, growagarden2.net)"
+      "detail": "both taken, oldest 344.8d (growagarden2.com, growagarden2.net)"
     },
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 22455,
+      "ccu": 22874,
       "ageDays": 24.5,
-      "rollingAvg": 24856,
-      "spikePct": -10,
+      "rollingAvg": 24882,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[UPD]🦎 Chameleon!",
-      "ccu": 23719,
+      "ccu": 23377,
       "ageDays": 23.7,
-      "rollingAvg": 35042,
+      "rollingAvg": 34583,
       "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 21880,
+      "ccu": 21607,
       "ageDays": 26.1,
-      "rollingAvg": 34665,
+      "rollingAvg": 34333,
       "spikePct": -37,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPDATE 6.1] Anime Astral Simulator",
-      "ccu": 24367,
-      "ageDays": 5.5,
-      "rollingAvg": 27450,
+      "ccu": 24366,
+      "ageDays": 5.6,
+      "rollingAvg": 27298,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
