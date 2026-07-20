@@ -1116,7 +1116,9 @@
     "https://beebom.com/land-or-die-codes/",
     "https://beebom.com/roblox-anime-souls-codes/",
     "https://beebom.com/speedsters-infinite-codes/",
-    "https://beebom.com/rng-heroes-codes/"
+    "https://beebom.com/rng-heroes-codes/",
+    "https://beebom.com/complex-furnishings-codes/",
+    "https://beebom.com/night-at-the-infirmary-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2209,7 +2211,7 @@
     "https://beebom.com/reign-piece-codes/": "2026-07-18T21:42:53+00:00",
     "https://beebom.com/roblox-fistborn-codes/": "2026-07-12T19:06:56+00:00",
     "https://beebom.com/ultimate-tower-defense-codes/": "2026-07-19T16:30:04+00:00",
-    "https://beebom.com/gakuran-codes/": "2026-07-19T16:46:24+00:00",
+    "https://beebom.com/gakuran-codes/": "2026-07-20T06:53:46+00:00",
     "https://beebom.com/demon-born-codes/": "2026-07-18T07:02:35+00:00",
     "https://beebom.com/lineage-piece-codes/": "2026-07-15T03:52:11+00:00",
     "https://beebom.com/roblox-ink-game-codes/": "2026-07-13T03:05:01+00:00",
@@ -2235,10 +2237,12 @@
     "https://beebom.com/land-or-die-codes/": "2026-07-17T09:43:07+00:00",
     "https://beebom.com/roblox-anime-souls-codes/": "2026-07-17T10:25:03+00:00",
     "https://beebom.com/speedsters-infinite-codes/": "2026-07-17T11:06:30+00:00",
-    "https://beebom.com/rng-heroes-codes/": "2026-07-17T13:15:10+00:00"
+    "https://beebom.com/rng-heroes-codes/": "2026-07-17T13:15:10+00:00",
+    "https://beebom.com/complex-furnishings-codes/": "2026-07-20T06:37:20+00:00",
+    "https://beebom.com/night-at-the-infirmary-codes/": "2026-07-20T06:44:13+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-20T04:35:52+00:00",
+    "post-sitemap.xml": "2026-07-20T06:53:46+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T10:09:46+00:00",
     "post-sitemap4.xml": "2018-02-26T11:07:25+00:00",
@@ -2287,7 +2291,7 @@
     "post-sitemap47.xml": "2026-03-13T06:00:10+00:00",
     "post-sitemap48.xml": "2026-05-05T17:36:21+00:00",
     "post-sitemap49.xml": "2026-06-30T22:30:17+00:00",
-    "post-sitemap50.xml": "2026-07-20T04:35:52+00:00"
+    "post-sitemap50.xml": "2026-07-20T06:53:46+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2620,7 +2624,7 @@
     },
     "https://beebom.com/gakuran-codes/": {
       "status": "done",
-      "attempts": 5,
+      "attempts": 6,
       "placeId": 128736949265057,
       "universeId": 9199655655
     },
@@ -3295,7 +3299,19 @@
       "attempts": 1,
       "placeId": 77747658251236,
       "universeId": 9186719164
+    },
+    "https://beebom.com/complex-furnishings-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 140202088182537,
+      "universeId": 10258782387
+    },
+    "https://beebom.com/night-at-the-infirmary-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 101610294550592,
+      "universeId": 9585346472
     }
   },
-  "updatedAt": "2026-07-20T06:00:04.109Z"
+  "updatedAt": "2026-07-20T08:00:03.129Z"
 }
