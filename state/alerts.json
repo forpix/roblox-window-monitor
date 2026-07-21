@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-21T05:45:02.052Z",
+  "generatedAt": "2026-07-21T06:15:06.205Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[CONSOLE!]🦎 Chameleon!",
-      "ccu": 25531,
-      "ageDays": 24.7,
-      "rollingAvg": 33905,
+      "ccu": 25319,
+      "ageDays": 24.8,
+      "rollingAvg": 33623,
       "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
