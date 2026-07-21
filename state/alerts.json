@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-21T10:45:02.462Z",
+  "generatedAt": "2026-07-21T11:15:02.402Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 24756,
+      "ccu": 25243,
       "ageDays": 25.7,
-      "rollingAvg": 34575,
-      "spikePct": -28,
+      "rollingAvg": 34156,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
@@ -15,32 +15,32 @@
     {
       "source": "discover",
       "name": "Paint a Game!",
-      "ccu": 20288,
-      "ageDays": 17.6,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "ccu": 21121,
+      "ageDays": 17.7,
+      "rollingAvg": 20288,
+      "spikePct": 4,
       "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: paintagame.com, paintagame.net; sweep clean (38 surfaces, 34 inconclusive)"
+      "verdict": "RED",
+      "detail": "available: paintagame.com, paintagame.net; competitor BUILT: paint-a-game.wiki \"Paint a Game Wiki - Guide, Codes &amp; P\""
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22784,
+      "ccu": 23051,
       "ageDays": 27.4,
-      "rollingAvg": 32513,
-      "spikePct": -30,
+      "rollingAvg": 32223,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 10.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 10.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 35970,
-      "ageDays": 24.9,
-      "rollingAvg": 31415,
-      "spikePct": 14,
+      "ccu": 37268,
+      "ageDays": 25,
+      "rollingAvg": 31454,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.3d (chameleon.com, chameleon.net)"
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 31836,
+      "ccu": 33107,
       "ageDays": 47.9,
-      "rollingAvg": 29392,
-      "spikePct": 8,
+      "rollingAvg": 29800,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 23.6d (buildasoccersquad.com, buildasoccersquad.net)"
+      "detail": "both taken, oldest 23.7d (buildasoccersquad.com, buildasoccersquad.net)"
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 22198,
+      "ccu": 22822,
       "ageDays": 32.6,
-      "rollingAvg": 27763,
-      "spikePct": -20,
+      "rollingAvg": 27714,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
