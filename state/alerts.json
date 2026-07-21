@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-07-21T03:15:02.171Z",
+  "generatedAt": "2026-07-21T03:45:06.047Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[UPD3] Clean the Squishies!",
-      "ccu": 20518,
-      "ageDays": 27,
-      "rollingAvg": 33903,
-      "spikePct": -39,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 10.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
-    },
-    {
-      "source": "discover",
       "name": "[CONSOLE!]🦎 Chameleon!",
-      "ccu": 27547,
-      "ageDays": 24.6,
-      "rollingAvg": 34350,
-      "spikePct": -20,
+      "ccu": 26880,
+      "ageDays": 24.7,
+      "rollingAvg": 34380,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.0d (chameleon.com, chameleon.net)"
@@ -26,10 +15,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 23614,
+      "ccu": 21736,
       "ageDays": 32.3,
-      "rollingAvg": 27771,
-      "spikePct": -15,
+      "rollingAvg": 27871,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
