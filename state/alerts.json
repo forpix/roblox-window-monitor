@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-21T09:15:01.769Z",
+  "generatedAt": "2026-07-21T09:45:05.267Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 22810,
+      "ccu": 23456,
       "ageDays": 25.7,
-      "rollingAvg": 35646,
-      "spikePct": -36,
+      "rollingAvg": 35332,
+      "spikePct": -34,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 20784,
+      "ccu": 21563,
       "ageDays": 27.3,
-      "rollingAvg": 33380,
-      "spikePct": -38,
+      "rollingAvg": 33098,
+      "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 10.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 29623,
+      "ccu": 31581,
       "ageDays": 24.9,
-      "rollingAvg": 31668,
-      "spikePct": -6,
+      "rollingAvg": 31523,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.2d (chameleon.com, chameleon.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 29338,
+      "ccu": 29941,
       "ageDays": 47.8,
-      "rollingAvg": 28182,
-      "spikePct": 4,
+      "rollingAvg": 28567,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 23.6d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 20172,
-      "ageDays": 32.5,
-      "rollingAvg": 27877,
-      "spikePct": -28,
+      "ccu": 20895,
+      "ageDays": 32.6,
+      "rollingAvg": 27832,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
