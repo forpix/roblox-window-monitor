@@ -1903,7 +1903,7 @@
     "https://beebom.com/plant-brainrot-simulator-codes/": "2026-06-30T21:22:57+00:00",
     "https://beebom.com/magic-and-divinity-codes/": "2026-06-30T21:23:00+00:00",
     "https://beebom.com/my-fishing-brainrots-codes/": "2026-06-30T21:35:31+00:00",
-    "https://beebom.com/loot-up-codes/": "2026-06-30T21:35:32+00:00",
+    "https://beebom.com/loot-up-codes/": "2026-07-21T04:01:33+00:00",
     "https://beebom.com/warframe-codes/": "2026-06-30T21:35:34+00:00",
     "https://beebom.com/blue-lock-skibidi-codes/": "2026-07-14T21:47:41+00:00",
     "https://beebom.com/farm-a-fish-codes/": "2026-06-30T21:35:37+00:00",
@@ -2117,7 +2117,7 @@
     "https://beebom.com/roblox-blox-fruits-codes/": "2026-07-09T05:50:37+00:00",
     "https://beebom.com/roblox-elemental-dungeon-codes/": "2026-07-09T05:53:36+00:00",
     "https://beebom.com/uma-racing-codes/": "2026-07-09T06:06:10+00:00",
-    "https://beebom.com/kingshot-codes/": "2026-07-17T12:08:29+00:00",
+    "https://beebom.com/kingshot-codes/": "2026-07-21T05:10:48+00:00",
     "https://beebom.com/roblox-fruit-battlegrounds-codes/": "2026-07-20T12:11:37+00:00",
     "https://beebom.com/anime-final-quest-codes/": "2026-07-20T09:03:58+00:00",
     "https://beebom.com/roblox-da-hood-codes/": "2026-07-14T05:40:12+00:00",
@@ -2244,7 +2244,7 @@
     "https://beebom.com/grow-it-rng-codes/": "2026-07-20T09:25:34+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-21T03:10:02+00:00",
+    "post-sitemap.xml": "2026-07-21T05:10:48+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T10:09:46+00:00",
     "post-sitemap4.xml": "2018-02-26T11:07:25+00:00",
@@ -2292,8 +2292,8 @@
     "post-sitemap46.xml": "2026-01-31T21:10:40+00:00",
     "post-sitemap47.xml": "2026-03-13T06:12:39+00:00",
     "post-sitemap48.xml": "2026-05-05T17:39:19+00:00",
-    "post-sitemap49.xml": "2026-06-30T22:30:35+00:00",
-    "post-sitemap50.xml": "2026-07-21T03:10:02+00:00"
+    "post-sitemap49.xml": "2026-06-30T22:30:39+00:00",
+    "post-sitemap50.xml": "2026-07-21T05:10:48+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3367,7 +3367,13 @@
       "attempts": 1,
       "placeId": 106051943710043,
       "universeId": 7255005317
+    },
+    "https://beebom.com/loot-up-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 83622406313819,
+      "universeId": 9280810829
     }
   },
-  "updatedAt": "2026-07-21T04:00:03.694Z"
+  "updatedAt": "2026-07-21T06:00:05.347Z"
 }
