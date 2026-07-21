@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-07-21T02:45:03.192Z",
+  "generatedAt": "2026-07-21T03:15:02.171Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[🏆] Build an ASMR Tower",
-      "ccu": 22767,
-      "ageDays": 25.4,
-      "rollingAvg": 36452,
-      "spikePct": -38,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
-    },
-    {
-      "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23289,
+      "ccu": 20518,
       "ageDays": 27,
-      "rollingAvg": 34037,
-      "spikePct": -32,
+      "rollingAvg": 33903,
+      "spikePct": -39,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 10.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -26,21 +15,21 @@
     {
       "source": "discover",
       "name": "[CONSOLE!]🦎 Chameleon!",
-      "ccu": 29449,
+      "ccu": 27547,
       "ageDays": 24.6,
-      "rollingAvg": 34240,
-      "spikePct": -14,
+      "rollingAvg": 34350,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11270.9d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11271.0d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 25107,
+      "ccu": 23614,
       "ageDays": 32.3,
-      "rollingAvg": 27650,
-      "spikePct": -9,
+      "rollingAvg": 27771,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
