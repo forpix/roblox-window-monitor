@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-21T03:45:06.047Z",
+  "generatedAt": "2026-07-21T04:15:06.045Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[CONSOLE!]🦎 Chameleon!",
-      "ccu": 26880,
+      "ccu": 26087,
       "ageDays": 24.7,
-      "rollingAvg": 34380,
-      "spikePct": -22,
+      "rollingAvg": 34349,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.0d (chameleon.com, chameleon.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 21736,
+      "ccu": 20605,
       "ageDays": 32.3,
-      "rollingAvg": 27871,
-      "spikePct": -22,
+      "rollingAvg": 27898,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
