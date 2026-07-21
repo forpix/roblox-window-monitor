@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-21T14:15:04.014Z",
+  "generatedAt": "2026-07-21T14:45:05.691Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 24912,
+      "ccu": 25475,
       "ageDays": 25.9,
-      "rollingAvg": 31698,
-      "spikePct": -21,
+      "rollingAvg": 31287,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
@@ -15,32 +15,32 @@
     {
       "source": "discover",
       "name": "Paint a Game!",
-      "ccu": 23517,
+      "ccu": 23933,
       "ageDays": 17.8,
-      "rollingAvg": 22166,
-      "spikePct": 6,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: paintagame.com, paintagame.net; competitor BUILT: paint-a-game.wiki \"Paint a Game Wiki - Guide, Codes &amp; P\""
+      "rollingAvg": 22335,
+      "spikePct": 7,
+      "gate": "C:fresh-com",
+      "verdict": "CHECK",
+      "detail": "available: paintagame.net; .com registered 0.0d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 23921,
+      "ccu": 23947,
       "ageDays": 32,
-      "rollingAvg": 23170,
+      "rollingAvg": 23222,
       "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 7.2d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 7.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24439,
+      "ccu": 24755,
       "ageDays": 27.5,
-      "rollingAvg": 30456,
-      "spikePct": -20,
+      "rollingAvg": 30151,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 10.9d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 41981,
+      "ccu": 39212,
       "ageDays": 25.1,
-      "rollingAvg": 32183,
-      "spikePct": 30,
+      "rollingAvg": 32277,
+      "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.4d (chameleon.com, chameleon.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 37603,
+      "ccu": 37870,
       "ageDays": 48,
-      "rollingAvg": 32532,
-      "spikePct": 16,
+      "rollingAvg": 32922,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 23.8d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 27446,
-      "ageDays": 32.7,
-      "rollingAvg": 27471,
-      "spikePct": 0,
+      "ccu": 28195,
+      "ageDays": 32.8,
+      "rollingAvg": 27430,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
