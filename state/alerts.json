@@ -1,27 +1,16 @@
 {
-  "generatedAt": "2026-07-21T04:15:06.045Z",
+  "generatedAt": "2026-07-21T04:45:05.930Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[CONSOLE!]🦎 Chameleon!",
-      "ccu": 26087,
+      "ccu": 26181,
       "ageDays": 24.7,
-      "rollingAvg": 34349,
+      "rollingAvg": 34261,
       "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.0d (chameleon.com, chameleon.net)"
-    },
-    {
-      "source": "discover",
-      "name": "this awesome game",
-      "ccu": 20605,
-      "ageDays": 32.3,
-      "rollingAvg": 27898,
-      "spikePct": -26,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
     }
   ]
 }
