@@ -1119,7 +1119,8 @@
     "https://beebom.com/rng-heroes-codes/",
     "https://beebom.com/complex-furnishings-codes/",
     "https://beebom.com/night-at-the-infirmary-codes/",
-    "https://beebom.com/grow-it-rng-codes/"
+    "https://beebom.com/grow-it-rng-codes/",
+    "https://beebom.com/dino-hunters-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2220,7 +2221,7 @@
     "https://beebom.com/yeet-a-brainrot-codes/": "2026-07-13T03:11:21+00:00",
     "https://beebom.com/duck-duck-codes/": "2026-07-13T03:19:15+00:00",
     "https://beebom.com/heavyweight-fishing-codes/": "2026-07-17T02:39:28+00:00",
-    "https://beebom.com/redliner-codes/": "2026-07-14T09:15:37+00:00",
+    "https://beebom.com/redliner-codes/": "2026-07-21T06:22:17+00:00",
     "https://beebom.com/grand-alfheim-codes/": "2026-07-15T04:36:36+00:00",
     "https://beebom.com/mini-cup-codes/": "2026-07-15T11:02:57+00:00",
     "https://beebom.com/anime-overseer-codes/": "2026-07-15T04:24:32+00:00",
@@ -2241,10 +2242,11 @@
     "https://beebom.com/rng-heroes-codes/": "2026-07-17T13:15:10+00:00",
     "https://beebom.com/complex-furnishings-codes/": "2026-07-20T06:37:20+00:00",
     "https://beebom.com/night-at-the-infirmary-codes/": "2026-07-20T06:44:13+00:00",
-    "https://beebom.com/grow-it-rng-codes/": "2026-07-20T09:25:34+00:00"
+    "https://beebom.com/grow-it-rng-codes/": "2026-07-20T09:25:34+00:00",
+    "https://beebom.com/dino-hunters-codes/": "2026-07-21T06:18:24+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-21T05:10:48+00:00",
+    "post-sitemap.xml": "2026-07-21T07:47:31+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T10:09:46+00:00",
     "post-sitemap4.xml": "2018-02-26T11:07:25+00:00",
@@ -2293,7 +2295,7 @@
     "post-sitemap47.xml": "2026-03-13T06:12:39+00:00",
     "post-sitemap48.xml": "2026-05-05T17:39:19+00:00",
     "post-sitemap49.xml": "2026-06-30T22:30:39+00:00",
-    "post-sitemap50.xml": "2026-07-21T05:10:48+00:00"
+    "post-sitemap50.xml": "2026-07-21T07:47:31+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2608,7 +2610,7 @@
     },
     "https://beebom.com/redliner-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 94987506187454,
       "universeId": 7265339759
     },
@@ -3373,7 +3375,13 @@
       "attempts": 1,
       "placeId": 83622406313819,
       "universeId": 9280810829
+    },
+    "https://beebom.com/dino-hunters-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 119031147890918,
+      "universeId": 10272975313
     }
   },
-  "updatedAt": "2026-07-21T06:00:05.347Z"
+  "updatedAt": "2026-07-21T08:00:03.931Z"
 }
