@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-07-21T08:15:03.442Z",
+  "generatedAt": "2026-07-21T08:45:02.357Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 20342,
+      "ccu": 21334,
       "ageDays": 25.6,
-      "rollingAvg": 36258,
-      "spikePct": -44,
+      "rollingAvg": 35966,
+      "spikePct": -41,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
     },
     {
       "source": "discover",
+      "name": "[UPD3] Clean the Squishies!",
+      "ccu": 20048,
+      "ageDays": 27.3,
+      "rollingAvg": 33662,
+      "spikePct": -40,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: cleanthesquishies.net; .com registered 10.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+    },
+    {
+      "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 27704,
-      "ageDays": 24.8,
-      "rollingAvg": 32149,
-      "spikePct": -14,
+      "ccu": 28795,
+      "ageDays": 24.9,
+      "rollingAvg": 31877,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.2d (chameleon.com, chameleon.net)"
@@ -26,13 +37,13 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 27662,
+      "ccu": 28702,
       "ageDays": 47.8,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 27662,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 23.5d (buildasoccersquad.com, buildasoccersquad.net)"
+      "detail": "both taken, oldest 23.6d (buildasoccersquad.com, buildasoccersquad.net)"
     }
   ]
 }
