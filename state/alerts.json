@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-21T01:15:02.978Z",
+  "generatedAt": "2026-07-21T01:45:02.060Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 25182,
+      "ccu": 25177,
       "ageDays": 25.3,
       "rollingAvg": 36616,
       "spikePct": -31,
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24940,
+      "ccu": 24725,
       "ageDays": 27,
-      "rollingAvg": 34086,
-      "spikePct": -27,
+      "rollingAvg": 34120,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 10.3d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 10.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[CONSOLE!]🦎 Chameleon!",
-      "ccu": 30772,
+      "ccu": 30604,
       "ageDays": 24.6,
-      "rollingAvg": 33729,
-      "spikePct": -9,
+      "rollingAvg": 33931,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11270.9d (chameleon.com, chameleon.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 27154,
+      "ccu": 26915,
       "ageDays": 32.2,
-      "rollingAvg": 27321,
+      "rollingAvg": 27316,
       "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
