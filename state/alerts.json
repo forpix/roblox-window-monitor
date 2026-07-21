@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-07-21T07:45:05.889Z",
+  "generatedAt": "2026-07-21T08:15:03.442Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "[🏆] Build an ASMR Tower",
+      "ccu": 20342,
+      "ageDays": 25.6,
+      "rollingAvg": 36258,
+      "spikePct": -44,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
+    },
+    {
+      "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 27130,
+      "ccu": 27704,
       "ageDays": 24.8,
-      "rollingAvg": 32489,
-      "spikePct": -16,
+      "rollingAvg": 32149,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.2d (chameleon.com, chameleon.net)"
+    },
+    {
+      "source": "discover",
+      "name": "Build A Soccer Squad! [2X]",
+      "ccu": 27662,
+      "ageDays": 47.8,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 23.5d (buildasoccersquad.com, buildasoccersquad.net)"
     }
   ]
 }
