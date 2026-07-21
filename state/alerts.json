@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-21T21:45:04.069Z",
+  "generatedAt": "2026-07-21T22:15:02.179Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 22989,
+      "ccu": 20787,
       "ageDays": 32.3,
-      "rollingAvg": 24424,
-      "spikePct": -6,
+      "rollingAvg": 24345,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 7.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 28979,
+      "ccu": 27763,
       "ageDays": 25.4,
-      "rollingAvg": 33240,
-      "spikePct": -13,
+      "rollingAvg": 33298,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11271.7d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11271.8d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 28336,
+      "ccu": 26930,
       "ageDays": 27.8,
-      "rollingAvg": 26048,
-      "spikePct": 9,
+      "rollingAvg": 25959,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 11.2d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 31132,
+      "ccu": 28591,
       "ageDays": 48.3,
-      "rollingAvg": 34465,
-      "spikePct": -10,
+      "rollingAvg": 34346,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.1d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 31488,
+      "ccu": 30258,
       "ageDays": 33.1,
-      "rollingAvg": 27734,
-      "spikePct": 14,
+      "rollingAvg": 27822,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
