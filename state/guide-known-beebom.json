@@ -1128,7 +1128,8 @@
     "https://beebom.com/roblox-smiles-codes/",
     "https://beebom.com/bridge-battles-codes/",
     "https://beebom.com/brainblast-a-lucky-block-codes/",
-    "https://beebom.com/roblox-beatball-codes/"
+    "https://beebom.com/roblox-beatball-codes/",
+    "https://beebom.com/tr-legacy-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2259,10 +2260,11 @@
     "https://beebom.com/roblox-smiles-codes/": "2026-07-22T07:30:11+00:00",
     "https://beebom.com/bridge-battles-codes/": "2026-07-22T10:18:55+00:00",
     "https://beebom.com/brainblast-a-lucky-block-codes/": "2026-07-22T11:22:47+00:00",
-    "https://beebom.com/roblox-beatball-codes/": "2026-07-22T13:30:29+00:00"
+    "https://beebom.com/roblox-beatball-codes/": "2026-07-22T13:30:29+00:00",
+    "https://beebom.com/tr-legacy-codes/": "2026-07-22T18:58:38+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-22T15:52:19+00:00",
+    "post-sitemap.xml": "2026-07-22T18:58:38+00:00",
     "post-sitemap2.xml": "2017-11-13T05:00:13+00:00",
     "post-sitemap3.xml": "2018-01-17T10:09:46+00:00",
     "post-sitemap4.xml": "2018-02-26T11:07:25+00:00",
@@ -2310,8 +2312,8 @@
     "post-sitemap46.xml": "2026-01-31T21:10:58+00:00",
     "post-sitemap47.xml": "2026-03-13T08:07:15+00:00",
     "post-sitemap48.xml": "2026-05-05T18:22:02+00:00",
-    "post-sitemap49.xml": "2026-06-30T22:32:35+00:00",
-    "post-sitemap50.xml": "2026-07-22T15:52:19+00:00"
+    "post-sitemap49.xml": "2026-06-30T22:32:38+00:00",
+    "post-sitemap50.xml": "2026-07-22T18:58:38+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3499,7 +3501,13 @@
       "attempts": 1,
       "placeId": 105452889569708,
       "universeId": 10370802481
+    },
+    "https://beebom.com/tr-legacy-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 127089247654125,
+      "universeId": 8813969120
     }
   },
-  "updatedAt": "2026-07-22T18:00:03.820Z"
+  "updatedAt": "2026-07-22T20:00:05.944Z"
 }
