@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T16:15:02.247Z",
+  "generatedAt": "2026-07-22T16:45:03.436Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23509,
+      "ccu": 24126,
       "ageDays": 28.6,
-      "rollingAvg": 25234,
-      "spikePct": -7,
+      "rollingAvg": 25199,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 12.0d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 33396,
+      "ccu": 33620,
       "ageDays": 26.2,
-      "rollingAvg": 28672,
-      "spikePct": 16,
+      "rollingAvg": 28829,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.5d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 20965,
+      "ccu": 22936,
       "ageDays": 33.1,
-      "rollingAvg": 23448,
-      "spikePct": -11,
+      "rollingAvg": 23309,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 8.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 27780,
-      "ageDays": 8,
-      "rollingAvg": 26256,
+      "ccu": 27819,
+      "ageDays": 8.1,
+      "rollingAvg": 26328,
       "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 29874,
+      "ccu": 29900,
       "ageDays": 49.1,
-      "rollingAvg": 25354,
+      "rollingAvg": 25389,
       "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 31999,
-      "ageDays": 33.8,
-      "rollingAvg": 27177,
-      "spikePct": 18,
+      "ccu": 32942,
+      "ageDays": 33.9,
+      "rollingAvg": 27083,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
