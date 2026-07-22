@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T14:15:04.433Z",
+  "generatedAt": "2026-07-22T14:45:03.309Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23013,
+      "ccu": 22945,
       "ageDays": 28.5,
-      "rollingAvg": 25396,
-      "spikePct": -9,
+      "rollingAvg": 25363,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 11.9d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 38295,
+      "ccu": 36428,
       "ageDays": 26.1,
-      "rollingAvg": 28076,
-      "spikePct": 36,
+      "rollingAvg": 28237,
+      "spikePct": 29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.4d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 27596,
+      "ccu": 27681,
       "ageDays": 8,
-      "rollingAvg": 25895,
-      "spikePct": 7,
+      "rollingAvg": 25995,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 31221,
+      "ccu": 31320,
       "ageDays": 49,
-      "rollingAvg": 25552,
-      "spikePct": 22,
+      "rollingAvg": 25474,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.8d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 28671,
-      "ageDays": 33.7,
-      "rollingAvg": 27636,
-      "spikePct": 4,
+      "ccu": 29487,
+      "ageDays": 33.8,
+      "rollingAvg": 27524,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
