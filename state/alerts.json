@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-22T05:45:03.032Z",
+  "generatedAt": "2026-07-22T06:15:04.104Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 22116,
-      "ageDays": 25.7,
-      "rollingAvg": 32208,
+      "ccu": 21878,
+      "ageDays": 25.8,
+      "rollingAvg": 31709,
       "spikePct": -31,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -14,14 +14,25 @@
     },
     {
       "source": "discover",
-      "name": "Build A Soccer Squad! [2X]",
-      "ccu": 20192,
-      "ageDays": 48.7,
-      "rollingAvg": 30844,
-      "spikePct": -35,
+      "name": "[PROMOTIONS] Anime Astral Simulator",
+      "ccu": 25490,
+      "ageDays": 7.6,
+      "rollingAvg": 0,
+      "spikePct": null,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 24.4d (buildasoccersquad.com, buildasoccersquad.net)"
+      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
+    },
+    {
+      "source": "discover",
+      "name": "Build A Soccer Squad! [2X]",
+      "ccu": 20524,
+      "ageDays": 48.7,
+      "rollingAvg": 30451,
+      "spikePct": -33,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 24.5d (buildasoccersquad.com, buildasoccersquad.net)"
     }
   ]
 }
