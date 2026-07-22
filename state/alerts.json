@@ -1,35 +1,24 @@
 {
-  "generatedAt": "2026-07-22T02:15:02.091Z",
+  "generatedAt": "2026-07-22T02:45:03.076Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 27224,
+      "ccu": 24356,
       "ageDays": 25.6,
-      "rollingAvg": 33918,
-      "spikePct": -20,
+      "rollingAvg": 33905,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11271.9d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
-      "name": "[UPD3] Clean the Squishies!",
-      "ccu": 21549,
-      "ageDays": 28,
-      "rollingAvg": 25481,
-      "spikePct": -15,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 11.4d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
-    },
-    {
-      "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 23387,
+      "ccu": 22760,
       "ageDays": 48.5,
-      "rollingAvg": 32554,
-      "spikePct": -28,
+      "rollingAvg": 32435,
+      "spikePct": -30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.3d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 26701,
-      "ageDays": 33.2,
-      "rollingAvg": 28254,
-      "spikePct": -5,
+      "ccu": 25500,
+      "ageDays": 33.3,
+      "rollingAvg": 28392,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
