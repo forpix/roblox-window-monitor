@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-22T03:45:05.075Z",
+  "generatedAt": "2026-07-22T04:15:06.836Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 22457,
+      "ccu": 22461,
       "ageDays": 25.7,
-      "rollingAvg": 33594,
+      "rollingAvg": 33341,
       "spikePct": -33,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 21341,
+      "ccu": 20587,
       "ageDays": 48.6,
-      "rollingAvg": 32069,
-      "spikePct": -33,
+      "rollingAvg": 31830,
+      "spikePct": -35,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.4d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 22996,
+      "ccu": 21439,
       "ageDays": 33.3,
-      "rollingAvg": 28635,
-      "spikePct": -20,
+      "rollingAvg": 28693,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
