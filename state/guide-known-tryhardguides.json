@@ -4393,7 +4393,10 @@
     "https://tryhardguides.com/resource-incremental-codes/",
     "https://tryhardguides.com/nightfall-codes/",
     "https://tryhardguides.com/beatball-codes/",
-    "https://tryhardguides.com/soccer-card-draft-codes/"
+    "https://tryhardguides.com/soccer-card-draft-codes/",
+    "https://tryhardguides.com/fishing-tower-defense-codes/",
+    "https://tryhardguides.com/backrooms-simulator-codes/",
+    "https://tryhardguides.com/build-an-ore-crusher-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-07-16T20:26:55+00:00",
@@ -8789,7 +8792,10 @@
     "https://tryhardguides.com/resource-incremental-codes/": "2026-07-21T11:52:00+00:00",
     "https://tryhardguides.com/nightfall-codes/": "2026-07-21T11:37:00+00:00",
     "https://tryhardguides.com/beatball-codes/": "2026-07-21T11:22:00+00:00",
-    "https://tryhardguides.com/soccer-card-draft-codes/": "2026-07-21T11:07:00+00:00"
+    "https://tryhardguides.com/soccer-card-draft-codes/": "2026-07-21T11:07:00+00:00",
+    "https://tryhardguides.com/fishing-tower-defense-codes/": "2026-07-22T11:37:00+00:00",
+    "https://tryhardguides.com/backrooms-simulator-codes/": "2026-07-22T11:22:00+00:00",
+    "https://tryhardguides.com/build-an-ore-crusher-codes/": "2026-07-22T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9059,7 +9065,7 @@
     "post-sitemap-2024-21.xml": "2024-05-26T23:59:59+00:00",
     "post-sitemap-2024-5.xml": "2024-02-04T23:59:59+00:00",
     "post-sitemap-2026-1.xml": "2026-01-04T23:59:59+00:00",
-    "post-sitemap-2026-30.xml": "2026-07-22T10:00:14+00:00"
+    "post-sitemap-2026-30.xml": "2026-07-22T12:00:12+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -11227,7 +11233,25 @@
       "attempts": 1,
       "placeId": 133410800847665,
       "universeId": 7488190691
+    },
+    "https://tryhardguides.com/fishing-tower-defense-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 73598910647444,
+      "universeId": 9927195474
+    },
+    "https://tryhardguides.com/backrooms-simulator-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 126061186342944,
+      "universeId": 10150551368
+    },
+    "https://tryhardguides.com/build-an-ore-crusher-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 71785281157268,
+      "universeId": 10299215558
     }
   },
-  "updatedAt": "2026-07-22T10:00:03.106Z"
+  "updatedAt": "2026-07-22T12:00:03.520Z"
 }
