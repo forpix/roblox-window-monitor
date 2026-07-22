@@ -1,34 +1,45 @@
 {
-  "generatedAt": "2026-07-22T15:15:07.089Z",
+  "generatedAt": "2026-07-22T15:45:01.795Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22718,
-      "ageDays": 28.5,
-      "rollingAvg": 25320,
-      "spikePct": -10,
+      "ccu": 23260,
+      "ageDays": 28.6,
+      "rollingAvg": 25266,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: cleanthesquishies.net; .com registered 11.9d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
+      "detail": "available: cleanthesquishies.net; .com registered 12.0d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
     },
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 34991,
-      "ageDays": 26.1,
-      "rollingAvg": 28387,
-      "spikePct": 23,
+      "ccu": 34160,
+      "ageDays": 26.2,
+      "rollingAvg": 28529,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.5d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
+      "name": "Build a Base and Steal😈",
+      "ccu": 20820,
+      "ageDays": 33.1,
+      "rollingAvg": 23616,
+      "spikePct": -12,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: buildabaseandsteal.net; .com registered 8.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+    },
+    {
+      "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 27681,
+      "ccu": 27830,
       "ageDays": 8,
-      "rollingAvg": 26089,
+      "rollingAvg": 26173,
       "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,21 +48,21 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 30666,
+      "ccu": 30341,
       "ageDays": 49.1,
-      "rollingAvg": 25420,
-      "spikePct": 21,
+      "rollingAvg": 25376,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 24.8d (buildasoccersquad.com, buildasoccersquad.net)"
+      "detail": "both taken, oldest 24.9d (buildasoccersquad.com, buildasoccersquad.net)"
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 29979,
+      "ccu": 31141,
       "ageDays": 33.8,
-      "rollingAvg": 27408,
-      "spikePct": 9,
+      "rollingAvg": 27287,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
