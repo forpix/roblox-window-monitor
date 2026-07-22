@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-22T14:45:03.309Z",
+  "generatedAt": "2026-07-22T15:15:07.089Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22945,
+      "ccu": 22718,
       "ageDays": 28.5,
-      "rollingAvg": 25363,
+      "rollingAvg": 25320,
       "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,20 +15,20 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 36428,
+      "ccu": 34991,
       "ageDays": 26.1,
-      "rollingAvg": 28237,
-      "spikePct": 29,
+      "rollingAvg": 28387,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11272.4d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11272.5d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
       "ccu": 27681,
       "ageDays": 8,
-      "rollingAvg": 25995,
+      "rollingAvg": 26089,
       "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 31320,
-      "ageDays": 49,
-      "rollingAvg": 25474,
-      "spikePct": 23,
+      "ccu": 30666,
+      "ageDays": 49.1,
+      "rollingAvg": 25420,
+      "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.8d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 29487,
+      "ccu": 29979,
       "ageDays": 33.8,
-      "rollingAvg": 27524,
-      "spikePct": 7,
+      "rollingAvg": 27408,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
