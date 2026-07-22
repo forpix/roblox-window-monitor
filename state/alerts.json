@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T08:45:03.102Z",
+  "generatedAt": "2026-07-22T09:15:03.254Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 24583,
+      "ccu": 25280,
       "ageDays": 25.9,
-      "rollingAvg": 28894,
-      "spikePct": -15,
+      "rollingAvg": 28487,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.2d (chameleon.com, chameleon.net)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 25244,
+      "ccu": 25300,
       "ageDays": 7.7,
-      "rollingAvg": 25294,
+      "rollingAvg": 25285,
       "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 23250,
+      "ccu": 24175,
       "ageDays": 48.8,
-      "rollingAvg": 28412,
-      "spikePct": -18,
+      "rollingAvg": 28006,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.6d (buildasoccersquad.com, buildasoccersquad.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 21206,
+      "ccu": 21678,
       "ageDays": 33.5,
-      "rollingAvg": 28557,
-      "spikePct": -26,
+      "rollingAvg": 28496,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
