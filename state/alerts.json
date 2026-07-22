@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T20:45:02.085Z",
+  "generatedAt": "2026-07-22T21:15:01.597Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23786,
+      "ccu": 22398,
       "ageDays": 28.8,
-      "rollingAvg": 24839,
-      "spikePct": -4,
+      "rollingAvg": 24575,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 12.2d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 29950,
+      "ccu": 28309,
       "ageDays": 26.4,
-      "rollingAvg": 30013,
-      "spikePct": 0,
+      "rollingAvg": 30168,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.7d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 21518,
+      "ccu": 20890,
       "ageDays": 33.3,
-      "rollingAvg": 23116,
-      "spikePct": -7,
+      "rollingAvg": 23152,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 8.5d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[SQUID GAMES!] Chameleon",
-      "ccu": 21718,
-      "ageDays": 47.1,
-      "rollingAvg": 21950,
-      "spikePct": -1,
+      "ccu": 20819,
+      "ageDays": 47.2,
+      "rollingAvg": 21917,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.7d (chameleon.com, chameleon.net)"
@@ -48,32 +48,21 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 26009,
+      "ccu": 25548,
       "ageDays": 8.2,
-      "rollingAvg": 26525,
-      "spikePct": -2,
+      "rollingAvg": 26508,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
     },
     {
       "source": "discover",
-      "name": "Build A Soccer Squad! [2X]",
-      "ccu": 26373,
-      "ageDays": 49.3,
-      "rollingAvg": 26128,
-      "spikePct": 1,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "both taken, oldest 25.1d (buildasoccersquad.com, buildasoccersquad.net)"
-    },
-    {
-      "source": "discover",
       "name": "this awesome game",
-      "ccu": 35574,
+      "ccu": 34065,
       "ageDays": 34,
-      "rollingAvg": 28178,
-      "spikePct": 26,
+      "rollingAvg": 28378,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
