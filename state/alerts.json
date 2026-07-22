@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T12:45:07.711Z",
+  "generatedAt": "2026-07-22T13:15:04.598Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21535,
-      "ageDays": 16.1,
-      "rollingAvg": 20867,
-      "spikePct": 3,
+      "ccu": 21314,
+      "ageDays": 16.2,
+      "rollingAvg": 21089,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22394,
-      "ageDays": 28.4,
-      "rollingAvg": 25475,
-      "spikePct": -12,
+      "ccu": 22936,
+      "ageDays": 28.5,
+      "rollingAvg": 25457,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 11.8d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 40303,
-      "ageDays": 26,
-      "rollingAvg": 27548,
-      "spikePct": 46,
+      "ccu": 42238,
+      "ageDays": 26.1,
+      "rollingAvg": 27661,
+      "spikePct": 53,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.4d (chameleon.com, chameleon.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 20440,
+      "ccu": 20015,
       "ageDays": 26.8,
-      "rollingAvg": 24113,
-      "spikePct": -15,
+      "rollingAvg": 23947,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 26783,
+      "ccu": 27075,
       "ageDays": 7.9,
-      "rollingAvg": 25621,
+      "rollingAvg": 25704,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Build A Soccer Squad! [2X]",
-      "ccu": 29899,
-      "ageDays": 48.9,
-      "rollingAvg": 25986,
-      "spikePct": 15,
+      "ccu": 30821,
+      "ageDays": 49,
+      "rollingAvg": 25802,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 24.7d (buildasoccersquad.com, buildasoccersquad.net)"
+      "detail": "both taken, oldest 24.8d (buildasoccersquad.com, buildasoccersquad.net)"
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 26542,
+      "ccu": 27079,
       "ageDays": 33.7,
-      "rollingAvg": 27912,
-      "spikePct": -5,
+      "rollingAvg": 27819,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
