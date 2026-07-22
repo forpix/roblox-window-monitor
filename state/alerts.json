@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-22T22:15:04.224Z",
+  "generatedAt": "2026-07-22T22:45:01.609Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 26438,
+      "ccu": 26524,
       "ageDays": 26.4,
-      "rollingAvg": 30456,
+      "rollingAvg": 30566,
       "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 25174,
+      "ccu": 24945,
       "ageDays": 8.3,
-      "rollingAvg": 26446,
-      "spikePct": -5,
+      "rollingAvg": 26407,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 31792,
+      "ccu": 31078,
       "ageDays": 34.1,
-      "rollingAvg": 28678,
-      "spikePct": 11,
+      "rollingAvg": 28790,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
