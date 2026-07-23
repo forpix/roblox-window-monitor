@@ -1133,7 +1133,8 @@
     "https://beebom.com/build-your-butterfly-garden-codes/",
     "https://beebom.com/sword-x-staff-codes/",
     "https://beebom.com/knife-duels-codes/",
-    "https://beebom.com/dog-race-codes/"
+    "https://beebom.com/dog-race-codes/",
+    "https://beebom.com/merge-a-black-hole-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2269,10 +2270,11 @@
     "https://beebom.com/build-your-butterfly-garden-codes/": "2026-07-23T03:58:10+00:00",
     "https://beebom.com/sword-x-staff-codes/": "2026-07-23T04:55:16+00:00",
     "https://beebom.com/knife-duels-codes/": "2026-07-23T09:13:14+00:00",
-    "https://beebom.com/dog-race-codes/": "2026-07-23T10:17:30+00:00"
+    "https://beebom.com/dog-race-codes/": "2026-07-23T10:17:30+00:00",
+    "https://beebom.com/merge-a-black-hole-codes/": "2026-07-23T12:59:21+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-23T12:46:19+00:00",
+    "post-sitemap.xml": "2026-07-23T15:35:54+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T15:29:17+00:00",
     "post-sitemap4.xml": "2018-02-27T07:01:14+00:00",
@@ -2319,9 +2321,9 @@
     "post-sitemap45.xml": "2025-12-11T13:56:20+00:00",
     "post-sitemap46.xml": "2026-02-01T00:33:36+00:00",
     "post-sitemap47.xml": "2026-03-14T14:05:23+00:00",
-    "post-sitemap48.xml": "2026-05-07T11:52:30+00:00",
-    "post-sitemap49.xml": "2026-07-01T11:19:26+00:00",
-    "post-sitemap50.xml": "2026-07-23T12:46:19+00:00"
+    "post-sitemap48.xml": "2026-05-07T17:18:26+00:00",
+    "post-sitemap49.xml": "2026-07-01T13:16:28+00:00",
+    "post-sitemap50.xml": "2026-07-23T15:35:54+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3575,7 +3577,13 @@
       "attempts": 1,
       "placeId": 109983668079237,
       "universeId": 7709344486
+    },
+    "https://beebom.com/merge-a-black-hole-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 118605709428489,
+      "universeId": 10308916299
     }
   },
-  "updatedAt": "2026-07-23T14:00:05.426Z"
+  "updatedAt": "2026-07-23T16:00:02.839Z"
 }
