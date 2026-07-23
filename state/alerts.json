@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-23T10:15:06.007Z",
+  "generatedAt": "2026-07-23T10:45:08.168Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 34551,
+      "ccu": 35823,
       "ageDays": 26.9,
-      "rollingAvg": 30875,
-      "spikePct": 12,
+      "rollingAvg": 30886,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11273.3d (chameleon.com, chameleon.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22509,
-      "ageDays": 29.3,
-      "rollingAvg": 23271,
-      "spikePct": -3,
+      "ccu": 22966,
+      "ageDays": 29.4,
+      "rollingAvg": 23148,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 12.7d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 29401,
+      "ccu": 30473,
       "ageDays": 27.7,
-      "rollingAvg": 23643,
-      "spikePct": 24,
+      "rollingAvg": 23748,
+      "spikePct": 28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23094,
-      "ageDays": 17,
-      "rollingAvg": 21293,
-      "spikePct": 8,
+      "ccu": 24207,
+      "ageDays": 17.1,
+      "rollingAvg": 21518,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 23968,
+      "ccu": 24078,
       "ageDays": 8.8,
-      "rollingAvg": 25160,
-      "spikePct": -5,
+      "rollingAvg": 25053,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 26032,
+      "ccu": 26954,
       "ageDays": 34.6,
-      "rollingAvg": 29693,
-      "spikePct": -12,
+      "rollingAvg": 29551,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
