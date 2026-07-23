@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-07-23T01:45:01.839Z",
+  "generatedAt": "2026-07-23T02:15:04.984Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 33943,
+      "ccu": 33100,
       "ageDays": 26.6,
-      "rollingAvg": 31675,
-      "spikePct": 7,
+      "rollingAvg": 31980,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11272.9d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
+      "name": "Build a Base and Steal😈",
+      "ccu": 20038,
+      "ageDays": 33.5,
+      "rollingAvg": 23164,
+      "spikePct": -13,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: buildabaseandsteal.net; .com registered 8.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+    },
+    {
+      "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 24567,
-      "ageDays": 8.4,
-      "rollingAvg": 26210,
-      "spikePct": -6,
+      "ccu": 24451,
+      "ageDays": 8.5,
+      "rollingAvg": 26192,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 30745,
+      "ccu": 30093,
       "ageDays": 34.2,
-      "rollingAvg": 29502,
-      "spikePct": 4,
+      "rollingAvg": 29761,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
