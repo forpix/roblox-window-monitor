@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-23T06:45:04.562Z",
+  "generatedAt": "2026-07-23T07:15:04.719Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 28303,
+      "ccu": 28222,
       "ageDays": 26.8,
-      "rollingAvg": 32523,
+      "rollingAvg": 32314,
       "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -14,10 +14,21 @@
     },
     {
       "source": "discover",
+      "name": "[🏆] Build an ASMR Tower",
+      "ccu": 21146,
+      "ageDays": 27.6,
+      "rollingAvg": 23518,
+      "spikePct": -10,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
+    },
+    {
+      "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 23886,
-      "ageDays": 8.6,
-      "rollingAvg": 25817,
+      "ccu": 23912,
+      "ageDays": 8.7,
+      "rollingAvg": 25742,
       "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 21837,
-      "ageDays": 34.4,
-      "rollingAvg": 30561,
-      "spikePct": -29,
+      "ccu": 22054,
+      "ageDays": 34.5,
+      "rollingAvg": 30450,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
