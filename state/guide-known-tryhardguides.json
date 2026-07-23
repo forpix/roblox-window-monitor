@@ -4396,7 +4396,11 @@
     "https://tryhardguides.com/soccer-card-draft-codes/",
     "https://tryhardguides.com/fishing-tower-defense-codes/",
     "https://tryhardguides.com/backrooms-simulator-codes/",
-    "https://tryhardguides.com/build-an-ore-crusher-codes/"
+    "https://tryhardguides.com/build-an-ore-crusher-codes/",
+    "https://tryhardguides.com/my-greenhouse-codes/",
+    "https://tryhardguides.com/partybox-codes/",
+    "https://tryhardguides.com/trade-squishy-dumplings-codes/",
+    "https://tryhardguides.com/merge-a-black-hole-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-07-16T20:26:55+00:00",
@@ -4621,7 +4625,7 @@
     "https://tryhardguides.com/summon-heroes-codes/": "2026-07-20T08:30:47+00:00",
     "https://tryhardguides.com/nba-champions-basketball-codes/": "2026-07-20T08:24:52+00:00",
     "https://tryhardguides.com/world-fighters-codes/": "2026-07-03T08:19:15+00:00",
-    "https://tryhardguides.com/reborn-skills-master-codes/": "2026-07-17T06:28:53+00:00",
+    "https://tryhardguides.com/reborn-skills-master-codes/": "2026-07-23T11:47:52+00:00",
     "https://tryhardguides.com/dinosaur-life-codes/": "2026-07-03T07:58:45+00:00",
     "https://tryhardguides.com/tennis-clash-codes/": "2026-07-03T07:56:49+00:00",
     "https://tryhardguides.com/ride-storm-codes/": "2026-07-03T07:55:49+00:00",
@@ -8795,7 +8799,11 @@
     "https://tryhardguides.com/soccer-card-draft-codes/": "2026-07-21T11:07:00+00:00",
     "https://tryhardguides.com/fishing-tower-defense-codes/": "2026-07-22T11:37:00+00:00",
     "https://tryhardguides.com/backrooms-simulator-codes/": "2026-07-22T11:22:00+00:00",
-    "https://tryhardguides.com/build-an-ore-crusher-codes/": "2026-07-22T11:07:00+00:00"
+    "https://tryhardguides.com/build-an-ore-crusher-codes/": "2026-07-22T11:07:00+00:00",
+    "https://tryhardguides.com/my-greenhouse-codes/": "2026-07-23T11:52:00+00:00",
+    "https://tryhardguides.com/partybox-codes/": "2026-07-23T11:37:00+00:00",
+    "https://tryhardguides.com/trade-squishy-dumplings-codes/": "2026-07-23T11:22:00+00:00",
+    "https://tryhardguides.com/merge-a-black-hole-codes/": "2026-07-23T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9065,7 +9073,7 @@
     "post-sitemap-2024-21.xml": "2024-05-26T23:59:59+00:00",
     "post-sitemap-2024-5.xml": "2024-02-04T23:59:59+00:00",
     "post-sitemap-2026-1.xml": "2026-01-04T23:59:59+00:00",
-    "post-sitemap-2026-30.xml": "2026-07-23T10:00:14+00:00"
+    "post-sitemap-2026-30.xml": "2026-07-23T11:52:00+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -10786,7 +10794,7 @@
     },
     "https://tryhardguides.com/reborn-skills-master-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 111286862556527,
       "universeId": 6681316476
     },
@@ -11275,7 +11283,31 @@
       "attempts": 1,
       "placeId": 135486323963203,
       "universeId": 9825259729
+    },
+    "https://tryhardguides.com/my-greenhouse-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 126890317722461,
+      "universeId": 9736048825
+    },
+    "https://tryhardguides.com/partybox-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 88023985740931,
+      "universeId": 10180061019
+    },
+    "https://tryhardguides.com/trade-squishy-dumplings-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 88480125732253,
+      "universeId": 10217234318
+    },
+    "https://tryhardguides.com/merge-a-black-hole-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 118605709428489,
+      "universeId": 10308916299
     }
   },
-  "updatedAt": "2026-07-23T10:00:06.990Z"
+  "updatedAt": "2026-07-23T12:00:03.559Z"
 }
