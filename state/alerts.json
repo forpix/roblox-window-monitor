@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-23T07:45:01.510Z",
+  "generatedAt": "2026-07-23T08:15:04.648Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 29109,
+      "ccu": 29484,
       "ageDays": 26.8,
-      "rollingAvg": 31978,
-      "spikePct": -9,
+      "rollingAvg": 31614,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11273.2d (chameleon.com, chameleon.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 23058,
+      "ccu": 24881,
       "ageDays": 27.6,
-      "rollingAvg": 23472,
-      "spikePct": -2,
+      "rollingAvg": 23461,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +2 more"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 23894,
+      "ccu": 23953,
       "ageDays": 8.7,
-      "rollingAvg": 25663,
-      "spikePct": -7,
+      "rollingAvg": 25574,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 22753,
+      "ccu": 23378,
       "ageDays": 34.5,
-      "rollingAvg": 30325,
-      "spikePct": -25,
+      "rollingAvg": 30205,
+      "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
