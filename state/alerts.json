@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-23T11:45:03.130Z",
+  "generatedAt": "2026-07-23T12:15:03.247Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 40277,
+      "ccu": 41374,
       "ageDays": 27,
-      "rollingAvg": 31066,
-      "spikePct": 30,
+      "rollingAvg": 31200,
+      "spikePct": 33,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11273.3d (chameleon.com, chameleon.net)"
@@ -15,20 +15,20 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 20783,
+      "ccu": 21578,
       "ageDays": 33.9,
-      "rollingAvg": 23047,
-      "spikePct": -10,
+      "rollingAvg": 22980,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 9.1d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 9.2d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24575,
+      "ccu": 24726,
       "ageDays": 29.4,
-      "rollingAvg": 23051,
+      "rollingAvg": 23073,
       "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 32260,
+      "ccu": 32350,
       "ageDays": 27.8,
-      "rollingAvg": 24011,
+      "rollingAvg": 24187,
       "spikePct": 34,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 27550,
+      "ccu": 27863,
       "ageDays": 17.1,
-      "rollingAvg": 22241,
-      "spikePct": 24,
+      "rollingAvg": 22723,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 24523,
-      "ageDays": 8.8,
-      "rollingAvg": 24852,
-      "spikePct": -1,
+      "ccu": 24883,
+      "ageDays": 8.9,
+      "rollingAvg": 24767,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 28185,
-      "ageDays": 34.6,
-      "rollingAvg": 29258,
-      "spikePct": -4,
+      "ccu": 29230,
+      "ageDays": 34.7,
+      "rollingAvg": 29093,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
