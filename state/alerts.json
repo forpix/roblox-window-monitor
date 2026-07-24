@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-24T04:45:06.055Z",
+  "generatedAt": "2026-07-24T05:15:04.122Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 27158,
+      "ccu": 26256,
       "ageDays": 27.7,
-      "rollingAvg": 33942,
-      "spikePct": -20,
+      "rollingAvg": 33701,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11274.0d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11274.1d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23120,
+      "ccu": 22593,
       "ageDays": 17.8,
-      "rollingAvg": 24424,
-      "spikePct": -5,
+      "rollingAvg": 24477,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 22353,
+      "ccu": 22340,
       "ageDays": 9.6,
-      "rollingAvg": 24371,
+      "rollingAvg": 24323,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 25893,
-      "ageDays": 51.6,
-      "rollingAvg": 27449,
-      "spikePct": -6,
+      "ccu": 26361,
+      "ageDays": 51.7,
+      "rollingAvg": 27293,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5709.1d (storagehunters.com, storagehunters.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 24005,
+      "ccu": 23023,
       "ageDays": 35.4,
-      "rollingAvg": 32828,
-      "spikePct": -27,
+      "rollingAvg": 32746,
+      "spikePct": -30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
