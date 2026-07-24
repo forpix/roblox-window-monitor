@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T18:15:03.259Z",
+  "generatedAt": "2026-07-24T18:45:05.505Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 25409,
+      "ccu": 24520,
       "ageDays": 18.4,
-      "rollingAvg": 26353,
-      "spikePct": -4,
+      "rollingAvg": 26407,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 29780,
+      "ccu": 29922,
       "ageDays": 35.2,
-      "rollingAvg": 26444,
+      "rollingAvg": 26490,
       "spikePct": 13,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 28792,
-      "ageDays": 29,
-      "rollingAvg": 30100,
-      "spikePct": -4,
+      "ccu": 29035,
+      "ageDays": 29.1,
+      "rollingAvg": 30053,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 37390,
+      "ccu": 38918,
       "ageDays": 28.3,
-      "rollingAvg": 34332,
-      "spikePct": 9,
+      "rollingAvg": 34370,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11274.6d (chameleon.com, chameleon.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24323,
+      "ccu": 24169,
       "ageDays": 30.7,
-      "rollingAvg": 25180,
-      "spikePct": -3,
+      "rollingAvg": 25217,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 33280,
+      "ccu": 32722,
       "ageDays": 52.2,
-      "rollingAvg": 28463,
-      "spikePct": 17,
+      "rollingAvg": 28655,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5709.6d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5709.7d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 21922,
-      "ageDays": 53.9,
-      "rollingAvg": 23404,
-      "spikePct": -6,
+      "ccu": 22277,
+      "ageDays": 54,
+      "rollingAvg": 23290,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 10.4d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 39830,
+      "ccu": 40877,
       "ageDays": 35.9,
-      "rollingAvg": 32150,
-      "spikePct": 24,
+      "rollingAvg": 32113,
+      "spikePct": 27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
