@@ -2065,7 +2065,7 @@
     "https://beebom.com/anime-overload-codes/": "2026-07-06T08:55:11+00:00",
     "https://beebom.com/roblox-hypershot-codes/": "2026-07-18T04:20:28+00:00",
     "https://beebom.com/sorcerer-tower-defense-codes/": "2026-07-06T09:08:07+00:00",
-    "https://beebom.com/catch-a-monster-codes/": "2026-07-24T11:59:21+00:00",
+    "https://beebom.com/catch-a-monster-codes/": "2026-07-24T21:07:16+00:00",
     "https://beebom.com/tower-defense-simulator-tds-codes/": "2026-07-24T11:54:20+00:00",
     "https://beebom.com/roblox-ro-ghoul-codes/": "2026-07-20T08:56:30+00:00",
     "https://beebom.com/the-time-of-ninja-codes/": "2026-07-06T09:23:22+00:00",
@@ -2263,7 +2263,7 @@
     "https://beebom.com/complex-furnishings-codes/": "2026-07-24T02:57:30+00:00",
     "https://beebom.com/night-at-the-infirmary-codes/": "2026-07-20T06:44:13+00:00",
     "https://beebom.com/grow-it-rng-codes/": "2026-07-20T09:25:34+00:00",
-    "https://beebom.com/dino-hunters-codes/": "2026-07-24T09:30:15+00:00",
+    "https://beebom.com/dino-hunters-codes/": "2026-07-24T21:04:50+00:00",
     "https://beebom.com/build-an-asmr-tower-codes/": "2026-07-21T07:47:31+00:00",
     "https://beebom.com/flip-a-boat-codes/": "2026-07-21T08:19:17+00:00",
     "https://beebom.com/get-fat-to-break-tape-codes/": "2026-07-21T10:28:02+00:00",
@@ -2286,7 +2286,7 @@
     "https://beebom.com/toy-defense-codes/": "2026-07-24T15:06:59+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-24T17:09:48+00:00",
+    "post-sitemap.xml": "2026-07-24T21:07:16+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T15:29:17+00:00",
     "post-sitemap4.xml": "2018-02-27T07:01:14+00:00",
@@ -2335,7 +2335,7 @@
     "post-sitemap47.xml": "2026-03-14T14:05:23+00:00",
     "post-sitemap48.xml": "2026-05-07T17:21:49+00:00",
     "post-sitemap49.xml": "2026-07-01T14:38:50+00:00",
-    "post-sitemap50.xml": "2026-07-24T17:09:48+00:00"
+    "post-sitemap50.xml": "2026-07-24T21:07:16+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2740,7 +2740,7 @@
     },
     "https://beebom.com/catch-a-monster-codes/": {
       "status": "done",
-      "attempts": 5,
+      "attempts": 6,
       "placeId": 98664161516921,
       "universeId": 9141743926
     },
@@ -3418,7 +3418,7 @@
     },
     "https://beebom.com/dino-hunters-codes/": {
       "status": "done",
-      "attempts": 6,
+      "attempts": 7,
       "placeId": 119031147890918,
       "universeId": 10272975313
     },
@@ -3645,5 +3645,5 @@
       "universeId": 2309918273
     }
   },
-  "updatedAt": "2026-07-24T20:00:04.967Z"
+  "updatedAt": "2026-07-24T22:00:02.788Z"
 }
