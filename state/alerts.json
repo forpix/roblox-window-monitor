@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T19:15:06.630Z",
+  "generatedAt": "2026-07-24T19:45:02.669Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22305,
+      "ccu": 21858,
       "ageDays": 18.4,
-      "rollingAvg": 26435,
-      "spikePct": -16,
+      "rollingAvg": 26332,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 31640,
+      "ccu": 31393,
       "ageDays": 35.2,
-      "rollingAvg": 26511,
-      "spikePct": 19,
+      "rollingAvg": 26572,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 10.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 10.5d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 26614,
+      "ccu": 26154,
       "ageDays": 29.1,
-      "rollingAvg": 29993,
-      "spikePct": -11,
+      "rollingAvg": 29836,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 45856,
+      "ccu": 44121,
       "ageDays": 28.3,
-      "rollingAvg": 34426,
-      "spikePct": 33,
+      "rollingAvg": 34691,
+      "spikePct": 27,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 11274.6d (chameleon.com, chameleon.net)"
+      "detail": "both taken, oldest 11274.7d (chameleon.com, chameleon.net)"
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 24076,
+      "ccu": 24340,
       "ageDays": 30.7,
-      "rollingAvg": 25231,
-      "spikePct": -5,
+      "rollingAvg": 25217,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 32565,
-      "ageDays": 52.2,
-      "rollingAvg": 28812,
+      "ccu": 32695,
+      "ageDays": 52.3,
+      "rollingAvg": 28951,
       "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "🧹 Dandy's World [ALPHA]",
-      "ccu": 119551,
-      "ageDays": 910.6,
-      "rollingAvg": 28333,
-      "spikePct": 322,
+      "ccu": 132782,
+      "ageDays": 910.7,
+      "rollingAvg": 30732,
+      "spikePct": 332,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "both taken, oldest 7015.2d (dandysworld.com, dandysworld.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22536,
+      "ccu": 22629,
       "ageDays": 54,
-      "rollingAvg": 23218,
-      "spikePct": -3,
+      "rollingAvg": 23172,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 10.5d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 40777,
+      "ccu": 40917,
       "ageDays": 36,
-      "rollingAvg": 32089,
-      "spikePct": 27,
+      "rollingAvg": 32067,
+      "spikePct": 28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
