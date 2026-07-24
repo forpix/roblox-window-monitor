@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T20:15:04.519Z",
+  "generatedAt": "2026-07-24T20:45:02.045Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21219,
+      "ccu": 20016,
       "ageDays": 18.5,
-      "rollingAvg": 26143,
-      "spikePct": -19,
+      "rollingAvg": 25935,
+      "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 30936,
+      "ccu": 29866,
       "ageDays": 35.3,
-      "rollingAvg": 26606,
-      "spikePct": 16,
+      "rollingAvg": 26569,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 10.5d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 25950,
+      "ccu": 25008,
       "ageDays": 29.1,
-      "rollingAvg": 29664,
-      "spikePct": -13,
+      "rollingAvg": 29474,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 41845,
-      "ageDays": 28.3,
-      "rollingAvg": 34920,
-      "spikePct": 20,
+      "ccu": 39625,
+      "ageDays": 28.4,
+      "rollingAvg": 35137,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11274.7d (chameleon.com, chameleon.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23466,
-      "ageDays": 30.7,
-      "rollingAvg": 25207,
-      "spikePct": -7,
+      "ccu": 22442,
+      "ageDays": 30.8,
+      "rollingAvg": 25144,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,43 +59,43 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 32924,
+      "ccu": 33481,
       "ageDays": 52.3,
-      "rollingAvg": 29084,
-      "spikePct": 13,
+      "rollingAvg": 29217,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5709.7d (storagehunters.com, storagehunters.net)"
-    },
-    {
-      "source": "discover",
-      "name": "🧹 Dandy's World [ALPHA]",
-      "ccu": 119865,
-      "ageDays": 910.7,
-      "rollingAvg": 33536,
-      "spikePct": 257,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "both taken, oldest 7015.2d (dandysworld.com, dandysworld.net)"
+      "detail": "both taken, oldest 5709.8d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22237,
+      "ccu": 21848,
       "ageDays": 54,
-      "rollingAvg": 23138,
-      "spikePct": -4,
+      "rollingAvg": 23085,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 10.5d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
     },
     {
       "source": "discover",
+      "name": "🧹 Dandy's World [ALPHA]",
+      "ccu": 101617,
+      "ageDays": 910.7,
+      "rollingAvg": 36016,
+      "spikePct": 182,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 7015.2d (dandysworld.com, dandysworld.net)"
+    },
+    {
+      "source": "discover",
       "name": "this awesome game",
-      "ccu": 40157,
+      "ccu": 39117,
       "ageDays": 36,
-      "rollingAvg": 32063,
-      "spikePct": 25,
+      "rollingAvg": 32076,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
