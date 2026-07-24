@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T01:15:06.944Z",
+  "generatedAt": "2026-07-24T01:45:02.922Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 23408,
+      "ccu": 23035,
       "ageDays": 34.5,
-      "rollingAvg": 25292,
-      "spikePct": -7,
+      "rollingAvg": 25320,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 9.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 28577,
+      "ccu": 27652,
       "ageDays": 27.6,
-      "rollingAvg": 34669,
-      "spikePct": -18,
+      "rollingAvg": 34679,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11273.9d (chameleon.com, chameleon.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23019,
+      "ccu": 22826,
       "ageDays": 17.7,
-      "rollingAvg": 24521,
-      "spikePct": -6,
+      "rollingAvg": 24477,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 22726,
+      "ccu": 22697,
       "ageDays": 9.4,
-      "rollingAvg": 24630,
+      "rollingAvg": 24597,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -47,33 +47,22 @@
     },
     {
       "source": "discover",
-      "name": "Murder Mystery 2",
-      "ccu": 508615,
-      "ageDays": 4569.6,
-      "rollingAvg": 246366,
-      "spikePct": 106,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "available: murdermystery2.net; .com BUILT: \"World of Warships—massive naval clashes. Take command of leg\""
-    },
-    {
-      "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 27193,
+      "ccu": 27508,
       "ageDays": 51.5,
-      "rollingAvg": 26892,
-      "spikePct": 1,
+      "rollingAvg": 26992,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5708.9d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5709.0d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 30022,
+      "ccu": 29583,
       "ageDays": 35.2,
-      "rollingAvg": 32051,
-      "spikePct": -6,
+      "rollingAvg": 32272,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
