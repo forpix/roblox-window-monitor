@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T16:15:05.324Z",
+  "generatedAt": "2026-07-24T16:45:02.319Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 28467,
+      "ccu": 27724,
       "ageDays": 18.3,
-      "rollingAvg": 26117,
-      "spikePct": 9,
+      "rollingAvg": 26169,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 27844,
+      "ccu": 28204,
       "ageDays": 35.1,
-      "rollingAvg": 26218,
-      "spikePct": 6,
+      "rollingAvg": 26296,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 10.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 28840,
+      "ccu": 28998,
       "ageDays": 29,
-      "rollingAvg": 29983,
+      "rollingAvg": 30063,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 39368,
+      "ccu": 39619,
       "ageDays": 28.2,
-      "rollingAvg": 33982,
+      "rollingAvg": 34050,
       "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23097,
+      "ccu": 22970,
       "ageDays": 30.6,
-      "rollingAvg": 24973,
+      "rollingAvg": 25046,
       "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 32825,
+      "ccu": 32126,
       "ageDays": 52.1,
-      "rollingAvg": 27693,
-      "spikePct": 19,
+      "rollingAvg": 27937,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5709.6d (storagehunters.com, storagehunters.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22853,
+      "ccu": 22581,
       "ageDays": 53.9,
-      "rollingAvg": 23771,
-      "spikePct": -4,
+      "rollingAvg": 23669,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 10.3d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 36029,
-      "ageDays": 35.8,
-      "rollingAvg": 32303,
-      "spikePct": 12,
+      "ccu": 36742,
+      "ageDays": 35.9,
+      "rollingAvg": 32277,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "+1 Speed Slime Keyboard Escape",
-      "ccu": 99425,
+      "ccu": 99469,
       "ageDays": 80,
-      "rollingAvg": 27424,
-      "spikePct": 263,
+      "rollingAvg": 33970,
+      "spikePct": 193,
       "gate": "B:spike",
       "verdict": "GREEN",
       "detail": "available: 1speedslimekeyboardescape.com, 1speedslimekeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
