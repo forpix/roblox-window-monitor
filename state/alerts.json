@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T15:45:04.721Z",
+  "generatedAt": "2026-07-24T16:15:05.324Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 29801,
+      "ccu": 28467,
       "ageDays": 18.3,
-      "rollingAvg": 26075,
-      "spikePct": 14,
+      "rollingAvg": 26117,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 27561,
+      "ccu": 27844,
       "ageDays": 35.1,
-      "rollingAvg": 26125,
-      "spikePct": 5,
+      "rollingAvg": 26218,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 10.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 28968,
-      "ageDays": 28.9,
-      "rollingAvg": 29870,
-      "spikePct": -3,
+      "ccu": 28840,
+      "ageDays": 29,
+      "rollingAvg": 29983,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 40721,
+      "ccu": 39368,
       "ageDays": 28.2,
-      "rollingAvg": 33893,
-      "spikePct": 20,
+      "rollingAvg": 33982,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11274.5d (chameleon.com, chameleon.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23449,
+      "ccu": 23097,
       "ageDays": 30.6,
-      "rollingAvg": 24905,
-      "spikePct": -6,
+      "rollingAvg": 24973,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com registered 14.0d ago; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 31252,
+      "ccu": 32825,
       "ageDays": 52.1,
-      "rollingAvg": 27505,
-      "spikePct": 14,
+      "rollingAvg": 27693,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5709.5d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5709.6d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 23270,
-      "ageDays": 53.8,
-      "rollingAvg": 23842,
-      "spikePct": -2,
+      "ccu": 22853,
+      "ageDays": 53.9,
+      "rollingAvg": 23771,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 10.3d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -81,13 +81,24 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 35239,
+      "ccu": 36029,
       "ageDays": 35.8,
-      "rollingAvg": 32329,
-      "spikePct": 9,
+      "rollingAvg": 32303,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
+    },
+    {
+      "source": "discover",
+      "name": "+1 Speed Slime Keyboard Escape",
+      "ccu": 99425,
+      "ageDays": 80,
+      "rollingAvg": 27424,
+      "spikePct": 263,
+      "gate": "B:spike",
+      "verdict": "GREEN",
+      "detail": "available: 1speedslimekeyboardescape.com, 1speedslimekeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
