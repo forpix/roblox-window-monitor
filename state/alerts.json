@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-24T04:15:02.327Z",
+  "generatedAt": "2026-07-24T04:45:06.055Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 27192,
+      "ccu": 27158,
       "ageDays": 27.7,
-      "rollingAvg": 34146,
+      "rollingAvg": 33942,
       "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22475,
+      "ccu": 23120,
       "ageDays": 17.8,
-      "rollingAvg": 24392,
-      "spikePct": -8,
+      "rollingAvg": 24424,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[PROMOTIONS] Anime Astral Simulator",
-      "ccu": 22361,
-      "ageDays": 9.5,
-      "rollingAvg": 24416,
+      "ccu": 22353,
+      "ageDays": 9.6,
+      "rollingAvg": 24371,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 26944,
+      "ccu": 25893,
       "ageDays": 51.6,
-      "rollingAvg": 27512,
-      "spikePct": -2,
+      "rollingAvg": 27449,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5709.1d (storagehunters.com, storagehunters.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 24734,
-      "ageDays": 35.3,
-      "rollingAvg": 32864,
-      "spikePct": -25,
+      "ccu": 24005,
+      "ageDays": 35.4,
+      "rollingAvg": 32828,
+      "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
