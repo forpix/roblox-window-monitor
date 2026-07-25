@@ -2061,7 +2061,7 @@
     "https://beebom.com/anime-crusaders-codes/": "2026-07-06T08:22:07+00:00",
     "https://beebom.com/roblox-type-soul-codes/": "2026-07-15T05:57:53+00:00",
     "https://beebom.com/roblox-mugen-codes/": "2026-07-06T08:50:07+00:00",
-    "https://beebom.com/anime-last-stand-codes/": "2026-07-06T08:50:54+00:00",
+    "https://beebom.com/anime-last-stand-codes/": "2026-07-25T06:28:43+00:00",
     "https://beebom.com/anime-overload-codes/": "2026-07-06T08:55:11+00:00",
     "https://beebom.com/roblox-hypershot-codes/": "2026-07-18T04:20:28+00:00",
     "https://beebom.com/sorcerer-tower-defense-codes/": "2026-07-06T09:08:07+00:00",
@@ -2207,7 +2207,7 @@
     "https://beebom.com/racket-rivals-codes/": "2026-07-11T15:11:07+00:00",
     "https://beebom.com/haikyuu-legends-codes/": "2026-07-18T15:38:43+00:00",
     "https://beebom.com/jujutsu-zero-codes/": "2026-07-18T15:09:00+00:00",
-    "https://beebom.com/project-blue-lock-codes/": "2026-07-18T14:36:20+00:00",
+    "https://beebom.com/project-blue-lock-codes/": "2026-07-25T06:59:30+00:00",
     "https://beebom.com/anime-squadron-codes/": "2026-07-21T10:44:52+00:00",
     "https://beebom.com/defend-ur-base-with-anime-codes/": "2026-07-18T21:26:27+00:00",
     "https://beebom.com/garden-tower-defense-codes/": "2026-07-18T21:36:47+00:00",
@@ -2286,7 +2286,7 @@
     "https://beebom.com/toy-defense-codes/": "2026-07-24T15:06:59+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-25T05:15:27+00:00",
+    "post-sitemap.xml": "2026-07-25T06:59:30+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T15:29:17+00:00",
     "post-sitemap4.xml": "2018-02-27T07:01:14+00:00",
@@ -2335,7 +2335,7 @@
     "post-sitemap47.xml": "2026-03-14T16:34:28+00:00",
     "post-sitemap48.xml": "2026-05-08T01:35:22+00:00",
     "post-sitemap49.xml": "2026-07-01T15:48:30+00:00",
-    "post-sitemap50.xml": "2026-07-25T05:15:27+00:00"
+    "post-sitemap50.xml": "2026-07-25T06:59:30+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3643,7 +3643,13 @@
       "attempts": 1,
       "placeId": 6270290407,
       "universeId": 2309918273
+    },
+    "https://beebom.com/anime-last-stand-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 12886143095,
+      "universeId": 4509896324
     }
   },
-  "updatedAt": "2026-07-25T06:00:03.878Z"
+  "updatedAt": "2026-07-25T08:00:06.763Z"
 }
