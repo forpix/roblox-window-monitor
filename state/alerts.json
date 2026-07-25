@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T21:45:04.395Z",
+  "generatedAt": "2026-07-25T22:15:07.401Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 32162,
-      "ageDays": 53.3,
-      "rollingAvg": 32380,
-      "spikePct": -1,
+      "ccu": 31909,
+      "ageDays": 53.4,
+      "rollingAvg": 32408,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.8d (storagehunters.com, storagehunters.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22322,
+      "ccu": 21441,
       "ageDays": 55.1,
-      "rollingAvg": 25133,
-      "spikePct": -11,
+      "rollingAvg": 25139,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 11.6d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 37999,
+      "ccu": 36828,
       "ageDays": 37.1,
-      "rollingAvg": 33491,
-      "spikePct": 13,
+      "rollingAvg": 33562,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 21077,
+      "ccu": 20381,
       "ageDays": 36.3,
-      "rollingAvg": 26686,
-      "spikePct": -21,
+      "rollingAvg": 26473,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 11.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
