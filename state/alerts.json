@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T05:15:05.433Z",
+  "generatedAt": "2026-07-25T05:45:02.075Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 26373,
-      "ageDays": 18.8,
-      "rollingAvg": 25053,
-      "spikePct": 5,
+      "ccu": 27076,
+      "ageDays": 18.9,
+      "rollingAvg": 25171,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 21394,
+      "ccu": 20734,
       "ageDays": 35.6,
-      "rollingAvg": 26723,
-      "spikePct": -20,
+      "rollingAvg": 26734,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 10.9d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 35957,
+      "ccu": 35163,
       "ageDays": 28.7,
-      "rollingAvg": 41406,
-      "spikePct": -13,
+      "rollingAvg": 41676,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11275.1d (chameleon.com, chameleon.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 30473,
+      "ccu": 29761,
       "ageDays": 52.7,
-      "rollingAvg": 30526,
-      "spikePct": 0,
+      "rollingAvg": 30640,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.1d (storagehunters.com, storagehunters.net)"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22187,
+      "ccu": 22113,
       "ageDays": 54.4,
-      "rollingAvg": 22119,
+      "rollingAvg": 22121,
       "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 30143,
+      "ccu": 28805,
       "ageDays": 36.4,
-      "rollingAvg": 35488,
-      "spikePct": -15,
+      "rollingAvg": 35686,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
