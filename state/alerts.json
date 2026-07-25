@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-25T07:45:06.846Z",
+  "generatedAt": "2026-07-25T08:15:04.912Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 29780,
-      "ageDays": 18.9,
-      "rollingAvg": 25892,
+      "ccu": 29868,
+      "ageDays": 19,
+      "rollingAvg": 26077,
       "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "GREEN",
@@ -15,21 +15,32 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 23118,
+      "ccu": 23905,
       "ageDays": 29.6,
-      "rollingAvg": 24868,
-      "spikePct": -7,
+      "rollingAvg": 24605,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
     },
     {
       "source": "discover",
+      "name": "[PROMOTIONS] Anime Astral Simulator",
+      "ccu": 22262,
+      "ageDays": 10.7,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
+    },
+    {
+      "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 26965,
+      "ccu": 26506,
       "ageDays": 52.8,
-      "rollingAvg": 30962,
-      "spikePct": -13,
+      "rollingAvg": 30920,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.2d (storagehunters.com, storagehunters.net)"
@@ -37,9 +48,9 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 23770,
+      "ccu": 23826,
       "ageDays": 54.5,
-      "rollingAvg": 22038,
+      "rollingAvg": 22023,
       "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -48,10 +59,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 26978,
+      "ccu": 26627,
       "ageDays": 36.5,
-      "rollingAvg": 35695,
-      "spikePct": -24,
+      "rollingAvg": 35558,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
