@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-07-25T22:15:07.401Z",
+  "generatedAt": "2026-07-25T22:45:02.348Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "[CURSED] Anime Astral Simulator",
+      "ccu": 27581,
+      "ageDays": 11.3,
+      "rollingAvg": 22310,
+      "spikePct": 24,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
+    },
+    {
+      "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 31909,
+      "ccu": 32288,
       "ageDays": 53.4,
-      "rollingAvg": 32408,
-      "spikePct": -2,
+      "rollingAvg": 32426,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.8d (storagehunters.com, storagehunters.net)"
@@ -15,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 21441,
+      "ccu": 21550,
       "ageDays": 55.1,
-      "rollingAvg": 25139,
-      "spikePct": -15,
+      "rollingAvg": 25120,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 11.6d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 36828,
+      "ccu": 36403,
       "ageDays": 37.1,
-      "rollingAvg": 33562,
-      "spikePct": 10,
+      "rollingAvg": 33649,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -37,9 +48,9 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 20381,
-      "ageDays": 36.3,
-      "rollingAvg": 26473,
+      "ccu": 20376,
+      "ageDays": 36.4,
+      "rollingAvg": 26300,
       "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
