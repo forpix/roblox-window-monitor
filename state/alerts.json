@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T16:45:08.399Z",
+  "generatedAt": "2026-07-25T17:15:03.210Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 30555,
+      "ccu": 26770,
       "ageDays": 19.3,
-      "rollingAvg": 26806,
-      "spikePct": 14,
+      "rollingAvg": 27048,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Mine a Planet [BETA 9]",
-      "ccu": 20468,
-      "ageDays": 27.7,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "ccu": 28403,
+      "ageDays": 27.8,
+      "rollingAvg": 20468,
+      "spikePct": 39,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.1d (mineaplanet.com, mineaplanet.net); .com registered 11.1d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 21520,
+      "ccu": 20983,
       "ageDays": 30,
-      "rollingAvg": 22674,
-      "spikePct": -5,
+      "rollingAvg": 22671,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22328,
+      "ccu": 21255,
       "ageDays": 31.6,
-      "rollingAvg": 22758,
-      "spikePct": -2,
+      "rollingAvg": 22660,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 39323,
-      "ageDays": 53.1,
-      "rollingAvg": 29908,
-      "spikePct": 31,
+      "ccu": 37701,
+      "ageDays": 53.2,
+      "rollingAvg": 30160,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.6d (storagehunters.com, storagehunters.net)"
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 28836,
+      "ccu": 37826,
       "ageDays": 54.9,
-      "rollingAvg": 23529,
-      "spikePct": 23,
+      "rollingAvg": 23765,
+      "spikePct": 59,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaserng.net; .com registered 11.3d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
+      "detail": "available: buildabaserng.net; .com registered 11.4d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 39526,
+      "ccu": 38838,
       "ageDays": 36.9,
-      "rollingAvg": 32709,
-      "spikePct": 21,
+      "rollingAvg": 32805,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -81,13 +81,13 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 27326,
+      "ccu": 23503,
       "ageDays": 36.1,
-      "rollingAvg": 28626,
-      "spikePct": -5,
+      "rollingAvg": 28602,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 11.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 11.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     }
   ]
 }
