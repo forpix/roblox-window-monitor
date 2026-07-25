@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T07:15:02.973Z",
+  "generatedAt": "2026-07-25T07:45:06.846Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 29310,
+      "ccu": 29780,
       "ageDays": 18.9,
-      "rollingAvg": 25703,
-      "spikePct": 14,
+      "rollingAvg": 25892,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 21638,
+      "ccu": 23118,
       "ageDays": 29.6,
-      "rollingAvg": 25133,
-      "spikePct": -14,
+      "rollingAvg": 24868,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 28305,
-      "ageDays": 52.7,
-      "rollingAvg": 30929,
-      "spikePct": -8,
+      "ccu": 26965,
+      "ageDays": 52.8,
+      "rollingAvg": 30962,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.2d (storagehunters.com, storagehunters.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22992,
+      "ccu": 23770,
       "ageDays": 54.5,
-      "rollingAvg": 22071,
-      "spikePct": 4,
+      "rollingAvg": 22038,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 11.0d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 27303,
+      "ccu": 26978,
       "ageDays": 36.5,
-      "rollingAvg": 35791,
+      "rollingAvg": 35695,
       "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
