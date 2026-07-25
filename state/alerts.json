@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T14:45:01.805Z",
+  "generatedAt": "2026-07-25T15:15:08.543Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 32444,
+      "ccu": 38933,
       "ageDays": 19.2,
-      "rollingAvg": 25682,
-      "spikePct": 26,
+      "rollingAvg": 25855,
+      "spikePct": 51,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 24016,
+      "ccu": 23921,
       "ageDays": 29.9,
-      "rollingAvg": 22867,
+      "rollingAvg": 22808,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 23018,
+      "ccu": 22682,
       "ageDays": 31.5,
-      "rollingAvg": 23434,
+      "rollingAvg": 23248,
       "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 35235,
+      "ccu": 34483,
       "ageDays": 53.1,
-      "rollingAvg": 29550,
-      "spikePct": 19,
+      "rollingAvg": 29599,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.5d (storagehunters.com, storagehunters.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 26189,
+      "ccu": 25503,
       "ageDays": 54.8,
-      "rollingAvg": 22989,
-      "spikePct": 14,
+      "rollingAvg": 23109,
+      "spikePct": 10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 11.3d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 36691,
+      "ccu": 37515,
       "ageDays": 36.8,
-      "rollingAvg": 32724,
-      "spikePct": 12,
+      "rollingAvg": 32657,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -70,11 +70,11 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 55449,
+      "ccu": 55104,
       "ageDays": 36,
-      "rollingAvg": 26772,
-      "spikePct": 107,
-      "gate": "B:spike",
+      "rollingAvg": 27560,
+      "spikePct": 100,
+      "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 11.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     }
