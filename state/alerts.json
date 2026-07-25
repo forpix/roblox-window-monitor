@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T15:45:05.283Z",
+  "generatedAt": "2026-07-25T16:15:21.799Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 35537,
+      "ccu": 32023,
       "ageDays": 19.3,
-      "rollingAvg": 26230,
-      "spikePct": 35,
+      "rollingAvg": 26537,
+      "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 23016,
-      "ageDays": 29.9,
-      "rollingAvg": 22752,
-      "spikePct": 1,
+      "ccu": 22160,
+      "ageDays": 30,
+      "rollingAvg": 22696,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
+      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", buildanasmrtowerwiki.wiki \"Build an ASMR Tower Wiki\" +2 more"
     },
     {
       "source": "discover",
       "name": "[UPD3] Clean the Squishies!",
-      "ccu": 22453,
+      "ccu": 22328,
       "ageDays": 31.6,
-      "rollingAvg": 23073,
-      "spikePct": -3,
+      "rollingAvg": 22896,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanthesquishies.net; .com BUILT: \"Clean the Squishies Route Planner, Codes &amp; Guide\""
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 35627,
+      "ccu": 36200,
       "ageDays": 53.1,
-      "rollingAvg": 29661,
-      "spikePct": 20,
+      "rollingAvg": 29776,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5710.5d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5710.6d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 25668,
-      "ageDays": 54.8,
-      "rollingAvg": 23223,
-      "spikePct": 11,
+      "ccu": 26588,
+      "ageDays": 54.9,
+      "rollingAvg": 23356,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 11.3d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -59,21 +59,32 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 37818,
+      "ccu": 38369,
       "ageDays": 36.8,
-      "rollingAvg": 32637,
-      "spikePct": 16,
+      "rollingAvg": 32655,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
     },
     {
       "source": "discover",
+      "name": "[LIVE🔴] Chicken Farm 🐣",
+      "ccu": 70230,
+      "ageDays": 63.1,
+      "rollingAvg": 22233,
+      "spikePct": 216,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 8019.9d (chickenfarm.com, chickenfarm.net)"
+    },
+    {
+      "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 37717,
+      "ccu": 28133,
       "ageDays": 36.1,
-      "rollingAvg": 28336,
-      "spikePct": 33,
+      "rollingAvg": 28618,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 11.3d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
