@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-24T23:45:03.643Z",
+  "generatedAt": "2026-07-25T00:15:05.841Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build a Base and Steal😈",
-      "ccu": 25349,
+      "ccu": 25121,
       "ageDays": 35.4,
-      "rollingAvg": 26163,
-      "spikePct": -3,
+      "rollingAvg": 26120,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 10.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 10.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
       "name": "[⚽SOCCER]🦎 Chameleon!",
-      "ccu": 39056,
+      "ccu": 41395,
       "ageDays": 28.5,
-      "rollingAvg": 36463,
-      "spikePct": 7,
+      "rollingAvg": 36773,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 11274.8d (chameleon.com, chameleon.net)"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 20562,
+      "ccu": 20324,
       "ageDays": 29.3,
-      "rollingAvg": 27901,
+      "rollingAvg": 27624,
       "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🏖️ UPD] Storage Hunters: Open World",
-      "ccu": 28636,
-      "ageDays": 52.4,
-      "rollingAvg": 29586,
-      "spikePct": -3,
+      "ccu": 29848,
+      "ageDays": 52.5,
+      "rollingAvg": 29560,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5709.9d (storagehunters.com, storagehunters.net)"
@@ -48,20 +48,20 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 20040,
+      "ccu": 20019,
       "ageDays": 54.2,
-      "rollingAvg": 22498,
+      "rollingAvg": 22396,
       "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaserng.net; .com registered 10.6d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
+      "detail": "available: buildabaserng.net; .com registered 10.7d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 36241,
-      "ageDays": 36.1,
-      "rollingAvg": 32961,
+      "ccu": 36551,
+      "ageDays": 36.2,
+      "rollingAvg": 33147,
       "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
