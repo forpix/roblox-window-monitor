@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-26T03:45:03.087Z",
+  "generatedAt": "2026-07-26T04:15:05.721Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 23613,
+      "ccu": 22490,
       "ageDays": 19.8,
-      "rollingAvg": 27727,
-      "spikePct": -15,
+      "rollingAvg": 27556,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,42 +15,31 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 26047,
+      "ccu": 26015,
       "ageDays": 11.5,
-      "rollingAvg": 25379,
-      "spikePct": 3,
+      "rollingAvg": 25424,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
     },
     {
       "source": "discover",
-      "name": "[🏆] Build an ASMR Tower",
-      "ccu": 20469,
-      "ageDays": 30.4,
-      "rollingAvg": 22772,
-      "spikePct": -10,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
-    },
-    {
-      "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 32030,
+      "ccu": 31625,
       "ageDays": 53.6,
-      "rollingAvg": 33057,
-      "spikePct": -3,
+      "rollingAvg": 33230,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5711.0d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5711.1d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22865,
-      "ageDays": 55.3,
-      "rollingAvg": 24911,
+      "ccu": 22805,
+      "ageDays": 55.4,
+      "rollingAvg": 24863,
       "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 40737,
+      "ccu": 39396,
       "ageDays": 37.3,
-      "rollingAvg": 36601,
-      "spikePct": 11,
+      "rollingAvg": 36969,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -70,10 +59,10 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 20465,
+      "ccu": 20584,
       "ageDays": 36.6,
-      "rollingAvg": 24932,
-      "spikePct": -18,
+      "rollingAvg": 24763,
+      "spikePct": -17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaseandsteal.net; .com registered 11.8d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
