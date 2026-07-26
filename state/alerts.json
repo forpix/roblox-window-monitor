@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-26T05:15:02.326Z",
+  "generatedAt": "2026-07-26T05:45:05.543Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 22302,
-      "ageDays": 19.8,
-      "rollingAvg": 27147,
-      "spikePct": -18,
+      "ccu": 23440,
+      "ageDays": 19.9,
+      "rollingAvg": 26977,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 25903,
+      "ccu": 25947,
       "ageDays": 11.6,
-      "rollingAvg": 25497,
+      "rollingAvg": 25520,
       "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 32456,
+      "ccu": 30251,
       "ageDays": 53.7,
-      "rollingAvg": 33535,
-      "spikePct": -3,
+      "rollingAvg": 33681,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5711.1d (storagehunters.com, storagehunters.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22442,
+      "ccu": 22617,
       "ageDays": 55.4,
-      "rollingAvg": 24736,
-      "spikePct": -9,
+      "rollingAvg": 24649,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 11.9d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 36353,
+      "ccu": 35129,
       "ageDays": 37.4,
-      "rollingAvg": 37576,
-      "spikePct": -3,
+      "rollingAvg": 37800,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
