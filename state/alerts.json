@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-26T21:45:03.627Z",
+  "generatedAt": "2026-07-26T22:15:02.939Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 23970,
+      "ccu": 23715,
       "ageDays": 12.3,
-      "rollingAvg": 25728,
-      "spikePct": -7,
+      "rollingAvg": 25670,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 33393,
-      "ageDays": 54.3,
-      "rollingAvg": 31461,
-      "spikePct": 6,
+      "ccu": 31339,
+      "ageDays": 54.4,
+      "rollingAvg": 31499,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5711.8d (storagehunters.com, storagehunters.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 44849,
+      "ccu": 43666,
       "ageDays": 38.1,
-      "rollingAvg": 39426,
-      "spikePct": 14,
+      "rollingAvg": 39540,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 20943,
+      "ccu": 20300,
       "ageDays": 56.1,
-      "rollingAvg": 24093,
-      "spikePct": -13,
+      "rollingAvg": 24040,
+      "spikePct": -16,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 12.6d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
