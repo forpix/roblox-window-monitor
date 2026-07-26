@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-26T19:15:02.327Z",
+  "generatedAt": "2026-07-26T19:45:03.427Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[💸] Unbox ASMR!",
-      "ccu": 22285,
+      "name": "[🍯] Unbox ASMR!",
+      "ccu": 24579,
       "ageDays": 20.9,
-      "rollingAvg": 20663,
-      "spikePct": 8,
+      "rollingAvg": 21068,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 20910,
+      "ccu": 20151,
       "ageDays": 20.4,
-      "rollingAvg": 25297,
-      "spikePct": -17,
+      "rollingAvg": 25182,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 25493,
+      "ccu": 25286,
       "ageDays": 12.2,
-      "rollingAvg": 25922,
+      "rollingAvg": 25895,
       "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 35101,
-      "ageDays": 54.2,
-      "rollingAvg": 30941,
-      "spikePct": 13,
+      "ccu": 36239,
+      "ageDays": 54.3,
+      "rollingAvg": 31065,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5711.7d (storagehunters.com, storagehunters.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 23792,
+      "ccu": 23448,
       "ageDays": 56,
-      "rollingAvg": 24111,
-      "spikePct": -1,
+      "rollingAvg": 24148,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 12.5d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 50386,
+      "ccu": 49833,
       "ageDays": 38,
-      "rollingAvg": 38352,
-      "spikePct": 31,
+      "rollingAvg": 38635,
+      "spikePct": 29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -70,21 +70,21 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 21993,
+      "ccu": 21606,
       "ageDays": 37.2,
-      "rollingAvg": 21616,
-      "spikePct": 2,
+      "rollingAvg": 21445,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 12.4d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 12.5d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     },
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 26295,
+      "ccu": 25699,
       "ageDays": 31.1,
-      "rollingAvg": 23737,
-      "spikePct": 11,
+      "rollingAvg": 23870,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
