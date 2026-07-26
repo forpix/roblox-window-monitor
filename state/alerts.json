@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-25T23:45:02.213Z",
+  "generatedAt": "2026-07-26T00:15:04.870Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 21594,
+      "ccu": 22694,
       "ageDays": 19.6,
-      "rollingAvg": 27825,
-      "spikePct": -22,
+      "rollingAvg": 27849,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 26905,
-      "ageDays": 11.3,
-      "rollingAvg": 23970,
-      "spikePct": 12,
+      "ccu": 26674,
+      "ageDays": 11.4,
+      "rollingAvg": 24389,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 29623,
-      "ageDays": 53.4,
-      "rollingAvg": 32426,
-      "spikePct": -9,
+      "ccu": 29135,
+      "ageDays": 53.5,
+      "rollingAvg": 32422,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5710.9d (storagehunters.com, storagehunters.net)"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 21670,
+      "ccu": 21915,
       "ageDays": 55.2,
-      "rollingAvg": 25078,
-      "spikePct": -14,
+      "rollingAvg": 25066,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaserng.net; .com registered 11.6d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
+      "detail": "available: buildabaserng.net; .com registered 11.7d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
     },
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 36301,
-      "ageDays": 37.1,
-      "rollingAvg": 33931,
-      "spikePct": 7,
+      "ccu": 36757,
+      "ageDays": 37.2,
+      "rollingAvg": 34139,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -59,13 +59,13 @@
     {
       "source": "discover",
       "name": "[UPD] Build a Base and Steal😈",
-      "ccu": 20537,
+      "ccu": 20382,
       "ageDays": 36.4,
-      "rollingAvg": 26013,
+      "rollingAvg": 25880,
       "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 11.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
+      "detail": "available: buildabaseandsteal.net; .com registered 11.7d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     }
   ]
 }
