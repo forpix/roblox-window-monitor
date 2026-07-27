@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-27T08:45:08.734Z",
+  "generatedAt": "2026-07-27T09:15:05.589Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21942,
+      "ccu": 22838,
       "ageDays": 21,
-      "rollingAvg": 24893,
-      "spikePct": -12,
+      "rollingAvg": 24778,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 21832,
+      "ccu": 21693,
       "ageDays": 12.7,
-      "rollingAvg": 23855,
-      "spikePct": -8,
+      "rollingAvg": 23729,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 29551,
+      "ccu": 30145,
       "ageDays": 38.5,
-      "rollingAvg": 40288,
-      "spikePct": -27,
+      "rollingAvg": 40031,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 23247,
-      "ageDays": 56.5,
-      "rollingAvg": 23883,
-      "spikePct": -3,
+      "ccu": 24006,
+      "ageDays": 56.6,
+      "rollingAvg": 23899,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 13.0d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[🏆] Build an ASMR Tower",
-      "ccu": 20935,
-      "ageDays": 31.6,
-      "rollingAvg": 24047,
-      "spikePct": -13,
+      "ccu": 21898,
+      "ageDays": 31.7,
+      "rollingAvg": 24060,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildanasmrtower.com, buildanasmrtower.net; competitor BUILT: buildanasmrtower.online \"Build an ASMR Tower Guide: How to Play, \", buildanasmrtower.wiki \"Build an ASMR Tower Wiki - Money &amp; B\", build-an-asmr-tower.wiki \"Build an ASMR Tower Wiki - Guides, Codes\" +3 more"
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 23257,
+      "ccu": 23045,
       "ageDays": 54.8,
-      "rollingAvg": 30274,
+      "rollingAvg": 30006,
       "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
