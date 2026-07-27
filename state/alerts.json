@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-07-27T21:45:03.758Z",
+  "generatedAt": "2026-07-27T22:15:02.141Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[🍯] Unbox ASMR!",
-      "ccu": 20567,
-      "ageDays": 22,
-      "rollingAvg": 23971,
-      "spikePct": -14,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +1 more"
-    },
-    {
-      "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22945,
+      "ccu": 22393,
       "ageDays": 21.5,
-      "rollingAvg": 25932,
-      "spikePct": -12,
+      "rollingAvg": 25872,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -26,10 +15,10 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 22069,
+      "ccu": 21865,
       "ageDays": 13.3,
       "rollingAvg": 22587,
-      "spikePct": -2,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 32092,
-      "ageDays": 55.3,
-      "rollingAvg": 28476,
-      "spikePct": 13,
+      "ccu": 31194,
+      "ageDays": 55.4,
+      "rollingAvg": 28575,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5712.8d (storagehunters.com, storagehunters.net)"
@@ -48,24 +37,13 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22483,
+      "ccu": 21841,
       "ageDays": 57.1,
-      "rollingAvg": 24783,
-      "spikePct": -9,
+      "rollingAvg": 24746,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 13.6d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
-    },
-    {
-      "source": "discover",
-      "name": "Build a Base and Steal😈",
-      "ccu": 20371,
-      "ageDays": 38.3,
-      "rollingAvg": 21003,
-      "spikePct": -3,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: buildabaseandsteal.net; .com registered 13.6d ago; .com BUILT: \"Build a Base and Steal Guide, Codes and Raid Checklist\""
     }
   ]
 }
