@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-27T07:15:03.212Z",
+  "generatedAt": "2026-07-27T07:45:01.399Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 21970,
+      "ccu": 21842,
       "ageDays": 12.7,
-      "rollingAvg": 24202,
+      "rollingAvg": 24092,
       "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 23048,
-      "ageDays": 54.7,
-      "rollingAvg": 30945,
+      "ccu": 22667,
+      "ageDays": 54.8,
+      "rollingAvg": 30781,
       "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 27839,
+      "ccu": 28297,
       "ageDays": 38.5,
-      "rollingAvg": 41023,
-      "spikePct": -32,
+      "rollingAvg": 40795,
+      "spikePct": -31,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 20650,
+      "ccu": 21675,
       "ageDays": 56.5,
-      "rollingAvg": 23970,
-      "spikePct": -14,
+      "rollingAvg": 23914,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 13.0d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
