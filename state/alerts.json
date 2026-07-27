@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-27T22:15:02.141Z",
+  "generatedAt": "2026-07-27T22:45:02.642Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22393,
-      "ageDays": 21.5,
-      "rollingAvg": 25872,
-      "spikePct": -13,
+      "ccu": 22097,
+      "ageDays": 21.6,
+      "rollingAvg": 25823,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 21865,
+      "ccu": 21694,
       "ageDays": 13.3,
-      "rollingAvg": 22587,
-      "spikePct": -3,
+      "rollingAvg": 22582,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 31194,
+      "ccu": 30272,
       "ageDays": 55.4,
-      "rollingAvg": 28575,
-      "spikePct": 9,
+      "rollingAvg": 28685,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5712.8d (storagehunters.com, storagehunters.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 21841,
+      "ccu": 21291,
       "ageDays": 57.1,
-      "rollingAvg": 24746,
-      "spikePct": -12,
+      "rollingAvg": 24702,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com registered 13.6d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
