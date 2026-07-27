@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-27T03:15:07.065Z",
+  "generatedAt": "2026-07-27T03:45:06.488Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 22186,
+      "ccu": 22085,
       "ageDays": 12.5,
-      "rollingAvg": 24951,
+      "rollingAvg": 24864,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 27255,
+      "ccu": 27068,
       "ageDays": 54.6,
-      "rollingAvg": 31299,
-      "spikePct": -13,
+      "rollingAvg": 31319,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5712.0d (storagehunters.com, storagehunters.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "this awesome game",
-      "ccu": 36620,
+      "ccu": 35572,
       "ageDays": 38.3,
-      "rollingAvg": 41156,
-      "spikePct": -11,
+      "rollingAvg": 41303,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: thisawesomegame.com, thisawesomegame.net; competitor BUILT: this-awesome-game.pages.dev \"this awesome game Codes, Guide &amp; Wik\""
