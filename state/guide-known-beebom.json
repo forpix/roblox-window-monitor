@@ -2174,7 +2174,7 @@
     "https://beebom.com/heartopia-codes/": "2026-07-27T06:10:52+00:00",
     "https://beebom.com/demon-soul-simulator-codes/": "2026-07-10T10:37:25+00:00",
     "https://beebom.com/restaurant-tycoon-3-codes/": "2026-07-24T11:12:37+00:00",
-    "https://beebom.com/lake-sipping-codes/": "2026-07-20T14:27:57+00:00",
+    "https://beebom.com/lake-sipping-codes/": "2026-07-27T17:33:57+00:00",
     "https://beebom.com/evomon-codes/": "2026-07-27T05:58:17+00:00",
     "https://beebom.com/dumpling-squishy-race-codes/": "2026-07-10T12:51:59+00:00",
     "https://beebom.com/plus-1-speed-evolve-codes/": "2026-07-14T06:21:16+00:00",
@@ -2300,7 +2300,7 @@
     "https://beebom.com/become-an-anime-billionaire-codes/": "2026-07-27T16:40:20+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-27T16:53:37+00:00",
+    "post-sitemap.xml": "2026-07-27T17:33:57+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T15:29:17+00:00",
     "post-sitemap4.xml": "2018-02-27T07:01:14+00:00",
@@ -2349,7 +2349,7 @@
     "post-sitemap47.xml": "2026-03-14T21:32:26+00:00",
     "post-sitemap48.xml": "2026-05-08T05:39:25+00:00",
     "post-sitemap49.xml": "2026-07-02T03:09:07+00:00",
-    "post-sitemap50.xml": "2026-07-27T16:53:37+00:00"
+    "post-sitemap50.xml": "2026-07-27T17:33:57+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3408,7 +3408,7 @@
     },
     "https://beebom.com/lake-sipping-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 119715129239364,
       "universeId": 10166853312
     },
@@ -3845,5 +3845,5 @@
       "universeId": 98839997
     }
   },
-  "updatedAt": "2026-07-27T18:00:04.695Z"
+  "updatedAt": "2026-07-27T20:00:04.634Z"
 }
