@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-28T18:15:02.708Z",
+  "generatedAt": "2026-07-28T18:45:01.785Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 27743,
-      "ageDays": 22.8,
-      "rollingAvg": 24968,
-      "spikePct": 11,
+      "ccu": 28211,
+      "ageDays": 22.9,
+      "rollingAvg": 25041,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23254,
+      "ccu": 23024,
       "ageDays": 22.4,
-      "rollingAvg": 28148,
-      "spikePct": -17,
+      "rollingAvg": 28182,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 28809,
-      "ageDays": 57.9,
-      "rollingAvg": 25626,
-      "spikePct": 12,
+      "ccu": 29040,
+      "ageDays": 58,
+      "rollingAvg": 25742,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
