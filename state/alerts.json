@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-28T00:15:02.751Z",
+  "generatedAt": "2026-07-28T00:45:02.505Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22004,
+      "ccu": 22671,
       "ageDays": 21.6,
-      "rollingAvg": 25734,
-      "spikePct": -14,
+      "rollingAvg": 25735,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[CURSED] Anime Astral Simulator",
-      "ccu": 21132,
+      "ccu": 21056,
       "ageDays": 13.4,
-      "rollingAvg": 22532,
+      "rollingAvg": 22505,
       "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[🚂UPD] Storage Hunters: Open World",
-      "ccu": 27886,
+      "ccu": 27822,
       "ageDays": 55.5,
-      "rollingAvg": 28940,
+      "rollingAvg": 29016,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
