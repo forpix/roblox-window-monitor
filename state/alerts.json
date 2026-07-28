@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-28T17:15:07.157Z",
+  "generatedAt": "2026-07-28T17:45:02.160Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 27460,
+      "ccu": 27376,
       "ageDays": 22.8,
-      "rollingAvg": 24992,
+      "rollingAvg": 24971,
       "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 25140,
-      "ageDays": 22.3,
-      "rollingAvg": 28014,
-      "spikePct": -10,
+      "ccu": 24095,
+      "ageDays": 22.4,
+      "rollingAvg": 28107,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 29244,
+      "ccu": 29115,
       "ageDays": 57.9,
-      "rollingAvg": 25420,
-      "spikePct": 15,
+      "rollingAvg": 25517,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
