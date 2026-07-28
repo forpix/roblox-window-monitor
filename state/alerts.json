@@ -1,27 +1,60 @@
 {
-  "generatedAt": "2026-07-28T06:45:09.042Z",
+  "generatedAt": "2026-07-28T07:15:03.750Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "[🍯] Unbox ASMR!",
+      "ccu": 20602,
+      "ageDays": 22.4,
+      "rollingAvg": 23861,
+      "spikePct": -14,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +1 more"
+    },
+    {
+      "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 25467,
+      "ccu": 26266,
       "ageDays": 21.9,
-      "rollingAvg": 25335,
-      "spikePct": 1,
+      "rollingAvg": 25164,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     },
     {
       "source": "discover",
+      "name": "[CURSED] Anime Astral Simulator",
+      "ccu": 20697,
+      "ageDays": 13.7,
+      "rollingAvg": 22155,
+      "spikePct": -7,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
+    },
+    {
+      "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 22104,
+      "ccu": 23014,
       "ageDays": 57.5,
-      "rollingAvg": 24490,
-      "spikePct": -10,
+      "rollingAvg": 24459,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: buildabaserng.net; .com registered 13.9d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
+      "detail": "available: buildabaserng.net; .com registered 14.0d ago; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
+    },
+    {
+      "source": "discover",
+      "name": "[🚂UPD] Storage Hunters: Open World",
+      "ccu": 24029,
+      "ageDays": 55.7,
+      "rollingAvg": 30337,
+      "spikePct": -21,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 5713.2d (storagehunters.com, storagehunters.net)"
     }
   ]
 }
