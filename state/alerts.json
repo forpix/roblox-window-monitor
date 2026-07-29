@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-29T00:45:04.453Z",
+  "generatedAt": "2026-07-29T01:15:03.365Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 29469,
+      "ccu": 29809,
       "ageDays": 23.1,
-      "rollingAvg": 26634,
+      "rollingAvg": 26842,
       "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 23284,
+      "ccu": 23431,
       "ageDays": 58.2,
-      "rollingAvg": 27209,
+      "rollingAvg": 27259,
       "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
