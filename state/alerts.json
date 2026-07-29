@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-29T22:45:02.545Z",
+  "generatedAt": "2026-07-29T23:15:03.056Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 33199,
+      "ccu": 31887,
       "ageDays": 24,
-      "rollingAvg": 36950,
-      "spikePct": -10,
+      "rollingAvg": 37054,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +2 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 24331,
+      "ccu": 24218,
       "ageDays": 15.3,
-      "rollingAvg": 24658,
-      "spikePct": -1,
+      "rollingAvg": 24755,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 25202,
+      "ccu": 24584,
       "ageDays": 59.1,
-      "rollingAvg": 28264,
-      "spikePct": -11,
+      "rollingAvg": 28314,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
