@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-29T12:15:03.434Z",
+  "generatedAt": "2026-07-29T12:45:02.633Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 38682,
+      "ccu": 38982,
       "ageDays": 23.6,
-      "rollingAvg": 31870,
+      "rollingAvg": 32184,
       "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21781,
+      "ccu": 22290,
       "ageDays": 23.1,
-      "rollingAvg": 28052,
-      "spikePct": -22,
+      "rollingAvg": 27989,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 25929,
+      "ccu": 26091,
       "ageDays": 14.9,
-      "rollingAvg": 22441,
+      "rollingAvg": 22504,
       "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 30080,
+      "ccu": 30656,
       "ageDays": 58.7,
-      "rollingAvg": 25961,
-      "spikePct": 16,
+      "rollingAvg": 25988,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
