@@ -1,4 +1,27 @@
 {
-  "generatedAt": "2026-07-28T23:45:07.455Z",
-  "candidates": []
+  "generatedAt": "2026-07-29T00:15:04.226Z",
+  "candidates": [
+    {
+      "source": "discover",
+      "name": "[🍯] Unbox ASMR!",
+      "ccu": 28488,
+      "ageDays": 23.1,
+      "rollingAvg": 26495,
+      "spikePct": 8,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +2 more"
+    },
+    {
+      "source": "discover",
+      "name": "Build a base RNG 🎲",
+      "ccu": 22999,
+      "ageDays": 58.2,
+      "rollingAvg": 27148,
+      "spikePct": -15,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
+    }
+  ]
 }
