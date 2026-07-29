@@ -2105,7 +2105,7 @@
     "https://beebom.com/soccer-training-codes/": "2026-07-15T03:56:49+00:00",
     "https://beebom.com/anime-vanguards-codes/": "2026-07-28T04:08:42+00:00",
     "https://beebom.com/mini-war-codes/": "2026-07-07T09:05:58+00:00",
-    "https://beebom.com/anime-card-collection-codes/": "2026-07-07T10:01:00+00:00",
+    "https://beebom.com/anime-card-collection-codes/": "2026-07-29T02:08:06+00:00",
     "https://beebom.com/build-a-soccer-squad-codes/": "2026-07-15T14:57:32+00:00",
     "https://beebom.com/anime-card-farm-codes/": "2026-07-25T16:28:28+00:00",
     "https://beebom.com/car-flipper-codes/": "2026-07-18T03:58:32+00:00",
@@ -2310,7 +2310,7 @@
     "https://beebom.com/halo-campaign-evolved-codes/": "2026-07-28T22:55:17+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-28T22:55:17+00:00",
+    "post-sitemap.xml": "2026-07-29T03:35:40+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T15:29:17+00:00",
     "post-sitemap4.xml": "2018-02-27T07:01:14+00:00",
@@ -2359,7 +2359,7 @@
     "post-sitemap47.xml": "2026-03-15T17:15:42+00:00",
     "post-sitemap48.xml": "2026-05-08T09:48:16+00:00",
     "post-sitemap49.xml": "2026-07-02T05:13:48+00:00",
-    "post-sitemap50.xml": "2026-07-28T22:55:17+00:00"
+    "post-sitemap50.xml": "2026-07-29T03:35:40+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3877,7 +3877,13 @@
       "attempts": 1,
       "placeId": 120901926752670,
       "universeId": 10244692840
+    },
+    "https://beebom.com/anime-card-collection-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 76285745979410,
+      "universeId": 9362896961
     }
   },
-  "updatedAt": "2026-07-29T02:00:05.852Z"
+  "updatedAt": "2026-07-29T04:00:04.698Z"
 }
