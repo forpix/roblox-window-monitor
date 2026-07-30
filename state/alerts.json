@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T08:45:05.068Z",
+  "generatedAt": "2026-07-30T09:15:04.020Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 37636,
-      "ageDays": 24.4,
-      "rollingAvg": 33141,
+      "ccu": 37637,
+      "ageDays": 24.5,
+      "rollingAvg": 33126,
       "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23643,
+      "ccu": 24215,
       "ageDays": 24,
-      "rollingAvg": 24921,
-      "spikePct": -5,
+      "rollingAvg": 24537,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 23308,
+      "ccu": 23384,
       "ageDays": 15.7,
-      "rollingAvg": 24337,
+      "rollingAvg": 24264,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 56532,
+      "ccu": 48554,
       "ageDays": 473.5,
-      "rollingAvg": 117056,
-      "spikePct": -52,
+      "rollingAvg": 112733,
+      "spikePct": -57,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: practicalbasketball.net; .com registered 0.1d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 29450,
-      "ageDays": 59.5,
-      "rollingAvg": 27312,
-      "spikePct": 8,
+      "ccu": 30064,
+      "ageDays": 59.6,
+      "rollingAvg": 27297,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
