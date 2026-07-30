@@ -1,38 +1,4 @@
 {
-  "generatedAt": "2026-07-30T23:15:03.105Z",
-  "candidates": [
-    {
-      "source": "discover",
-      "name": "[🍯] Unbox ASMR!",
-      "ccu": 31327,
-      "ageDays": 25,
-      "rollingAvg": 38957,
-      "spikePct": -20,
-      "gate": "C:fresh-com",
-      "verdict": "CHECK",
-      "detail": "available: unboxasmr.net; .com registered 0.1d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
-      "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 22581,
-      "ageDays": 16.3,
-      "rollingAvg": 23770,
-      "spikePct": -5,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
-    },
-    {
-      "source": "discover",
-      "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 116573,
-      "ageDays": 474.1,
-      "rollingAvg": 78593,
-      "spikePct": 48,
-      "gate": "C:fresh-com",
-      "verdict": "CHECK",
-      "detail": "available: practicalbasketball.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
-    }
-  ]
+  "generatedAt": "2026-07-30T23:45:05.697Z",
+  "candidates": []
 }
