@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-30T14:15:07.903Z",
+  "generatedAt": "2026-07-30T14:45:06.307Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 41908,
+      "ccu": 41457,
       "ageDays": 24.7,
-      "rollingAvg": 33749,
-      "spikePct": 24,
+      "rollingAvg": 33809,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +2 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 28778,
+      "ccu": 27988,
       "ageDays": 24.2,
-      "rollingAvg": 23585,
-      "spikePct": 22,
+      "rollingAvg": 23739,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 24494,
+      "ccu": 24555,
       "ageDays": 16,
-      "rollingAvg": 23703,
-      "spikePct": 3,
+      "rollingAvg": 23698,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 45199,
+      "ccu": 51117,
       "ageDays": 473.7,
-      "rollingAvg": 81037,
-      "spikePct": -44,
+      "rollingAvg": 79603,
+      "spikePct": -36,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: practicalbasketball.net; .com registered 0.3d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 34025,
+      "ccu": 33592,
       "ageDays": 59.8,
-      "rollingAvg": 28047,
-      "spikePct": 21,
+      "rollingAvg": 28207,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
