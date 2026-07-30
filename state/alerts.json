@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-07-30T19:45:03.119Z",
+  "generatedAt": "2026-07-30T20:15:01.563Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 45819,
+      "ccu": 44897,
       "ageDays": 24.9,
-      "rollingAvg": 36432,
-      "spikePct": 26,
+      "rollingAvg": 36918,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.com \"Unbox ASMR Wiki, Codes &amp; Beginner Gu\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\" +3 more"
     },
     {
       "source": "discover",
+      "name": "[X2] +1 Backflip Keyboard Escape",
+      "ccu": 20998,
+      "ageDays": 32.4,
+      "rollingAvg": 20734,
+      "spikePct": 1,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
+    },
+    {
+      "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 25467,
-      "ageDays": 24.4,
-      "rollingAvg": 24690,
-      "spikePct": 3,
+      "ccu": 24714,
+      "ageDays": 24.5,
+      "rollingAvg": 24771,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,9 +37,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 23697,
+      "ccu": 23583,
       "ageDays": 16.2,
-      "rollingAvg": 23821,
+      "rollingAvg": 23825,
       "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,24 +48,13 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 123158,
-      "ageDays": 473.9,
-      "rollingAvg": 81597,
+      "ccu": 124944,
+      "ageDays": 474,
+      "rollingAvg": 82752,
       "spikePct": 51,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: practicalbasketball.net; .com registered 0.5d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
-      "name": "Build a base RNG 🎲",
-      "ccu": 30385,
-      "ageDays": 60,
-      "rollingAvg": 30070,
-      "spikePct": 1,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
     }
   ]
 }
