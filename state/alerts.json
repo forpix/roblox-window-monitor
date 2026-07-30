@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T04:45:06.179Z",
+  "generatedAt": "2026-07-30T05:15:03.518Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 26354,
+      "ccu": 26106,
       "ageDays": 24.3,
-      "rollingAvg": 35226,
+      "rollingAvg": 34834,
       "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 23189,
+      "ccu": 23316,
       "ageDays": 15.6,
-      "rollingAvg": 24908,
-      "spikePct": -7,
+      "rollingAvg": 24849,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 28485,
-      "ageDays": 57.6,
-      "rollingAvg": 30007,
-      "spikePct": -5,
+      "ccu": 27229,
+      "ageDays": 57.7,
+      "rollingAvg": 29754,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5715.1d (storagehunters.com, storagehunters.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 25596,
+      "ccu": 25934,
       "ageDays": 59.4,
-      "rollingAvg": 27957,
-      "spikePct": -8,
+      "rollingAvg": 27860,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
