@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T12:15:05.564Z",
+  "generatedAt": "2026-07-30T12:45:05.162Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 42045,
+      "ccu": 42256,
       "ageDays": 24.6,
-      "rollingAvg": 33456,
+      "rollingAvg": 33571,
       "spikePct": 26,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 29761,
+      "ccu": 30856,
       "ageDays": 24.1,
-      "rollingAvg": 23119,
-      "spikePct": 29,
+      "rollingAvg": 23141,
+      "spikePct": 33,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 23826,
+      "ccu": 24158,
       "ageDays": 15.9,
-      "rollingAvg": 23840,
-      "spikePct": 0,
+      "rollingAvg": 23790,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 32170,
+      "ccu": 33805,
       "ageDays": 473.6,
-      "rollingAvg": 90122,
-      "spikePct": -64,
+      "rollingAvg": 87362,
+      "spikePct": -61,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: practicalbasketball.net; .com registered 0.2d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 33373,
+      "ccu": 33969,
       "ageDays": 59.7,
-      "rollingAvg": 27533,
-      "spikePct": 21,
+      "rollingAvg": 27639,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
