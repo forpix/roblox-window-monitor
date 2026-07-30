@@ -4421,7 +4421,7 @@
     "https://tryhardguides.com/blue-lock-skibidi-codes/": "2026-07-24T19:01:41+00:00",
     "https://tryhardguides.com/universal-tower-defense-codes/": "2026-07-22T06:14:33+00:00",
     "https://tryhardguides.com/anime-eternal-codes/": "2026-07-27T17:58:38+00:00",
-    "https://tryhardguides.com/toy-defense-codes/": "2026-07-30T10:09:06+00:00",
+    "https://tryhardguides.com/toy-defense-codes/": "2026-07-30T18:13:27+00:00",
     "https://tryhardguides.com/hots-rng-codes/": "2026-07-27T09:55:37+00:00",
     "https://tryhardguides.com/sleep-for-ugc-codes/": "2026-07-29T06:32:20+00:00",
     "https://tryhardguides.com/pet-capture-adventure-codes/": "2026-07-27T08:24:26+00:00",
@@ -4647,7 +4647,7 @@
     "https://tryhardguides.com/heavyweight-fishing-codes/": "2026-07-16T06:26:23+00:00",
     "https://tryhardguides.com/skibidi-toilet-battle-codes/": "2026-07-03T07:43:27+00:00",
     "https://tryhardguides.com/in-the-hills-codes/": "2026-07-03T07:40:18+00:00",
-    "https://tryhardguides.com/gym-star-simulator-codes/": "2026-07-02T16:21:34+00:00",
+    "https://tryhardguides.com/gym-star-simulator-codes/": "2026-07-30T18:13:05+00:00",
     "https://tryhardguides.com/ghoul-re-codes/": "2026-07-02T08:30:26+00:00",
     "https://tryhardguides.com/noob-incremental-codes/": "2026-07-27T06:36:16+00:00",
     "https://tryhardguides.com/jujutsu-legacy-codes/": "2026-07-18T08:13:45+00:00",
@@ -6423,7 +6423,7 @@
     "https://tryhardguides.com/obito-piece-codes/": "2024-10-21T15:48:53+00:00",
     "https://tryhardguides.com/verse-piece-2-codes/": "2024-10-21T15:41:11+00:00",
     "https://tryhardguides.com/tapping-legends-final-codes/": "2024-10-21T15:13:06+00:00",
-    "https://tryhardguides.com/bubble-gum-remixed-codes/": "2026-07-28T05:56:10+00:00",
+    "https://tryhardguides.com/bubble-gum-remixed-codes/": "2026-07-30T18:15:10+00:00",
     "https://tryhardguides.com/energy-drink-simulator-codes/": "2024-10-19T15:56:07+00:00",
     "https://tryhardguides.com/zombie-race-codes/": "2024-10-18T10:25:59+00:00",
     "https://tryhardguides.com/sneaker-rng-codes/": "2024-10-18T09:12:00+00:00",
@@ -9102,7 +9102,7 @@
     "post-sitemap-2024-5.xml": "2024-02-04T23:59:59+00:00",
     "post-sitemap-2026-1.xml": "2026-01-04T23:59:59+00:00",
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
-    "post-sitemap-2026-31.xml": "2026-07-30T17:33:08+00:00"
+    "post-sitemap-2026-31.xml": "2026-07-30T19:31:05+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -11619,7 +11619,7 @@
     },
     "https://tryhardguides.com/bubble-gum-remixed-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 75228705337607,
       "universeId": 6519715949
     },
@@ -11733,10 +11733,16 @@
     },
     "https://tryhardguides.com/toy-defense-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 5607971791,
       "universeId": 1962399895
+    },
+    "https://tryhardguides.com/gym-star-simulator-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 70906625936847,
+      "universeId": 6443367640
     }
   },
-  "updatedAt": "2026-07-30T18:00:04.525Z"
+  "updatedAt": "2026-07-30T20:00:03.355Z"
 }
