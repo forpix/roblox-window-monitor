@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T01:15:02.045Z",
+  "generatedAt": "2026-07-30T01:45:06.401Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 28525,
+      "ccu": 28355,
       "ageDays": 24.1,
-      "rollingAvg": 37064,
+      "rollingAvg": 36967,
       "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 23624,
+      "ccu": 23527,
       "ageDays": 15.4,
-      "rollingAvg": 25108,
-      "spikePct": -6,
+      "rollingAvg": 25191,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 25294,
+      "ccu": 25637,
       "ageDays": 59.2,
-      "rollingAvg": 28309,
-      "spikePct": -11,
+      "rollingAvg": 28296,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
