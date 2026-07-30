@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-30T06:45:04.788Z",
+  "generatedAt": "2026-07-30T07:15:03.633Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 31728,
+      "ccu": 33514,
       "ageDays": 24.4,
-      "rollingAvg": 33685,
-      "spikePct": -6,
+      "rollingAvg": 33484,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +2 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 20893,
+      "ccu": 21416,
       "ageDays": 23.9,
-      "rollingAvg": 26275,
-      "spikePct": -20,
+      "rollingAvg": 25954,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 23288,
-      "ageDays": 15.6,
-      "rollingAvg": 24640,
+      "ccu": 23321,
+      "ageDays": 15.7,
+      "rollingAvg": 24562,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 26157,
+      "ccu": 25424,
       "ageDays": 57.7,
-      "rollingAvg": 28947,
-      "spikePct": -10,
+      "rollingAvg": 28668,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5715.2d (storagehunters.com, storagehunters.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 27477,
+      "ccu": 27702,
       "ageDays": 59.5,
-      "rollingAvg": 27577,
-      "spikePct": 0,
+      "rollingAvg": 27488,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
