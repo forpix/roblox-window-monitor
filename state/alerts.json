@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-30T14:45:06.307Z",
+  "generatedAt": "2026-07-30T15:15:07.668Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 41457,
+      "ccu": 40620,
       "ageDays": 24.7,
-      "rollingAvg": 33809,
-      "spikePct": 23,
+      "rollingAvg": 33897,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: unboxasmr.com, unboxasmr.net; competitor BUILT: unboxasmr.wiki \"Unbox ASMR Codes, Tier List and Tools\", unbox-asmr.wiki \"Unbox ASMR Wiki - Codes, Crates, Toys &a\", unboxasmrwiki.wiki \"Unbox ASMR Wiki: Charms · Collection · G\" +2 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 27988,
+      "ccu": 26977,
       "ageDays": 24.2,
-      "rollingAvg": 23739,
-      "spikePct": 18,
+      "rollingAvg": 23877,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,7 +26,7 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 24555,
+      "ccu": 24542,
       "ageDays": 16,
       "rollingAvg": 23698,
       "spikePct": 4,
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 51117,
-      "ageDays": 473.7,
-      "rollingAvg": 79603,
-      "spikePct": -36,
+      "ccu": 57602,
+      "ageDays": 473.8,
+      "rollingAvg": 78508,
+      "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: practicalbasketball.net; .com registered 0.3d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Build a base RNG 🎲",
-      "ccu": 33592,
+      "ccu": 33107,
       "ageDays": 59.8,
-      "rollingAvg": 28207,
-      "spikePct": 19,
+      "rollingAvg": 28366,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
