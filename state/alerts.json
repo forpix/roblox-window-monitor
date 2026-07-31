@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-31T19:45:05.779Z",
+  "generatedAt": "2026-07-31T20:15:02.040Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 40713,
+      "ccu": 42409,
       "ageDays": 25.9,
-      "rollingAvg": 37804,
-      "spikePct": 8,
+      "rollingAvg": 38076,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 0.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,32 +15,21 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 111707,
-      "ageDays": 474.9,
-      "rollingAvg": 78728,
-      "spikePct": 42,
+      "ccu": 113712,
+      "ageDays": 475,
+      "rollingAvg": 78043,
+      "spikePct": 46,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.5d (practicalbasketball.com, practicalbasketball.net); .com registered 1.5d ago"
     },
     {
       "source": "discover",
-      "name": "Storage Hunters: Open World",
-      "ccu": 33997,
-      "ageDays": 59.3,
-      "rollingAvg": 28899,
-      "spikePct": 18,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "both taken, oldest 5716.7d (storagehunters.com, storagehunters.net)"
-    },
-    {
-      "source": "discover",
       "name": "[X2] +1 Backflip Keyboard Escape",
-      "ccu": 23748,
+      "ccu": 27061,
       "ageDays": 33.4,
-      "rollingAvg": 21769,
-      "spikePct": 9,
+      "rollingAvg": 21921,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
