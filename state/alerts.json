@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-31T14:45:03.204Z",
+  "generatedAt": "2026-07-31T15:15:02.392Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 43390,
+      "ccu": 41764,
       "ageDays": 25.7,
-      "rollingAvg": 36664,
-      "spikePct": 18,
+      "rollingAvg": 36622,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 0.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 25727,
+      "ccu": 25277,
       "ageDays": 25.2,
-      "rollingAvg": 24119,
-      "spikePct": 7,
+      "rollingAvg": 24085,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,13 +26,35 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 49596,
-      "ageDays": 474.7,
-      "rollingAvg": 90390,
-      "spikePct": -45,
+      "ccu": 55523,
+      "ageDays": 474.8,
+      "rollingAvg": 88297,
+      "spikePct": -37,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.3d (practicalbasketball.com, practicalbasketball.net); .com registered 1.3d ago"
+    },
+    {
+      "source": "discover",
+      "name": "Storage Hunters: Open World",
+      "ccu": 32582,
+      "ageDays": 59.1,
+      "rollingAvg": 27007,
+      "spikePct": 21,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 5716.5d (storagehunters.com, storagehunters.net)"
+    },
+    {
+      "source": "discover",
+      "name": "[X2] +1 Backflip Keyboard Escape",
+      "ccu": 21502,
+      "ageDays": 33.2,
+      "rollingAvg": 20652,
+      "spikePct": 4,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
