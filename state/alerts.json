@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-31T08:45:02.463Z",
+  "generatedAt": "2026-07-31T09:15:05.595Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 38003,
-      "ageDays": 25.4,
-      "rollingAvg": 36940,
-      "spikePct": 3,
+      "ccu": 38632,
+      "ageDays": 25.5,
+      "rollingAvg": 36831,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 0.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21708,
+      "ccu": 22298,
       "ageDays": 25,
-      "rollingAvg": 25101,
-      "spikePct": -14,
+      "rollingAvg": 25031,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 21860,
+      "ccu": 21937,
       "ageDays": 16.7,
-      "rollingAvg": 22990,
-      "spikePct": -5,
+      "rollingAvg": 22917,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 54319,
+      "ccu": 47546,
       "ageDays": 474.5,
-      "rollingAvg": 106223,
-      "spikePct": -49,
+      "rollingAvg": 106477,
+      "spikePct": -55,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.1d (practicalbasketball.com, practicalbasketball.net); .com registered 1.1d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 24599,
+      "ccu": 24141,
       "ageDays": 58.8,
-      "rollingAvg": 27776,
-      "spikePct": -11,
+      "rollingAvg": 27600,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5716.3d (storagehunters.com, storagehunters.net)"
