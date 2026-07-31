@@ -1,23 +1,34 @@
 {
-  "generatedAt": "2026-07-31T23:15:02.431Z",
+  "generatedAt": "2026-07-31T23:45:02.373Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 37076,
-      "ageDays": 26,
-      "rollingAvg": 39374,
-      "spikePct": -6,
+      "ccu": 37714,
+      "ageDays": 26.1,
+      "rollingAvg": 39498,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 1.1d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
+      "name": "+1 Pickaxe Swing Escape",
+      "ccu": 20908,
+      "ageDays": 25.6,
+      "rollingAvg": 23573,
+      "spikePct": -11,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
+    },
+    {
+      "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 21926,
+      "ccu": 21844,
       "ageDays": 17.3,
-      "rollingAvg": 22347,
+      "rollingAvg": 22283,
       "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,9 +37,9 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 109021,
+      "ccu": 108936,
       "ageDays": 475.1,
-      "rollingAvg": 74311,
+      "rollingAvg": 74144,
       "spikePct": 47,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -37,10 +48,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Backflip Keyboard Escape",
-      "ccu": 24757,
-      "ageDays": 33.5,
-      "rollingAvg": 22788,
-      "spikePct": 9,
+      "ccu": 22391,
+      "ageDays": 33.6,
+      "rollingAvg": 22887,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
