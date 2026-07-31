@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-31T05:45:02.956Z",
+  "generatedAt": "2026-07-31T06:15:05.651Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 33496,
+      "ccu": 33547,
       "ageDays": 25.3,
-      "rollingAvg": 38052,
-      "spikePct": -12,
+      "rollingAvg": 37864,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 0.3d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 22131,
+      "ccu": 22088,
       "ageDays": 16.6,
-      "rollingAvg": 23316,
+      "rollingAvg": 23276,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 106688,
+      "ccu": 98152,
       "ageDays": 474.4,
-      "rollingAvg": 97910,
-      "spikePct": 9,
+      "rollingAvg": 99994,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 0.9d (practicalbasketball.com, practicalbasketball.net); .com registered 0.9d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 28503,
+      "ccu": 27323,
       "ageDays": 58.7,
-      "rollingAvg": 28373,
-      "spikePct": 0,
+      "rollingAvg": 28384,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5716.1d (storagehunters.com, storagehunters.net)"
