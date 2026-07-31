@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-31T06:15:05.651Z",
+  "generatedAt": "2026-07-31T06:45:03.261Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 33547,
-      "ageDays": 25.3,
-      "rollingAvg": 37864,
-      "spikePct": -11,
+      "ccu": 34577,
+      "ageDays": 25.4,
+      "rollingAvg": 37651,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 0.3d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 0.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 22088,
+      "ccu": 22074,
       "ageDays": 16.6,
-      "rollingAvg": 23276,
+      "rollingAvg": 23233,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,24 +26,24 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 98152,
+      "ccu": 88422,
       "ageDays": 474.4,
-      "rollingAvg": 99994,
-      "spikePct": -2,
+      "rollingAvg": 101847,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 0.9d (practicalbasketball.com, practicalbasketball.net); .com registered 0.9d ago"
+      "detail": "both taken, oldest 1.0d (practicalbasketball.com, practicalbasketball.net); .com registered 1.0d ago"
     },
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 27323,
+      "ccu": 26828,
       "ageDays": 58.7,
-      "rollingAvg": 28384,
-      "spikePct": -4,
+      "rollingAvg": 28302,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 5716.1d (storagehunters.com, storagehunters.net)"
+      "detail": "both taken, oldest 5716.2d (storagehunters.com, storagehunters.net)"
     }
   ]
 }
