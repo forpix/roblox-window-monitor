@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-31T10:15:02.734Z",
+  "generatedAt": "2026-07-31T10:45:02.224Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 39454,
+      "ccu": 40767,
       "ageDays": 25.5,
-      "rollingAvg": 36711,
-      "spikePct": 7,
+      "rollingAvg": 36682,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 0.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23280,
-      "ageDays": 25,
-      "rollingAvg": 24889,
-      "spikePct": -6,
+      "ccu": 24125,
+      "ageDays": 25.1,
+      "rollingAvg": 24806,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 22031,
+      "ccu": 22044,
       "ageDays": 16.8,
-      "rollingAvg": 22773,
+      "rollingAvg": 22701,
       "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 37221,
-      "ageDays": 474.5,
-      "rollingAvg": 105941,
-      "spikePct": -65,
+      "ccu": 33971,
+      "ageDays": 474.6,
+      "rollingAvg": 105162,
+      "spikePct": -68,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.1d (practicalbasketball.com, practicalbasketball.net); .com registered 1.1d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 25211,
+      "ccu": 25255,
       "ageDays": 58.9,
-      "rollingAvg": 27284,
-      "spikePct": -8,
+      "rollingAvg": 27185,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5716.3d (storagehunters.com, storagehunters.net)"
