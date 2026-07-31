@@ -1902,7 +1902,7 @@
     "https://beebom.com/dungeon-hunters-codes/": "2026-06-30T20:49:29+00:00",
     "https://beebom.com/death-in-the-box-codes/": "2026-06-30T20:49:37+00:00",
     "https://beebom.com/muscle-transform-simulator-codes/": "2026-06-30T20:49:47+00:00",
-    "https://beebom.com/clover-origins-codes/": "2026-06-30T20:50:01+00:00",
+    "https://beebom.com/clover-origins-codes/": "2026-07-31T08:10:05+00:00",
     "https://beebom.com/dueling-grounds-codes/": "2026-07-29T19:30:59+00:00",
     "https://beebom.com/anime-waifu-card-collection-codes/": "2026-06-30T20:50:52+00:00",
     "https://beebom.com/be-a-brainrot-codes/": "2026-06-30T20:51:15+00:00",
@@ -2059,7 +2059,7 @@
     "https://beebom.com/be-a-youtuber-codes/": "2026-07-04T17:00:37+00:00",
     "https://beebom.com/hunty-zombies-codes/": "2026-07-25T18:10:33+00:00",
     "https://beebom.com/sailor-piece-codes/": "2026-07-26T12:37:14+00:00",
-    "https://beebom.com/anime-destiny-codes/": "2026-07-13T05:17:55+00:00",
+    "https://beebom.com/anime-destiny-codes/": "2026-07-31T08:07:03+00:00",
     "https://beebom.com/midnight-chasers-codes/": "2026-07-18T21:20:55+00:00",
     "https://beebom.com/legends-rewritten-codes/": "2026-07-04T19:37:06+00:00",
     "https://beebom.com/roblox-wanted-codes/": "2026-07-29T14:29:50+00:00",
@@ -2344,7 +2344,7 @@
     "https://beebom.com/tower-fl-codes/": "2026-07-31T06:40:18+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-31T06:40:18+00:00",
+    "post-sitemap.xml": "2026-07-31T08:10:05+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:08:18+00:00",
     "post-sitemap4.xml": "2018-02-27T10:37:50+00:00",
@@ -2392,8 +2392,8 @@
     "post-sitemap46.xml": "2026-02-01T00:55:51+00:00",
     "post-sitemap47.xml": "2026-03-16T14:29:09+00:00",
     "post-sitemap48.xml": "2026-05-10T07:37:00+00:00",
-    "post-sitemap49.xml": "2026-07-02T19:02:00+00:00",
-    "post-sitemap50.xml": "2026-07-31T06:40:18+00:00"
+    "post-sitemap49.xml": "2026-07-02T19:02:14+00:00",
+    "post-sitemap50.xml": "2026-07-31T08:10:05+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2600,7 +2600,7 @@
   "enrichmentByUrl": {
     "https://beebom.com/anime-destiny-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 82674355647259,
       "universeId": 9270705076
     },
@@ -4037,7 +4037,13 @@
       "attempts": 1,
       "placeId": 5496455308,
       "universeId": 1921509404
+    },
+    "https://beebom.com/clover-origins-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 134963296781989,
+      "universeId": 9067401541
     }
   },
-  "updatedAt": "2026-07-31T08:00:04.012Z"
+  "updatedAt": "2026-07-31T10:00:03.423Z"
 }
