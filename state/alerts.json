@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-31T12:45:03.254Z",
+  "generatedAt": "2026-07-31T13:15:01.744Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 43584,
+      "ccu": 43940,
       "ageDays": 25.6,
-      "rollingAvg": 36814,
-      "spikePct": 18,
+      "rollingAvg": 36808,
+      "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 0.6d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 27475,
-      "ageDays": 25.1,
-      "rollingAvg": 24368,
+      "ccu": 27488,
+      "ageDays": 25.2,
+      "rollingAvg": 24276,
       "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,13 +26,24 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 33663,
-      "ageDays": 474.6,
-      "rollingAvg": 99032,
-      "spikePct": -66,
+      "ccu": 36269,
+      "ageDays": 474.7,
+      "rollingAvg": 96969,
+      "spikePct": -63,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.2d (practicalbasketball.com, practicalbasketball.net); .com registered 1.2d ago"
+    },
+    {
+      "source": "discover",
+      "name": "[X2] +1 Backflip Keyboard Escape",
+      "ccu": 20427,
+      "ageDays": 33.1,
+      "rollingAvg": 20866,
+      "spikePct": -2,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
