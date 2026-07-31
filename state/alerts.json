@@ -1,35 +1,24 @@
 {
-  "generatedAt": "2026-07-31T17:45:05.819Z",
+  "generatedAt": "2026-07-31T18:15:01.672Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 38575,
+      "ccu": 37894,
       "ageDays": 25.8,
-      "rollingAvg": 36887,
-      "spikePct": 5,
+      "rollingAvg": 37088,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 0.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
-      "name": "+1 Pickaxe Swing Escape",
-      "ccu": 20698,
-      "ageDays": 25.4,
-      "rollingAvg": 23862,
-      "spikePct": -13,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
-    },
-    {
-      "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 91673,
+      "ccu": 97213,
       "ageDays": 474.9,
-      "rollingAvg": 81183,
-      "spikePct": 13,
+      "rollingAvg": 80491,
+      "spikePct": 21,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.4d (practicalbasketball.com, practicalbasketball.net); .com registered 1.4d ago"
@@ -37,21 +26,21 @@
     {
       "source": "discover",
       "name": "Storage Hunters: Open World",
-      "ccu": 35051,
+      "ccu": 33347,
       "ageDays": 59.2,
-      "rollingAvg": 28189,
-      "spikePct": 24,
+      "rollingAvg": 28425,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 5716.6d (storagehunters.com, storagehunters.net)"
     },
     {
       "source": "discover",
-      "name": "🐒 +1 Speed Monkey Escape",
-      "ccu": 95978,
-      "ageDays": 82.9,
-      "rollingAvg": 44338,
-      "spikePct": 116,
+      "name": "[NOW]🐒 +1 Speed Monkey Escape",
+      "ccu": 228346,
+      "ageDays": 83,
+      "rollingAvg": 46018,
+      "spikePct": 396,
       "gate": "B:spike",
       "verdict": "GREEN",
       "detail": "available: 1speedmonkeyescape.com, 1speedmonkeyescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -59,10 +48,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Backflip Keyboard Escape",
-      "ccu": 21767,
+      "ccu": 23565,
       "ageDays": 33.3,
-      "rollingAvg": 21192,
-      "spikePct": 3,
+      "rollingAvg": 21256,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
