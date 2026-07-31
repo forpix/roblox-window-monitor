@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-31T00:45:05.157Z",
+  "generatedAt": "2026-07-31T01:15:02.316Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 30421,
+      "ccu": 30467,
       "ageDays": 25.1,
-      "rollingAvg": 39195,
+      "rollingAvg": 39285,
       "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21514,
-      "ageDays": 24.6,
-      "rollingAvg": 24966,
-      "spikePct": -14,
+      "ccu": 22219,
+      "ageDays": 24.7,
+      "rollingAvg": 24990,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 21883,
+      "ccu": 21802,
       "ageDays": 16.4,
-      "rollingAvg": 23714,
+      "rollingAvg": 23677,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 122946,
-      "ageDays": 474.1,
-      "rollingAvg": 78732,
-      "spikePct": 56,
+      "ccu": 130225,
+      "ageDays": 474.2,
+      "rollingAvg": 79350,
+      "spikePct": 64,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: practicalbasketball.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
