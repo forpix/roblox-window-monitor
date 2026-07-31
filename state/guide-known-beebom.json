@@ -1168,7 +1168,8 @@
     "https://beebom.com/brawlhalla-codes/",
     "https://beebom.com/cut-a-gem-codes/",
     "https://beebom.com/roblox-gacha-online-codes/",
-    "https://beebom.com/win-a-world-championship-codes/"
+    "https://beebom.com/win-a-world-championship-codes/",
+    "https://beebom.com/tower-fl-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2323,7 +2324,7 @@
     "https://beebom.com/trench-decay-codes/": "2026-07-28T08:29:10+00:00",
     "https://beebom.com/no-limit-lifting-simulator-2-codes/": "2026-07-28T09:46:00+00:00",
     "https://beebom.com/pass-or-explode-codes/": "2026-07-28T13:02:53+00:00",
-    "https://beebom.com/halo-campaign-evolved-codes/": "2026-07-29T07:01:06+00:00",
+    "https://beebom.com/halo-campaign-evolved-codes/": "2026-07-31T05:39:59+00:00",
     "https://beebom.com/souls-crossover-x-codes/": "2026-07-31T03:23:50+00:00",
     "https://beebom.com/monkey-bomb-tag-codes/": "2026-07-29T07:50:53+00:00",
     "https://beebom.com/black-desert-online-bdo-codes/": "2026-07-29T08:38:12+00:00",
@@ -2339,10 +2340,11 @@
     "https://beebom.com/brawlhalla-codes/": "2026-07-30T11:07:12+00:00",
     "https://beebom.com/cut-a-gem-codes/": "2026-07-30T13:28:45+00:00",
     "https://beebom.com/roblox-gacha-online-codes/": "2026-07-31T02:43:22+00:00",
-    "https://beebom.com/win-a-world-championship-codes/": "2026-07-31T03:18:38+00:00"
+    "https://beebom.com/win-a-world-championship-codes/": "2026-07-31T03:18:38+00:00",
+    "https://beebom.com/tower-fl-codes/": "2026-07-31T06:40:18+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-31T05:04:13+00:00",
+    "post-sitemap.xml": "2026-07-31T06:40:18+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:08:18+00:00",
     "post-sitemap4.xml": "2018-02-27T10:37:50+00:00",
@@ -2391,7 +2393,7 @@
     "post-sitemap47.xml": "2026-03-16T14:29:09+00:00",
     "post-sitemap48.xml": "2026-05-10T07:37:00+00:00",
     "post-sitemap49.xml": "2026-07-02T19:02:00+00:00",
-    "post-sitemap50.xml": "2026-07-31T05:04:13+00:00"
+    "post-sitemap50.xml": "2026-07-31T06:40:18+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -4029,7 +4031,13 @@
       "attempts": 1,
       "placeId": 15014439457,
       "universeId": 5170731021
+    },
+    "https://beebom.com/tower-fl-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 5496455308,
+      "universeId": 1921509404
     }
   },
-  "updatedAt": "2026-07-31T06:00:07.260Z"
+  "updatedAt": "2026-07-31T08:00:04.012Z"
 }
