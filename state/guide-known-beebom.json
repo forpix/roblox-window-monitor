@@ -1766,7 +1766,7 @@
     "https://beebom.com/jujutsu-legacy-codes/": "2026-07-18T14:40:16+00:00",
     "https://beebom.com/anime-crossover-defense-codes/": "2026-05-20T08:35:20+00:00",
     "https://beebom.com/jujutsu-beatdown-codes/": "2026-05-22T22:07:42+00:00",
-    "https://beebom.com/roblox-one-fruit-simulator-codes/": "2026-05-23T16:49:41+00:00",
+    "https://beebom.com/roblox-one-fruit-simulator-codes/": "2026-07-31T11:28:23+00:00",
     "https://beebom.com/heaven-stand-codes/": "2026-05-24T18:34:32+00:00",
     "https://beebom.com/roblox-massacre-codes/": "2026-05-25T03:13:12+00:00",
     "https://beebom.com/pokemon-bronze-forever-codes/": "2026-07-20T11:34:23+00:00",
@@ -2104,7 +2104,7 @@
     "https://beebom.com/project-egoist-codes/": "2026-07-06T09:34:58+00:00",
     "https://beebom.com/roblox-aut-codes/": "2026-07-06T09:37:31+00:00",
     "https://beebom.com/anime-ghosts-codes/": "2026-07-06T09:42:21+00:00",
-    "https://beebom.com/rogue-piece-codes/": "2026-07-26T03:28:13+00:00",
+    "https://beebom.com/rogue-piece-codes/": "2026-07-31T11:40:47+00:00",
     "https://beebom.com/anime-warriors-3-codes/": "2026-07-06T09:46:53+00:00",
     "https://beebom.com/roblox-yba-codes/": "2026-07-18T16:21:40+00:00",
     "https://beebom.com/spongebob-tower-defense-codes/": "2026-07-06T09:49:37+00:00",
@@ -2147,7 +2147,7 @@
     "https://beebom.com/power-blast-lucky-blocks-codes/": "2026-07-19T04:53:16+00:00",
     "https://beebom.com/cooking-chaos-codes/": "2026-07-08T08:41:15+00:00",
     "https://beebom.com/slime-seas-codes/": "2026-07-08T09:37:18+00:00",
-    "https://beebom.com/be-a-fish-bait-codes/": "2026-07-24T12:15:40+00:00",
+    "https://beebom.com/be-a-fish-bait-codes/": "2026-07-31T11:39:41+00:00",
     "https://beebom.com/bomb-fishing-codes/": "2026-07-08T14:51:53+00:00",
     "https://beebom.com/make-a-soccer-empire-codes/": "2026-07-14T20:44:04+00:00",
     "https://beebom.com/ball-game-codes/": "2026-07-08T16:45:11+00:00",
@@ -2344,7 +2344,7 @@
     "https://beebom.com/tower-fl-codes/": "2026-07-31T06:40:18+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-07-31T08:10:05+00:00",
+    "post-sitemap.xml": "2026-07-31T11:40:47+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:08:18+00:00",
     "post-sitemap4.xml": "2018-02-27T10:37:50+00:00",
@@ -2392,8 +2392,8 @@
     "post-sitemap46.xml": "2026-02-01T00:55:51+00:00",
     "post-sitemap47.xml": "2026-03-16T14:29:09+00:00",
     "post-sitemap48.xml": "2026-05-10T07:37:00+00:00",
-    "post-sitemap49.xml": "2026-07-02T19:02:14+00:00",
-    "post-sitemap50.xml": "2026-07-31T08:10:05+00:00"
+    "post-sitemap49.xml": "2026-07-02T19:24:26+00:00",
+    "post-sitemap50.xml": "2026-07-31T11:40:47+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2666,7 +2666,7 @@
     },
     "https://beebom.com/be-a-fish-bait-codes/": {
       "status": "done",
-      "attempts": 3,
+      "attempts": 4,
       "placeId": 99702578544768,
       "universeId": 9330616906
     },
@@ -2804,7 +2804,7 @@
     },
     "https://beebom.com/rogue-piece-codes/": {
       "status": "done",
-      "attempts": 7,
+      "attempts": 8,
       "placeId": 84988808589910,
       "universeId": 8321616508
     },
@@ -4043,7 +4043,13 @@
       "attempts": 1,
       "placeId": 134963296781989,
       "universeId": 9067401541
+    },
+    "https://beebom.com/roblox-one-fruit-simulator-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 11445923563,
+      "universeId": 4069560710
     }
   },
-  "updatedAt": "2026-07-31T10:00:03.423Z"
+  "updatedAt": "2026-07-31T12:00:03.889Z"
 }
