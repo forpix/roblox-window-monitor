@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T02:15:02.268Z",
+  "generatedAt": "2026-08-01T02:45:02.252Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 40116,
+      "ccu": 40924,
       "ageDays": 26.2,
-      "rollingAvg": 39964,
-      "spikePct": 0,
+      "rollingAvg": 40044,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 1.2d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22113,
+      "ccu": 22209,
       "ageDays": 25.7,
-      "rollingAvg": 23150,
+      "rollingAvg": 23136,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 21610,
+      "ccu": 21732,
       "ageDays": 17.5,
-      "rollingAvg": 22016,
-      "spikePct": -2,
+      "rollingAvg": 21981,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 128066,
+      "ccu": 130456,
       "ageDays": 475.2,
-      "rollingAvg": 77710,
-      "spikePct": 65,
+      "rollingAvg": 79548,
+      "spikePct": 64,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.8d (practicalbasketball.com, practicalbasketball.net); .com registered 1.8d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 27240,
+      "ccu": 24834,
       "ageDays": 33.7,
-      "rollingAvg": 23488,
-      "spikePct": 16,
+      "rollingAvg": 23632,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
