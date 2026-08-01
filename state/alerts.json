@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T14:45:05.438Z",
+  "generatedAt": "2026-08-01T15:15:02.915Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 53260,
+      "ccu": 48631,
       "ageDays": 26.7,
-      "rollingAvg": 44237,
-      "spikePct": 20,
+      "rollingAvg": 44565,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 1.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,46 +15,46 @@
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 37414,
+      "ccu": 67627,
       "ageDays": 26.2,
-      "rollingAvg": 23429,
-      "spikePct": 60,
-      "gate": "D:young-chart",
+      "rollingAvg": 23705,
+      "spikePct": 185,
+      "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
     },
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 42456,
-      "ageDays": 475.7,
-      "rollingAvg": 84955,
-      "spikePct": -50,
+      "ccu": 47721,
+      "ageDays": 475.8,
+      "rollingAvg": 82942,
+      "spikePct": -42,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 2.3d (practicalbasketball.com, practicalbasketball.net); .com registered 2.3d ago"
     },
     {
       "source": "discover",
-      "name": "[🐉] Blox Fruits",
-      "ccu": 902331,
-      "ageDays": 2754.5,
-      "rollingAvg": 361089,
-      "spikePct": 150,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "both taken, oldest 1948.9d (bloxfruits.com, bloxfruits.net)"
-    },
-    {
-      "source": "discover",
       "name": "[⛰️] Mine a Mountain",
-      "ccu": 121748,
+      "ccu": 92936,
       "ageDays": 74.8,
-      "rollingAvg": 32746,
-      "spikePct": 272,
+      "rollingAvg": 35447,
+      "spikePct": 162,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: mineamountain.net; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
+    },
+    {
+      "source": "discover",
+      "name": "[X5] +1 Backflip Keyboard Escape",
+      "ccu": 21428,
+      "ageDays": 34.2,
+      "rollingAvg": 23686,
+      "spikePct": -10,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
