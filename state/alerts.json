@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T08:45:05.538Z",
+  "generatedAt": "2026-08-01T09:15:03.366Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 47396,
-      "ageDays": 26.4,
-      "rollingAvg": 40761,
-      "spikePct": 16,
+      "ccu": 46780,
+      "ageDays": 26.5,
+      "rollingAvg": 40872,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 1.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21597,
+      "ccu": 21430,
       "ageDays": 26,
-      "rollingAvg": 22950,
+      "rollingAvg": 22915,
       "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -25,22 +25,11 @@
     },
     {
       "source": "discover",
-      "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 21192,
-      "ageDays": 17.7,
-      "rollingAvg": 21771,
-      "spikePct": -3,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
-    },
-    {
-      "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 53180,
+      "ccu": 47072,
       "ageDays": 475.5,
-      "rollingAvg": 101280,
-      "spikePct": -47,
+      "rollingAvg": 101379,
+      "spikePct": -54,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 2.1d (practicalbasketball.com, practicalbasketball.net); .com registered 2.1d ago"
