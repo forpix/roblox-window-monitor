@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-01T01:45:03.206Z",
+  "generatedAt": "2026-08-01T02:15:02.268Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 39775,
-      "ageDays": 26.1,
-      "rollingAvg": 39885,
+      "ccu": 40116,
+      "ageDays": 26.2,
+      "rollingAvg": 39964,
       "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22166,
+      "ccu": 22113,
       "ageDays": 25.7,
-      "rollingAvg": 23181,
+      "rollingAvg": 23150,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 21487,
-      "ageDays": 17.4,
-      "rollingAvg": 22061,
-      "spikePct": -3,
+      "ccu": 21610,
+      "ageDays": 17.5,
+      "rollingAvg": 22016,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3! 🚧] Practical Basketball",
-      "ccu": 122572,
+      "ccu": 128066,
       "ageDays": 475.2,
-      "rollingAvg": 76264,
-      "spikePct": 61,
+      "rollingAvg": 77710,
+      "spikePct": 65,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 1.8d (practicalbasketball.com, practicalbasketball.net); .com registered 1.8d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 26274,
-      "ageDays": 33.6,
-      "rollingAvg": 23372,
-      "spikePct": 12,
+      "ccu": 27240,
+      "ageDays": 33.7,
+      "rollingAvg": 23488,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
