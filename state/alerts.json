@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T19:15:05.339Z",
+  "generatedAt": "2026-08-01T19:45:03.023Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 37163,
+      "ccu": 36291,
       "ageDays": 26.9,
-      "rollingAvg": 45276,
-      "spikePct": -18,
+      "rollingAvg": 45250,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 1.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[MINI 7.5] Anime Astral Simulator",
-      "ccu": 22281,
+      "ccu": 22301,
       "ageDays": 18.2,
-      "rollingAvg": 21753,
+      "rollingAvg": 21767,
       "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 86444,
+      "ccu": 89208,
       "ageDays": 475.9,
-      "rollingAvg": 72898,
-      "spikePct": 19,
+      "rollingAvg": 72042,
+      "spikePct": 24,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 2.5d (practicalbasketball.com, practicalbasketball.net); .com registered 2.5d ago"
@@ -37,13 +37,24 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 23321,
+      "ccu": 43728,
       "ageDays": 34.4,
       "rollingAvg": 23311,
-      "spikePct": 0,
+      "spikePct": 88,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
+    },
+    {
+      "source": "discover",
+      "name": "+1 Fat Per Click",
+      "ccu": 20524,
+      "ageDays": 48,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1fatperclick.com, 1fatperclick.net; competitor BUILT: 1-fat-per-click.pages.dev \"+1 Fat Per Click Wiki &amp; Beginner Hub\""
     }
   ]
 }
