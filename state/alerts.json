@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T14:15:02.019Z",
+  "generatedAt": "2026-08-01T14:45:05.438Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 54671,
+      "ccu": 53260,
       "ageDays": 26.7,
-      "rollingAvg": 43896,
-      "spikePct": 25,
+      "rollingAvg": 44237,
+      "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 1.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Pickaxe Swing Escape",
-      "ccu": 34198,
+      "ccu": 37414,
       "ageDays": 26.2,
-      "rollingAvg": 23214,
-      "spikePct": 47,
+      "rollingAvg": 23429,
+      "spikePct": 60,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,32 +26,32 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 37935,
+      "ccu": 42456,
       "ageDays": 475.7,
-      "rollingAvg": 87060,
-      "spikePct": -56,
+      "rollingAvg": 84955,
+      "spikePct": -50,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 2.3d (practicalbasketball.com, practicalbasketball.net); .com registered 2.3d ago"
     },
     {
       "source": "discover",
-      "name": "[🐶] Blox Fruits",
-      "ccu": 1635617,
-      "ageDays": 2754.4,
-      "rollingAvg": 323590,
-      "spikePct": 405,
+      "name": "[🐉] Blox Fruits",
+      "ccu": 902331,
+      "ageDays": 2754.5,
+      "rollingAvg": 361089,
+      "spikePct": 150,
       "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 1948.8d (bloxfruits.com, bloxfruits.net)"
+      "detail": "both taken, oldest 1948.9d (bloxfruits.com, bloxfruits.net)"
     },
     {
       "source": "discover",
       "name": "[⛰️] Mine a Mountain",
-      "ccu": 123422,
+      "ccu": 121748,
       "ageDays": 74.8,
-      "rollingAvg": 30063,
-      "spikePct": 311,
+      "rollingAvg": 32746,
+      "spikePct": 272,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: mineamountain.net; .com BUILT: \"Mine a Mountain Wiki, Codes, Tier List and Tools\""
