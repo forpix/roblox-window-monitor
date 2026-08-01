@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T16:45:03.386Z",
+  "generatedAt": "2026-08-01T17:15:04.847Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 41956,
+      "ccu": 39275,
       "ageDays": 26.8,
-      "rollingAvg": 45160,
-      "spikePct": -7,
+      "rollingAvg": 45300,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 1.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 24236,
+      "ccu": 21046,
       "ageDays": 26.3,
-      "rollingAvg": 25034,
-      "spikePct": -3,
+      "rollingAvg": 24992,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,21 +26,32 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 65015,
+      "ccu": 69775,
       "ageDays": 475.8,
-      "rollingAvg": 77906,
-      "spikePct": -17,
+      "rollingAvg": 76660,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 2.4d (practicalbasketball.com, practicalbasketball.net); .com registered 2.4d ago"
     },
     {
       "source": "discover",
+      "name": "Build a base RNG 🎲",
+      "ccu": 94104,
+      "ageDays": 61.9,
+      "rollingAvg": 33526,
+      "spikePct": 181,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "available: buildabaserng.net; .com BUILT: \"Build a Base RNG Planner, Codes &amp; Guides\""
+    },
+    {
+      "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 20559,
+      "ccu": 21268,
       "ageDays": 34.3,
-      "rollingAvg": 23465,
-      "spikePct": -12,
+      "rollingAvg": 23375,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
