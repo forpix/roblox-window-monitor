@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-01T15:45:05.552Z",
+  "generatedAt": "2026-08-01T16:15:05.772Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 45195,
+      "ccu": 42675,
       "ageDays": 26.7,
-      "rollingAvg": 44826,
-      "spikePct": 1,
+      "rollingAvg": 45013,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 1.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 1.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 33198,
+      "ccu": 28039,
       "ageDays": 26.3,
-      "rollingAvg": 24820,
-      "spikePct": 34,
+      "rollingAvg": 24988,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 53274,
+      "ccu": 58569,
       "ageDays": 475.8,
-      "rollingAvg": 81070,
-      "spikePct": -34,
+      "rollingAvg": 79389,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 2.3d (practicalbasketball.com, practicalbasketball.net); .com registered 2.3d ago"
+      "detail": "both taken, oldest 2.4d (practicalbasketball.com, practicalbasketball.net); .com registered 2.4d ago"
     },
     {
       "source": "discover",
       "name": "[🔴LIVE] Chicken Farm 🐣",
-      "ccu": 75664,
+      "ccu": 52116,
       "ageDays": 70.1,
-      "rollingAvg": 22481,
-      "spikePct": 237,
+      "rollingAvg": 23917,
+      "spikePct": 118,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "both taken, oldest 8026.9d (chickenfarm.com, chickenfarm.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 20506,
+      "ccu": 22288,
       "ageDays": 34.2,
-      "rollingAvg": 23608,
-      "spikePct": -13,
+      "rollingAvg": 23505,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
