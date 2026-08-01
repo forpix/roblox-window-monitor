@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-08-01T18:15:06.028Z",
+  "generatedAt": "2026-08-01T18:45:06.549Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 35685,
-      "ageDays": 26.8,
-      "rollingAvg": 45390,
-      "spikePct": -21,
+      "ccu": 35410,
+      "ageDays": 26.9,
+      "rollingAvg": 45345,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 1.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 1.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 78620,
+      "ccu": 81385,
       "ageDays": 475.9,
-      "rollingAvg": 74635,
-      "spikePct": 5,
+      "rollingAvg": 73773,
+      "spikePct": 10,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 2.4d (practicalbasketball.com, practicalbasketball.net); .com registered 2.4d ago"
+      "detail": "both taken, oldest 2.5d (practicalbasketball.com, practicalbasketball.net); .com registered 2.5d ago"
     }
   ]
 }
