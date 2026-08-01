@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-01T09:15:03.366Z",
+  "generatedAt": "2026-08-01T09:45:10.560Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 46780,
+      "ccu": 46571,
       "ageDays": 26.5,
-      "rollingAvg": 40872,
+      "rollingAvg": 41011,
       "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21430,
+      "ccu": 21532,
       "ageDays": 26,
-      "rollingAvg": 22915,
+      "rollingAvg": 22904,
       "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 47072,
+      "ccu": 41404,
       "ageDays": 475.5,
-      "rollingAvg": 101379,
-      "spikePct": -54,
+      "rollingAvg": 101145,
+      "spikePct": -59,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 2.1d (practicalbasketball.com, practicalbasketball.net); .com registered 2.1d ago"
