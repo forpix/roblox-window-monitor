@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-02T08:15:05.748Z",
+  "generatedAt": "2026-08-02T08:45:05.545Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 37596,
+      "ccu": 37986,
       "ageDays": 27.4,
-      "rollingAvg": 35851,
-      "spikePct": 5,
+      "rollingAvg": 35377,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 2.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 2.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 25956,
+      "ccu": 25837,
       "ageDays": 18.7,
-      "rollingAvg": 24316,
-      "spikePct": 7,
+      "rollingAvg": 24437,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23464,
+      "ccu": 23258,
       "ageDays": 27,
-      "rollingAvg": 24984,
-      "spikePct": -6,
+      "rollingAvg": 25041,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 57316,
+      "ccu": 50079,
       "ageDays": 476.5,
-      "rollingAvg": 88001,
-      "spikePct": -35,
+      "rollingAvg": 88539,
+      "spikePct": -43,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.0d (practicalbasketball.com, practicalbasketball.net); .com registered 3.0d ago"
+      "detail": "both taken, oldest 3.1d (practicalbasketball.com, practicalbasketball.net); .com registered 3.1d ago"
     }
   ]
 }
