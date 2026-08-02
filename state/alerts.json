@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-08-02T18:15:04.690Z",
+  "generatedAt": "2026-08-02T18:45:03.876Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 50458,
-      "ageDays": 27.8,
-      "rollingAvg": 38333,
-      "spikePct": 32,
+      "ccu": 50987,
+      "ageDays": 27.9,
+      "rollingAvg": 38919,
+      "spikePct": 31,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 2.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 2.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 27441,
+      "ccu": 27299,
       "ageDays": 19.1,
-      "rollingAvg": 26506,
-      "spikePct": 4,
+      "rollingAvg": 26549,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
     },
     {
       "source": "discover",
-      "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21226,
+      "name": "[2x] +1 Pickaxe Swing Escape",
+      "ccu": 23267,
       "ageDays": 27.4,
-      "rollingAvg": 23626,
-      "spikePct": -10,
+      "rollingAvg": 23436,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -37,20 +37,20 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 77470,
+      "ccu": 83825,
       "ageDays": 476.9,
-      "rollingAvg": 68004,
-      "spikePct": 14,
+      "rollingAvg": 67408,
+      "spikePct": 24,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.4d (practicalbasketball.com, practicalbasketball.net); .com registered 3.4d ago"
+      "detail": "both taken, oldest 3.5d (practicalbasketball.com, practicalbasketball.net); .com registered 3.5d ago"
     },
     {
       "source": "discover",
       "name": "[2x] +1 Fat Per Click",
-      "ccu": 21747,
+      "ccu": 21957,
       "ageDays": 48.9,
-      "rollingAvg": 20668,
+      "rollingAvg": 20848,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 26765,
+      "ccu": 25025,
       "ageDays": 35.3,
-      "rollingAvg": 24585,
-      "spikePct": 9,
+      "rollingAvg": 24669,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
