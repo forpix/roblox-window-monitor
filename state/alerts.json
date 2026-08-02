@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T17:45:01.919Z",
+  "generatedAt": "2026-08-02T18:15:04.690Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 49904,
+      "ccu": 50458,
       "ageDays": 27.8,
-      "rollingAvg": 37754,
+      "rollingAvg": 38333,
       "spikePct": 32,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 27633,
+      "ccu": 27441,
       "ageDays": 19.1,
-      "rollingAvg": 26460,
+      "rollingAvg": 26506,
       "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 21863,
+      "ccu": 21226,
       "ageDays": 27.4,
-      "rollingAvg": 23940,
-      "spikePct": -9,
+      "rollingAvg": 23626,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 72172,
+      "ccu": 77470,
       "ageDays": 476.9,
-      "rollingAvg": 68693,
-      "spikePct": 5,
+      "rollingAvg": 68004,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.4d (practicalbasketball.com, practicalbasketball.net); .com registered 3.4d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[2x] +1 Fat Per Click",
-      "ccu": 21791,
+      "ccu": 21747,
       "ageDays": 48.9,
-      "rollingAvg": 20387,
-      "spikePct": 7,
+      "rollingAvg": 20668,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1fatperclick.com, 1fatperclick.net; competitor BUILT: 1-fat-per-click.pages.dev \"+1 Fat Per Click Wiki &amp; Beginner Hub\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 24951,
+      "ccu": 26765,
       "ageDays": 35.3,
-      "rollingAvg": 24567,
-      "spikePct": 2,
+      "rollingAvg": 24585,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
