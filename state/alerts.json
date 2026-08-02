@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T12:45:04.267Z",
+  "generatedAt": "2026-08-02T13:15:05.384Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 43851,
+      "ccu": 44083,
       "ageDays": 27.6,
-      "rollingAvg": 34591,
+      "rollingAvg": 34825,
       "spikePct": 27,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 26924,
+      "ccu": 26898,
       "ageDays": 18.9,
-      "rollingAvg": 25500,
-      "spikePct": 6,
+      "rollingAvg": 25659,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 27486,
-      "ageDays": 27.1,
-      "rollingAvg": 25763,
+      "ccu": 27621,
+      "ageDays": 27.2,
+      "rollingAvg": 25907,
       "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,13 +37,24 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 26296,
-      "ageDays": 476.6,
-      "rollingAvg": 82575,
-      "spikePct": -68,
+      "ccu": 27585,
+      "ageDays": 476.7,
+      "rollingAvg": 81045,
+      "spikePct": -66,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.2d (practicalbasketball.com, practicalbasketball.net); .com registered 3.2d ago"
+    },
+    {
+      "source": "discover",
+      "name": "[X5] +1 Backflip Keyboard Escape",
+      "ccu": 21572,
+      "ageDays": 35.1,
+      "rollingAvg": 24239,
+      "spikePct": -11,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
