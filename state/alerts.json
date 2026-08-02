@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-02T18:45:03.876Z",
+  "generatedAt": "2026-08-02T19:15:02.086Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 50987,
+      "ccu": 50624,
       "ageDays": 27.9,
-      "rollingAvg": 38919,
-      "spikePct": 31,
+      "rollingAvg": 39488,
+      "spikePct": 28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 2.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 27299,
-      "ageDays": 19.1,
-      "rollingAvg": 26549,
-      "spikePct": 3,
+      "ccu": 27121,
+      "ageDays": 19.2,
+      "rollingAvg": 26587,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
     },
     {
       "source": "discover",
-      "name": "[2x] +1 Pickaxe Swing Escape",
-      "ccu": 23267,
+      "name": "+1 Pickaxe Swing Escape",
+      "ccu": 22388,
       "ageDays": 27.4,
-      "rollingAvg": 23436,
-      "spikePct": -1,
+      "rollingAvg": 23409,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 83825,
+      "ccu": 88095,
       "ageDays": 476.9,
-      "rollingAvg": 67408,
-      "spikePct": 24,
+      "rollingAvg": 66910,
+      "spikePct": 32,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.5d (practicalbasketball.com, practicalbasketball.net); .com registered 3.5d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[2x] +1 Fat Per Click",
-      "ccu": 21957,
-      "ageDays": 48.9,
-      "rollingAvg": 20848,
-      "spikePct": 5,
+      "ccu": 21480,
+      "ageDays": 49,
+      "rollingAvg": 21006,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1fatperclick.com, 1fatperclick.net; competitor BUILT: 1-fat-per-click.pages.dev \"+1 Fat Per Click Wiki &amp; Beginner Hub\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 25025,
-      "ageDays": 35.3,
-      "rollingAvg": 24669,
-      "spikePct": 1,
+      "ccu": 27165,
+      "ageDays": 35.4,
+      "rollingAvg": 24612,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
