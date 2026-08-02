@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-02T15:45:05.288Z",
+  "generatedAt": "2026-08-02T16:15:05.393Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 41061,
+      "ccu": 42242,
       "ageDays": 27.7,
-      "rollingAvg": 35958,
-      "spikePct": 14,
+      "rollingAvg": 36257,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 2.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 2.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 27872,
+      "ccu": 27851,
       "ageDays": 19,
-      "rollingAvg": 26289,
+      "rollingAvg": 26317,
       "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 23441,
+      "ccu": 23075,
       "ageDays": 27.3,
-      "rollingAvg": 26030,
-      "spikePct": -10,
+      "rollingAvg": 25912,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 45759,
+      "ccu": 51851,
       "ageDays": 476.8,
-      "rollingAvg": 73051,
-      "spikePct": -37,
+      "rollingAvg": 71700,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.3d (practicalbasketball.com, practicalbasketball.net); .com registered 3.3d ago"
+      "detail": "both taken, oldest 3.4d (practicalbasketball.com, practicalbasketball.net); .com registered 3.4d ago"
     },
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 22762,
+      "ccu": 25206,
       "ageDays": 35.2,
-      "rollingAvg": 24333,
-      "spikePct": -6,
+      "rollingAvg": 24318,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
