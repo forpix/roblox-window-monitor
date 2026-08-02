@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-02T14:45:02.760Z",
+  "generatedAt": "2026-08-02T15:15:03.622Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 42186,
+      "ccu": 41205,
       "ageDays": 27.7,
-      "rollingAvg": 35472,
-      "spikePct": 19,
+      "rollingAvg": 35703,
+      "spikePct": 15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 2.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide, Codes &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 27470,
+      "ccu": 27803,
       "ageDays": 19,
-      "rollingAvg": 26121,
-      "spikePct": 5,
+      "rollingAvg": 26264,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 24632,
+      "ccu": 24085,
       "ageDays": 27.2,
-      "rollingAvg": 26140,
-      "spikePct": -6,
+      "rollingAvg": 26099,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 36531,
-      "ageDays": 476.7,
-      "rollingAvg": 76120,
-      "spikePct": -52,
+      "ccu": 40783,
+      "ageDays": 476.8,
+      "rollingAvg": 74537,
+      "spikePct": -45,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.3d (practicalbasketball.com, practicalbasketball.net); .com registered 3.3d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 20751,
+      "ccu": 23392,
       "ageDays": 35.2,
-      "rollingAvg": 24277,
-      "spikePct": -15,
+      "rollingAvg": 24258,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
