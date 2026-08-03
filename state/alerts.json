@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-03T21:15:02.502Z",
+  "generatedAt": "2026-08-03T21:45:04.497Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 88403,
+      "ccu": 80482,
       "ageDays": 29,
-      "rollingAvg": 52271,
-      "spikePct": 69,
+      "rollingAvg": 53596,
+      "spikePct": 50,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 4.0d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 24268,
-      "ageDays": 20.2,
-      "rollingAvg": 24453,
+      "ccu": 24211,
+      "ageDays": 20.3,
+      "rollingAvg": 24456,
       "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 92355,
+      "ccu": 91422,
       "ageDays": 478,
-      "rollingAvg": 60168,
+      "rollingAvg": 59575,
       "spikePct": 53,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
