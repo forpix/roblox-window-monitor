@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-03T16:45:03.713Z",
+  "generatedAt": "2026-08-03T17:15:05.997Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 55208,
+      "ccu": 54782,
       "ageDays": 28.8,
-      "rollingAvg": 47626,
-      "spikePct": 16,
+      "rollingAvg": 48144,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 3.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 25582,
+      "ccu": 25575,
       "ageDays": 20.1,
-      "rollingAvg": 24320,
+      "rollingAvg": 24327,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,13 +26,24 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 60341,
+      "ccu": 66626,
       "ageDays": 477.8,
-      "rollingAvg": 67295,
-      "spikePct": -10,
+      "rollingAvg": 66155,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.4d (practicalbasketball.com, practicalbasketball.net); .com registered 4.4d ago"
+    },
+    {
+      "source": "discover",
+      "name": "[X2] +1 Backflip Keyboard Escape",
+      "ccu": 20493,
+      "ageDays": 36.3,
+      "rollingAvg": 24378,
+      "spikePct": -16,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
