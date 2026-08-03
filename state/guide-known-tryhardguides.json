@@ -9102,7 +9102,8 @@
     "post-sitemap-2024-5.xml": "2024-02-04T23:59:59+00:00",
     "post-sitemap-2026-1.xml": "2026-01-04T23:59:59+00:00",
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
-    "post-sitemap-2026-31.xml": "2026-08-02T21:12:06+00:00"
+    "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
+    "post-sitemap-2026-32.xml": "2026-08-03T00:00:00+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -10180,6 +10181,10 @@
     "post-sitemap-2026-31.xml": {
       "bootstrapped": true,
       "bootstrappedAt": "2026-07-27T02:00:09.111Z"
+    },
+    "post-sitemap-2026-32.xml": {
+      "bootstrapped": true,
+      "bootstrappedAt": "2026-08-03T00:00:07.272Z"
     }
   },
   "enrichmentByUrl": {
@@ -11804,5 +11809,5 @@
       "universeId": 5112244393
     }
   },
-  "updatedAt": "2026-08-02T22:00:03.606Z"
+  "updatedAt": "2026-08-03T00:00:05.829Z"
 }
