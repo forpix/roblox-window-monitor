@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-03T13:15:02.463Z",
+  "generatedAt": "2026-08-03T13:45:03.851Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 65920,
+      "ccu": 66398,
       "ageDays": 28.6,
-      "rollingAvg": 44427,
+      "rollingAvg": 44842,
       "spikePct": 48,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 3.6d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 3.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 24664,
+      "ccu": 24869,
       "ageDays": 19.9,
-      "rollingAvg": 24598,
-      "spikePct": 0,
+      "rollingAvg": 24525,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 22627,
+      "ccu": 21786,
       "ageDays": 28.2,
-      "rollingAvg": 23852,
-      "spikePct": -5,
+      "rollingAvg": 23832,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 27619,
+      "ccu": 29802,
       "ageDays": 477.7,
-      "rollingAvg": 78117,
-      "spikePct": -65,
+      "rollingAvg": 76555,
+      "spikePct": -61,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 4.2d (practicalbasketball.com, practicalbasketball.net); .com registered 4.2d ago"
+      "detail": "both taken, oldest 4.3d (practicalbasketball.com, practicalbasketball.net); .com registered 4.3d ago"
     }
   ]
 }
