@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-03T04:45:08.307Z",
+  "generatedAt": "2026-08-03T05:15:02.195Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[🍯] Unbox ASMR!",
-      "ccu": 39239,
+      "ccu": 39481,
       "ageDays": 28.3,
-      "rollingAvg": 42346,
+      "rollingAvg": 42370,
       "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 23950,
+      "ccu": 23989,
       "ageDays": 19.6,
-      "rollingAvg": 26148,
+      "rollingAvg": 26089,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 98533,
+      "ccu": 91170,
       "ageDays": 477.3,
-      "rollingAvg": 74174,
-      "spikePct": 33,
+      "rollingAvg": 75975,
+      "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.9d (practicalbasketball.com, practicalbasketball.net); .com registered 3.9d ago"
