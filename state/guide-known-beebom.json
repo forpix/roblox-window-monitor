@@ -1173,7 +1173,9 @@
     "https://beebom.com/pull-a-lucky-fish-codes/",
     "https://beebom.com/capybaras-vs-plants-codes/",
     "https://beebom.com/samurai-duels-codes/",
-    "https://beebom.com/cursed-tank-simulator-codes/"
+    "https://beebom.com/cursed-tank-simulator-codes/",
+    "https://beebom.com/a-quiet-place-deadzone-codes/",
+    "https://beebom.com/corsa-legends-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -1957,7 +1959,7 @@
     "https://beebom.com/plant-brainrot-simulator-codes/": "2026-08-01T02:50:38+00:00",
     "https://beebom.com/magic-and-divinity-codes/": "2026-08-01T01:27:10+00:00",
     "https://beebom.com/my-fishing-brainrots-codes/": "2026-08-01T02:25:26+00:00",
-    "https://beebom.com/loot-up-codes/": "2026-07-31T20:26:28+00:00",
+    "https://beebom.com/loot-up-codes/": "2026-08-03T08:43:59+00:00",
     "https://beebom.com/warframe-codes/": "2026-07-31T20:26:38+00:00",
     "https://beebom.com/blue-lock-skibidi-codes/": "2026-07-31T22:06:19+00:00",
     "https://beebom.com/farm-a-fish-codes/": "2026-07-31T20:26:42+00:00",
@@ -2349,10 +2351,12 @@
     "https://beebom.com/pull-a-lucky-fish-codes/": "2026-07-31T18:31:00+00:00",
     "https://beebom.com/capybaras-vs-plants-codes/": "2026-08-01T17:09:02+00:00",
     "https://beebom.com/samurai-duels-codes/": "2026-08-02T01:54:43+00:00",
-    "https://beebom.com/cursed-tank-simulator-codes/": "2026-08-03T07:28:38+00:00"
+    "https://beebom.com/cursed-tank-simulator-codes/": "2026-08-03T07:28:38+00:00",
+    "https://beebom.com/a-quiet-place-deadzone-codes/": "2026-08-03T08:21:48+00:00",
+    "https://beebom.com/corsa-legends-codes/": "2026-08-03T09:51:02+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-03T07:49:26+00:00",
+    "post-sitemap.xml": "2026-08-03T09:51:02+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:08:18+00:00",
     "post-sitemap4.xml": "2018-02-27T10:37:50+00:00",
@@ -2401,7 +2405,7 @@
     "post-sitemap47.xml": "2026-03-16T17:00:16+00:00",
     "post-sitemap48.xml": "2026-05-12T13:54:22+00:00",
     "post-sitemap49.xml": "2026-07-17T13:41:36+00:00",
-    "post-sitemap50.xml": "2026-08-03T07:49:26+00:00"
+    "post-sitemap50.xml": "2026-08-03T09:51:02+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3478,7 +3482,7 @@
     },
     "https://beebom.com/loot-up-codes/": {
       "status": "done",
-      "attempts": 2,
+      "attempts": 3,
       "placeId": 83622406313819,
       "universeId": 9280810829
     },
@@ -5421,5 +5425,5 @@
       "universeId": 2491559356
     }
   },
-  "updatedAt": "2026-08-03T08:00:03.099Z"
+  "updatedAt": "2026-08-03T10:00:06.050Z"
 }
