@@ -1178,7 +1178,8 @@
     "https://beebom.com/corsa-legends-codes/",
     "https://beebom.com/coin-flip-codes/",
     "https://beebom.com/build-a-gem-crusher-codes/",
-    "https://beebom.com/coach-a-fighter-codes/"
+    "https://beebom.com/coach-a-fighter-codes/",
+    "https://beebom.com/bikelife-society-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2359,10 +2360,11 @@
     "https://beebom.com/corsa-legends-codes/": "2026-08-03T09:51:02+00:00",
     "https://beebom.com/coin-flip-codes/": "2026-08-03T11:38:23+00:00",
     "https://beebom.com/build-a-gem-crusher-codes/": "2026-08-03T20:44:42+00:00",
-    "https://beebom.com/coach-a-fighter-codes/": "2026-08-04T03:01:09+00:00"
+    "https://beebom.com/coach-a-fighter-codes/": "2026-08-04T03:01:09+00:00",
+    "https://beebom.com/bikelife-society-codes/": "2026-08-04T04:07:00+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-04T03:25:34+00:00",
+    "post-sitemap.xml": "2026-08-04T03:41:15+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:08:18+00:00",
     "post-sitemap4.xml": "2018-02-27T10:37:50+00:00",
@@ -2411,7 +2413,7 @@
     "post-sitemap47.xml": "2026-03-16T17:00:16+00:00",
     "post-sitemap48.xml": "2026-05-12T13:54:22+00:00",
     "post-sitemap49.xml": "2026-07-18T03:58:32+00:00",
-    "post-sitemap50.xml": "2026-08-04T03:25:34+00:00"
+    "post-sitemap50.xml": "2026-08-04T03:41:15+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -5447,7 +5449,13 @@
       "attempts": 1,
       "placeId": 111517697993641,
       "universeId": 10429426791
+    },
+    "https://beebom.com/bikelife-society-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 114502773150473,
+      "universeId": 10509890970
     }
   },
-  "updatedAt": "2026-08-04T04:00:06.691Z"
+  "updatedAt": "2026-08-04T06:00:05.470Z"
 }
