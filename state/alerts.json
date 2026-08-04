@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-04T11:45:05.150Z",
+  "generatedAt": "2026-08-04T12:15:04.293Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 54225,
+      "ccu": 53999,
       "ageDays": 29.6,
-      "rollingAvg": 52079,
+      "rollingAvg": 52063,
       "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 20892,
-      "ageDays": 25.5,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "ccu": 22640,
+      "ageDays": 25.6,
+      "rollingAvg": 20892,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 22785,
-      "ageDays": 20.8,
-      "rollingAvg": 23154,
-      "spikePct": -2,
+      "ccu": 22764,
+      "ageDays": 20.9,
+      "rollingAvg": 23076,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 22815,
+      "ccu": 23117,
       "ageDays": 478.6,
-      "rollingAvg": 75621,
-      "spikePct": -70,
+      "rollingAvg": 74404,
+      "spikePct": -69,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.2d (practicalbasketball.com, practicalbasketball.net); .com registered 5.2d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 27212,
+      "ccu": 28324,
       "ageDays": 29.1,
-      "rollingAvg": 23673,
-      "spikePct": 15,
+      "rollingAvg": 23748,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
