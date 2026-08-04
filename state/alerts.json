@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-04T14:45:07.391Z",
+  "generatedAt": "2026-08-04T15:15:04.304Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 51896,
+      "ccu": 50205,
       "ageDays": 29.7,
-      "rollingAvg": 51765,
-      "spikePct": 0,
+      "rollingAvg": 51640,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 4.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 23683,
+      "ccu": 22540,
       "ageDays": 25.7,
-      "rollingAvg": 23505,
-      "spikePct": 1,
+      "rollingAvg": 23531,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[COMMANDMENTS] Anime Astral Simulator",
-      "ccu": 22884,
+      "ccu": 23135,
       "ageDays": 21,
-      "rollingAvg": 22737,
-      "spikePct": 1,
+      "rollingAvg": 22683,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 35124,
-      "ageDays": 478.7,
-      "rollingAvg": 66755,
-      "spikePct": -47,
+      "ccu": 39240,
+      "ageDays": 478.8,
+      "rollingAvg": 65208,
+      "spikePct": -40,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.3d (practicalbasketball.com, practicalbasketball.net); .com registered 5.3d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "+1 Pickaxe Swing Escape",
-      "ccu": 24437,
+      "ccu": 23412,
       "ageDays": 29.2,
-      "rollingAvg": 24115,
-      "spikePct": 1,
+      "rollingAvg": 24026,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1pickaxeswingescape.com, 1pickaxeswingescape.net; competitor BUILT: 1-pickaxe-swing-escape.pages.dev \"+1 Pickaxe Swing Escape Wiki\""
