@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T13:45:04.882Z",
+  "generatedAt": "2026-08-05T14:15:03.118Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 43661,
+      "ccu": 43990,
       "ageDays": 26.6,
-      "rollingAvg": 24951,
-      "spikePct": 75,
+      "rollingAvg": 25731,
+      "spikePct": 71,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 41287,
-      "ageDays": 30.6,
-      "rollingAvg": 34892,
-      "spikePct": 18,
+      "ccu": 40743,
+      "ageDays": 30.7,
+      "rollingAvg": 34826,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 5.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 27089,
-      "ageDays": 21.9,
-      "rollingAvg": 26387,
-      "spikePct": 3,
+      "ccu": 26433,
+      "ageDays": 22,
+      "rollingAvg": 26463,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,22 +37,22 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 26196,
+      "ccu": 29031,
       "ageDays": 479.7,
-      "rollingAvg": 63058,
-      "spikePct": -58,
+      "rollingAvg": 61598,
+      "spikePct": -53,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.3d (practicalbasketball.com, practicalbasketball.net); .com registered 6.3d ago"
     },
     {
       "source": "discover",
-      "name": "[⌛] Capybaras VS Plants",
-      "ccu": 38597,
-      "ageDays": 308.6,
-      "rollingAvg": 23963,
-      "spikePct": 61,
-      "gate": "C:fresh-com",
+      "name": "[NOW] Capybaras VS Plants",
+      "ccu": 78154,
+      "ageDays": 308.7,
+      "rollingAvg": 26053,
+      "spikePct": 200,
+      "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 1.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     }
