@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T20:15:02.175Z",
+  "generatedAt": "2026-08-05T20:45:02.320Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 36128,
+      "ccu": 35152,
       "ageDays": 26.9,
-      "rollingAvg": 30401,
-      "spikePct": 19,
+      "rollingAvg": 30824,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 35827,
+      "ccu": 34445,
       "ageDays": 30.9,
-      "rollingAvg": 34729,
-      "spikePct": 3,
+      "rollingAvg": 34843,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 5.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 6.0d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 26430,
+      "ccu": 26411,
       "ageDays": 22.2,
-      "rollingAvg": 26547,
-      "spikePct": 0,
+      "rollingAvg": 26551,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 74958,
+      "ccu": 76118,
       "ageDays": 480,
-      "rollingAvg": 51330,
-      "spikePct": 46,
+      "rollingAvg": 50711,
+      "spikePct": 50,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.5d (practicalbasketball.com, practicalbasketball.net); .com registered 6.5d ago"
+      "detail": "both taken, oldest 6.6d (practicalbasketball.com, practicalbasketball.net); .com registered 6.6d ago"
     }
   ]
 }
