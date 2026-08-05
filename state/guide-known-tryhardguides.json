@@ -4420,7 +4420,10 @@
     "https://tryhardguides.com/heal-your-injuries-codes/",
     "https://tryhardguides.com/lowball-codes/",
     "https://tryhardguides.com/lake-sipping-codes/",
-    "https://tryhardguides.com/junk-mechanics-codes/"
+    "https://tryhardguides.com/junk-mechanics-codes/",
+    "https://tryhardguides.com/four-square-codes/",
+    "https://tryhardguides.com/roll-for-chiikawa-codes/",
+    "https://tryhardguides.com/build-a-blue-lock-squad-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -8843,7 +8846,10 @@
     "https://tryhardguides.com/heal-your-injuries-codes/": "2026-08-04T11:52:00+00:00",
     "https://tryhardguides.com/lowball-codes/": "2026-08-04T11:37:00+00:00",
     "https://tryhardguides.com/lake-sipping-codes/": "2026-08-04T11:22:00+00:00",
-    "https://tryhardguides.com/junk-mechanics-codes/": "2026-08-04T11:07:00+00:00"
+    "https://tryhardguides.com/junk-mechanics-codes/": "2026-08-04T11:07:00+00:00",
+    "https://tryhardguides.com/four-square-codes/": "2026-08-05T11:37:00+00:00",
+    "https://tryhardguides.com/roll-for-chiikawa-codes/": "2026-08-05T11:22:00+00:00",
+    "https://tryhardguides.com/build-a-blue-lock-squad-codes/": "2026-08-05T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9115,7 +9121,7 @@
     "post-sitemap-2026-1.xml": "2026-01-04T23:59:59+00:00",
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
-    "post-sitemap-2026-32.xml": "2026-08-05T10:00:12+00:00"
+    "post-sitemap-2026-32.xml": "2026-08-05T12:00:10+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -11969,7 +11975,25 @@
       "attempts": 1,
       "placeId": 70435795041539,
       "universeId": 9872734936
+    },
+    "https://tryhardguides.com/four-square-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 113235664220283,
+      "universeId": 10275940757
+    },
+    "https://tryhardguides.com/roll-for-chiikawa-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 79237098587493,
+      "universeId": 10290675105
+    },
+    "https://tryhardguides.com/build-a-blue-lock-squad-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 112619156837009,
+      "universeId": 10418381226
     }
   },
-  "updatedAt": "2026-08-05T10:00:03.230Z"
+  "updatedAt": "2026-08-05T12:00:03.446Z"
 }
