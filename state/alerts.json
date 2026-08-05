@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T14:45:05.624Z",
+  "generatedAt": "2026-08-05T15:15:03.050Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 43411,
+      "ccu": 42536,
       "ageDays": 26.7,
-      "rollingAvg": 26461,
-      "spikePct": 64,
+      "rollingAvg": 27113,
+      "spikePct": 57,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 39490,
+      "ccu": 39016,
       "ageDays": 30.7,
-      "rollingAvg": 34781,
-      "spikePct": 14,
+      "rollingAvg": 34731,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 5.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 26602,
+      "ccu": 26727,
       "ageDays": 22,
-      "rollingAvg": 26515,
-      "spikePct": 0,
+      "rollingAvg": 26480,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 32227,
-      "ageDays": 479.7,
-      "rollingAvg": 60158,
-      "spikePct": -46,
+      "ccu": 36164,
+      "ageDays": 479.8,
+      "rollingAvg": 58762,
+      "spikePct": -38,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.3d (practicalbasketball.com, practicalbasketball.net); .com registered 6.3d ago"
@@ -48,11 +48,11 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 73490,
+      "ccu": 27010,
       "ageDays": 308.7,
-      "rollingAvg": 32566,
-      "spikePct": 126,
-      "gate": "B:spike",
+      "rollingAvg": 37113,
+      "spikePct": -27,
+      "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 1.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     }
