@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-08-05T08:15:06.756Z",
+  "generatedAt": "2026-08-05T08:45:03.709Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[☄️] Unbox ASMR!",
-      "ccu": 32413,
-      "ageDays": 30.4,
-      "rollingAvg": 38084,
-      "spikePct": -15,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 5.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
-    },
-    {
-      "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 22109,
+      "ccu": 23412,
       "ageDays": 26.4,
-      "rollingAvg": 22744,
-      "spikePct": -3,
+      "rollingAvg": 22695,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
+      "name": "[☄️] Unbox ASMR!",
+      "ccu": 33490,
+      "ageDays": 30.4,
+      "rollingAvg": 37503,
+      "spikePct": -11,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: unboxasmr.net; .com registered 5.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+    },
+    {
+      "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 25990,
+      "ccu": 25906,
       "ageDays": 21.7,
-      "rollingAvg": 25566,
-      "spikePct": 2,
+      "rollingAvg": 25657,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 38884,
+      "ccu": 34137,
       "ageDays": 479.5,
-      "rollingAvg": 71743,
-      "spikePct": -46,
+      "rollingAvg": 71957,
+      "spikePct": -53,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.0d (practicalbasketball.com, practicalbasketball.net); .com registered 6.0d ago"
+      "detail": "both taken, oldest 6.1d (practicalbasketball.com, practicalbasketball.net); .com registered 6.1d ago"
     }
   ]
 }
