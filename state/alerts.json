@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T17:15:06.164Z",
+  "generatedAt": "2026-08-05T17:45:02.284Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 37967,
+      "ccu": 37684,
       "ageDays": 26.8,
-      "rollingAvg": 28917,
-      "spikePct": 31,
+      "rollingAvg": 29209,
+      "spikePct": 29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 35925,
+      "ccu": 35963,
       "ageDays": 30.8,
-      "rollingAvg": 34559,
+      "rollingAvg": 34551,
       "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 27630,
+      "ccu": 27724,
       "ageDays": 22.1,
-      "rollingAvg": 26429,
+      "rollingAvg": 26441,
       "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 54939,
-      "ageDays": 479.8,
-      "rollingAvg": 54630,
-      "spikePct": 1,
+      "ccu": 59634,
+      "ageDays": 479.9,
+      "rollingAvg": 53967,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.4d (practicalbasketball.com, practicalbasketball.net); .com registered 6.4d ago"
