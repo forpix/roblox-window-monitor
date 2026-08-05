@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T05:45:04.263Z",
+  "generatedAt": "2026-08-05T06:15:04.247Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 28411,
+      "ccu": 28539,
       "ageDays": 30.3,
-      "rollingAvg": 41524,
-      "spikePct": -32,
+      "rollingAvg": 40806,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 5.3d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 25809,
+      "ccu": 25831,
       "ageDays": 21.6,
-      "rollingAvg": 25153,
-      "spikePct": 3,
+      "rollingAvg": 25237,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 69291,
+      "ccu": 62292,
       "ageDays": 479.4,
-      "rollingAvg": 67348,
-      "spikePct": 3,
+      "rollingAvg": 68639,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.9d (practicalbasketball.com, practicalbasketball.net); .com registered 5.9d ago"
