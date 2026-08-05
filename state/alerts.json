@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-05T14:15:03.118Z",
+  "generatedAt": "2026-08-05T14:45:05.624Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 43990,
-      "ageDays": 26.6,
-      "rollingAvg": 25731,
-      "spikePct": 71,
+      "ccu": 43411,
+      "ageDays": 26.7,
+      "rollingAvg": 26461,
+      "spikePct": 64,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 40743,
+      "ccu": 39490,
       "ageDays": 30.7,
-      "rollingAvg": 34826,
-      "spikePct": 17,
+      "rollingAvg": 34781,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 5.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 26433,
+      "ccu": 26602,
       "ageDays": 22,
-      "rollingAvg": 26463,
+      "rollingAvg": 26515,
       "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 29031,
+      "ccu": 32227,
       "ageDays": 479.7,
-      "rollingAvg": 61598,
-      "spikePct": -53,
+      "rollingAvg": 60158,
+      "spikePct": -46,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.3d (practicalbasketball.com, practicalbasketball.net); .com registered 6.3d ago"
     },
     {
       "source": "discover",
-      "name": "[NOW] Capybaras VS Plants",
-      "ccu": 78154,
+      "name": "Capybaras VS Plants",
+      "ccu": 73490,
       "ageDays": 308.7,
-      "rollingAvg": 26053,
-      "spikePct": 200,
+      "rollingAvg": 32566,
+      "spikePct": 126,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 1.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
