@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T23:15:03.575Z",
+  "generatedAt": "2026-08-06T23:45:05.784Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 22751,
+      "ccu": 22096,
       "ageDays": 28,
-      "rollingAvg": 28511,
-      "spikePct": -20,
+      "rollingAvg": 28447,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 26709,
-      "ageDays": 32,
-      "rollingAvg": 33704,
+      "ccu": 26484,
+      "ageDays": 32.1,
+      "rollingAvg": 33657,
       "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 23200,
+      "ccu": 23043,
       "ageDays": 23.3,
-      "rollingAvg": 24579,
+      "rollingAvg": 24547,
       "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 43360,
+      "ccu": 44309,
       "ageDays": 40.3,
-      "rollingAvg": 35742,
-      "spikePct": 21,
+      "rollingAvg": 36005,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 66543,
+      "ccu": 68182,
       "ageDays": 481.1,
-      "rollingAvg": 44363,
-      "spikePct": 50,
+      "rollingAvg": 44238,
+      "spikePct": 54,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.7d (practicalbasketball.com, practicalbasketball.net); .com registered 7.7d ago"
