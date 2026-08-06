@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T10:45:02.330Z",
+  "generatedAt": "2026-08-06T11:15:02.746Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 27769,
+      "ccu": 28592,
       "ageDays": 27.5,
-      "rollingAvg": 30398,
-      "spikePct": -9,
+      "rollingAvg": 30105,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 35208,
+      "ccu": 35899,
       "ageDays": 31.5,
-      "rollingAvg": 32169,
-      "spikePct": 9,
+      "rollingAvg": 32208,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 6.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 6.6d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 24596,
+      "ccu": 24766,
       "ageDays": 22.8,
-      "rollingAvg": 25328,
-      "spikePct": -3,
+      "rollingAvg": 25246,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 29144,
-      "ageDays": 39.7,
-      "rollingAvg": 27142,
-      "spikePct": 7,
+      "ccu": 30174,
+      "ageDays": 39.8,
+      "rollingAvg": 27643,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -48,13 +48,24 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 21404,
+      "ccu": 20452,
       "ageDays": 480.6,
-      "rollingAvg": 66106,
-      "spikePct": -68,
+      "rollingAvg": 65338,
+      "spikePct": -69,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.1d (practicalbasketball.com, practicalbasketball.net); .com registered 7.1d ago"
+      "detail": "both taken, oldest 7.2d (practicalbasketball.com, practicalbasketball.net); .com registered 7.2d ago"
+    },
+    {
+      "source": "discover",
+      "name": "Capybaras VS Plants",
+      "ccu": 20124,
+      "ageDays": 309.5,
+      "rollingAvg": 34700,
+      "spikePct": -42,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: capybarasvsplants.net; .com registered 2.4d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     }
   ]
 }
