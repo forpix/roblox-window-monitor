@@ -4525,7 +4525,7 @@
     "https://tryhardguides.com/heartopia-codes/": "2026-08-03T06:08:10+00:00",
     "https://tryhardguides.com/restaurant-tycoon-2-codes/": "2026-07-10T06:16:41+00:00",
     "https://tryhardguides.com/bikelife-netherlands-codes/": "2026-07-09T21:33:23+00:00",
-    "https://tryhardguides.com/yeet-a-friend-codes/": "2026-07-09T15:09:22+00:00",
+    "https://tryhardguides.com/yeet-a-friend-codes/": "2026-08-06T12:57:33+00:00",
     "https://tryhardguides.com/aura-monster-simulator-codes/": "2026-07-20T07:51:47+00:00",
     "https://tryhardguides.com/grow-a-garden-2-codes/": "2026-07-09T11:07:00+00:00",
     "https://tryhardguides.com/tears-of-themis-codes/": "2026-07-25T07:57:30+00:00",
@@ -8230,7 +8230,7 @@
     "https://tryhardguides.com/you-vs-homer-codes/": "2026-03-21T07:49:49+00:00",
     "https://tryhardguides.com/demon-slayer-incremental-codes/": "2026-03-21T07:48:44+00:00",
     "https://tryhardguides.com/asylum-life-codes/": "2026-03-21T07:27:49+00:00",
-    "https://tryhardguides.com/stickman-td-codes/": "2026-03-20T11:37:43+00:00",
+    "https://tryhardguides.com/stickman-td-codes/": "2026-08-06T12:56:57+00:00",
     "https://tryhardguides.com/race-animals-codes/": "2026-03-20T07:50:38+00:00",
     "https://tryhardguides.com/horse-race-codes/": "2026-03-20T07:30:01+00:00",
     "https://tryhardguides.com/dig-legends-codes/": "2026-03-20T07:29:43+00:00",
@@ -9127,7 +9127,7 @@
     "post-sitemap-2026-1.xml": "2026-01-04T23:59:59+00:00",
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
-    "post-sitemap-2026-32.xml": "2026-08-06T11:42:06+00:00"
+    "post-sitemap-2026-32.xml": "2026-08-06T13:33:09+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -12023,7 +12023,19 @@
       "attempts": 1,
       "placeId": 112233638491976,
       "universeId": 10454554751
+    },
+    "https://tryhardguides.com/yeet-a-friend-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 11708967881,
+      "universeId": 4147392742
+    },
+    "https://tryhardguides.com/stickman-td-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 18495650842,
+      "universeId": 6267547203
     }
   },
-  "updatedAt": "2026-08-06T12:00:03.211Z"
+  "updatedAt": "2026-08-06T14:00:03.813Z"
 }
