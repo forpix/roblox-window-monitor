@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T01:15:04.481Z",
+  "generatedAt": "2026-08-06T01:45:03.417Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 26549,
+      "ccu": 26143,
       "ageDays": 27.1,
-      "rollingAvg": 32658,
-      "spikePct": -19,
+      "rollingAvg": 32811,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 30939,
+      "ccu": 30839,
       "ageDays": 31.1,
-      "rollingAvg": 35511,
+      "rollingAvg": 35523,
       "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 6.1d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 6.2d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 24563,
+      "ccu": 24447,
       "ageDays": 22.4,
-      "rollingAvg": 26467,
-      "spikePct": -7,
+      "rollingAvg": 26433,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 85089,
+      "ccu": 89487,
       "ageDays": 480.2,
-      "rollingAvg": 49878,
-      "spikePct": 71,
+      "rollingAvg": 50851,
+      "spikePct": 76,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.7d (practicalbasketball.com, practicalbasketball.net); .com registered 6.7d ago"
+      "detail": "both taken, oldest 6.8d (practicalbasketball.com, practicalbasketball.net); .com registered 6.8d ago"
     }
   ]
 }
