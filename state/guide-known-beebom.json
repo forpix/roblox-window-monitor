@@ -1189,7 +1189,9 @@
     "https://beebom.com/stream-a-mukbang-codes/",
     "https://beebom.com/the-portal-codes/",
     "https://beebom.com/killstreak-codes/",
-    "https://beebom.com/fall-for-brainrots-codes/"
+    "https://beebom.com/fall-for-brainrots-codes/",
+    "https://beebom.com/junk-mechanics-codes/",
+    "https://beebom.com/roblox-ken-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2321,7 +2323,7 @@
     "https://beebom.com/bridge-battles-codes/": "2026-07-31T19:39:05+00:00",
     "https://beebom.com/brainblast-a-lucky-block-codes/": "2026-07-31T23:36:38+00:00",
     "https://beebom.com/roblox-beatball-codes/": "2026-07-22T13:30:29+00:00",
-    "https://beebom.com/tr-legacy-codes/": "2026-08-02T05:05:16+00:00",
+    "https://beebom.com/tr-legacy-codes/": "2026-08-06T08:18:09+00:00",
     "https://beebom.com/build-your-butterfly-garden-codes/": "2026-07-31T23:42:24+00:00",
     "https://beebom.com/sword-x-staff-codes/": "2026-07-23T04:55:16+00:00",
     "https://beebom.com/knife-duels-codes/": "2026-07-31T19:38:57+00:00",
@@ -2381,10 +2383,12 @@
     "https://beebom.com/stream-a-mukbang-codes/": "2026-08-05T04:29:48+00:00",
     "https://beebom.com/the-portal-codes/": "2026-08-05T10:40:20+00:00",
     "https://beebom.com/killstreak-codes/": "2026-08-05T15:15:04+00:00",
-    "https://beebom.com/fall-for-brainrots-codes/": "2026-08-05T17:34:56+00:00"
+    "https://beebom.com/fall-for-brainrots-codes/": "2026-08-05T17:34:56+00:00",
+    "https://beebom.com/junk-mechanics-codes/": "2026-08-06T08:05:43+00:00",
+    "https://beebom.com/roblox-ken-codes/": "2026-08-06T08:43:53+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-06T07:08:02+00:00",
+    "post-sitemap.xml": "2026-08-06T09:14:36+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2433,7 +2437,7 @@
     "post-sitemap47.xml": "2026-03-17T10:43:59+00:00",
     "post-sitemap48.xml": "2026-05-13T04:36:25+00:00",
     "post-sitemap49.xml": "2026-07-20T13:34:20+00:00",
-    "post-sitemap50.xml": "2026-08-06T07:08:02+00:00"
+    "post-sitemap50.xml": "2026-08-06T09:14:36+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3624,7 +3628,7 @@
     },
     "https://beebom.com/tr-legacy-codes/": {
       "status": "done",
-      "attempts": 7,
+      "attempts": 8,
       "placeId": 127089247654125,
       "universeId": 8813969120
     },
@@ -5507,5 +5511,5 @@
       "universeId": 9793308933
     }
   },
-  "updatedAt": "2026-08-06T08:00:05.392Z"
+  "updatedAt": "2026-08-06T10:00:04.015Z"
 }
