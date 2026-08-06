@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T06:15:04.309Z",
+  "generatedAt": "2026-08-06T06:45:10.494Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 27611,
+      "ccu": 29184,
       "ageDays": 27.3,
-      "rollingAvg": 32922,
-      "spikePct": -16,
+      "rollingAvg": 32883,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 28961,
-      "ageDays": 31.3,
-      "rollingAvg": 34120,
-      "spikePct": -15,
+      "ccu": 29211,
+      "ageDays": 31.4,
+      "rollingAvg": 33792,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 6.3d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 6.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 24261,
+      "ccu": 24369,
       "ageDays": 22.6,
-      "rollingAvg": 25957,
-      "spikePct": -7,
+      "rollingAvg": 25883,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 58827,
+      "ccu": 53250,
       "ageDays": 480.4,
-      "rollingAvg": 64193,
-      "spikePct": -8,
+      "rollingAvg": 65222,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.9d (practicalbasketball.com, practicalbasketball.net); .com registered 6.9d ago"
+      "detail": "both taken, oldest 7.0d (practicalbasketball.com, practicalbasketball.net); .com registered 7.0d ago"
     }
   ]
 }
