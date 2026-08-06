@@ -1548,7 +1548,7 @@
     "https://beebom.com/fish-a-brainrot-codes/": "2026-04-24T12:07:37+00:00",
     "https://beebom.com/catch-critters-codes/": "2026-04-24T12:49:53+00:00",
     "https://beebom.com/overkill-codes/": "2026-04-24T13:38:52+00:00",
-    "https://beebom.com/roblox-evade-codes/": "2026-07-18T04:18:58+00:00",
+    "https://beebom.com/roblox-evade-codes/": "2026-08-06T16:19:42+00:00",
     "https://beebom.com/verse-piece-codes/": "2026-04-25T08:05:14+00:00",
     "https://beebom.com/spin-a-anime-codes/": "2026-04-26T20:24:53+00:00",
     "https://beebom.com/elemental-warzone-codes/": "2026-04-27T10:12:45+00:00",
@@ -2184,7 +2184,7 @@
     "https://beebom.com/cookie-run-kingdom-codes/": "2026-08-06T10:33:19+00:00",
     "https://beebom.com/element-arena-codes/": "2026-07-31T23:53:12+00:00",
     "https://beebom.com/evil-plate-game-codes/": "2026-07-31T23:58:29+00:00",
-    "https://beebom.com/roblox-world-zero-codes/": "2026-08-01T15:02:40+00:00",
+    "https://beebom.com/roblox-world-zero-codes/": "2026-08-06T16:20:51+00:00",
     "https://beebom.com/rebirth-champions-ultimate-codes/": "2026-07-09T05:13:36+00:00",
     "https://beebom.com/monkey-soccer-codes/": "2026-07-31T20:02:12+00:00",
     "https://beebom.com/luck-incremental-codes/": "2026-08-05T01:59:47+00:00",
@@ -2392,7 +2392,7 @@
     "https://beebom.com/roblox-lowball-codes/": "2026-08-06T11:40:00+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-06T15:26:37+00:00",
+    "post-sitemap.xml": "2026-08-06T16:40:23+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2440,8 +2440,8 @@
     "post-sitemap46.xml": "2026-02-01T01:01:54+00:00",
     "post-sitemap47.xml": "2026-03-17T10:43:59+00:00",
     "post-sitemap48.xml": "2026-05-13T05:06:15+00:00",
-    "post-sitemap49.xml": "2026-07-20T17:16:59+00:00",
-    "post-sitemap50.xml": "2026-08-06T15:26:37+00:00"
+    "post-sitemap49.xml": "2026-07-20T17:23:29+00:00",
+    "post-sitemap50.xml": "2026-08-06T16:40:23+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3284,7 +3284,7 @@
     },
     "https://beebom.com/roblox-world-zero-codes/": {
       "status": "done",
-      "attempts": 5,
+      "attempts": 6,
       "placeId": 2727067538,
       "universeId": 985731078
     },
@@ -5527,5 +5527,5 @@
       "universeId": 9827056352
     }
   },
-  "updatedAt": "2026-08-06T16:00:07.089Z"
+  "updatedAt": "2026-08-06T18:00:04.273Z"
 }
