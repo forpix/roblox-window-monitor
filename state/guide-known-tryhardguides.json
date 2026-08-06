@@ -4423,7 +4423,10 @@
     "https://tryhardguides.com/junk-mechanics-codes/",
     "https://tryhardguides.com/four-square-codes/",
     "https://tryhardguides.com/roll-for-chiikawa-codes/",
-    "https://tryhardguides.com/build-a-blue-lock-squad-codes/"
+    "https://tryhardguides.com/build-a-blue-lock-squad-codes/",
+    "https://tryhardguides.com/capybaras-vs-plants-codes/",
+    "https://tryhardguides.com/build-a-base-and-steal-codes/",
+    "https://tryhardguides.com/unbox-asmr-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -8849,7 +8852,10 @@
     "https://tryhardguides.com/junk-mechanics-codes/": "2026-08-04T11:07:00+00:00",
     "https://tryhardguides.com/four-square-codes/": "2026-08-05T11:37:00+00:00",
     "https://tryhardguides.com/roll-for-chiikawa-codes/": "2026-08-05T11:22:00+00:00",
-    "https://tryhardguides.com/build-a-blue-lock-squad-codes/": "2026-08-05T11:07:00+00:00"
+    "https://tryhardguides.com/build-a-blue-lock-squad-codes/": "2026-08-05T11:07:00+00:00",
+    "https://tryhardguides.com/capybaras-vs-plants-codes/": "2026-08-06T11:37:00+00:00",
+    "https://tryhardguides.com/build-a-base-and-steal-codes/": "2026-08-06T11:22:00+00:00",
+    "https://tryhardguides.com/unbox-asmr-codes/": "2026-08-06T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9121,7 +9127,7 @@
     "post-sitemap-2026-1.xml": "2026-01-04T23:59:59+00:00",
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
-    "post-sitemap-2026-32.xml": "2026-08-06T09:36:04+00:00"
+    "post-sitemap-2026-32.xml": "2026-08-06T11:42:06+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -11999,7 +12005,25 @@
       "attempts": 1,
       "placeId": 98484885893001,
       "universeId": 7416286289
+    },
+    "https://tryhardguides.com/capybaras-vs-plants-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 104973076655377,
+      "universeId": 8841437826
+    },
+    "https://tryhardguides.com/build-a-base-and-steal-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 132016691802922,
+      "universeId": 10356701370
+    },
+    "https://tryhardguides.com/unbox-asmr-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 112233638491976,
+      "universeId": 10454554751
     }
   },
-  "updatedAt": "2026-08-06T10:00:04.015Z"
+  "updatedAt": "2026-08-06T12:00:03.211Z"
 }
