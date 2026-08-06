@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T16:15:05.362Z",
+  "generatedAt": "2026-08-06T16:45:05.195Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 28173,
+      "ccu": 27152,
       "ageDays": 27.7,
-      "rollingAvg": 28879,
-      "spikePct": -2,
+      "rollingAvg": 28790,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 35300,
-      "ageDays": 31.7,
-      "rollingAvg": 32866,
-      "spikePct": 7,
+      "ccu": 34987,
+      "ageDays": 31.8,
+      "rollingAvg": 32985,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 6.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 25524,
-      "ageDays": 23,
-      "rollingAvg": 24763,
-      "spikePct": 3,
+      "ccu": 25797,
+      "ageDays": 23.1,
+      "rollingAvg": 24759,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 31623,
+      "ccu": 32283,
       "ageDays": 40,
-      "rollingAvg": 31798,
-      "spikePct": -1,
+      "rollingAvg": 31786,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 41283,
+      "ccu": 45669,
       "ageDays": 480.8,
-      "rollingAvg": 53229,
-      "spikePct": -22,
+      "rollingAvg": 52291,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.4d (practicalbasketball.com, practicalbasketball.net); .com registered 7.4d ago"
