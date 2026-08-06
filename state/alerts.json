@@ -1,34 +1,45 @@
 {
-  "generatedAt": "2026-08-06T13:15:03.714Z",
+  "generatedAt": "2026-08-06T13:45:04.307Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 34550,
+      "ccu": 34398,
       "ageDays": 27.6,
-      "rollingAvg": 29376,
-      "spikePct": 18,
+      "rollingAvg": 29286,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
-      "name": "[☄️] Unbox ASMR!",
-      "ccu": 38921,
-      "ageDays": 31.6,
-      "rollingAvg": 32345,
-      "spikePct": 20,
+      "name": "[NEW AREAS] Garden Cleaner Evolution",
+      "ccu": 20110,
+      "ageDays": 19.9,
+      "rollingAvg": 0,
+      "spikePct": null,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 6.6d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: gardencleanerevolution.net; .com registered 4.9d ago; .com BUILT: \"Garden Cleaner Evolution Guide, Codes &amp; Calculator\""
+    },
+    {
+      "source": "discover",
+      "name": "[☄️] Unbox ASMR!",
+      "ccu": 39070,
+      "ageDays": 31.6,
+      "rollingAvg": 32396,
+      "spikePct": 21,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: unboxasmr.net; .com registered 6.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 25151,
+      "ccu": 25154,
       "ageDays": 22.9,
-      "rollingAvg": 24962,
+      "rollingAvg": 24906,
       "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,9 +48,9 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 35077,
+      "ccu": 35466,
       "ageDays": 39.9,
-      "rollingAvg": 30137,
+      "rollingAvg": 30686,
       "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,21 +59,21 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 23038,
+      "ccu": 25049,
       "ageDays": 480.7,
-      "rollingAvg": 60786,
-      "spikePct": -62,
+      "rollingAvg": 59455,
+      "spikePct": -58,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.2d (practicalbasketball.com, practicalbasketball.net); .com registered 7.2d ago"
+      "detail": "both taken, oldest 7.3d (practicalbasketball.com, practicalbasketball.net); .com registered 7.3d ago"
     },
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 22678,
+      "ccu": 23146,
       "ageDays": 309.6,
-      "rollingAvg": 31259,
-      "spikePct": -27,
+      "rollingAvg": 30723,
+      "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 2.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
