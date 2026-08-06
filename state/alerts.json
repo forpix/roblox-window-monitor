@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T06:45:10.494Z",
+  "generatedAt": "2026-08-06T07:15:02.927Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 29184,
+      "ccu": 30845,
       "ageDays": 27.3,
-      "rollingAvg": 32883,
-      "spikePct": -11,
+      "rollingAvg": 32844,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 29211,
+      "ccu": 30474,
       "ageDays": 31.4,
-      "rollingAvg": 33792,
-      "spikePct": -14,
+      "rollingAvg": 33464,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 6.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 24369,
-      "ageDays": 22.6,
-      "rollingAvg": 25883,
+      "ccu": 24281,
+      "ageDays": 22.7,
+      "rollingAvg": 25814,
       "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 53250,
+      "ccu": 46979,
       "ageDays": 480.4,
-      "rollingAvg": 65222,
-      "spikePct": -18,
+      "rollingAvg": 66069,
+      "spikePct": -29,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.0d (practicalbasketball.com, practicalbasketball.net); .com registered 7.0d ago"
