@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-06T19:45:02.675Z",
+  "generatedAt": "2026-08-06T20:15:03.029Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 26965,
+      "ccu": 26219,
       "ageDays": 27.9,
-      "rollingAvg": 28562,
-      "spikePct": -6,
+      "rollingAvg": 28585,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 33782,
+      "ccu": 32974,
       "ageDays": 31.9,
-      "rollingAvg": 33666,
-      "spikePct": 0,
+      "rollingAvg": 33747,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 6.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 24198,
+      "ccu": 23911,
       "ageDays": 23.2,
-      "rollingAvg": 24702,
-      "spikePct": -2,
+      "rollingAvg": 24695,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 44275,
+      "ccu": 44070,
       "ageDays": 40.1,
-      "rollingAvg": 33147,
-      "spikePct": 34,
+      "rollingAvg": 33653,
+      "spikePct": 31,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 64555,
-      "ageDays": 480.9,
-      "rollingAvg": 48339,
-      "spikePct": 34,
+      "ccu": 66125,
+      "ageDays": 481,
+      "rollingAvg": 47647,
+      "spikePct": 39,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.5d (practicalbasketball.com, practicalbasketball.net); .com registered 7.5d ago"
