@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T19:15:06.846Z",
+  "generatedAt": "2026-08-07T19:45:02.096Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Catch 1 Billion Ducks",
-      "ccu": 20606,
+      "ccu": 20868,
       "ageDays": 21.5,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20606,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: catch1billionducks.com, catch1billionducks.net; competitor BUILT: catch1billionducks.wiki \"Catch 1 Billion Ducks Official Game Guid\", catch-1-billion-ducks.wiki \"Catch 1 Billion Ducks Wiki - Codes, Dogs\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 38132,
-      "ageDays": 28.8,
-      "rollingAvg": 34585,
-      "spikePct": 10,
+      "ccu": 38288,
+      "ageDays": 28.9,
+      "rollingAvg": 35013,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 32211,
+      "ccu": 31891,
       "ageDays": 46.1,
-      "rollingAvg": 21507,
-      "spikePct": 50,
+      "rollingAvg": 22330,
+      "spikePct": 43,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.0d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 4.0d ago"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 66022,
+      "ccu": 66239,
       "ageDays": 41.1,
-      "rollingAvg": 34285,
-      "spikePct": 93,
+      "rollingAvg": 34985,
+      "spikePct": 89,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: washthehouse.net; .com registered 0.3d ago; .com probe inconclusive — check by hand"
+      "detail": "available: washthehouse.net; .com registered 0.4d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 22730,
+      "ccu": 21983,
       "ageDays": 23.4,
-      "rollingAvg": 28354,
-      "spikePct": -20,
+      "rollingAvg": 28072,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.wiki \"Magic Loot Beta Wiki: Guides, Codes, Ite\", magiclootwiki.wiki \"Magic Loot[Beta] Player Tools &amp; Game\" +1 more"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 23252,
+      "ccu": 22925,
       "ageDays": 24.2,
-      "rollingAvg": 23022,
-      "spikePct": 1,
+      "rollingAvg": 23040,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 56916,
+      "ccu": 58863,
       "ageDays": 481.9,
-      "rollingAvg": 46265,
-      "spikePct": 23,
+      "rollingAvg": 45685,
+      "spikePct": 29,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.5d (practicalbasketball.com, practicalbasketball.net); .com registered 8.5d ago"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 29295,
+      "ccu": 29001,
       "ageDays": 32.9,
-      "rollingAvg": 28583,
-      "spikePct": 2,
+      "rollingAvg": 28654,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 7.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
