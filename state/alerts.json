@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T05:45:05.212Z",
+  "generatedAt": "2026-08-07T06:15:04.641Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 30539,
+      "ccu": 32578,
       "ageDays": 28.3,
-      "rollingAvg": 27027,
-      "spikePct": 13,
+      "rollingAvg": 27105,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 32664,
-      "ageDays": 40.5,
-      "rollingAvg": 38184,
-      "spikePct": -14,
+      "ccu": 31982,
+      "ageDays": 40.6,
+      "rollingAvg": 38207,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 22681,
+      "ccu": 22689,
       "ageDays": 23.6,
-      "rollingAvg": 23952,
+      "rollingAvg": 23889,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,20 +37,20 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 62059,
+      "ccu": 56213,
       "ageDays": 481.4,
-      "rollingAvg": 57276,
-      "spikePct": 8,
+      "rollingAvg": 58438,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.9d (practicalbasketball.com, practicalbasketball.net); .com registered 7.9d ago"
+      "detail": "both taken, oldest 8.0d (practicalbasketball.com, practicalbasketball.net); .com registered 7.9d ago"
     },
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 24883,
+      "ccu": 24715,
       "ageDays": 32.3,
-      "rollingAvg": 31625,
+      "rollingAvg": 31283,
       "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
