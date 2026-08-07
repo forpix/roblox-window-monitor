@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T00:15:07.729Z",
+  "generatedAt": "2026-08-07T00:45:06.967Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 20907,
+      "ccu": 20395,
       "ageDays": 28.1,
-      "rollingAvg": 28333,
-      "spikePct": -26,
+      "rollingAvg": 28146,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 25839,
+      "ccu": 26334,
       "ageDays": 32.1,
-      "rollingAvg": 33592,
-      "spikePct": -23,
+      "rollingAvg": 33505,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 7.1d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 43522,
+      "ccu": 42213,
       "ageDays": 40.3,
-      "rollingAvg": 36281,
-      "spikePct": 20,
+      "rollingAvg": 36515,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 22899,
+      "ccu": 22799,
       "ageDays": 23.4,
-      "rollingAvg": 24512,
+      "rollingAvg": 24474,
       "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 70504,
+      "ccu": 74291,
       "ageDays": 481.1,
-      "rollingAvg": 44327,
-      "spikePct": 59,
+      "rollingAvg": 44651,
+      "spikePct": 66,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.7d (practicalbasketball.com, practicalbasketball.net); .com registered 7.7d ago"
