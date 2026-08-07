@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T08:15:02.537Z",
+  "generatedAt": "2026-08-07T08:45:02.874Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 37348,
+      "ccu": 36944,
       "ageDays": 28.4,
-      "rollingAvg": 27832,
-      "spikePct": 34,
+      "rollingAvg": 27970,
+      "spikePct": 32,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 32591,
-      "ageDays": 40.6,
-      "rollingAvg": 37913,
-      "spikePct": -14,
+      "ccu": 31099,
+      "ageDays": 40.7,
+      "rollingAvg": 37865,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 22619,
+      "ccu": 22680,
       "ageDays": 23.7,
-      "rollingAvg": 23608,
+      "rollingAvg": 23533,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,24 +37,35 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 35099,
+      "ccu": 31115,
       "ageDays": 481.5,
-      "rollingAvg": 61246,
-      "spikePct": -43,
+      "rollingAvg": 61467,
+      "spikePct": -49,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.0d (practicalbasketball.com, practicalbasketball.net); .com registered 8.0d ago"
+      "detail": "both taken, oldest 8.1d (practicalbasketball.com, practicalbasketball.net); .com registered 8.1d ago"
     },
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 26985,
+      "ccu": 27212,
       "ageDays": 32.4,
-      "rollingAvg": 29794,
-      "spikePct": -9,
+      "rollingAvg": 29471,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 7.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 7.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+    },
+    {
+      "source": "discover",
+      "name": "Capybaras VS Plants",
+      "ccu": 19831,
+      "ageDays": 310.4,
+      "rollingAvg": 28969,
+      "spikePct": -32,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: capybarasvsplants.net; .com registered 3.3d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     }
   ]
 }
