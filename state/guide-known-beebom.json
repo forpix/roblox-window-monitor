@@ -1193,7 +1193,9 @@
     "https://beebom.com/junk-mechanics-codes/",
     "https://beebom.com/roblox-ken-codes/",
     "https://beebom.com/steel-crossfire-codes/",
-    "https://beebom.com/roblox-lowball-codes/"
+    "https://beebom.com/roblox-lowball-codes/",
+    "https://beebom.com/practical-basketball-codes/",
+    "https://beebom.com/drill-for-anime-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2188,7 +2190,7 @@
     "https://beebom.com/rebirth-champions-ultimate-codes/": "2026-07-09T05:13:36+00:00",
     "https://beebom.com/monkey-soccer-codes/": "2026-07-31T20:02:12+00:00",
     "https://beebom.com/luck-incremental-codes/": "2026-08-05T01:59:47+00:00",
-    "https://beebom.com/roblox-blox-fruits-codes/": "2026-08-04T06:01:33+00:00",
+    "https://beebom.com/roblox-blox-fruits-codes/": "2026-08-07T02:15:37+00:00",
     "https://beebom.com/roblox-elemental-dungeon-codes/": "2026-08-03T01:39:47+00:00",
     "https://beebom.com/uma-racing-codes/": "2026-08-03T15:13:52+00:00",
     "https://beebom.com/kingshot-codes/": "2026-07-31T20:02:49+00:00",
@@ -2387,12 +2389,14 @@
     "https://beebom.com/killstreak-codes/": "2026-08-05T15:15:04+00:00",
     "https://beebom.com/fall-for-brainrots-codes/": "2026-08-05T17:34:56+00:00",
     "https://beebom.com/junk-mechanics-codes/": "2026-08-06T08:05:43+00:00",
-    "https://beebom.com/roblox-ken-codes/": "2026-08-06T08:43:53+00:00",
+    "https://beebom.com/roblox-ken-codes/": "2026-08-07T03:21:21+00:00",
     "https://beebom.com/steel-crossfire-codes/": "2026-08-06T10:38:30+00:00",
-    "https://beebom.com/roblox-lowball-codes/": "2026-08-06T11:40:00+00:00"
+    "https://beebom.com/roblox-lowball-codes/": "2026-08-06T11:40:00+00:00",
+    "https://beebom.com/practical-basketball-codes/": "2026-08-07T02:31:37+00:00",
+    "https://beebom.com/drill-for-anime-codes/": "2026-08-07T02:50:53+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-06T20:07:28+00:00",
+    "post-sitemap.xml": "2026-08-07T03:28:50+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2432,16 +2436,16 @@
     "post-sitemap38.xml": "2025-06-28T14:30:24+00:00",
     "post-sitemap39.xml": "2025-08-22T03:37:59+00:00",
     "post-sitemap40.xml": "2025-10-05T18:15:24+00:00",
-    "post-sitemap41.xml": "2025-10-15T08:02:45+00:00",
-    "post-sitemap42.xml": "2025-10-15T08:22:36+00:00",
-    "post-sitemap43.xml": "2025-10-15T08:42:23+00:00",
-    "post-sitemap44.xml": "2025-10-24T03:41:53+00:00",
-    "post-sitemap45.xml": "2025-12-13T12:18:25+00:00",
-    "post-sitemap46.xml": "2026-02-01T01:01:54+00:00",
-    "post-sitemap47.xml": "2026-03-17T10:43:59+00:00",
-    "post-sitemap48.xml": "2026-05-13T05:06:15+00:00",
-    "post-sitemap49.xml": "2026-07-20T17:23:29+00:00",
-    "post-sitemap50.xml": "2026-08-06T20:07:28+00:00"
+    "post-sitemap41.xml": "2025-10-15T08:02:46+00:00",
+    "post-sitemap42.xml": "2025-10-15T08:22:37+00:00",
+    "post-sitemap43.xml": "2025-10-15T08:42:24+00:00",
+    "post-sitemap44.xml": "2025-10-24T03:51:12+00:00",
+    "post-sitemap45.xml": "2025-12-13T16:26:44+00:00",
+    "post-sitemap46.xml": "2026-02-01T01:02:17+00:00",
+    "post-sitemap47.xml": "2026-03-17T11:09:41+00:00",
+    "post-sitemap48.xml": "2026-05-13T05:38:15+00:00",
+    "post-sitemap49.xml": "2026-07-20T18:02:40+00:00",
+    "post-sitemap50.xml": "2026-08-07T03:28:50+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -5525,7 +5529,19 @@
       "attempts": 1,
       "placeId": 135512068353850,
       "universeId": 9827056352
+    },
+    "https://beebom.com/practical-basketball-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 80681221431821,
+      "universeId": 7529591378
+    },
+    "https://beebom.com/drill-for-anime-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 117459530347460,
+      "universeId": 10397531066
     }
   },
-  "updatedAt": "2026-08-07T02:00:03.650Z"
+  "updatedAt": "2026-08-07T04:00:03.044Z"
 }
