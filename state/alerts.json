@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T15:15:03.505Z",
+  "generatedAt": "2026-08-07T15:45:03.927Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 42867,
+      "ccu": 41059,
       "ageDays": 28.7,
-      "rollingAvg": 31531,
-      "spikePct": 36,
+      "rollingAvg": 31954,
+      "spikePct": 28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 20126,
-      "ageDays": 45.9,
-      "rollingAvg": 21042,
-      "spikePct": -4,
+      "ccu": 20358,
+      "ageDays": 46,
+      "rollingAvg": 20890,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.8d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 3.8d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 35708,
-      "ageDays": 40.9,
-      "rollingAvg": 35808,
-      "spikePct": 0,
+      "ccu": 34696,
+      "ageDays": 41,
+      "rollingAvg": 35590,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: washthehouse.net; .com registered 0.2d ago; .com probe inconclusive — check by hand"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 31313,
+      "ccu": 30661,
       "ageDays": 23.3,
-      "rollingAvg": 28694,
-      "spikePct": 9,
+      "rollingAvg": 28912,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.wiki \"Magic Loot Beta Wiki: Guides, Codes, Ite\", magiclootwiki.wiki \"Magic Loot[Beta] Player Tools &amp; Game\" +1 more"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 23611,
+      "ccu": 23649,
       "ageDays": 24,
-      "rollingAvg": 22933,
+      "rollingAvg": 22931,
       "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 32630,
+      "ccu": 35675,
       "ageDays": 481.8,
-      "rollingAvg": 51684,
-      "spikePct": -37,
+      "rollingAvg": 50707,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.3d (practicalbasketball.com, practicalbasketball.net); .com registered 8.3d ago"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 32769,
+      "ccu": 31420,
       "ageDays": 32.7,
-      "rollingAvg": 27897,
-      "spikePct": 17,
+      "rollingAvg": 27972,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 7.7d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
