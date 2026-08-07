@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T07:15:07.723Z",
+  "generatedAt": "2026-08-07T07:45:02.917Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 35868,
-      "ageDays": 28.3,
-      "rollingAvg": 27432,
-      "spikePct": 31,
+      "ccu": 37078,
+      "ageDays": 28.4,
+      "rollingAvg": 27634,
+      "spikePct": 34,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 31936,
+      "ccu": 32574,
       "ageDays": 40.6,
-      "rollingAvg": 38080,
-      "spikePct": -16,
+      "rollingAvg": 37993,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 22565,
+      "ccu": 22605,
       "ageDays": 23.7,
-      "rollingAvg": 23751,
+      "rollingAvg": 23679,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 44712,
+      "ccu": 39682,
       "ageDays": 481.4,
-      "rollingAvg": 60238,
-      "spikePct": -26,
+      "rollingAvg": 60840,
+      "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.0d (practicalbasketball.com, practicalbasketball.net); .com registered 8.0d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 25597,
+      "ccu": 26400,
       "ageDays": 32.4,
-      "rollingAvg": 30516,
-      "spikePct": -16,
+      "rollingAvg": 30146,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 7.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
