@@ -1,34 +1,23 @@
 {
-  "generatedAt": "2026-08-07T16:15:02.807Z",
+  "generatedAt": "2026-08-07T16:45:03.793Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 39385,
+      "ccu": 38681,
       "ageDays": 28.7,
-      "rollingAvg": 32345,
-      "spikePct": 22,
+      "rollingAvg": 32711,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
-      "name": "Build Your Backrooms",
-      "ccu": 21274,
-      "ageDays": 46,
-      "rollingAvg": 20814,
-      "spikePct": 2,
-      "gate": "C:fresh-com",
-      "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.9d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 3.9d ago"
-    },
-    {
-      "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 33211,
+      "ccu": 33116,
       "ageDays": 41,
-      "rollingAvg": 35362,
+      "rollingAvg": 35097,
       "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 29449,
+      "ccu": 28629,
       "ageDays": 23.3,
-      "rollingAvg": 29047,
-      "spikePct": 1,
+      "rollingAvg": 29076,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.wiki \"Magic Loot Beta Wiki: Guides, Codes, Ite\", magiclootwiki.wiki \"Magic Loot[Beta] Player Tools &amp; Game\" +1 more"
@@ -48,9 +37,9 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 23807,
-      "ageDays": 24,
-      "rollingAvg": 22934,
+      "ccu": 23951,
+      "ageDays": 24.1,
+      "rollingAvg": 22941,
       "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,35 +48,35 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 39128,
+      "ccu": 42775,
       "ageDays": 481.8,
-      "rollingAvg": 49830,
-      "spikePct": -21,
+      "rollingAvg": 49068,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.4d (practicalbasketball.com, practicalbasketball.net); .com registered 8.4d ago"
     },
     {
       "source": "discover",
-      "name": "[☄️] Unbox ASMR!",
-      "ccu": 30767,
-      "ageDays": 32.7,
-      "rollingAvg": 28048,
-      "spikePct": 10,
+      "name": "Tower Defense Simulator",
+      "ccu": 37754,
+      "ageDays": 2620.5,
+      "rollingAvg": 0,
+      "spikePct": null,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 7.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: towerdefensesimulator.net; .com registered 5.2d ago; .com BUILT: \"Tower Defense Simulator Wiki, Codes &amp; Guides | TDS Hub\""
     },
     {
       "source": "discover",
-      "name": "[PIM 🐤] Slap Battles👏",
-      "ccu": 95267,
-      "ageDays": 1998,
-      "rollingAvg": 30725,
-      "spikePct": 210,
-      "gate": "B:spike",
+      "name": "[☄️] Unbox ASMR!",
+      "ccu": 30623,
+      "ageDays": 32.8,
+      "rollingAvg": 28130,
+      "spikePct": 9,
+      "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 1419.1d (slapbattles.com, slapbattles.net)"
+      "detail": "available: unboxasmr.net; .com registered 7.8d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     }
   ]
 }
