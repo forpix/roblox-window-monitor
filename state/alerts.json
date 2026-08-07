@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-07T02:15:03.535Z",
+  "generatedAt": "2026-08-07T02:45:06.027Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 26851,
+      "ccu": 26790,
       "ageDays": 32.2,
-      "rollingAvg": 33201,
+      "rollingAvg": 33073,
       "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 38919,
+      "ccu": 39718,
       "ageDays": 40.4,
-      "rollingAvg": 36903,
-      "spikePct": 5,
+      "rollingAvg": 36961,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: washthehouse.com, washthehouse.net; competitor BUILT: washthehouse.wiki \"Wash The House: Controls, Guides &amp; O\", wash-the-house.wiki \"Wash The House Wiki: Roblox Codes · Guid\", washthehousewiki.wiki \"Wash The House Wiki - Codes, Controls &a\" +1 more"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 22467,
+      "ccu": 22478,
       "ageDays": 23.5,
-      "rollingAvg": 24335,
-      "spikePct": -8,
+      "rollingAvg": 24281,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 84078,
+      "ccu": 84759,
       "ageDays": 481.2,
-      "rollingAvg": 47224,
-      "spikePct": 78,
+      "rollingAvg": 48538,
+      "spikePct": 75,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.8d (practicalbasketball.com, practicalbasketball.net); .com registered 7.8d ago"
