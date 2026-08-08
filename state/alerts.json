@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-08T00:45:02.632Z",
+  "generatedAt": "2026-08-08T01:15:06.086Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 34956,
+      "ccu": 36013,
       "ageDays": 29.1,
-      "rollingAvg": 37815,
-      "spikePct": -8,
+      "rollingAvg": 37824,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 29138,
-      "ageDays": 46.3,
-      "rollingAvg": 25436,
-      "spikePct": 15,
+      "ccu": 29635,
+      "ageDays": 46.4,
+      "rollingAvg": 25591,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.2d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 4.2d ago"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 63700,
-      "ageDays": 41.3,
-      "rollingAvg": 42614,
+      "ccu": 64681,
+      "ageDays": 41.4,
+      "rollingAvg": 43495,
       "spikePct": 49,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 24311,
+      "ccu": 25470,
       "ageDays": 23.7,
-      "rollingAvg": 25938,
-      "spikePct": -6,
+      "rollingAvg": 25884,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.wiki \"Magic Loot Beta Wiki: Guides, Codes, Ite\", magiclootwiki.wiki \"Magic Loot[Beta] Player Tools &amp; Game\" +1 more"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[OFFERINGS] Anime Astral Simulator",
-      "ccu": 21942,
+      "ccu": 21785,
       "ageDays": 24.4,
-      "rollingAvg": 22967,
-      "spikePct": -4,
+      "rollingAvg": 22949,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 70138,
-      "ageDays": 482.1,
-      "rollingAvg": 42625,
-      "spikePct": 65,
+      "ccu": 74040,
+      "ageDays": 482.2,
+      "rollingAvg": 43170,
+      "spikePct": 72,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.7d (practicalbasketball.com, practicalbasketball.net); .com registered 8.7d ago"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 25520,
+      "ccu": 26351,
       "ageDays": 33.1,
-      "rollingAvg": 28690,
-      "spikePct": -11,
+      "rollingAvg": 28707,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 8.1d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -81,13 +81,24 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 20772,
+      "ccu": 22270,
       "ageDays": 311.1,
-      "rollingAvg": 26392,
-      "spikePct": -21,
+      "rollingAvg": 26211,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: capybarasvsplants.net; .com registered 3.9d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
+      "detail": "available: capybarasvsplants.net; .com registered 4.0d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
+    },
+    {
+      "source": "discover",
+      "name": "[X2] +1 Backflip Keyboard Escape",
+      "ccu": 20963,
+      "ageDays": 40.6,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
