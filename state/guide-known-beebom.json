@@ -1199,7 +1199,8 @@
     "https://beebom.com/chicken-farm-codes/",
     "https://beebom.com/mini-rome-empire-codes/",
     "https://beebom.com/trade-squishy-dumplings-codes/",
-    "https://beebom.com/cookie-run-crumble-codes/"
+    "https://beebom.com/cookie-run-crumble-codes/",
+    "https://beebom.com/grow-a-chicken-fighter-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2124,7 +2125,7 @@
     "https://beebom.com/anime-overload-codes/": "2026-07-06T08:55:11+00:00",
     "https://beebom.com/roblox-hypershot-codes/": "2026-07-31T22:06:11+00:00",
     "https://beebom.com/sorcerer-tower-defense-codes/": "2026-07-31T22:49:26+00:00",
-    "https://beebom.com/catch-a-monster-codes/": "2026-08-05T14:14:12+00:00",
+    "https://beebom.com/catch-a-monster-codes/": "2026-08-08T04:32:16+00:00",
     "https://beebom.com/tower-defense-simulator-tds-codes/": "2026-08-04T06:07:21+00:00",
     "https://beebom.com/roblox-ro-ghoul-codes/": "2026-08-04T09:02:10+00:00",
     "https://beebom.com/the-time-of-ninja-codes/": "2026-08-04T17:31:57+00:00",
@@ -2401,10 +2402,11 @@
     "https://beebom.com/chicken-farm-codes/": "2026-08-07T05:12:15+00:00",
     "https://beebom.com/mini-rome-empire-codes/": "2026-08-07T07:41:06+00:00",
     "https://beebom.com/trade-squishy-dumplings-codes/": "2026-08-07T08:29:29+00:00",
-    "https://beebom.com/cookie-run-crumble-codes/": "2026-08-07T11:06:07+00:00"
+    "https://beebom.com/cookie-run-crumble-codes/": "2026-08-07T11:06:07+00:00",
+    "https://beebom.com/grow-a-chicken-fighter-codes/": "2026-08-08T04:59:06+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-08T01:00:28+00:00",
+    "post-sitemap.xml": "2026-08-08T04:59:06+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2449,11 +2451,11 @@
     "post-sitemap43.xml": "2025-10-15T08:42:26+00:00",
     "post-sitemap44.xml": "2025-10-24T05:53:17+00:00",
     "post-sitemap45.xml": "2025-12-13T18:40:00+00:00",
-    "post-sitemap46.xml": "2026-02-01T01:02:56+00:00",
-    "post-sitemap47.xml": "2026-03-17T12:02:05+00:00",
-    "post-sitemap48.xml": "2026-05-13T11:12:09+00:00",
-    "post-sitemap49.xml": "2026-07-21T13:20:23+00:00",
-    "post-sitemap50.xml": "2026-08-08T01:00:28+00:00"
+    "post-sitemap46.xml": "2026-02-01T01:03:21+00:00",
+    "post-sitemap47.xml": "2026-03-17T13:24:45+00:00",
+    "post-sitemap48.xml": "2026-05-13T11:14:40+00:00",
+    "post-sitemap49.xml": "2026-07-21T16:20:35+00:00",
+    "post-sitemap50.xml": "2026-08-08T04:59:06+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -2858,7 +2860,7 @@
     },
     "https://beebom.com/catch-a-monster-codes/": {
       "status": "done",
-      "attempts": 14,
+      "attempts": 15,
       "placeId": 98664161516921,
       "universeId": 9141743926
     },
@@ -5567,7 +5569,13 @@
       "attempts": 3,
       "placeId": 14060589927,
       "universeId": 4869168196
+    },
+    "https://beebom.com/grow-a-chicken-fighter-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 94640181989498,
+      "universeId": 10338952197
     }
   },
-  "updatedAt": "2026-08-08T04:00:04.360Z"
+  "updatedAt": "2026-08-08T06:00:05.641Z"
 }
