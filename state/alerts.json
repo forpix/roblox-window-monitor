@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-08T22:15:01.900Z",
+  "generatedAt": "2026-08-08T22:45:02.619Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 43540,
+      "ccu": 43314,
       "ageDays": 42.2,
-      "rollingAvg": 53206,
+      "rollingAvg": 52901,
       "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 21742,
-      "ageDays": 47.2,
-      "rollingAvg": 25552,
-      "spikePct": -15,
+      "ccu": 21828,
+      "ageDays": 47.3,
+      "rollingAvg": 25458,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.1d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.1d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 23678,
+      "ccu": 24271,
       "ageDays": 24.6,
-      "rollingAvg": 31919,
-      "spikePct": -26,
+      "rollingAvg": 31794,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.online \"Magic Loot Wiki - Codes, Bosses, Loot &a\", magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.online \"Magic Loot Wiki — Train Magic, Boss Loot\" +4 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 23296,
+      "ccu": 23517,
       "ageDays": 30,
-      "rollingAvg": 43445,
-      "spikePct": -46,
+      "rollingAvg": 42886,
+      "spikePct": -45,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 29791,
-      "ageDays": 32.8,
-      "rollingAvg": 37777,
-      "spikePct": -21,
+      "ccu": 29298,
+      "ageDays": 32.9,
+      "rollingAvg": 37502,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 26276,
+      "ccu": 26100,
       "ageDays": 25.3,
-      "rollingAvg": 22880,
-      "spikePct": 15,
+      "rollingAvg": 23004,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 58480,
-      "ageDays": 483,
-      "rollingAvg": 46335,
-      "spikePct": 26,
+      "ccu": 58404,
+      "ageDays": 483.1,
+      "rollingAvg": 45612,
+      "spikePct": 28,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.6d (practicalbasketball.com, practicalbasketball.net); .com registered 9.6d ago"
@@ -81,24 +81,13 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 23085,
+      "ccu": 22418,
       "ageDays": 34,
-      "rollingAvg": 29600,
-      "spikePct": -22,
+      "rollingAvg": 29547,
+      "spikePct": -24,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 9.0d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
-    },
-    {
-      "source": "discover",
-      "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 22593,
-      "ageDays": 41.5,
-      "rollingAvg": 27308,
-      "spikePct": -17,
-      "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
