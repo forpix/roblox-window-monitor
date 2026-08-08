@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-08T20:15:02.019Z",
+  "generatedAt": "2026-08-08T20:45:02.564Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 49624,
-      "ageDays": 42.1,
-      "rollingAvg": 54664,
-      "spikePct": -9,
+      "ccu": 48329,
+      "ageDays": 42.2,
+      "rollingAvg": 54248,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 1.4d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 25866,
+      "ccu": 25418,
       "ageDays": 47.2,
-      "rollingAvg": 25867,
-      "spikePct": 0,
+      "rollingAvg": 25785,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.0d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.0d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 26001,
+      "ccu": 25367,
       "ageDays": 24.5,
-      "rollingAvg": 32128,
-      "spikePct": -19,
+      "rollingAvg": 32124,
+      "spikePct": -21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.online \"Magic Loot Wiki - Codes, Bosses, Loot &a\", magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.online \"Magic Loot Wiki — Train Magic, Boss Loot\" +4 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 28624,
+      "ccu": 27341,
       "ageDays": 29.9,
-      "rollingAvg": 44949,
-      "spikePct": -36,
+      "rollingAvg": 44687,
+      "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 34846,
+      "ccu": 33574,
       "ageDays": 32.8,
-      "rollingAvg": 38631,
-      "spikePct": -10,
+      "rollingAvg": 38479,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 22437,
+      "ccu": 26724,
       "ageDays": 25.2,
-      "rollingAvg": 22472,
-      "spikePct": 0,
+      "rollingAvg": 22487,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,32 +70,32 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 57111,
+      "ccu": 57926,
       "ageDays": 483,
-      "rollingAvg": 48755,
-      "spikePct": 17,
+      "rollingAvg": 48285,
+      "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 9.5d (practicalbasketball.com, practicalbasketball.net); .com registered 9.5d ago"
+      "detail": "both taken, oldest 9.6d (practicalbasketball.com, practicalbasketball.net); .com registered 9.6d ago"
     },
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 27810,
+      "ccu": 27337,
       "ageDays": 33.9,
-      "rollingAvg": 29666,
-      "spikePct": -6,
+      "rollingAvg": 29681,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 8.9d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 9.0d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 38607,
+      "ccu": 24392,
       "ageDays": 41.4,
-      "rollingAvg": 27301,
-      "spikePct": 41,
+      "rollingAvg": 27966,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
