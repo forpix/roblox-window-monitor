@@ -4706,35 +4706,6 @@
     ],
     "lastVerdict": "QUIET"
   },
-  "100293509865504": {
-    "name": "Catch 1 Billion Ducks",
-    "slug": "catch1billionducks",
-    "source": "discover",
-    "lastSeen": 1786146306449,
-    "history": [
-      {
-        "t": 1786130106846,
-        "playing": 20606
-      },
-      {
-        "t": 1786131902096,
-        "playing": 20868
-      },
-      {
-        "t": 1786133705780,
-        "playing": 20412
-      },
-      {
-        "t": 1786135501874,
-        "playing": 20119
-      },
-      {
-        "t": 1786146306449,
-        "playing": 20119
-      }
-    ],
-    "lastVerdict": "RED"
-  },
   "102553576537621": {
     "name": "[X5] +1 Backflip Keyboard Escape",
     "slug": "1backflipkeyboardescape",
