@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T16:15:07.459Z",
+  "generatedAt": "2026-08-09T16:45:07.840Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 24868,
+      "ccu": 25360,
       "ageDays": 48,
-      "rollingAvg": 22846,
-      "spikePct": 9,
+      "rollingAvg": 22855,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.9d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.9d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 27840,
+      "ccu": 26855,
       "ageDays": 25.3,
-      "rollingAvg": 29990,
-      "spikePct": -7,
+      "rollingAvg": 30104,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 702.9d (magicloot.com, magicloot.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 60512,
+      "ccu": 61074,
       "ageDays": 30.7,
-      "rollingAvg": 53263,
-      "spikePct": 14,
+      "rollingAvg": 54278,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 34577,
+      "ccu": 34960,
       "ageDays": 33.6,
-      "rollingAvg": 35027,
+      "rollingAvg": 35142,
       "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 26330,
-      "ageDays": 26,
-      "rollingAvg": 25870,
-      "spikePct": 2,
+      "ccu": 26220,
+      "ageDays": 26.1,
+      "rollingAvg": 25866,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 37772,
+      "ccu": 41789,
       "ageDays": 483.8,
-      "rollingAvg": 51698,
-      "spikePct": -27,
+      "rollingAvg": 51308,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.4d (practicalbasketball.com, practicalbasketball.net); .com registered 10.4d ago"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 54729,
+      "ccu": 54550,
       "ageDays": 43,
-      "rollingAvg": 45878,
-      "spikePct": 19,
+      "rollingAvg": 46139,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.2d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 21114,
-      "ageDays": 312.7,
-      "rollingAvg": 25001,
-      "spikePct": -16,
+      "ccu": 21120,
+      "ageDays": 312.8,
+      "rollingAvg": 24918,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 5.6d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
@@ -92,9 +92,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 22150,
+      "ccu": 22127,
       "ageDays": 42.1,
-      "rollingAvg": 25235,
+      "rollingAvg": 25030,
       "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "GREEN",
