@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-08-09T13:15:05.285Z",
+  "generatedAt": "2026-08-09T13:45:08.083Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 23557,
+      "ccu": 24182,
       "ageDays": 47.9,
-      "rollingAvg": 22910,
-      "spikePct": 3,
+      "rollingAvg": 22851,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 5.7d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.7d ago"
+      "detail": "both taken, oldest 5.8d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.8d ago"
     },
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 32992,
+      "ccu": 32222,
       "ageDays": 25.2,
-      "rollingAvg": 29246,
-      "spikePct": 13,
+      "rollingAvg": 29376,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 702.7d (magicloot.com, magicloot.net)"
+      "detail": "both taken, oldest 702.8d (magicloot.com, magicloot.net)"
     },
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 66445,
+      "ccu": 67457,
       "ageDays": 30.6,
-      "rollingAvg": 47352,
+      "rollingAvg": 48323,
       "spikePct": 40,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 35257,
+      "ccu": 33749,
       "ageDays": 33.5,
-      "rollingAvg": 35106,
-      "spikePct": 0,
+      "rollingAvg": 35085,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -48,21 +48,32 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 26357,
+      "ccu": 26463,
       "ageDays": 25.9,
-      "rollingAvg": 25468,
-      "spikePct": 3,
+      "rollingAvg": 25567,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
     },
     {
       "source": "discover",
+      "name": "[STRESS TEST 3!] Practical Basketball",
+      "ccu": 21852,
+      "ageDays": 483.7,
+      "rollingAvg": 54284,
+      "spikePct": -60,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "both taken, oldest 10.3d (practicalbasketball.com, practicalbasketball.net); .com registered 10.3d ago"
+    },
+    {
+      "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 53975,
+      "ccu": 57145,
       "ageDays": 42.9,
-      "rollingAvg": 44730,
-      "spikePct": 21,
+      "rollingAvg": 44871,
+      "spikePct": 27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.1d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -70,21 +81,21 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 30094,
+      "ccu": 29789,
       "ageDays": 312.6,
-      "rollingAvg": 25366,
-      "spikePct": 19,
+      "rollingAvg": 25357,
+      "spikePct": 17,
       "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: capybarasvsplants.net; .com registered 5.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
+      "verdict": "CHECK",
+      "detail": "RDAP could not resolve one or more domains; .com registered 5.5d ago"
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 26850,
+      "ccu": 25685,
       "ageDays": 42,
-      "rollingAvg": 25863,
-      "spikePct": 4,
+      "rollingAvg": 25972,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; sweep clean (38 surfaces, 34 inconclusive)"
