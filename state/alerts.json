@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T21:45:03.194Z",
+  "generatedAt": "2026-08-09T22:15:03.656Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 43803,
-      "ageDays": 30.9,
-      "rollingAvg": 64397,
-      "spikePct": -32,
+      "ccu": 41568,
+      "ageDays": 31,
+      "rollingAvg": 64045,
+      "spikePct": -35,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 28736,
+      "ccu": 28096,
       "ageDays": 33.8,
-      "rollingAvg": 34565,
-      "spikePct": -17,
+      "rollingAvg": 34303,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 23803,
+      "ccu": 23525,
       "ageDays": 26.3,
-      "rollingAvg": 25720,
-      "spikePct": -7,
+      "rollingAvg": 25669,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 62683,
+      "ccu": 62642,
       "ageDays": 484,
-      "rollingAvg": 50354,
+      "rollingAvg": 50334,
       "spikePct": 24,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -48,13 +48,13 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 43552,
+      "ccu": 42545,
       "ageDays": 43.2,
-      "rollingAvg": 48060,
-      "spikePct": -9,
+      "rollingAvg": 47981,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 2.4d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+      "detail": "available: washthehouse.net; .com registered 2.5d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     }
   ]
 }
