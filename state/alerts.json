@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-09T02:45:07.722Z",
+  "generatedAt": "2026-08-09T03:15:03.470Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 47229,
+      "ccu": 46845,
       "ageDays": 42.4,
-      "rollingAvg": 51646,
+      "rollingAvg": 51621,
       "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 1.6d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+      "detail": "available: washthehouse.net; .com registered 1.7d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     },
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 22698,
+      "ccu": 22014,
       "ageDays": 47.4,
-      "rollingAvg": 25219,
-      "spikePct": -10,
+      "rollingAvg": 25148,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.3d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.3d ago"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 32389,
-      "ageDays": 24.7,
-      "rollingAvg": 31695,
+      "ccu": 32370,
+      "ageDays": 24.8,
+      "rollingAvg": 31737,
       "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 53591,
+      "ccu": 57378,
       "ageDays": 30.2,
-      "rollingAvg": 39449,
-      "spikePct": 36,
+      "rollingAvg": 39571,
+      "spikePct": 45,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 39791,
-      "ageDays": 33,
-      "rollingAvg": 37015,
-      "spikePct": 8,
+      "ccu": 39245,
+      "ageDays": 33.1,
+      "rollingAvg": 37193,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25752,
+      "ccu": 25715,
       "ageDays": 25.5,
-      "rollingAvg": 23741,
+      "rollingAvg": 23845,
       "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 76451,
-      "ageDays": 483.2,
-      "rollingAvg": 44545,
-      "spikePct": 72,
+      "ccu": 76929,
+      "ageDays": 483.3,
+      "rollingAvg": 45362,
+      "spikePct": 70,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.8d (practicalbasketball.com, practicalbasketball.net); .com registered 9.8d ago"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 28523,
+      "ccu": 29281,
       "ageDays": 34.2,
-      "rollingAvg": 29440,
-      "spikePct": -3,
+      "rollingAvg": 29516,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: unboxasmr.net; .com registered 9.2d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 25389,
+      "ccu": 25846,
       "ageDays": 312.2,
-      "rollingAvg": 24588,
-      "spikePct": 3,
+      "rollingAvg": 24703,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 5.0d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 21840,
+      "ccu": 23963,
       "ageDays": 41.7,
-      "rollingAvg": 26400,
-      "spikePct": -17,
+      "rollingAvg": 26231,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
