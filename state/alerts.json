@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-08-09T21:15:07.247Z",
+  "generatedAt": "2026-08-09T21:45:03.194Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "Build Your Backrooms",
-      "ccu": 20060,
-      "ageDays": 48.2,
-      "rollingAvg": 22961,
-      "spikePct": -13,
-      "gate": "C:fresh-com",
-      "verdict": "YELLOW",
-      "detail": "both taken, oldest 6.1d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 6.1d ago"
-    },
-    {
-      "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 46232,
+      "ccu": 43803,
       "ageDays": 30.9,
-      "rollingAvg": 64706,
-      "spikePct": -29,
+      "rollingAvg": 64397,
+      "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -26,10 +15,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 29600,
+      "ccu": 28736,
       "ageDays": 33.8,
-      "rollingAvg": 34833,
-      "spikePct": -15,
+      "rollingAvg": 34565,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 24137,
-      "ageDays": 26.2,
-      "rollingAvg": 25764,
-      "spikePct": -6,
+      "ccu": 23803,
+      "ageDays": 26.3,
+      "rollingAvg": 25720,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 61425,
+      "ccu": 62683,
       "ageDays": 484,
-      "rollingAvg": 50295,
-      "spikePct": 22,
+      "rollingAvg": 50354,
+      "spikePct": 24,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.6d (practicalbasketball.com, practicalbasketball.net); .com registered 10.6d ago"
@@ -59,10 +48,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 45272,
+      "ccu": 43552,
       "ageDays": 43.2,
-      "rollingAvg": 48104,
-      "spikePct": -6,
+      "rollingAvg": 48060,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.4d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
