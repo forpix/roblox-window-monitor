@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-09T04:15:05.574Z",
+  "generatedAt": "2026-08-09T04:45:07.335Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 46591,
+      "ccu": 46487,
       "ageDays": 42.5,
-      "rollingAvg": 51558,
+      "rollingAvg": 51555,
       "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -14,22 +14,11 @@
     },
     {
       "source": "discover",
-      "name": "Build Your Backrooms",
-      "ccu": 20570,
-      "ageDays": 47.5,
-      "rollingAvg": 24934,
-      "spikePct": -18,
-      "gate": "C:fresh-com",
-      "verdict": "YELLOW",
-      "detail": "both taken, oldest 5.4d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.4d ago"
-    },
-    {
-      "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 31423,
+      "ccu": 30637,
       "ageDays": 24.8,
-      "rollingAvg": 31784,
-      "spikePct": -1,
+      "rollingAvg": 31761,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.online \"Magic Loot Wiki - Codes, Bosses, Loot &a\", magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.online \"Magic Loot Wiki — Train Magic, Boss Loot\" +5 more"
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 57815,
+      "ccu": 62746,
       "ageDays": 30.2,
-      "rollingAvg": 39899,
-      "spikePct": 45,
+      "rollingAvg": 40086,
+      "spikePct": 57,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +37,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 36926,
+      "ccu": 35931,
       "ageDays": 33.1,
-      "rollingAvg": 37488,
-      "spikePct": -1,
+      "rollingAvg": 37571,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,9 +48,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25588,
-      "ageDays": 25.5,
-      "rollingAvg": 24049,
+      "ccu": 25570,
+      "ageDays": 25.6,
+      "rollingAvg": 24148,
       "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +59,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 74453,
+      "ccu": 70398,
       "ageDays": 483.3,
-      "rollingAvg": 47482,
-      "spikePct": 57,
+      "rollingAvg": 48650,
+      "spikePct": 45,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.9d (practicalbasketball.com, practicalbasketball.net); .com registered 9.9d ago"
@@ -81,9 +70,9 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 29022,
-      "ageDays": 34.2,
-      "rollingAvg": 29668,
+      "ccu": 29037,
+      "ageDays": 34.3,
+      "rollingAvg": 29720,
       "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -92,24 +81,13 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 25934,
-      "ageDays": 312.2,
-      "rollingAvg": 24870,
-      "spikePct": 4,
+      "ccu": 27853,
+      "ageDays": 312.3,
+      "rollingAvg": 24952,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 5.1d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
-    },
-    {
-      "source": "discover",
-      "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 21717,
-      "ageDays": 41.7,
-      "rollingAvg": 25961,
-      "spikePct": -16,
-      "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
