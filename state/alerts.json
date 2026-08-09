@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-08-09T19:15:06.701Z",
+  "generatedAt": "2026-08-09T19:45:03.481Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "2 PLAYER Evolution Tycoon 🛸",
+      "ccu": 20282,
+      "ageDays": 31.6,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 2playerevolutiontycoon.com, 2playerevolutiontycoon.net; competitor BUILT: 2playerevolutiontycoon.wiki \"2 PLAYER Evolution Tycoon Roblox Guides \", 2-player-evolution-tycoon.wiki \"2 PLAYER Evolution Tycoon Roblox Wiki an\", 2playerevolutiontycoon.pages.dev \"2 PLAYER Evolution Tycoon Roblox Guides \" +1 more"
+    },
+    {
+      "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 24341,
+      "ccu": 23224,
       "ageDays": 48.1,
-      "rollingAvg": 22883,
-      "spikePct": 6,
+      "rollingAvg": 22955,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.0d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 6.0d ago"
@@ -15,10 +26,10 @@
     {
       "source": "discover",
       "name": "Catch 1 Billion Ducks",
-      "ccu": 20338,
+      "ccu": 20129,
       "ageDays": 23.5,
-      "rollingAvg": 20271,
-      "spikePct": 0,
+      "rollingAvg": 20284,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: catch1billionducks.com, catch1billionducks.net; competitor BUILT: catch1billionducks.wiki \"Catch 1 Billion Ducks Official Game Guid\", catch-1-billion-ducks.wiki \"Catch 1 Billion Ducks Wiki - Codes, Dogs\""
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 22596,
+      "ccu": 21788,
       "ageDays": 25.4,
-      "rollingAvg": 29942,
-      "spikePct": -25,
+      "rollingAvg": 29676,
+      "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 703.0d (magicloot.com, magicloot.net)"
@@ -37,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 65509,
-      "ageDays": 30.8,
-      "rollingAvg": 62647,
-      "spikePct": 5,
+      "ccu": 58575,
+      "ageDays": 30.9,
+      "rollingAvg": 63720,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,9 +59,9 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 33366,
+      "ccu": 33447,
       "ageDays": 33.7,
-      "rollingAvg": 35620,
+      "rollingAvg": 35470,
       "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +70,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25265,
+      "ccu": 24837,
       "ageDays": 26.2,
-      "rollingAvg": 25859,
-      "spikePct": -2,
+      "rollingAvg": 25854,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,10 +81,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 56968,
+      "ccu": 58896,
       "ageDays": 483.9,
-      "rollingAvg": 50192,
-      "spikePct": 14,
+      "rollingAvg": 50151,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.5d (practicalbasketball.com, practicalbasketball.net); .com registered 10.5d ago"
@@ -81,24 +92,13 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 51547,
+      "ccu": 50929,
       "ageDays": 43.1,
-      "rollingAvg": 47569,
-      "spikePct": 8,
+      "rollingAvg": 47846,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 2.3d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
-    },
-    {
-      "source": "discover",
-      "name": "+1 Cut Grass Adventure",
-      "ccu": 20530,
-      "ageDays": 42.2,
-      "rollingAvg": 24141,
-      "spikePct": -15,
-      "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; sweep clean (38 surfaces, 34 inconclusive)"
+      "detail": "available: washthehouse.net; .com registered 2.4d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     }
   ]
 }
