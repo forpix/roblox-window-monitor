@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T03:15:03.470Z",
+  "generatedAt": "2026-08-09T03:45:02.606Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 46845,
-      "ageDays": 42.4,
-      "rollingAvg": 51621,
-      "spikePct": -9,
+      "ccu": 46419,
+      "ageDays": 42.5,
+      "rollingAvg": 51597,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 1.7d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 22014,
-      "ageDays": 47.4,
-      "rollingAvg": 25148,
-      "spikePct": -12,
+      "ccu": 21453,
+      "ageDays": 47.5,
+      "rollingAvg": 25048,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.3d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.3d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 32370,
+      "ccu": 32203,
       "ageDays": 24.8,
-      "rollingAvg": 31737,
-      "spikePct": 2,
+      "rollingAvg": 31769,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.online \"Magic Loot Wiki - Codes, Bosses, Loot &a\", magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.online \"Magic Loot Wiki — Train Magic, Boss Loot\" +5 more"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 57378,
+      "ccu": 56453,
       "ageDays": 30.2,
-      "rollingAvg": 39571,
-      "spikePct": 45,
+      "rollingAvg": 39742,
+      "spikePct": 42,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 39245,
+      "ccu": 38167,
       "ageDays": 33.1,
-      "rollingAvg": 37193,
-      "spikePct": 6,
+      "rollingAvg": 37355,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25715,
+      "ccu": 25649,
       "ageDays": 25.5,
-      "rollingAvg": 23845,
-      "spikePct": 8,
+      "rollingAvg": 23948,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 76929,
+      "ccu": 77151,
       "ageDays": 483.3,
-      "rollingAvg": 45362,
-      "spikePct": 70,
+      "rollingAvg": 46353,
+      "spikePct": 66,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.8d (practicalbasketball.com, practicalbasketball.net); .com registered 9.8d ago"
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 29281,
+      "ccu": 29383,
       "ageDays": 34.2,
-      "rollingAvg": 29516,
+      "rollingAvg": 29596,
       "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -92,21 +92,21 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 25846,
+      "ccu": 24429,
       "ageDays": 312.2,
-      "rollingAvg": 24703,
-      "spikePct": 5,
+      "rollingAvg": 24811,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: capybarasvsplants.net; .com registered 5.0d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
+      "detail": "available: capybarasvsplants.net; .com registered 5.1d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     },
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 23963,
+      "ccu": 20668,
       "ageDays": 41.7,
-      "rollingAvg": 26231,
-      "spikePct": -9,
+      "rollingAvg": 26150,
+      "spikePct": -21,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
