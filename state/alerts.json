@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T17:45:06.828Z",
+  "generatedAt": "2026-08-09T18:15:03.345Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 25531,
+      "ccu": 25390,
       "ageDays": 48.1,
-      "rollingAvg": 22781,
-      "spikePct": 12,
+      "rollingAvg": 22784,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.9d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.9d ago"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Catch 1 Billion Ducks",
-      "ccu": 20189,
+      "ccu": 20273,
       "ageDays": 23.4,
-      "rollingAvg": 20224,
+      "rollingAvg": 20207,
       "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 25031,
+      "ccu": 24045,
       "ageDays": 25.4,
-      "rollingAvg": 30238,
-      "spikePct": -17,
+      "rollingAvg": 30226,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 702.9d (magicloot.com, magicloot.net)"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 69667,
+      "ccu": 129221,
       "ageDays": 30.8,
-      "rollingAvg": 56407,
-      "spikePct": 24,
-      "gate": "D:young-chart",
+      "rollingAvg": 57672,
+      "spikePct": 124,
+      "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 35196,
+      "ccu": 34665,
       "ageDays": 33.7,
-      "rollingAvg": 35433,
-      "spikePct": -1,
+      "rollingAvg": 35584,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25950,
+      "ccu": 25613,
       "ageDays": 26.1,
-      "rollingAvg": 25865,
-      "spikePct": 0,
+      "rollingAvg": 25869,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -70,21 +70,32 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 49309,
+      "ccu": 51877,
       "ageDays": 483.9,
-      "rollingAvg": 50690,
-      "spikePct": -3,
+      "rollingAvg": 50474,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.4d (practicalbasketball.com, practicalbasketball.net); .com registered 10.4d ago"
+      "detail": "both taken, oldest 10.5d (practicalbasketball.com, practicalbasketball.net); .com registered 10.4d ago"
+    },
+    {
+      "source": "discover",
+      "name": "[X2]🐒 +1 Speed Monkey Escape",
+      "ccu": 177932,
+      "ageDays": 92,
+      "rollingAvg": 78213,
+      "spikePct": 127,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "available: 1speedmonkeyescape.com, 1speedmonkeyescape.net; competitor BUILT: 1speedmonkeyescape.wiki \"+1 Speed Monkey Escape Wiki - Codes, Sha\", 1-speed-monkey-escape.wiki \"1 Speed Monkey Escape Wiki - Roblox Guid\""
     },
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 53914,
-      "ageDays": 43,
-      "rollingAvg": 46746,
-      "spikePct": 15,
+      "ccu": 53136,
+      "ageDays": 43.1,
+      "rollingAvg": 47029,
+      "spikePct": 13,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.3d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -92,10 +103,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 21563,
+      "ccu": 20821,
       "ageDays": 42.2,
-      "rollingAvg": 24672,
-      "spikePct": -13,
+      "rollingAvg": 24500,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; sweep clean (38 surfaces, 34 inconclusive)"
