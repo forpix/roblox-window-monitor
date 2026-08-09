@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-09T13:45:08.083Z",
+  "generatedAt": "2026-08-09T14:15:06.202Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 24182,
+      "ccu": 24236,
       "ageDays": 47.9,
-      "rollingAvg": 22851,
+      "rollingAvg": 22808,
       "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 32222,
+      "ccu": 31128,
       "ageDays": 25.2,
-      "rollingAvg": 29376,
-      "spikePct": 10,
+      "rollingAvg": 29513,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 702.8d (magicloot.com, magicloot.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 67457,
+      "ccu": 65169,
       "ageDays": 30.6,
-      "rollingAvg": 48323,
-      "spikePct": 40,
+      "rollingAvg": 49356,
+      "spikePct": 32,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 33749,
+      "ccu": 33425,
       "ageDays": 33.5,
-      "rollingAvg": 35085,
-      "spikePct": -4,
+      "rollingAvg": 35028,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 26463,
-      "ageDays": 25.9,
-      "rollingAvg": 25567,
-      "spikePct": 4,
+      "ccu": 26529,
+      "ageDays": 26,
+      "rollingAvg": 25668,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 21852,
+      "ccu": 24192,
       "ageDays": 483.7,
-      "rollingAvg": 54284,
-      "spikePct": -60,
+      "rollingAvg": 53770,
+      "spikePct": -55,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.3d (practicalbasketball.com, practicalbasketball.net); .com registered 10.3d ago"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 57145,
+      "ccu": 56593,
       "ageDays": 42.9,
-      "rollingAvg": 44871,
-      "spikePct": 27,
+      "rollingAvg": 45105,
+      "spikePct": 25,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.1d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -81,21 +81,21 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 29789,
-      "ageDays": 312.6,
-      "rollingAvg": 25357,
-      "spikePct": 17,
+      "ccu": 26666,
+      "ageDays": 312.7,
+      "rollingAvg": 25367,
+      "spikePct": 5,
       "gate": "C:fresh-com",
-      "verdict": "CHECK",
-      "detail": "RDAP could not resolve one or more domains; .com registered 5.5d ago"
+      "verdict": "RED",
+      "detail": "available: capybarasvsplants.net; .com registered 5.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 25685,
+      "ccu": 24395,
       "ageDays": 42,
-      "rollingAvg": 25972,
-      "spikePct": -1,
+      "rollingAvg": 25944,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; sweep clean (38 surfaces, 34 inconclusive)"
