@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T05:45:04.725Z",
+  "generatedAt": "2026-08-09T06:15:05.776Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 44117,
-      "ageDays": 42.5,
-      "rollingAvg": 51390,
-      "spikePct": -14,
+      "ccu": 42949,
+      "ageDays": 42.6,
+      "rollingAvg": 51133,
+      "spikePct": -16,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 1.8d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 30188,
+      "ccu": 30185,
       "ageDays": 24.9,
-      "rollingAvg": 31627,
-      "spikePct": -5,
+      "rollingAvg": 31528,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: magicloot.net; .com parked; competitor BUILT: magicloot.online \"Magic Loot Wiki - Codes, Bosses, Loot &a\", magicloot.wiki \"Magic Loot Wiki: Roblox Codes · Guides ·\", magic-loot.online \"Magic Loot Wiki — Train Magic, Boss Loot\" +5 more"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 64727,
+      "ccu": 64728,
       "ageDays": 30.3,
-      "rollingAvg": 40711,
-      "spikePct": 59,
+      "rollingAvg": 41012,
+      "spikePct": 58,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 34415,
+      "ccu": 34013,
       "ageDays": 33.2,
-      "rollingAvg": 37604,
-      "spikePct": -8,
+      "rollingAvg": 37564,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25654,
+      "ccu": 25466,
       "ageDays": 25.6,
-      "rollingAvg": 24338,
-      "spikePct": 5,
+      "rollingAvg": 24429,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -59,20 +59,20 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 61034,
+      "ccu": 54736,
       "ageDays": 483.4,
-      "rollingAvg": 50964,
-      "spikePct": 20,
+      "rollingAvg": 52025,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 9.9d (practicalbasketball.com, practicalbasketball.net); .com registered 9.9d ago"
+      "detail": "both taken, oldest 10.0d (practicalbasketball.com, practicalbasketball.net); .com registered 9.9d ago"
     },
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 29209,
+      "ccu": 29334,
       "ageDays": 34.3,
-      "rollingAvg": 29805,
+      "rollingAvg": 29822,
       "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -81,13 +81,24 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 25858,
+      "ccu": 25538,
       "ageDays": 312.3,
-      "rollingAvg": 25144,
-      "spikePct": 3,
+      "rollingAvg": 25191,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: capybarasvsplants.net; .com registered 5.1d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
+      "detail": "available: capybarasvsplants.net; .com registered 5.2d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
+    },
+    {
+      "source": "discover",
+      "name": "[X5] +1 Backflip Keyboard Escape",
+      "ccu": 20636,
+      "ageDays": 41.8,
+      "rollingAvg": 25820,
+      "spikePct": -20,
+      "gate": "D:young-chart",
+      "verdict": "GREEN",
+      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     }
   ]
 }
