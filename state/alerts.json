@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T12:15:04.283Z",
+  "generatedAt": "2026-08-09T12:45:03.345Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 22538,
+      "ccu": 23078,
       "ageDays": 47.8,
-      "rollingAvg": 23104,
-      "spikePct": -2,
+      "rollingAvg": 22995,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.7d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.7d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 32255,
-      "ageDays": 25.1,
-      "rollingAvg": 29110,
-      "spikePct": 11,
+      "ccu": 33261,
+      "ageDays": 25.2,
+      "rollingAvg": 29144,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 702.7d (magicloot.com, magicloot.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 64133,
+      "ccu": 66134,
       "ageDays": 30.6,
-      "rollingAvg": 45559,
-      "spikePct": 41,
+      "rollingAvg": 46397,
+      "spikePct": 43,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 37789,
+      "ccu": 39354,
       "ageDays": 33.4,
-      "rollingAvg": 35026,
-      "spikePct": 8,
+      "rollingAvg": 35012,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 26260,
+      "ccu": 26446,
       "ageDays": 25.9,
-      "rollingAvg": 25283,
+      "rollingAvg": 25370,
       "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 45675,
+      "ccu": 48224,
       "ageDays": 42.8,
-      "rollingAvg": 44936,
-      "spikePct": 2,
+      "rollingAvg": 44746,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 2.0d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+      "detail": "available: washthehouse.net; .com registered 2.1d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     },
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 28044,
+      "ccu": 29257,
       "ageDays": 312.6,
-      "rollingAvg": 25292,
-      "spikePct": 11,
+      "rollingAvg": 25304,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 5.4d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 22119,
+      "ccu": 21327,
       "ageDays": 42.1,
-      "rollingAvg": 25055,
-      "spikePct": -12,
+      "rollingAvg": 25113,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 27011,
-      "ageDays": 41.9,
-      "rollingAvg": 25386,
-      "spikePct": 6,
+      "ccu": 27578,
+      "ageDays": 42,
+      "rollingAvg": 25618,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; sweep clean (38 surfaces, 34 inconclusive)"
