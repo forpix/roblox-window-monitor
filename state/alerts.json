@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T18:45:02.621Z",
+  "generatedAt": "2026-08-09T19:15:06.701Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 25128,
+      "ccu": 24341,
       "ageDays": 48.1,
-      "rollingAvg": 22818,
-      "spikePct": 10,
+      "rollingAvg": 22883,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.0d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 6.0d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Catch 1 Billion Ducks",
-      "ccu": 20396,
+      "ccu": 20338,
       "ageDays": 23.5,
-      "rollingAvg": 20229,
-      "spikePct": 1,
+      "rollingAvg": 20271,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: catch1billionducks.com, catch1billionducks.net; competitor BUILT: catch1billionducks.wiki \"Catch 1 Billion Ducks Official Game Guid\", catch-1-billion-ducks.wiki \"Catch 1 Billion Ducks Wiki - Codes, Dogs\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 23102,
+      "ccu": 22596,
       "ageDays": 25.4,
-      "rollingAvg": 30150,
-      "spikePct": -23,
+      "rollingAvg": 29942,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 703.0d (magicloot.com, magicloot.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 102334,
+      "ccu": 65509,
       "ageDays": 30.8,
-      "rollingAvg": 60543,
-      "spikePct": 69,
+      "rollingAvg": 62647,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 34456,
+      "ccu": 33366,
       "ageDays": 33.7,
-      "rollingAvg": 35688,
-      "spikePct": -3,
+      "rollingAvg": 35620,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25392,
-      "ageDays": 26.1,
-      "rollingAvg": 25863,
+      "ccu": 25265,
+      "ageDays": 26.2,
+      "rollingAvg": 25859,
       "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 54340,
+      "ccu": 56968,
       "ageDays": 483.9,
-      "rollingAvg": 50306,
-      "spikePct": 8,
+      "rollingAvg": 50192,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.5d (practicalbasketball.com, practicalbasketball.net); .com registered 10.5d ago"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 52429,
+      "ccu": 51547,
       "ageDays": 43.1,
-      "rollingAvg": 47245,
-      "spikePct": 11,
+      "rollingAvg": 47569,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.3d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 21016,
+      "ccu": 20530,
       "ageDays": 42.2,
-      "rollingAvg": 24306,
-      "spikePct": -14,
+      "rollingAvg": 24141,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; sweep clean (38 surfaces, 34 inconclusive)"
