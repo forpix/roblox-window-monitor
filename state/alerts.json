@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-09T08:15:02.302Z",
+  "generatedAt": "2026-08-09T08:45:02.762Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 43336,
-      "ageDays": 42.6,
-      "rollingAvg": 49217,
+      "ccu": 42726,
+      "ageDays": 42.7,
+      "rollingAvg": 48601,
       "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 21307,
+      "ccu": 21124,
       "ageDays": 47.7,
-      "rollingAvg": 24498,
+      "rollingAvg": 24344,
       "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 29392,
+      "ccu": 28884,
       "ageDays": 25,
-      "rollingAvg": 30714,
-      "spikePct": -4,
+      "rollingAvg": 30413,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 702.5d (magicloot.com, magicloot.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 61137,
+      "ccu": 60544,
       "ageDays": 30.4,
-      "rollingAvg": 41853,
-      "spikePct": 46,
+      "rollingAvg": 42099,
+      "spikePct": 44,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 33970,
+      "ccu": 33828,
       "ageDays": 33.3,
-      "rollingAvg": 36811,
-      "spikePct": -8,
+      "rollingAvg": 36504,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 25378,
+      "ccu": 25469,
       "ageDays": 25.7,
-      "rollingAvg": 24735,
+      "rollingAvg": 24796,
       "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,46 +70,35 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 33583,
+      "ccu": 29538,
       "ageDays": 483.5,
-      "rollingAvg": 54829,
-      "spikePct": -39,
+      "rollingAvg": 55073,
+      "spikePct": -46,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.0d (practicalbasketball.com, practicalbasketball.net); .com registered 10.0d ago"
+      "detail": "both taken, oldest 10.1d (practicalbasketball.com, practicalbasketball.net); .com registered 10.1d ago"
     },
     {
       "source": "discover",
       "name": "[☄️] Unbox ASMR!",
-      "ccu": 31936,
+      "ccu": 31927,
       "ageDays": 34.4,
-      "rollingAvg": 29521,
-      "spikePct": 8,
+      "rollingAvg": 29334,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: unboxasmr.net; .com registered 9.4d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
+      "detail": "available: unboxasmr.net; .com registered 9.5d ago; .com BUILT: \"Unbox ASMR Roblox Guide &amp; Toy Index\""
     },
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 23842,
+      "ccu": 22733,
       "ageDays": 312.4,
-      "rollingAvg": 25261,
-      "spikePct": -6,
+      "rollingAvg": 25226,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: capybarasvsplants.net; .com registered 5.2d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
-    },
-    {
-      "source": "discover",
-      "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 20581,
-      "ageDays": 41.9,
-      "rollingAvg": 25512,
-      "spikePct": -19,
-      "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
+      "detail": "available: capybarasvsplants.net; .com registered 5.3d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     }
   ]
 }
