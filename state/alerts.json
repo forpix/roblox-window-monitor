@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T11:45:04.220Z",
+  "generatedAt": "2026-08-09T12:15:04.283Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Build Your Backrooms",
-      "ccu": 22024,
+      "ccu": 22538,
       "ageDays": 47.8,
-      "rollingAvg": 23235,
-      "spikePct": -5,
+      "rollingAvg": 23104,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.7d (buildyourbackrooms.com, buildyourbackrooms.net); .com registered 5.7d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 31371,
+      "ccu": 32255,
       "ageDays": 25.1,
-      "rollingAvg": 29120,
-      "spikePct": 8,
+      "rollingAvg": 29110,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 702.7d (magicloot.com, magicloot.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 62424,
-      "ageDays": 30.5,
-      "rollingAvg": 44792,
-      "spikePct": 39,
+      "ccu": 64133,
+      "ageDays": 30.6,
+      "rollingAvg": 45559,
+      "spikePct": 41,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 37489,
+      "ccu": 37789,
       "ageDays": 33.4,
-      "rollingAvg": 35078,
-      "spikePct": 7,
+      "rollingAvg": 35026,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 26148,
-      "ageDays": 25.8,
-      "rollingAvg": 25200,
+      "ccu": 26260,
+      "ageDays": 25.9,
+      "rollingAvg": 25283,
       "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 43752,
+      "ccu": 45675,
       "ageDays": 42.8,
-      "rollingAvg": 45210,
-      "spikePct": -3,
+      "rollingAvg": 44936,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.0d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 26445,
+      "ccu": 28044,
       "ageDays": 312.6,
-      "rollingAvg": 25262,
-      "spikePct": 5,
+      "rollingAvg": 25292,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 5.4d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[X5] +1 Backflip Keyboard Escape",
-      "ccu": 20157,
+      "ccu": 22119,
       "ageDays": 42.1,
-      "rollingAvg": 25077,
-      "spikePct": -20,
+      "rollingAvg": 25055,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1backflipkeyboardescape.com, 1backflipkeyboardescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 26754,
+      "ccu": 27011,
       "ageDays": 41.9,
-      "rollingAvg": 25112,
-      "spikePct": 7,
+      "rollingAvg": 25386,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; sweep clean (38 surfaces, 34 inconclusive)"
