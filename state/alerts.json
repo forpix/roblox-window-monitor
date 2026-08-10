@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T07:15:03.750Z",
+  "generatedAt": "2026-08-10T07:45:07.992Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 48087,
-      "ageDays": 31.3,
-      "rollingAvg": 51383,
-      "spikePct": -6,
+      "ccu": 50784,
+      "ageDays": 31.4,
+      "rollingAvg": 50873,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 23881,
+      "ccu": 24175,
       "ageDays": 54.7,
-      "rollingAvg": 21909,
+      "rollingAvg": 22128,
       "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 21976,
+      "ccu": 21995,
       "ageDays": 26.7,
-      "rollingAvg": 24034,
-      "spikePct": -9,
+      "rollingAvg": 23912,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 31089,
+      "ccu": 27864,
       "ageDays": 484.4,
-      "rollingAvg": 51125,
-      "spikePct": -39,
+      "rollingAvg": 51413,
+      "spikePct": -46,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.0d (practicalbasketball.com, practicalbasketball.net); .com registered 11.0d ago"
@@ -48,20 +48,20 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 34975,
+      "ccu": 35671,
       "ageDays": 43.6,
-      "rollingAvg": 44401,
-      "spikePct": -21,
+      "rollingAvg": 43874,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 2.8d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+      "detail": "available: washthehouse.net; .com registered 2.9d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     },
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 21891,
+      "ccu": 21633,
       "ageDays": 313.4,
-      "rollingAvg": 24474,
+      "rollingAvg": 24377,
       "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
