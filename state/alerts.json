@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T14:45:03.351Z",
+  "generatedAt": "2026-08-10T15:15:02.068Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 55053,
+      "ccu": 51484,
       "ageDays": 31.7,
-      "rollingAvg": 46021,
-      "spikePct": 20,
+      "rollingAvg": 46149,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 26077,
-      "ageDays": 26.2,
-      "rollingAvg": 26921,
-      "spikePct": -3,
+      "ccu": 25254,
+      "ageDays": 26.3,
+      "rollingAvg": 26840,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 703.8d (magicloot.com, magicloot.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 31662,
+      "ccu": 29943,
       "ageDays": 55,
-      "rollingAvg": 26519,
-      "spikePct": 19,
+      "rollingAvg": 26733,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: growachickenfighter.net; .com registered 2.9d ago; .com BUILT: \"Grow a Chicken Fighter Player Tools &amp; Game Hub\""
+      "detail": "available: growachickenfighter.net; .com registered 3.0d ago; .com BUILT: \"Grow a Chicken Fighter Player Tools &amp; Game Hub\""
     },
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 21368,
+      "ccu": 21112,
       "ageDays": 27,
-      "rollingAvg": 22501,
-      "spikePct": -5,
+      "rollingAvg": 22417,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 21377,
-      "ageDays": 484.7,
-      "rollingAvg": 51212,
-      "spikePct": -58,
+      "ccu": 23401,
+      "ageDays": 484.8,
+      "rollingAvg": 50870,
+      "spikePct": -54,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.3d (practicalbasketball.com, practicalbasketball.net); .com registered 11.3d ago"
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 60033,
+      "ccu": 58300,
       "ageDays": 43.9,
-      "rollingAvg": 42373,
-      "spikePct": 42,
+      "rollingAvg": 42742,
+      "spikePct": 36,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 3.1d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+      "detail": "available: washthehouse.net; .com registered 3.2d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     },
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 23977,
+      "ccu": 21087,
       "ageDays": 313.7,
-      "rollingAvg": 24267,
-      "spikePct": -1,
+      "rollingAvg": 24254,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 6.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
