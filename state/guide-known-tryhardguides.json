@@ -4430,7 +4430,9 @@
     "https://tryhardguides.com/stream-a-mukbang-codes/",
     "https://tryhardguides.com/ken-codes/",
     "https://tryhardguides.com/power-your-city-codes/",
-    "https://tryhardguides.com/garden-cleaner-evolution-codes/"
+    "https://tryhardguides.com/garden-cleaner-evolution-codes/",
+    "https://tryhardguides.com/samurai-duels-codes/",
+    "https://tryhardguides.com/the-portal-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -4510,7 +4512,7 @@
     "https://tryhardguides.com/archer-training-codes/": "2026-08-08T08:08:50+00:00",
     "https://tryhardguides.com/garden-horizons-codes/": "2026-08-02T07:40:57+00:00",
     "https://tryhardguides.com/be-a-fish-bait-codes/": "2026-08-01T07:24:18+00:00",
-    "https://tryhardguides.com/demon-soul-codes/": "2026-08-07T07:32:47+00:00",
+    "https://tryhardguides.com/demon-soul-codes/": "2026-08-10T10:06:01+00:00",
     "https://tryhardguides.com/manage-a-soccer-squad-codes/": "2026-07-24T07:39:37+00:00",
     "https://tryhardguides.com/hatch-your-pet-codes/": "2026-07-10T11:22:00+00:00",
     "https://tryhardguides.com/skip-bo-gift-codes/": "2026-08-10T09:12:00+00:00",
@@ -8863,7 +8865,9 @@
     "https://tryhardguides.com/stream-a-mukbang-codes/": "2026-08-07T11:52:00+00:00",
     "https://tryhardguides.com/ken-codes/": "2026-08-10T07:46:37+00:00",
     "https://tryhardguides.com/power-your-city-codes/": "2026-08-07T11:22:00+00:00",
-    "https://tryhardguides.com/garden-cleaner-evolution-codes/": "2026-08-07T11:07:00+00:00"
+    "https://tryhardguides.com/garden-cleaner-evolution-codes/": "2026-08-07T11:07:00+00:00",
+    "https://tryhardguides.com/samurai-duels-codes/": "2026-08-10T11:22:00+00:00",
+    "https://tryhardguides.com/the-portal-codes/": "2026-08-10T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9136,7 +9140,7 @@
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
     "post-sitemap-2026-32.xml": "2026-08-09T23:59:59+00:00",
-    "post-sitemap-2026-33.xml": "2026-08-10T10:00:13+00:00"
+    "post-sitemap-2026-33.xml": "2026-08-10T12:00:12+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -12051,7 +12055,7 @@
     },
     "https://tryhardguides.com/demon-soul-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 8069117419,
       "universeId": 3108473052
     },
@@ -12180,7 +12184,19 @@
       "attempts": 1,
       "placeId": 126331002216562,
       "universeId": 8157263243
+    },
+    "https://tryhardguides.com/samurai-duels-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 72248722616845,
+      "universeId": 10059548251
+    },
+    "https://tryhardguides.com/the-portal-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 122003435349029,
+      "universeId": 9356969539
     }
   },
-  "updatedAt": "2026-08-10T10:00:04.866Z"
+  "updatedAt": "2026-08-10T12:00:03.970Z"
 }
