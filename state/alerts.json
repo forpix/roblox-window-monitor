@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-09T23:45:02.494Z",
+  "generatedAt": "2026-08-10T00:15:02.473Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 37079,
-      "ageDays": 31,
-      "rollingAvg": 62273,
-      "spikePct": -40,
+      "ccu": 35670,
+      "ageDays": 31.1,
+      "rollingAvg": 61505,
+      "spikePct": -42,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 27879,
+      "ccu": 27923,
       "ageDays": 33.9,
-      "rollingAvg": 33672,
+      "rollingAvg": 33491,
       "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 22783,
-      "ageDays": 26.3,
-      "rollingAvg": 25476,
-      "spikePct": -11,
+      "ccu": 22459,
+      "ageDays": 26.4,
+      "rollingAvg": 25396,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 62779,
+      "ccu": 63666,
       "ageDays": 484.1,
-      "rollingAvg": 49694,
-      "spikePct": 26,
+      "rollingAvg": 49314,
+      "spikePct": 29,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.7d (practicalbasketball.com, practicalbasketball.net); .com registered 10.7d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 42773,
+      "ccu": 40729,
       "ageDays": 43.3,
-      "rollingAvg": 47655,
-      "spikePct": -10,
+      "rollingAvg": 47618,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.5d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
