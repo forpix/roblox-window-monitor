@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T16:15:04.668Z",
+  "generatedAt": "2026-08-10T16:45:01.964Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 46484,
+      "ccu": 45733,
       "ageDays": 31.7,
-      "rollingAvg": 46435,
-      "spikePct": 0,
+      "rollingAvg": 46572,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 23481,
+      "ccu": 22722,
       "ageDays": 26.3,
-      "rollingAvg": 26585,
-      "spikePct": -12,
+      "rollingAvg": 26408,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 703.9d (magicloot.com, magicloot.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 27653,
+      "ccu": 26216,
       "ageDays": 55.1,
-      "rollingAvg": 26961,
-      "spikePct": 3,
+      "rollingAvg": 26986,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: growachickenfighter.net; .com registered 3.0d ago; .com BUILT: \"Grow a Chicken Fighter Player Tools &amp; Game Hub\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 21253,
-      "ageDays": 27,
-      "rollingAvg": 22259,
-      "spikePct": -5,
+      "ccu": 21529,
+      "ageDays": 27.1,
+      "rollingAvg": 22196,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 28006,
+      "ccu": 30237,
       "ageDays": 484.8,
-      "rollingAvg": 50021,
-      "spikePct": -44,
+      "rollingAvg": 49530,
+      "spikePct": -39,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.4d (practicalbasketball.com, practicalbasketball.net); .com registered 11.4d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 56098,
+      "ccu": 56207,
       "ageDays": 44,
-      "rollingAvg": 43486,
-      "spikePct": 29,
+      "rollingAvg": 43862,
+      "spikePct": 28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 3.2d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
