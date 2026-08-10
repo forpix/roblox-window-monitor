@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-10T22:45:02.185Z",
+  "generatedAt": "2026-08-10T23:15:02.973Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 29437,
+      "ccu": 29226,
       "ageDays": 32,
-      "rollingAvg": 47978,
+      "rollingAvg": 47856,
       "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 48022,
+      "ccu": 48470,
       "ageDays": 485.1,
-      "rollingAvg": 43510,
-      "spikePct": 10,
+      "rollingAvg": 43100,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 11.6d (practicalbasketball.com, practicalbasketball.net); .com registered 11.6d ago"
+      "detail": "both taken, oldest 11.7d (practicalbasketball.com, practicalbasketball.net); .com registered 11.7d ago"
     },
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 52124,
-      "ageDays": 44.2,
-      "rollingAvg": 49775,
-      "spikePct": 5,
+      "ccu": 52157,
+      "ageDays": 44.3,
+      "rollingAvg": 50364,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 3.5d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
