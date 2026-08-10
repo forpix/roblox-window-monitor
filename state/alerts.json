@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-08-10T17:15:03.966Z",
+  "generatedAt": "2026-08-10T17:45:02.229Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "Catch 1 Billion Ducks",
+      "ccu": 20176,
+      "ageDays": 24.4,
+      "rollingAvg": 20258,
+      "spikePct": 0,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: catch1billionducks.com, catch1billionducks.net; competitor BUILT: catch1billionducks.wiki \"Catch 1 Billion Ducks Official Game Guid\", catch-1-billion-ducks.wiki \"Catch 1 Billion Ducks Wiki - Codes, Dogs\", catch1billionduckswiki.wiki \"Catch 1 Billion Ducks Wiki - Hunting, Du\""
+    },
+    {
+      "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 44398,
+      "ccu": 43666,
       "ageDays": 31.8,
-      "rollingAvg": 46717,
-      "spikePct": -5,
+      "rollingAvg": 46887,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +26,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 22417,
-      "ageDays": 26.3,
-      "rollingAvg": 26184,
-      "spikePct": -14,
+      "ccu": 21922,
+      "ageDays": 26.4,
+      "rollingAvg": 25935,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 703.9d (magicloot.com, magicloot.net)"
@@ -26,20 +37,20 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 24430,
+      "ccu": 23075,
       "ageDays": 55.1,
-      "rollingAvg": 26959,
-      "spikePct": -9,
+      "rollingAvg": 26872,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: growachickenfighter.net; .com registered 3.0d ago; .com BUILT: \"Grow a Chicken Fighter Player Tools &amp; Game Hub\""
+      "detail": "available: growachickenfighter.net; .com registered 3.1d ago; .com BUILT: \"Grow a Chicken Fighter Player Tools &amp; Game Hub\""
     },
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 21448,
+      "ccu": 21504,
       "ageDays": 27.1,
-      "rollingAvg": 22148,
+      "rollingAvg": 22105,
       "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +59,10 @@
     {
       "source": "discover",
       "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 32632,
-      "ageDays": 484.8,
-      "rollingAvg": 49001,
-      "spikePct": -33,
+      "ccu": 35264,
+      "ageDays": 484.9,
+      "rollingAvg": 48466,
+      "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.4d (practicalbasketball.com, practicalbasketball.net); .com registered 11.4d ago"
@@ -59,10 +70,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 55761,
+      "ccu": 55999,
       "ageDays": 44,
-      "rollingAvg": 44273,
-      "spikePct": 26,
+      "rollingAvg": 44647,
+      "spikePct": 25,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 3.3d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
