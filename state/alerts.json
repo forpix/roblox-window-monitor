@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-10T19:15:02.859Z",
+  "generatedAt": "2026-08-10T19:45:03.096Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Catch 1 Billion Ducks",
-      "ccu": 20915,
+      "ccu": 20942,
       "ageDays": 24.5,
-      "rollingAvg": 20289,
+      "rollingAvg": 20352,
       "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "2 PLAYER Evolution Tycoon 🛸",
-      "ccu": 20254,
+      "ccu": 20937,
       "ageDays": 32.6,
-      "rollingAvg": 20153,
-      "spikePct": 1,
+      "rollingAvg": 20173,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 2playerevolutiontycoon.com, 2playerevolutiontycoon.net; competitor BUILT: 2playerevolutiontycoon.wiki \"2 PLAYER Evolution Tycoon Roblox Guides \", 2-player-evolution-tycoon.wiki \"2 PLAYER Evolution Tycoon Roblox Wiki an\", 2playerevolutiontycoon.pages.dev \"2 PLAYER Evolution Tycoon Roblox Guides \" +1 more"
@@ -26,31 +26,20 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 41673,
-      "ageDays": 31.8,
-      "rollingAvg": 47510,
-      "spikePct": -12,
+      "ccu": 40207,
+      "ageDays": 31.9,
+      "rollingAvg": 47723,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
-      "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 20109,
-      "ageDays": 26.4,
-      "rollingAvg": 24968,
-      "spikePct": -19,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "both taken, oldest 704.0d (magicloot.com, magicloot.net)"
-    },
-    {
-      "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 21232,
+      "ccu": 21064,
       "ageDays": 27.2,
-      "rollingAvg": 22012,
+      "rollingAvg": 21986,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +48,10 @@
     {
       "source": "discover",
       "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 40613,
+      "ccu": 42381,
       "ageDays": 484.9,
-      "rollingAvg": 46831,
-      "spikePct": -13,
+      "rollingAvg": 46288,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.5d (practicalbasketball.com, practicalbasketball.net); .com registered 11.5d ago"
@@ -70,13 +59,13 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 56519,
+      "ccu": 55986,
       "ageDays": 44.1,
-      "rollingAvg": 45905,
-      "spikePct": 23,
+      "rollingAvg": 46432,
+      "spikePct": 21,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 3.3d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+      "detail": "available: washthehouse.net; .com registered 3.4d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     }
   ]
 }
