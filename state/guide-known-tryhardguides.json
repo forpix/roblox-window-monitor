@@ -9140,7 +9140,7 @@
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
     "post-sitemap-2026-32.xml": "2026-08-09T23:59:59+00:00",
-    "post-sitemap-2026-33.xml": "2026-08-10T17:33:00+00:00"
+    "post-sitemap-2026-33.xml": "2026-08-10T19:30:13+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -11502,9 +11502,10 @@
       "universeId": 3110388936
     },
     "https://tryhardguides.com/one-fruit-simulator-codes/": {
-      "status": "pending",
-      "attempts": 4,
-      "placeId": 11445923563
+      "status": "done",
+      "attempts": 5,
+      "placeId": 11445923563,
+      "universeId": 4069560710
     },
     "https://tryhardguides.com/dead-spells-codes/": {
       "status": "done",
@@ -12197,5 +12198,5 @@
       "universeId": 9356969539
     }
   },
-  "updatedAt": "2026-08-10T18:00:09.283Z"
+  "updatedAt": "2026-08-10T20:00:06.489Z"
 }
