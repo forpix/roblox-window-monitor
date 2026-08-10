@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T19:45:03.096Z",
+  "generatedAt": "2026-08-10T20:15:02.881Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Catch 1 Billion Ducks",
-      "ccu": 20942,
+      "ccu": 20394,
       "ageDays": 24.5,
-      "rollingAvg": 20352,
-      "spikePct": 3,
+      "rollingAvg": 20406,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: catch1billionducks.com, catch1billionducks.net; competitor BUILT: catch1billionducks.wiki \"Catch 1 Billion Ducks Official Game Guid\", catch-1-billion-ducks.wiki \"Catch 1 Billion Ducks Wiki - Codes, Dogs\", catch1billionduckswiki.wiki \"Catch 1 Billion Ducks Wiki - Hunting, Du\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "2 PLAYER Evolution Tycoon 🛸",
-      "ccu": 20937,
-      "ageDays": 32.6,
-      "rollingAvg": 20173,
-      "spikePct": 4,
+      "ccu": 20585,
+      "ageDays": 32.7,
+      "rollingAvg": 20300,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 2playerevolutiontycoon.com, 2playerevolutiontycoon.net; competitor BUILT: 2playerevolutiontycoon.wiki \"2 PLAYER Evolution Tycoon Roblox Guides \", 2-player-evolution-tycoon.wiki \"2 PLAYER Evolution Tycoon Roblox Wiki an\", 2playerevolutiontycoon.pages.dev \"2 PLAYER Evolution Tycoon Roblox Guides \" +1 more"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 40207,
+      "ccu": 38358,
       "ageDays": 31.9,
-      "rollingAvg": 47723,
-      "spikePct": -16,
+      "rollingAvg": 47890,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 21064,
+      "ccu": 20887,
       "ageDays": 27.2,
-      "rollingAvg": 21986,
-      "spikePct": -4,
+      "rollingAvg": 21956,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 42381,
-      "ageDays": 484.9,
-      "rollingAvg": 46288,
-      "spikePct": -8,
+      "ccu": 44132,
+      "ageDays": 485,
+      "rollingAvg": 45761,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.5d (practicalbasketball.com, practicalbasketball.net); .com registered 11.5d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 55986,
+      "ccu": 54956,
       "ageDays": 44.1,
-      "rollingAvg": 46432,
-      "spikePct": 21,
+      "rollingAvg": 46961,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 3.4d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
