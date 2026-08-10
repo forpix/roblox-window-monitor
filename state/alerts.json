@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T00:45:07.539Z",
+  "generatedAt": "2026-08-10T01:15:05.793Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 34938,
+      "ccu": 34027,
       "ageDays": 31.1,
-      "rollingAvg": 60698,
-      "spikePct": -42,
+      "rollingAvg": 59894,
+      "spikePct": -43,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 28197,
-      "ageDays": 33.9,
-      "rollingAvg": 33322,
-      "spikePct": -15,
+      "ccu": 28033,
+      "ageDays": 34,
+      "rollingAvg": 33178,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 22357,
+      "ccu": 22169,
       "ageDays": 26.4,
-      "rollingAvg": 25313,
+      "rollingAvg": 25226,
       "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 65762,
-      "ageDays": 484.1,
-      "rollingAvg": 48945,
-      "spikePct": 34,
+      "ccu": 67130,
+      "ageDays": 484.2,
+      "rollingAvg": 48629,
+      "spikePct": 38,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.7d (practicalbasketball.com, practicalbasketball.net); .com registered 10.7d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 38767,
-      "ageDays": 43.3,
-      "rollingAvg": 47556,
-      "spikePct": -18,
+      "ccu": 37544,
+      "ageDays": 43.4,
+      "rollingAvg": 47449,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.6d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
