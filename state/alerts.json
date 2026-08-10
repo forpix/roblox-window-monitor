@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T05:15:05.262Z",
+  "generatedAt": "2026-08-10T05:45:04.892Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 36018,
+      "ccu": 39428,
       "ageDays": 31.3,
-      "rollingAvg": 53864,
-      "spikePct": -33,
+      "rollingAvg": 53206,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 21226,
-      "ageDays": 34.1,
-      "rollingAvg": 31093,
+      "ccu": 20857,
+      "ageDays": 34.2,
+      "rollingAvg": 30676,
       "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 22162,
+      "ccu": 22189,
       "ageDays": 26.6,
-      "rollingAvg": 24488,
+      "rollingAvg": 24384,
       "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 22193,
+      "ccu": 22910,
       "ageDays": 54.6,
-      "rollingAvg": 20738,
-      "spikePct": 7,
+      "rollingAvg": 21029,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: growachickenfighter.net; .com registered 2.5d ago; .com BUILT: \"Grow a Chicken Fighter Guide\""
+      "detail": "available: growachickenfighter.net; .com registered 2.6d ago; .com BUILT: \"Grow a Chicken Fighter Guide\""
     },
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 47102,
-      "ageDays": 484.3,
-      "rollingAvg": 49689,
-      "spikePct": -5,
+      "ccu": 43227,
+      "ageDays": 484.4,
+      "rollingAvg": 50065,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.9d (practicalbasketball.com, practicalbasketball.net); .com registered 10.9d ago"
@@ -59,13 +59,24 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 32624,
+      "ccu": 33354,
       "ageDays": 43.5,
-      "rollingAvg": 45670,
-      "spikePct": -29,
+      "rollingAvg": 45421,
+      "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.8d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+    },
+    {
+      "source": "discover",
+      "name": "Capybaras VS Plants",
+      "ccu": 21872,
+      "ageDays": 313.3,
+      "rollingAvg": 24725,
+      "spikePct": -12,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: capybarasvsplants.net; .com registered 6.1d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
     }
   ]
 }
