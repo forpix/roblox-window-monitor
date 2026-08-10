@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T01:15:05.793Z",
+  "generatedAt": "2026-08-10T01:45:05.552Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 34027,
+      "ccu": 34196,
       "ageDays": 31.1,
-      "rollingAvg": 59894,
-      "spikePct": -43,
+      "rollingAvg": 59100,
+      "spikePct": -42,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 28033,
+      "ccu": 27618,
       "ageDays": 34,
-      "rollingAvg": 33178,
+      "rollingAvg": 33037,
       "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 22169,
+      "ccu": 22156,
       "ageDays": 26.4,
-      "rollingAvg": 25226,
+      "rollingAvg": 25135,
       "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "[STRESS TEST 3!] Practical Basketball",
-      "ccu": 67130,
+      "ccu": 68156,
       "ageDays": 484.2,
-      "rollingAvg": 48629,
-      "spikePct": 38,
+      "rollingAvg": 48426,
+      "spikePct": 41,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.7d (practicalbasketball.com, practicalbasketball.net); .com registered 10.7d ago"
+      "detail": "both taken, oldest 10.8d (practicalbasketball.com, practicalbasketball.net); .com registered 10.8d ago"
     },
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 37544,
+      "ccu": 36975,
       "ageDays": 43.4,
-      "rollingAvg": 47449,
-      "spikePct": -21,
+      "rollingAvg": 47299,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 2.6d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
