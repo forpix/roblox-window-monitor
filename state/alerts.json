@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T13:15:05.966Z",
+  "generatedAt": "2026-08-10T13:45:02.682Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 63064,
+      "ccu": 62285,
       "ageDays": 31.6,
-      "rollingAvg": 45871,
-      "spikePct": 37,
+      "rollingAvg": 45804,
+      "spikePct": 36,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -15,32 +15,32 @@
     {
       "source": "discover",
       "name": "Magic Loot[🦖Dino Event]",
-      "ccu": 28792,
+      "ccu": 28873,
       "ageDays": 26.2,
-      "rollingAvg": 27002,
+      "rollingAvg": 26985,
       "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 703.7d (magicloot.com, magicloot.net)"
+      "detail": "both taken, oldest 703.8d (magicloot.com, magicloot.net)"
     },
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 34768,
+      "ccu": 35452,
       "ageDays": 54.9,
-      "rollingAvg": 25313,
-      "spikePct": 37,
+      "rollingAvg": 25763,
+      "spikePct": 38,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: growachickenfighter.net; .com registered 2.9d ago; .com BUILT: \"Grow a Chicken Fighter Guide\""
+      "detail": "available: growachickenfighter.net; .com registered 2.9d ago; .com BUILT: \"Grow a Chicken Fighter Player Tools &amp; Game Hub\""
     },
     {
       "source": "discover",
       "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 23023,
+      "ccu": 23093,
       "ageDays": 26.9,
-      "rollingAvg": 22693,
-      "spikePct": 1,
+      "rollingAvg": 22630,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 63068,
+      "ccu": 63902,
       "ageDays": 43.9,
-      "rollingAvg": 41319,
+      "rollingAvg": 41639,
       "spikePct": 53,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Capybaras VS Plants",
-      "ccu": 26954,
+      "ccu": 26579,
       "ageDays": 313.6,
-      "rollingAvg": 23985,
-      "spikePct": 12,
+      "rollingAvg": 24102,
+      "spikePct": 10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: capybarasvsplants.net; .com registered 6.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
