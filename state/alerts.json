@@ -1,35 +1,24 @@
 {
-  "generatedAt": "2026-08-10T22:15:01.867Z",
+  "generatedAt": "2026-08-10T22:45:02.185Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 30085,
+      "ccu": 29437,
       "ageDays": 32,
-      "rollingAvg": 48058,
-      "spikePct": -37,
+      "rollingAvg": 47978,
+      "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
-      "name": "[ONE PUNCH] Anime Astral Simulator",
-      "ccu": 20043,
-      "ageDays": 27.3,
-      "rollingAvg": 21755,
-      "spikePct": -8,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
-    },
-    {
-      "source": "discover",
       "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 47623,
-      "ageDays": 485,
-      "rollingAvg": 43928,
-      "spikePct": 8,
+      "ccu": 48022,
+      "ageDays": 485.1,
+      "rollingAvg": 43510,
+      "spikePct": 10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.6d (practicalbasketball.com, practicalbasketball.net); .com registered 11.6d ago"
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 52058,
+      "ccu": 52124,
       "ageDays": 44.2,
-      "rollingAvg": 49187,
-      "spikePct": 6,
+      "rollingAvg": 49775,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 3.5d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
