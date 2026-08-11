@@ -1,38 +1,4 @@
 {
-  "generatedAt": "2026-08-10T23:45:04.284Z",
-  "candidates": [
-    {
-      "source": "discover",
-      "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 28510,
-      "ageDays": 32,
-      "rollingAvg": 47667,
-      "spikePct": -40,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
-    },
-    {
-      "source": "discover",
-      "name": "[2 DAYS LEFT] Practical Basketball",
-      "ccu": 49226,
-      "ageDays": 485.1,
-      "rollingAvg": 42678,
-      "spikePct": 15,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "both taken, oldest 11.7d (practicalbasketball.com, practicalbasketball.net); .com registered 11.7d ago"
-    },
-    {
-      "source": "discover",
-      "name": "Wash The House 🧼",
-      "ccu": 53414,
-      "ageDays": 44.3,
-      "rollingAvg": 50907,
-      "spikePct": 5,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 3.5d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
-    }
-  ]
+  "generatedAt": "2026-08-11T00:15:10.689Z",
+  "candidates": []
 }
