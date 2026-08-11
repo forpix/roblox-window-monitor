@@ -1,4 +1,82 @@
 {
-  "generatedAt": "2026-08-11T13:15:14.145Z",
-  "candidates": []
+  "generatedAt": "2026-08-11T13:45:07.849Z",
+  "candidates": [
+    {
+      "source": "discover",
+      "name": "Catch 1 Billion Ducks",
+      "ccu": 20427,
+      "ageDays": 25.2,
+      "rollingAvg": 20405,
+      "spikePct": 0,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: catch1billionducks.com, catch1billionducks.net; competitor BUILT: catch1billionducks.wiki \"Catch 1 Billion Ducks Official Game Guid\", catch-1-billion-ducks.wiki \"Catch 1 Billion Ducks Wiki - Codes, Dogs\", catch1billionduckswiki.wiki \"Catch 1 Billion Ducks Wiki - Hunting, Du\""
+    },
+    {
+      "source": "discover",
+      "name": "[UPD] Dig & Clean 🧼",
+      "ccu": 61537,
+      "ageDays": 32.6,
+      "rollingAvg": 47364,
+      "spikePct": 30,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
+    },
+    {
+      "source": "discover",
+      "name": "Magic Loot[🦖Dino Event]",
+      "ccu": 30608,
+      "ageDays": 27.2,
+      "rollingAvg": 24632,
+      "spikePct": 24,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 704.8d (magicloot.com, magicloot.net)"
+    },
+    {
+      "source": "discover",
+      "name": "Grow a Chicken Fighter",
+      "ccu": 45337,
+      "ageDays": 55.9,
+      "rollingAvg": 26365,
+      "spikePct": 72,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: growachickenfighter.net; .com registered 3.9d ago; .com BUILT: \"Grow a Chicken Fighter Player Tools &amp; Game Hub\""
+    },
+    {
+      "source": "discover",
+      "name": "Wash The House 🧼",
+      "ccu": 46672,
+      "ageDays": 44.9,
+      "rollingAvg": 51464,
+      "spikePct": -9,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: washthehouse.net; .com registered 4.1d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+    },
+    {
+      "source": "discover",
+      "name": "Capybaras VS Plants",
+      "ccu": 25333,
+      "ageDays": 314.6,
+      "rollingAvg": 23958,
+      "spikePct": 6,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: capybarasvsplants.net; .com registered 7.5d ago; .com BUILT: \"Capybaras VS Plants Wiki: Codes, Guides &amp; Bosses\""
+    },
+    {
+      "source": "discover",
+      "name": "TROLL Hug Tower",
+      "ccu": 43824,
+      "ageDays": 35.5,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
+    }
+  ]
 }
