@@ -5205,7 +5205,7 @@
     "https://tryhardguides.com/wuthering-waves-codes/": "2026-01-24T00:25:05+00:00",
     "https://tryhardguides.com/escape-lasers-for-brainrots-codes/": "2026-01-23T12:07:00+00:00",
     "https://tryhardguides.com/my-cubis-farm-codes/": "2026-01-23T11:37:00+00:00",
-    "https://tryhardguides.com/onikami-legacy-codes/": "2026-01-23T07:27:19+00:00",
+    "https://tryhardguides.com/onikami-legacy-codes/": "2026-08-13T14:56:36+00:00",
     "https://tryhardguides.com/smash-a-rock-codes/": "2026-01-22T12:07:00+00:00",
     "https://tryhardguides.com/space-ship-league-race-codes/": "2026-01-22T11:53:00+00:00",
     "https://tryhardguides.com/build-a-gym-tycoon-codes/": "2026-01-22T11:22:00+00:00",
@@ -9158,7 +9158,7 @@
     "post-sitemap-2026-30.xml": "2026-07-26T23:59:59+00:00",
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
     "post-sitemap-2026-32.xml": "2026-08-09T23:59:59+00:00",
-    "post-sitemap-2026-33.xml": "2026-08-13T13:33:08+00:00"
+    "post-sitemap-2026-33.xml": "2026-08-13T15:00:00+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -12328,7 +12328,13 @@
       "attempts": 1,
       "placeId": 125215626986308,
       "universeId": 10520859168
+    },
+    "https://tryhardguides.com/onikami-legacy-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 12408603754,
+      "universeId": 4366303867
     }
   },
-  "updatedAt": "2026-08-13T14:00:10.736Z"
+  "updatedAt": "2026-08-13T16:00:02.362Z"
 }
