@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-15T21:15:06.849Z",
+  "generatedAt": "2026-08-15T21:45:06.534Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 77592,
+      "ccu": 73754,
       "ageDays": 25.8,
-      "rollingAvg": 85479,
-      "spikePct": -9,
+      "rollingAvg": 85085,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanalltheleaves.com, cleanalltheleaves.net; competitor BUILT: cleanalltheleaves.wiki \"Clean all the leaves! Calculator, Guides\", clean-all-the-leaves.wiki \"Clean all the leaves! Wiki - Guide, Tips\", cleanalltheleaveswiki.wiki \"Clean all the leaves Wiki: Codes · Guide\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 113668,
+      "ccu": 113388,
       "ageDays": 21.6,
-      "rollingAvg": 149709,
-      "spikePct": -24,
+      "rollingAvg": 147907,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 53789,
+      "ccu": 53136,
       "ageDays": 60.3,
-      "rollingAvg": 85628,
+      "rollingAvg": 84036,
       "spikePct": -37,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Catch 1 Billion Ducks",
-      "ccu": 28302,
+      "ccu": 27001,
       "ageDays": 29.6,
-      "rollingAvg": 30308,
-      "spikePct": -7,
+      "rollingAvg": 30208,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: catch1billionducks.com, catch1billionducks.net; competitor BUILT: catch1billionducks.wiki \"Catch 1 Billion Ducks Official Game Guid\", catch-1-billion-ducks.wiki \"Catch 1 Billion Ducks Wiki - Codes, Dogs\", catch1billionduckswiki.wiki \"Catch 1 Billion Ducks Wiki - Hunting, Du\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 33969,
+      "ccu": 32181,
       "ageDays": 36.9,
-      "rollingAvg": 54474,
-      "spikePct": -38,
+      "rollingAvg": 53448,
+      "spikePct": -40,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 29575,
+      "ccu": 28343,
       "ageDays": 23.4,
-      "rollingAvg": 33325,
-      "spikePct": -11,
+      "rollingAvg": 33137,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "🕹️ Endless GAMES [NO ADS]",
-      "ccu": 21034,
+      "ccu": 20541,
       "ageDays": 43.5,
-      "rollingAvg": 24250,
-      "spikePct": -13,
+      "rollingAvg": 24090,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 10643.7d (endlessgames.com, endlessgames.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 39187,
+      "ccu": 37571,
       "ageDays": 49.2,
-      "rollingAvg": 49100,
-      "spikePct": -20,
+      "rollingAvg": 48605,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 8.4d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🌗Light vs Dark Event]",
-      "ccu": 21598,
+      "ccu": 21166,
       "ageDays": 31.5,
-      "rollingAvg": 28094,
-      "spikePct": -23,
+      "rollingAvg": 27769,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 709.1d (magicloot.com, magicloot.net)"
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 25993,
+      "ccu": 24799,
       "ageDays": 48.3,
-      "rollingAvg": 34928,
-      "spikePct": -26,
+      "rollingAvg": 34481,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -114,10 +114,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 32520,
+      "ccu": 30658,
       "ageDays": 39.8,
-      "rollingAvg": 43015,
-      "spikePct": -24,
+      "rollingAvg": 42490,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
