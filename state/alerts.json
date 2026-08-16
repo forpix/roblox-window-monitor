@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-16T23:15:07.447Z",
+  "generatedAt": "2026-08-16T23:45:07.446Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 85919,
+      "ccu": 84807,
       "ageDays": 26.9,
-      "rollingAvg": 96264,
-      "spikePct": -11,
+      "rollingAvg": 96875,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanalltheleaves.com, cleanalltheleaves.net; competitor BUILT: cleanalltheleaves.wiki \"Clean all the leaves! Calculator, Guides\", clean-all-the-leaves.wiki \"Clean all the leaves! Wiki - Guide, Tips\", cleanalltheleaveswiki.wiki \"Clean all the leaves Wiki: Codes · Guide\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 59054,
-      "ageDays": 61.3,
-      "rollingAvg": 83763,
-      "spikePct": -29,
+      "ccu": 61438,
+      "ageDays": 61.4,
+      "rollingAvg": 82505,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.3d (growachickenfighter.com, growachickenfighter.net); .com registered 9.3d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 121192,
-      "ageDays": 22.6,
-      "rollingAvg": 153894,
-      "spikePct": -21,
+      "ccu": 129066,
+      "ageDays": 22.7,
+      "rollingAvg": 152596,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 1.8d ago; .com probe inconclusive — check by hand"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 42914,
+      "ccu": 43772,
       "ageDays": 38,
-      "rollingAvg": 75439,
-      "spikePct": -43,
+      "rollingAvg": 75084,
+      "spikePct": -42,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 24241,
+      "ccu": 23982,
       "ageDays": 24.5,
-      "rollingAvg": 27373,
-      "spikePct": -11,
+      "rollingAvg": 27426,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -59,20 +59,20 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 48414,
+      "ccu": 46832,
       "ageDays": 161.2,
-      "rollingAvg": 69688,
-      "spikePct": -31,
+      "rollingAvg": 69800,
+      "spikePct": -33,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sandiegoborderroleplay.net; .com registered 0.6d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
+      "detail": "available: sandiegoborderroleplay.net; .com registered 0.7d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 32494,
+      "ccu": 32331,
       "ageDays": 50.3,
-      "rollingAvg": 37302,
+      "rollingAvg": 37129,
       "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 35623,
+      "ccu": 35385,
       "ageDays": 40.9,
-      "rollingAvg": 42826,
+      "rollingAvg": 42716,
       "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -92,9 +92,9 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 21593,
+      "ccu": 21475,
       "ageDays": 49.4,
-      "rollingAvg": 32280,
+      "rollingAvg": 31992,
       "spikePct": -33,
       "gate": "D:young-chart",
       "verdict": "RED",
