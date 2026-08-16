@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-16T07:15:09.178Z",
+  "generatedAt": "2026-08-16T07:45:09.269Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 74797,
-      "ageDays": 26.2,
-      "rollingAvg": 78218,
-      "spikePct": -4,
+      "ccu": 77572,
+      "ageDays": 26.3,
+      "rollingAvg": 78201,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanalltheleaves.com, cleanalltheleaves.net; competitor BUILT: cleanalltheleaves.wiki \"Clean all the leaves! Calculator, Guides\", clean-all-the-leaves.wiki \"Clean all the leaves! Wiki - Guide, Tips\", cleanalltheleaveswiki.wiki \"Clean all the leaves Wiki: Codes · Guide\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 99037,
+      "ccu": 95708,
       "ageDays": 60.7,
-      "rollingAvg": 85491,
-      "spikePct": 16,
+      "rollingAvg": 85607,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.6d (growachickenfighter.com, growachickenfighter.net); .com registered 8.6d ago"
@@ -26,42 +26,42 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 161844,
+      "ccu": 163054,
       "ageDays": 22,
-      "rollingAvg": 149757,
-      "spikePct": 8,
+      "rollingAvg": 149117,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: stealanegg.net; .com registered 1.1d ago; .com probe inconclusive — check by hand"
+      "detail": "available: stealanegg.net; .com registered 1.2d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 56840,
-      "ageDays": 37.3,
-      "rollingAvg": 47104,
-      "spikePct": 21,
+      "ccu": 58143,
+      "ageDays": 37.4,
+      "rollingAvg": 46654,
+      "spikePct": 25,
       "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
+      "verdict": "CHECK",
+      "detail": "available: digclean.net; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 31699,
+      "ccu": 32553,
       "ageDays": 49.6,
-      "rollingAvg": 43844,
-      "spikePct": -28,
+      "rollingAvg": 43143,
+      "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: washthehouse.net; .com registered 8.8d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
+      "detail": "available: washthehouse.net; .com registered 8.9d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
     },
     {
       "source": "discover",
       "name": "Magic Loot[🌗Light vs Dark Event]",
-      "ccu": 23546,
+      "ccu": 23270,
       "ageDays": 31.9,
-      "rollingAvg": 26309,
+      "rollingAvg": 26155,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 38168,
+      "ccu": 38776,
       "ageDays": 40.2,
-      "rollingAvg": 39216,
-      "spikePct": -3,
+      "rollingAvg": 38974,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 31189,
+      "ccu": 31951,
       "ageDays": 48.7,
-      "rollingAvg": 30290,
-      "spikePct": 3,
+      "rollingAvg": 30020,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
