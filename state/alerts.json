@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-08-16T05:45:07.320Z",
+  "generatedAt": "2026-08-16T06:15:09.099Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 62627,
+      "ccu": 66880,
       "ageDays": 26.2,
-      "rollingAvg": 78210,
-      "spikePct": -20,
+      "rollingAvg": 78197,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanalltheleaves.com, cleanalltheleaves.net; competitor BUILT: cleanalltheleaves.wiki \"Clean all the leaves! Calculator, Guides\", clean-all-the-leaves.wiki \"Clean all the leaves! Wiki - Guide, Tips\", cleanalltheleaveswiki.wiki \"Clean all the leaves Wiki: Codes · Guide\" +1 more"
     },
     {
       "source": "discover",
-      "name": "Steal An Egg",
-      "ccu": 169201,
-      "ageDays": 21.9,
-      "rollingAvg": 151333,
-      "spikePct": 12,
-      "gate": "C:fresh-com",
-      "verdict": "CHECK",
-      "detail": "available: stealanegg.net; .com registered 1.1d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 101577,
+      "ccu": 102886,
       "ageDays": 60.6,
-      "rollingAvg": 83837,
-      "spikePct": 21,
+      "rollingAvg": 84517,
+      "spikePct": 22,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.6d (growachickenfighter.com, growachickenfighter.net); .com registered 8.6d ago"
     },
     {
       "source": "discover",
+      "name": "Steal An Egg",
+      "ccu": 164114,
+      "ageDays": 21.9,
+      "rollingAvg": 150949,
+      "spikePct": 9,
+      "gate": "C:fresh-com",
+      "verdict": "CHECK",
+      "detail": "available: stealanegg.net; .com registered 1.1d ago; .com probe inconclusive — check by hand"
+    },
+    {
+      "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 55425,
+      "ccu": 54585,
       "ageDays": 37.3,
-      "rollingAvg": 48097,
-      "spikePct": 15,
+      "rollingAvg": 47853,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 35915,
-      "ageDays": 49.5,
-      "rollingAvg": 45512,
-      "spikePct": -21,
+      "ccu": 33190,
+      "ageDays": 49.6,
+      "rollingAvg": 45091,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 8.8d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Magic Loot[🌗Light vs Dark Event]",
-      "ccu": 25739,
+      "ccu": 26326,
       "ageDays": 31.9,
-      "rollingAvg": 26535,
-      "spikePct": -3,
+      "rollingAvg": 26523,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 709.4d (magicloot.com, magicloot.net)"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 31454,
+      "ccu": 30101,
       "ageDays": 48.7,
-      "rollingAvg": 30942,
-      "spikePct": 2,
+      "rollingAvg": 30787,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 37537,
+      "ccu": 36587,
       "ageDays": 40.2,
-      "rollingAvg": 39779,
-      "spikePct": -6,
+      "rollingAvg": 39657,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
