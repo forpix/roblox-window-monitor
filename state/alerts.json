@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-16T06:45:06.797Z",
+  "generatedAt": "2026-08-16T07:15:09.178Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 71825,
+      "ccu": 74797,
       "ageDays": 26.2,
-      "rollingAvg": 78197,
-      "spikePct": -8,
+      "rollingAvg": 78218,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanalltheleaves.com, cleanalltheleaves.net; competitor BUILT: cleanalltheleaves.wiki \"Clean all the leaves! Calculator, Guides\", clean-all-the-leaves.wiki \"Clean all the leaves! Wiki - Guide, Tips\", cleanalltheleaveswiki.wiki \"Clean all the leaves Wiki: Codes · Guide\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 102039,
+      "ccu": 99037,
       "ageDays": 60.7,
-      "rollingAvg": 85074,
-      "spikePct": 20,
+      "rollingAvg": 85491,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.6d (growachickenfighter.com, growachickenfighter.net); .com registered 8.6d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 167198,
+      "ccu": 161844,
       "ageDays": 22,
-      "rollingAvg": 150331,
-      "spikePct": 11,
+      "rollingAvg": 149757,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 1.1d ago; .com probe inconclusive — check by hand"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 55422,
+      "ccu": 56840,
       "ageDays": 37.3,
-      "rollingAvg": 47518,
-      "spikePct": 17,
+      "rollingAvg": 47104,
+      "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 32214,
+      "ccu": 31699,
       "ageDays": 49.6,
-      "rollingAvg": 44529,
+      "rollingAvg": 43844,
       "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,35 +59,35 @@
     {
       "source": "discover",
       "name": "Magic Loot[🌗Light vs Dark Event]",
-      "ccu": 24091,
+      "ccu": 23546,
       "ageDays": 31.9,
-      "rollingAvg": 26431,
-      "spikePct": -9,
+      "rollingAvg": 26309,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 709.5d (magicloot.com, magicloot.net)"
     },
     {
       "source": "discover",
-      "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 30711,
-      "ageDays": 48.7,
-      "rollingAvg": 30555,
-      "spikePct": 1,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
-    },
-    {
-      "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 37398,
+      "ccu": 38168,
       "ageDays": 40.2,
-      "rollingAvg": 39459,
-      "spikePct": -5,
+      "rollingAvg": 39216,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
+    },
+    {
+      "source": "discover",
+      "name": "[X2] +1 Cut Grass Adventure",
+      "ccu": 31189,
+      "ageDays": 48.7,
+      "rollingAvg": 30290,
+      "spikePct": 3,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
     }
   ]
 }
