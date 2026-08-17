@@ -2456,7 +2456,7 @@
     "https://beebom.com/pop-for-free-codes/": "2026-08-17T12:43:23+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-17T13:30:16+00:00",
+    "post-sitemap.xml": "2026-08-17T15:26:35+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2505,8 +2505,8 @@
     "post-sitemap47.xml": "2026-03-18T09:37:03+00:00",
     "post-sitemap48.xml": "2026-05-14T20:03:09+00:00",
     "post-sitemap49.xml": "2026-07-24T01:46:36+00:00",
-    "post-sitemap50.xml": "2026-08-16T11:40:53+00:00",
-    "post-sitemap51.xml": "2026-08-17T13:30:16+00:00"
+    "post-sitemap50.xml": "2026-08-16T11:42:23+00:00",
+    "post-sitemap51.xml": "2026-08-17T15:26:35+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -5669,7 +5669,7 @@
     },
     "https://beebom.com/ghost-driver-codes/": {
       "status": "done",
-      "attempts": 2,
+      "attempts": 4,
       "placeId": 137228775845999,
       "universeId": 10173311467
     },
@@ -5704,5 +5704,5 @@
       "universeId": 10556883024
     }
   },
-  "updatedAt": "2026-08-17T14:00:07.847Z"
+  "updatedAt": "2026-08-17T16:00:03.881Z"
 }
