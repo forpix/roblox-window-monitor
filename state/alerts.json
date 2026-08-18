@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-18T17:15:07.426Z",
+  "generatedAt": "2026-08-18T17:45:07.058Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 80949,
+      "ccu": 80511,
       "ageDays": 28.7,
-      "rollingAvg": 67976,
-      "spikePct": 19,
+      "rollingAvg": 68350,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 0.3d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 201001,
+      "ccu": 196092,
       "ageDays": 24.4,
-      "rollingAvg": 214090,
-      "spikePct": -6,
+      "rollingAvg": 215542,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 3.6d ago; .com probe inconclusive — check by hand"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 65680,
+      "ccu": 61570,
       "ageDays": 63.1,
-      "rollingAvg": 75015,
-      "spikePct": -12,
+      "rollingAvg": 75320,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 11.0d (growachickenfighter.com, growachickenfighter.net); .com registered 11.0d ago"
+      "detail": "both taken, oldest 11.1d (growachickenfighter.com, growachickenfighter.net); .com registered 11.1d ago"
     },
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 45495,
+      "ccu": 43698,
       "ageDays": 39.8,
-      "rollingAvg": 44694,
-      "spikePct": 2,
+      "rollingAvg": 45106,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 34816,
+      "ccu": 34971,
       "ageDays": 26.2,
-      "rollingAvg": 30273,
+      "rollingAvg": 30279,
       "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 35015,
-      "ageDays": 51.1,
-      "rollingAvg": 29126,
-      "spikePct": 20,
+      "ccu": 34052,
+      "ageDays": 51.2,
+      "rollingAvg": 29484,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 22852,
+      "ccu": 21286,
       "ageDays": 45.9,
-      "rollingAvg": 33056,
-      "spikePct": -31,
+      "rollingAvg": 32966,
+      "spikePct": -35,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 25.4d (greedygrowers.com, greedygrowers.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 35227,
-      "ageDays": 42.6,
-      "rollingAvg": 30119,
-      "spikePct": 17,
+      "ccu": 33670,
+      "ageDays": 42.7,
+      "rollingAvg": 30270,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 73872,
+      "ccu": 72991,
       "ageDays": 162.9,
-      "rollingAvg": 56035,
-      "spikePct": 32,
+      "rollingAvg": 56833,
+      "spikePct": 28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 2.4d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
