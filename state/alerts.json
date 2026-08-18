@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-18T17:45:07.058Z",
+  "generatedAt": "2026-08-18T18:15:06.884Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 80511,
+      "ccu": 81331,
       "ageDays": 28.7,
-      "rollingAvg": 68350,
+      "rollingAvg": 68764,
       "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 0.3d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 0.4d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 196092,
+      "ccu": 190341,
       "ageDays": 24.4,
-      "rollingAvg": 215542,
-      "spikePct": -9,
+      "rollingAvg": 216655,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 3.6d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 61570,
+      "ccu": 59768,
       "ageDays": 63.1,
-      "rollingAvg": 75320,
-      "spikePct": -18,
+      "rollingAvg": 75471,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.1d (growachickenfighter.com, growachickenfighter.net); .com registered 11.1d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 43698,
+      "ccu": 43155,
       "ageDays": 39.8,
-      "rollingAvg": 45106,
-      "spikePct": -3,
+      "rollingAvg": 45473,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 34971,
-      "ageDays": 26.2,
-      "rollingAvg": 30279,
-      "spikePct": 15,
+      "ccu": 35507,
+      "ageDays": 26.3,
+      "rollingAvg": 30275,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 34052,
+      "ccu": 34290,
       "ageDays": 51.2,
-      "rollingAvg": 29484,
+      "rollingAvg": 29825,
       "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 21286,
+      "ccu": 20160,
       "ageDays": 45.9,
-      "rollingAvg": 32966,
-      "spikePct": -35,
+      "rollingAvg": 32907,
+      "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 25.4d (greedygrowers.com, greedygrowers.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 33670,
+      "ccu": 34202,
       "ageDays": 42.7,
-      "rollingAvg": 30270,
-      "spikePct": 11,
+      "rollingAvg": 30366,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -92,9 +92,9 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 72991,
-      "ageDays": 162.9,
-      "rollingAvg": 56833,
+      "ccu": 74028,
+      "ageDays": 163,
+      "rollingAvg": 57653,
       "spikePct": 28,
       "gate": "C:fresh-com",
       "verdict": "RED",
