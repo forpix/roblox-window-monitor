@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-18T19:45:07.412Z",
+  "generatedAt": "2026-08-18T20:15:13.336Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 78305,
+      "ccu": 75041,
       "ageDays": 28.8,
-      "rollingAvg": 70520,
-      "spikePct": 11,
+      "rollingAvg": 71148,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 0.4d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 178203,
+      "ccu": 171936,
       "ageDays": 24.5,
-      "rollingAvg": 218764,
-      "spikePct": -19,
+      "rollingAvg": 218973,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 3.7d ago; .com probe inconclusive — check by hand"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 51632,
+      "ccu": 51029,
       "ageDays": 63.2,
-      "rollingAvg": 75074,
-      "spikePct": -31,
+      "rollingAvg": 74670,
+      "spikePct": -32,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 11.1d (growachickenfighter.com, growachickenfighter.net); .com registered 11.1d ago"
+      "detail": "both taken, oldest 11.2d (growachickenfighter.com, growachickenfighter.net); .com registered 11.2d ago"
     },
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 39581,
+      "ccu": 37387,
       "ageDays": 39.9,
-      "rollingAvg": 46523,
-      "spikePct": -15,
+      "rollingAvg": 46787,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 35087,
-      "ageDays": 26.3,
-      "rollingAvg": 30309,
-      "spikePct": 16,
+      "ccu": 34824,
+      "ageDays": 26.4,
+      "rollingAvg": 30329,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 31906,
-      "ageDays": 51.2,
-      "rollingAvg": 30889,
-      "spikePct": 3,
+      "ccu": 30638,
+      "ageDays": 51.3,
+      "rollingAvg": 31195,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 32904,
-      "ageDays": 42.7,
-      "rollingAvg": 30634,
-      "spikePct": 7,
+      "ccu": 31367,
+      "ageDays": 42.8,
+      "rollingAvg": 30711,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 69013,
-      "ageDays": 163,
-      "rollingAvg": 60374,
-      "spikePct": 14,
+      "ccu": 64592,
+      "ageDays": 163.1,
+      "rollingAvg": 61227,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 2.5d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
