@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-18T06:45:08.690Z",
+  "generatedAt": "2026-08-18T07:15:07.902Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 56282,
+      "ccu": 59598,
       "ageDays": 28.2,
-      "rollingAvg": 77044,
-      "spikePct": -27,
+      "rollingAvg": 75939,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanalltheleaves.com, cleanalltheleaves.net; competitor BUILT: cleanalltheleaves.wiki \"Clean all the leaves! Calculator, Guides\", clean-all-the-leaves.wiki \"Clean all the leaves! Wiki - Guide, Tips\", cleanalltheleaveswiki.wiki \"Clean all the leaves Wiki: Codes · Guide\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 199228,
+      "ccu": 202100,
       "ageDays": 24,
-      "rollingAvg": 169415,
-      "spikePct": 18,
+      "rollingAvg": 168843,
+      "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 3.1d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 75206,
+      "ccu": 73394,
       "ageDays": 62.7,
-      "rollingAvg": 64995,
-      "spikePct": 16,
+      "rollingAvg": 64570,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.6d (growachickenfighter.com, growachickenfighter.net); .com registered 10.6d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 42183,
+      "ccu": 43319,
       "ageDays": 39.3,
-      "rollingAvg": 42689,
-      "spikePct": -1,
+      "rollingAvg": 41994,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 25258,
+      "ccu": 26300,
       "ageDays": 50.7,
-      "rollingAvg": 26770,
-      "spikePct": -6,
+      "rollingAvg": 26444,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 23663,
+      "ccu": 24246,
       "ageDays": 42.2,
-      "rollingAvg": 33881,
-      "spikePct": -30,
+      "rollingAvg": 33405,
+      "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -70,24 +70,24 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 36620,
+      "ccu": 35964,
       "ageDays": 45.5,
-      "rollingAvg": 33657,
-      "spikePct": 9,
+      "rollingAvg": 33533,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 24.9d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 25.0d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 47903,
+      "ccu": 51580,
       "ageDays": 162.5,
-      "rollingAvg": 57057,
-      "spikePct": -16,
+      "rollingAvg": 56283,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sandiegoborderroleplay.net; .com registered 1.9d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
+      "detail": "available: sandiegoborderroleplay.net; .com registered 2.0d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     }
   ]
 }
