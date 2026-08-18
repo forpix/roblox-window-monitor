@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-18T01:15:07.097Z",
+  "generatedAt": "2026-08-18T01:45:07.389Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 57090,
+      "ccu": 55684,
       "ageDays": 28,
-      "rollingAvg": 85506,
-      "spikePct": -33,
+      "rollingAvg": 85265,
+      "spikePct": -35,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: cleanalltheleaves.com, cleanalltheleaves.net; competitor BUILT: cleanalltheleaves.wiki \"Clean all the leaves! Calculator, Guides\", clean-all-the-leaves.wiki \"Clean all the leaves! Wiki - Guide, Tips\", cleanalltheleaveswiki.wiki \"Clean all the leaves Wiki: Codes · Guide\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 167325,
+      "ccu": 170680,
       "ageDays": 23.7,
-      "rollingAvg": 167318,
-      "spikePct": 0,
+      "rollingAvg": 167835,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: stealanegg.net; .com registered 2.9d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 63140,
+      "ccu": 66175,
       "ageDays": 62.4,
-      "rollingAvg": 67161,
-      "spikePct": -6,
+      "rollingAvg": 66848,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.4d (growachickenfighter.com, growachickenfighter.net); .com registered 10.4d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 29371,
+      "ccu": 30064,
       "ageDays": 39.1,
-      "rollingAvg": 49928,
-      "spikePct": -41,
+      "rollingAvg": 49293,
+      "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 23052,
+      "ccu": 21616,
       "ageDays": 25.6,
-      "rollingAvg": 29426,
-      "spikePct": -22,
+      "rollingAvg": 29400,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 38918,
+      "ccu": 38324,
       "ageDays": 162.3,
-      "rollingAvg": 66070,
-      "spikePct": -41,
+      "rollingAvg": 65648,
+      "spikePct": -42,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 1.7d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Wash The House 🧼",
-      "ccu": 20682,
+      "ccu": 20198,
       "ageDays": 51.4,
-      "rollingAvg": 26035,
-      "spikePct": -21,
+      "rollingAvg": 25991,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: washthehouse.net; .com registered 10.6d ago; .com BUILT: \"Wash The House Roblox Guide: Controls, Upgrades &amp; Planne\""
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 30401,
+      "ccu": 30148,
       "ageDays": 42,
-      "rollingAvg": 36467,
+      "rollingAvg": 36472,
       "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 20839,
+      "ccu": 20885,
       "ageDays": 50.5,
-      "rollingAvg": 29221,
-      "spikePct": -29,
+      "rollingAvg": 29102,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 23264,
-      "ageDays": 45.2,
-      "rollingAvg": 35290,
-      "spikePct": -34,
+      "ccu": 25205,
+      "ageDays": 45.3,
+      "rollingAvg": 34946,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.7d (greedygrowers.com, greedygrowers.net)"
