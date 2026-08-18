@@ -4445,7 +4445,10 @@
     "https://tryhardguides.com/pop-for-free-codes/",
     "https://tryhardguides.com/greedy-growers-codes/",
     "https://tryhardguides.com/steel-crossfire-codes/",
-    "https://tryhardguides.com/magic-loot-codes/"
+    "https://tryhardguides.com/magic-loot-codes/",
+    "https://tryhardguides.com/snipers-vs-runners-codes/",
+    "https://tryhardguides.com/anime-stars-codes/",
+    "https://tryhardguides.com/grow-a-chicken-fighter-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -8893,7 +8896,10 @@
     "https://tryhardguides.com/pop-for-free-codes/": "2026-08-14T12:42:57+00:00",
     "https://tryhardguides.com/greedy-growers-codes/": "2026-08-14T11:37:00+00:00",
     "https://tryhardguides.com/steel-crossfire-codes/": "2026-08-17T07:35:33+00:00",
-    "https://tryhardguides.com/magic-loot-codes/": "2026-08-17T07:36:33+00:00"
+    "https://tryhardguides.com/magic-loot-codes/": "2026-08-17T07:36:33+00:00",
+    "https://tryhardguides.com/snipers-vs-runners-codes/": "2026-08-18T11:37:00+00:00",
+    "https://tryhardguides.com/anime-stars-codes/": "2026-08-18T11:22:00+00:00",
+    "https://tryhardguides.com/grow-a-chicken-fighter-codes/": "2026-08-18T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9167,7 +9173,7 @@
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
     "post-sitemap-2026-32.xml": "2026-08-09T23:59:59+00:00",
     "post-sitemap-2026-33.xml": "2026-08-16T23:59:59+00:00",
-    "post-sitemap-2026-34.xml": "2026-08-18T10:00:12+00:00"
+    "post-sitemap-2026-34.xml": "2026-08-18T12:00:12+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -12509,7 +12515,25 @@
       "attempts": 1,
       "placeId": 99241284776589,
       "universeId": 7319312295
+    },
+    "https://tryhardguides.com/snipers-vs-runners-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 133609054222738,
+      "universeId": 10178432352
+    },
+    "https://tryhardguides.com/anime-stars-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 122553263569744,
+      "universeId": 10697889407
+    },
+    "https://tryhardguides.com/grow-a-chicken-fighter-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 94640181989498,
+      "universeId": 10338952197
     }
   },
-  "updatedAt": "2026-08-18T10:00:09.055Z"
+  "updatedAt": "2026-08-18T12:00:07.782Z"
 }
