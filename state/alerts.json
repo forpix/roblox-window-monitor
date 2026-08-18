@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-18T20:45:07.293Z",
+  "generatedAt": "2026-08-18T21:15:07.086Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 72246,
+      "ccu": 70624,
       "ageDays": 28.8,
-      "rollingAvg": 71753,
-      "spikePct": 1,
+      "rollingAvg": 72322,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 0.5d ago; .com probe inconclusive — check by hand"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 159854,
-      "ageDays": 24.5,
-      "rollingAvg": 218920,
+      "ccu": 159745,
+      "ageDays": 24.6,
+      "rollingAvg": 218415,
       "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 50206,
-      "ageDays": 63.2,
-      "rollingAvg": 74194,
-      "spikePct": -32,
+      "ccu": 49398,
+      "ageDays": 63.3,
+      "rollingAvg": 73631,
+      "spikePct": -33,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.2d (growachickenfighter.com, growachickenfighter.net); .com registered 11.2d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 35464,
+      "ccu": 33101,
       "ageDays": 39.9,
-      "rollingAvg": 46986,
-      "spikePct": -25,
+      "rollingAvg": 47110,
+      "spikePct": -30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,21 +48,32 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 34561,
+      "ccu": 31303,
       "ageDays": 26.4,
-      "rollingAvg": 30382,
-      "spikePct": 14,
+      "rollingAvg": 30451,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
     },
     {
       "source": "discover",
+      "name": "Steal a Brainrot",
+      "ccu": 481800,
+      "ageDays": 459.9,
+      "rollingAvg": 225018,
+      "spikePct": 114,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 436.7d (stealabrainrot.com, stealabrainrot.net)"
+    },
+    {
+      "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 28968,
+      "ccu": 26436,
       "ageDays": 51.3,
-      "rollingAvg": 31469,
-      "spikePct": -8,
+      "rollingAvg": 31704,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -70,10 +81,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 30843,
+      "ccu": 29237,
       "ageDays": 42.8,
-      "rollingAvg": 30795,
-      "spikePct": 0,
+      "rollingAvg": 30905,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -81,10 +92,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 60514,
+      "ccu": 55594,
       "ageDays": 163.1,
-      "rollingAvg": 61985,
-      "spikePct": -2,
+      "rollingAvg": 62655,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 2.5d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
