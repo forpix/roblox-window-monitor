@@ -1232,7 +1232,8 @@
     "https://beebom.com/color-escape-codes/",
     "https://beebom.com/start-your-soccer-career-codes/",
     "https://beebom.com/roblox-san-diego-border-roleplay-codes/",
-    "https://beebom.com/fortnite-lobby-hack-codes/"
+    "https://beebom.com/fortnite-lobby-hack-codes/",
+    "https://beebom.com/spin-a-superhero-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2454,7 +2455,7 @@
     "https://beebom.com/marvel-omega-codes/": "2026-08-14T06:36:18+00:00",
     "https://beebom.com/the-sims-4-cheat-codes/": "2026-08-14T14:48:48+00:00",
     "https://beebom.com/jojos-bizarre-adventure-golden-spirit-codes/": "2026-08-14T16:15:32+00:00",
-    "https://beebom.com/beyond-cultivation-codes/": "2026-08-19T06:38:17+00:00",
+    "https://beebom.com/beyond-cultivation-codes/": "2026-08-19T09:30:18+00:00",
     "https://beebom.com/anime-origins-codes/": "2026-08-19T07:17:10+00:00",
     "https://beebom.com/anime-stars-codes/": "2026-08-17T04:23:00+00:00",
     "https://beebom.com/mech-arena-promo-codes/": "2026-08-17T02:20:53+00:00",
@@ -2467,10 +2468,11 @@
     "https://beebom.com/color-escape-codes/": "2026-08-18T11:54:49+00:00",
     "https://beebom.com/start-your-soccer-career-codes/": "2026-08-19T03:07:09+00:00",
     "https://beebom.com/roblox-san-diego-border-roleplay-codes/": "2026-08-19T05:33:25+00:00",
-    "https://beebom.com/fortnite-lobby-hack-codes/": "2026-08-19T06:49:08+00:00"
+    "https://beebom.com/fortnite-lobby-hack-codes/": "2026-08-19T06:49:08+00:00",
+    "https://beebom.com/spin-a-superhero-codes/": "2026-08-19T09:43:12+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-19T07:17:10+00:00",
+    "post-sitemap.xml": "2026-08-19T09:43:12+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2520,7 +2522,7 @@
     "post-sitemap48.xml": "2026-05-15T00:24:05+00:00",
     "post-sitemap49.xml": "2026-07-24T05:20:50+00:00",
     "post-sitemap50.xml": "2026-08-17T04:23:00+00:00",
-    "post-sitemap51.xml": "2026-08-19T07:17:10+00:00"
+    "post-sitemap51.xml": "2026-08-19T09:43:12+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -5707,7 +5709,7 @@
     },
     "https://beebom.com/beyond-cultivation-codes/": {
       "status": "done",
-      "attempts": 3,
+      "attempts": 4,
       "placeId": 109282778134025,
       "universeId": 8652234675
     },
@@ -5740,7 +5742,13 @@
       "attempts": 1,
       "placeId": 123618551531903,
       "universeId": 10576219283
+    },
+    "https://beebom.com/spin-a-superhero-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 130602523975656,
+      "universeId": 10495281614
     }
   },
-  "updatedAt": "2026-08-19T08:00:07.801Z"
+  "updatedAt": "2026-08-19T10:00:09.228Z"
 }
