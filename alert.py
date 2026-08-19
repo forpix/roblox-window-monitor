@@ -86,9 +86,17 @@ def send_email(subject, body):
     msg["To"] = to
     msg.set_content(body)
     try:
-        with smtplib.SMTP_SSL(host, port, context=ssl.create_default_context()) as s:
-            s.login(user, pw)
-            s.send_message(msg)
+        # 587 = STARTTLS (implicit-SSL 465 gets its handshake killed by the local proxy);
+        # timeout so a dead SMTP socket can't wedge the hourly launchd job forever
+        if port == 587:
+            with smtplib.SMTP(host, port, timeout=60) as s:
+                s.starttls(context=ssl.create_default_context())
+                s.login(user, pw)
+                s.send_message(msg)
+        else:
+            with smtplib.SMTP_SSL(host, port, context=ssl.create_default_context(), timeout=60) as s:
+                s.login(user, pw)
+                s.send_message(msg)
     except Exception as exc:
         print(f"alert: send failed {exc}")
         return False
