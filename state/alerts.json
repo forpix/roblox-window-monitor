@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T15:15:08.777Z",
+  "generatedAt": "2026-08-19T15:45:17.377Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 78803,
+      "ccu": 76763,
       "ageDays": 29.6,
-      "rollingAvg": 63146,
-      "spikePct": 25,
+      "rollingAvg": 63373,
+      "spikePct": 21,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 1.2d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 288284,
+      "ccu": 269675,
       "ageDays": 25.3,
-      "rollingAvg": 249205,
-      "spikePct": 16,
+      "rollingAvg": 252776,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.5d (stealanegg.com, stealanegg.net); .com registered 4.5d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 48562,
+      "ccu": 44844,
       "ageDays": 40.7,
-      "rollingAvg": 39984,
-      "spikePct": 21,
+      "rollingAvg": 40413,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 30915,
-      "ageDays": 27.1,
-      "rollingAvg": 29596,
-      "spikePct": 4,
+      "ccu": 30393,
+      "ageDays": 27.2,
+      "rollingAvg": 29489,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 83378,
+      "ccu": 78087,
       "ageDays": 64,
-      "rollingAvg": 74025,
-      "spikePct": 13,
+      "rollingAvg": 74969,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.0d (growachickenfighter.com, growachickenfighter.net); .com registered 12.0d ago"
     },
     {
       "source": "discover",
-      "name": "[1H] +1 Cut Grass Adventure",
-      "ccu": 45856,
+      "name": "[30MIN] +1 Cut Grass Adventure",
+      "ccu": 50874,
       "ageDays": 52.1,
-      "rollingAvg": 30810,
-      "spikePct": 49,
+      "rollingAvg": 31349,
+      "spikePct": 62,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 29954,
+      "ccu": 26624,
       "ageDays": 46.8,
-      "rollingAvg": 30690,
-      "spikePct": -2,
+      "rollingAvg": 30587,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 26.3d (greedygrowers.com, greedygrowers.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 37221,
+      "ccu": 37153,
       "ageDays": 43.6,
-      "rollingAvg": 31603,
-      "spikePct": 18,
+      "rollingAvg": 31702,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 71203,
-      "ageDays": 163.8,
-      "rollingAvg": 53152,
-      "spikePct": 34,
+      "ccu": 70329,
+      "ageDays": 163.9,
+      "rollingAvg": 53586,
+      "spikePct": 31,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 3.3d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
