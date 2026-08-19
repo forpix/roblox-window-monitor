@@ -4448,7 +4448,11 @@
     "https://tryhardguides.com/magic-loot-codes/",
     "https://tryhardguides.com/snipers-vs-runners-codes/",
     "https://tryhardguides.com/anime-stars-codes/",
-    "https://tryhardguides.com/grow-a-chicken-fighter-codes/"
+    "https://tryhardguides.com/grow-a-chicken-fighter-codes/",
+    "https://tryhardguides.com/spin-a-superhero-codes/",
+    "https://tryhardguides.com/incommunication-codes/",
+    "https://tryhardguides.com/anime-capture-codes/",
+    "https://tryhardguides.com/anime-origins-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -8899,7 +8903,11 @@
     "https://tryhardguides.com/magic-loot-codes/": "2026-08-17T07:36:33+00:00",
     "https://tryhardguides.com/snipers-vs-runners-codes/": "2026-08-18T11:37:00+00:00",
     "https://tryhardguides.com/anime-stars-codes/": "2026-08-19T06:03:17+00:00",
-    "https://tryhardguides.com/grow-a-chicken-fighter-codes/": "2026-08-18T11:07:00+00:00"
+    "https://tryhardguides.com/grow-a-chicken-fighter-codes/": "2026-08-18T11:07:00+00:00",
+    "https://tryhardguides.com/spin-a-superhero-codes/": "2026-08-19T11:52:00+00:00",
+    "https://tryhardguides.com/incommunication-codes/": "2026-08-19T11:37:00+00:00",
+    "https://tryhardguides.com/anime-capture-codes/": "2026-08-19T11:22:00+00:00",
+    "https://tryhardguides.com/anime-origins-codes/": "2026-08-19T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9173,7 +9181,7 @@
     "post-sitemap-2026-31.xml": "2026-08-02T23:59:59+00:00",
     "post-sitemap-2026-32.xml": "2026-08-09T23:59:59+00:00",
     "post-sitemap-2026-33.xml": "2026-08-16T23:59:59+00:00",
-    "post-sitemap-2026-34.xml": "2026-08-19T09:35:04+00:00"
+    "post-sitemap-2026-34.xml": "2026-08-19T12:00:13+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -12539,7 +12547,31 @@
       "attempts": 1,
       "placeId": 106187832607756,
       "universeId": 8600977079
+    },
+    "https://tryhardguides.com/spin-a-superhero-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 130602523975656,
+      "universeId": 10495281614
+    },
+    "https://tryhardguides.com/incommunication-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 79383217191606,
+      "universeId": 10408282469
+    },
+    "https://tryhardguides.com/anime-capture-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 94717504417144,
+      "universeId": 10636243604
+    },
+    "https://tryhardguides.com/anime-origins-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 129932912185311,
+      "universeId": 8946565814
     }
   },
-  "updatedAt": "2026-08-19T10:00:09.228Z"
+  "updatedAt": "2026-08-19T12:00:07.369Z"
 }
