@@ -6,7 +6,9 @@ Reuses the game-monitor Gmail-SMTP setup. Creds via env, never in git:
   GM_SMTP_PASS  Gmail app password (Google account -> Security -> App passwords)
   GM_MAIL_TO    recipient (default = GM_SMTP_USER)
   GM_SMTP_HOST  default smtp.gmail.com
-  GM_SMTP_PORT  default 465 (SSL)
+  GM_SMTP_PORT  default 465 (SSL); 587 = STARTTLS
+  GM_FEISHU_TO  Feishu open_id; when set, deliver via lark-cli bot DM instead of SMTP
+  GM_LARK_CLI   lark-cli path, default /opt/homebrew/bin/lark-cli (not on launchd PATH)
 Missing USER/PASS -> silently skip sending (still updates seen-state / prints).
 
 The cloud Actions cron commits state/alerts.json every 2h; a candidate is
@@ -71,7 +73,28 @@ def fmt(c):
     return f"[{c['verdict']}] {c['name']} — CCU {c['ccu']}, {c.get('gate', '')}, {c.get('detail', '')}"
 
 
+def send_feishu(to, subject, body):
+    # Gmail SMTP unreachable from this machine since 2026-08 (blackholed direct
+    # and via local proxy) — deliver via Feishu bot DM instead
+    lark = os.environ.get("GM_LARK_CLI", "/opt/homebrew/bin/lark-cli")
+    try:
+        subprocess.run([lark, "im", "+messages-send", "--as", "bot", "--user-id", to,
+                        "--text", f"{subject}\n\n{body}"],
+                       check=True, capture_output=True, timeout=120)
+    except subprocess.CalledProcessError as exc:
+        print(f"alert: feishu send failed {exc.stderr.decode(errors='replace')[:300]}")
+        return False
+    except Exception as exc:
+        print(f"alert: feishu send failed {exc}")
+        return False
+    print(f"alert: feishu'd {to}")
+    return True
+
+
 def send_email(subject, body):
+    feishu_to = (os.environ.get("GM_FEISHU_TO") or "").strip()
+    if feishu_to:
+        return send_feishu(feishu_to, subject, body)
     user = (os.environ.get("GM_SMTP_USER") or "").strip()
     pw = (os.environ.get("GM_SMTP_PASS") or "").replace(" ", "")  # app pw shows with spaces
     if not user or not pw:
