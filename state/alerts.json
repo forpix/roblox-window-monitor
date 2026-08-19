@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T17:15:06.461Z",
+  "generatedAt": "2026-08-19T17:45:07.865Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 75208,
+      "ccu": 74774,
       "ageDays": 29.7,
-      "rollingAvg": 64155,
-      "spikePct": 17,
+      "rollingAvg": 64450,
+      "spikePct": 16,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 1.3d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 230567,
+      "ccu": 218060,
       "ageDays": 25.4,
-      "rollingAvg": 260563,
-      "spikePct": -12,
+      "rollingAvg": 261998,
+      "spikePct": -17,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.6d (stealanegg.com, stealanegg.net); .com registered 4.6d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 38035,
+      "ccu": 36228,
       "ageDays": 40.8,
-      "rollingAvg": 41542,
-      "spikePct": -8,
+      "rollingAvg": 41839,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 31077,
+      "ccu": 30500,
       "ageDays": 27.2,
-      "rollingAvg": 29204,
-      "spikePct": 6,
+      "rollingAvg": 29107,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -48,42 +48,42 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 65567,
+      "ccu": 61558,
       "ageDays": 64.1,
-      "rollingAvg": 76847,
-      "spikePct": -15,
+      "rollingAvg": 77056,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 12.0d (growachickenfighter.com, growachickenfighter.net); .com registered 12.0d ago"
+      "detail": "both taken, oldest 12.1d (growachickenfighter.com, growachickenfighter.net); .com registered 12.1d ago"
+    },
+    {
+      "source": "discover",
+      "name": "[X2]🐒 +1 Speed Monkey Escape",
+      "ccu": 299648,
+      "ageDays": 101.9,
+      "rollingAvg": 126437,
+      "spikePct": 137,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "available: 1speedmonkeyescape.com, 1speedmonkeyescape.net; competitor BUILT: 1speedmonkeyescape.wiki \"+1 Speed Monkey Escape Wiki - Codes, Sha\", 1-speed-monkey-escape.wiki \"1 Speed Monkey Escape Wiki - Roblox Guid\""
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 62075,
-      "ageDays": 52.1,
-      "rollingAvg": 35352,
-      "spikePct": 76,
+      "ccu": 44705,
+      "ageDays": 52.2,
+      "rollingAvg": 36426,
+      "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
     },
     {
       "source": "discover",
-      "name": "Greedy Growers 🌱",
-      "ccu": 20394,
-      "ageDays": 46.9,
-      "rollingAvg": 30323,
-      "spikePct": -33,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "both taken, oldest 26.4d (greedygrowers.com, greedygrowers.net)"
-    },
-    {
-      "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 35466,
-      "ageDays": 43.6,
-      "rollingAvg": 31921,
+      "ccu": 35481,
+      "ageDays": 43.7,
+      "rollingAvg": 31992,
       "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -91,11 +91,11 @@
     },
     {
       "source": "discover",
-      "name": "[X15] +1 Speed Keyboard Escape | Candy & Chocolate",
-      "ccu": 926377,
+      "name": "[X20] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "ccu": 1448098,
       "ageDays": 213,
-      "rollingAvg": 230857,
-      "spikePct": 301,
+      "rollingAvg": 251244,
+      "spikePct": 476,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net; competitor BUILT: 1speedkeyboardescape.wiki \"1 Speed Keyboard Escape wiki, Codes &amp\", 1speedkeyboardescape.pages.dev \"1 Speed Keyboard Escape wiki, Codes &amp\""
@@ -103,10 +103,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 71861,
+      "ccu": 71095,
       "ageDays": 163.9,
-      "rollingAvg": 55471,
-      "spikePct": 30,
+      "rollingAvg": 56245,
+      "spikePct": 26,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 3.4d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
