@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T21:45:07.009Z",
+  "generatedAt": "2026-08-19T22:15:06.587Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 67840,
-      "ageDays": 29.8,
-      "rollingAvg": 68317,
-      "spikePct": -1,
+      "ccu": 65466,
+      "ageDays": 29.9,
+      "rollingAvg": 68912,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 1.5d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 181167,
+      "ccu": 188634,
       "ageDays": 25.6,
-      "rollingAvg": 259991,
-      "spikePct": -30,
+      "rollingAvg": 258677,
+      "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 4.7d (stealanegg.com, stealanegg.net); .com registered 4.7d ago"
+      "detail": "both taken, oldest 4.8d (stealanegg.com, stealanegg.net); .com registered 4.8d ago"
     },
     {
       "source": "discover",
       "name": "[UPD] Dig & Clean 🧼",
-      "ccu": 24410,
-      "ageDays": 40.9,
-      "rollingAvg": 42403,
-      "spikePct": -42,
+      "ccu": 23412,
+      "ageDays": 41,
+      "rollingAvg": 42223,
+      "spikePct": -45,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 32812,
+      "ccu": 31740,
       "ageDays": 27.4,
-      "rollingAvg": 28154,
-      "spikePct": 17,
+      "rollingAvg": 28196,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 50891,
+      "ccu": 53167,
       "ageDays": 64.3,
-      "rollingAvg": 73965,
-      "spikePct": -31,
+      "rollingAvg": 73372,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.2d (growachickenfighter.com, growachickenfighter.net); .com registered 12.2d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 52997,
+      "ccu": 48018,
       "ageDays": 164.1,
-      "rollingAvg": 62266,
-      "spikePct": -15,
+      "rollingAvg": 62755,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 3.6d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 28892,
+      "ccu": 28259,
       "ageDays": 52.3,
-      "rollingAvg": 39044,
-      "spikePct": -26,
+      "rollingAvg": 39240,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
