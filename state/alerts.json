@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-20T04:45:07.704Z",
+  "generatedAt": "2026-08-20T05:15:06.472Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 261432,
+      "ccu": 268561,
       "ageDays": 25.9,
-      "rollingAvg": 247648,
-      "spikePct": 6,
+      "rollingAvg": 246582,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 5.0d (stealanegg.com, stealanegg.net); .com registered 5.0d ago"
+      "detail": "both taken, oldest 5.1d (stealanegg.com, stealanegg.net); .com registered 5.1d ago"
     },
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 44079,
-      "ageDays": 30.1,
-      "rollingAvg": 68510,
-      "spikePct": -36,
+      "ccu": 44173,
+      "ageDays": 30.2,
+      "rollingAvg": 67713,
+      "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 1.8d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 27704,
-      "ageDays": 41.2,
-      "rollingAvg": 36372,
-      "spikePct": -24,
+      "ccu": 28595,
+      "ageDays": 41.3,
+      "rollingAvg": 35674,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 72266,
+      "ccu": 70441,
       "ageDays": 64.6,
-      "rollingAvg": 70030,
-      "spikePct": 3,
+      "rollingAvg": 69744,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.5d (growachickenfighter.com, growachickenfighter.net); .com registered 12.5d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 35690,
+      "ccu": 37201,
       "ageDays": 164.4,
-      "rollingAvg": 58388,
-      "spikePct": -39,
+      "rollingAvg": 57444,
+      "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 3.9d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 25144,
+      "ccu": 26327,
       "ageDays": 52.6,
-      "rollingAvg": 37930,
-      "spikePct": -34,
+      "rollingAvg": 37517,
+      "spikePct": -30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 27405,
+      "ccu": 28204,
       "ageDays": 47.4,
-      "rollingAvg": 30467,
-      "spikePct": -10,
+      "rollingAvg": 30451,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 26.9d (greedygrowers.com, greedygrowers.net)"
