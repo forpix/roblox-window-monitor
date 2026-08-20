@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-20T10:15:08.616Z",
+  "generatedAt": "2026-08-20T10:45:07.890Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 331235,
+      "ccu": 350450,
       "ageDays": 26.1,
-      "rollingAvg": 240270,
-      "spikePct": 38,
+      "rollingAvg": 242458,
+      "spikePct": 45,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.3d (stealanegg.com, stealanegg.net); .com registered 5.3d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 72363,
+      "ccu": 74620,
       "ageDays": 30.4,
-      "rollingAvg": 61424,
-      "spikePct": 18,
+      "rollingAvg": 61335,
+      "spikePct": 22,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 2.0d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 43239,
+      "ccu": 44389,
       "ageDays": 41.5,
-      "rollingAvg": 30447,
-      "spikePct": 42,
+      "rollingAvg": 30511,
+      "spikePct": 45,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 28701,
-      "ageDays": 27.9,
-      "rollingAvg": 28700,
-      "spikePct": 0,
+      "ccu": 30499,
+      "ageDays": 28,
+      "rollingAvg": 28677,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 74549,
+      "ccu": 77138,
       "ageDays": 64.8,
-      "rollingAvg": 64681,
-      "spikePct": 15,
+      "rollingAvg": 64684,
+      "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 12.7d (growachickenfighter.com, growachickenfighter.net); .com registered 12.7d ago"
+      "detail": "both taken, oldest 12.8d (growachickenfighter.com, growachickenfighter.net); .com registered 12.8d ago"
     },
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 67930,
-      "ageDays": 164.6,
-      "rollingAvg": 51847,
-      "spikePct": 31,
+      "ccu": 69332,
+      "ageDays": 164.7,
+      "rollingAvg": 51793,
+      "spikePct": 34,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 4.1d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 38660,
-      "ageDays": 52.8,
-      "rollingAvg": 33771,
-      "spikePct": 14,
+      "ccu": 40154,
+      "ageDays": 52.9,
+      "rollingAvg": 32362,
+      "spikePct": 24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 28601,
+      "ccu": 28847,
       "ageDays": 47.6,
-      "rollingAvg": 29617,
-      "spikePct": -3,
+      "rollingAvg": 29506,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 27.1d (greedygrowers.com, greedygrowers.net)"
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 34723,
-      "ageDays": 44.3,
-      "rollingAvg": 32258,
-      "spikePct": 8,
+      "ccu": 36391,
+      "ageDays": 44.4,
+      "rollingAvg": 32396,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
