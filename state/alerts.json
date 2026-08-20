@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-20T13:45:09.078Z",
+  "generatedAt": "2026-08-20T14:15:08.817Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 392228,
-      "ageDays": 26.2,
-      "rollingAvg": 269427,
-      "spikePct": 46,
+      "ccu": 362105,
+      "ageDays": 26.3,
+      "rollingAvg": 274793,
+      "spikePct": 32,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.4d (stealanegg.com, stealanegg.net); .com registered 5.4d ago"
@@ -15,54 +15,43 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 89388,
+      "ccu": 87799,
       "ageDays": 30.5,
-      "rollingAvg": 62618,
-      "spikePct": 43,
+      "rollingAvg": 62984,
+      "spikePct": 39,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 2.2d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
-      "name": "+1 Drain Water Per Click",
-      "ccu": 20675,
-      "ageDays": 26.5,
-      "rollingAvg": 20292,
-      "spikePct": 2,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
-    },
-    {
-      "source": "discover",
-      "name": "Dig & Clean 🧼",
-      "ccu": 47316,
-      "ageDays": 41.6,
-      "rollingAvg": 32353,
-      "spikePct": 46,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
-    },
-    {
-      "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 32261,
+      "ccu": 32154,
       "ageDays": 28.1,
-      "rollingAvg": 28653,
-      "spikePct": 13,
+      "rollingAvg": 28705,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
     },
     {
       "source": "discover",
+      "name": "Dig & Clean 🧼",
+      "ccu": 46366,
+      "ageDays": 41.6,
+      "rollingAvg": 32791,
+      "spikePct": 41,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
+    },
+    {
+      "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 88152,
-      "ageDays": 64.9,
-      "rollingAvg": 68344,
-      "spikePct": 29,
+      "ccu": 87758,
+      "ageDays": 65,
+      "rollingAvg": 69323,
+      "spikePct": 27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.9d (growachickenfighter.com, growachickenfighter.net); .com registered 12.9d ago"
@@ -70,21 +59,21 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 72733,
+      "ccu": 71621,
       "ageDays": 164.8,
-      "rollingAvg": 51961,
-      "spikePct": 40,
+      "rollingAvg": 52049,
+      "spikePct": 38,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sandiegoborderroleplay.net; .com registered 4.2d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
+      "detail": "available: sandiegoborderroleplay.net; .com registered 4.3d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 43315,
+      "ccu": 41749,
       "ageDays": 53,
-      "rollingAvg": 31444,
-      "spikePct": 38,
+      "rollingAvg": 31717,
+      "spikePct": 32,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -92,21 +81,21 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 34170,
+      "ccu": 32269,
       "ageDays": 47.8,
-      "rollingAvg": 29255,
-      "spikePct": 17,
+      "rollingAvg": 29190,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 27.2d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 27.3d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "TROLL Hug Tower",
-      "ccu": 40962,
+      "ccu": 39312,
       "ageDays": 44.5,
-      "rollingAvg": 34277,
-      "spikePct": 20,
+      "rollingAvg": 34646,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: trollhugtower.com, trollhugtower.net; competitor BUILT: trollhugtower.wiki \"[😎] TROLL Hug Tower Codes, Tier List an\", troll-hug-tower.wiki \"TROLL Hug Tower Roblox Guide &amp; Statu\""
