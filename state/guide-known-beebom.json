@@ -2088,7 +2088,7 @@
     "https://beebom.com/dead-by-daylight-dbd-codes/": "2026-07-31T20:49:14+00:00",
     "https://beebom.com/pokemon-go-codes/": "2026-08-07T04:34:25+00:00",
     "https://beebom.com/roblox-salon-de-fiestas-codes/": "2026-08-01T03:02:01+00:00",
-    "https://beebom.com/roblox-neighbors-codes/": "2026-08-01T01:53:37+00:00",
+    "https://beebom.com/roblox-neighbors-codes/": "2026-08-20T01:27:18+00:00",
     "https://beebom.com/roblox-anime-fighters-simulator-codes/": "2026-08-10T02:20:09+00:00",
     "https://beebom.com/roblox-berry-avenue-codes/": "2026-08-01T01:31:59+00:00",
     "https://beebom.com/best-valorant-crosshair-codes/": "2026-07-31T20:49:33+00:00",
@@ -2472,7 +2472,7 @@
     "https://beebom.com/spin-a-superhero-codes/": "2026-08-19T09:43:12+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-08-19T21:06:21+00:00",
+    "post-sitemap.xml": "2026-08-20T01:27:18+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2521,8 +2521,8 @@
     "post-sitemap47.xml": "2026-03-18T12:05:08+00:00",
     "post-sitemap48.xml": "2026-05-15T05:17:58+00:00",
     "post-sitemap49.xml": "2026-07-24T16:45:53+00:00",
-    "post-sitemap50.xml": "2026-08-17T04:50:01+00:00",
-    "post-sitemap51.xml": "2026-08-19T21:06:21+00:00"
+    "post-sitemap50.xml": "2026-08-17T04:51:43+00:00",
+    "post-sitemap51.xml": "2026-08-20T01:27:18+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3111,7 +3111,7 @@
     },
     "https://beebom.com/roblox-neighbors-codes/": {
       "status": "done",
-      "attempts": 3,
+      "attempts": 4,
       "placeId": 12699642568,
       "universeId": 4452297356
     },
@@ -5750,5 +5750,5 @@
       "universeId": 10495281614
     }
   },
-  "updatedAt": "2026-08-20T00:00:06.649Z"
+  "updatedAt": "2026-08-20T02:00:08.198Z"
 }
