@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-21T20:45:07.472Z",
+  "generatedAt": "2026-08-21T21:15:07.066Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 314004,
-      "ageDays": 27.5,
+      "ccu": 299652,
+      "ageDays": 27.6,
       "rollingAvg": 402902,
-      "spikePct": -22,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.7d (stealanegg.com, stealanegg.net); .com registered 6.7d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 77141,
+      "ccu": 70373,
       "ageDays": 31.8,
-      "rollingAvg": 92505,
-      "spikePct": -17,
+      "rollingAvg": 92842,
+      "spikePct": -24,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 3.5d ago; .com probe inconclusive — check by hand"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 25035,
+      "ccu": 25102,
       "ageDays": 42.9,
-      "rollingAvg": 33799,
+      "rollingAvg": 33785,
       "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 58788,
+      "ccu": 54228,
       "ageDays": 166.1,
-      "rollingAvg": 58905,
-      "spikePct": 0,
+      "rollingAvg": 59580,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 5.5d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -48,24 +48,24 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 34829,
+      "ccu": 33437,
       "ageDays": 54.3,
-      "rollingAvg": 41618,
-      "spikePct": -16,
+      "rollingAvg": 41941,
+      "spikePct": -20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
     },
     {
       "source": "discover",
-      "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 25637,
-      "ageDays": 29.4,
-      "rollingAvg": 26359,
-      "spikePct": -3,
-      "gate": "D:young-chart",
+      "name": "[🧙‍♀️DUELS] Murderers VS Sheriffs",
+      "ccu": 86856,
+      "ageDays": 558.4,
+      "rollingAvg": 28650,
+      "spikePct": 203,
+      "gate": "B:spike",
       "verdict": "RED",
-      "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
+      "detail": "available: murderersvssheriffs.com, murderersvssheriffs.net; competitor BUILT: murderersvssheriffs.wiki \"Murderers VS Sheriffs Guide, Codes &amp;\", murderers-vs-sheriffs.wiki \"Murderers VS Sheriffs Wiki - Codes, Duel\", murderersvssheriffs.vercel.app \"Murderers VS Sheriffs Guide, Codes &amp;\" +1 more"
     }
   ]
 }
