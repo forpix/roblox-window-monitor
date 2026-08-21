@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-21T20:15:07.360Z",
+  "generatedAt": "2026-08-21T20:45:07.472Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 339027,
+      "ccu": 314004,
       "ageDays": 27.5,
-      "rollingAvg": 402140,
-      "spikePct": -16,
+      "rollingAvg": 402902,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.7d (stealanegg.com, stealanegg.net); .com registered 6.7d ago"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 82820,
+      "ccu": 77141,
       "ageDays": 31.8,
-      "rollingAvg": 91940,
-      "spikePct": -10,
+      "rollingAvg": 92505,
+      "spikePct": -17,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 3.4d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 3.5d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 25771,
+      "ccu": 25035,
       "ageDays": 42.9,
-      "rollingAvg": 33777,
-      "spikePct": -24,
+      "rollingAvg": 33799,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 62116,
+      "ccu": 58788,
       "ageDays": 166.1,
-      "rollingAvg": 58151,
-      "spikePct": 7,
+      "rollingAvg": 58905,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 5.5d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 38306,
+      "ccu": 34829,
       "ageDays": 54.3,
-      "rollingAvg": 41202,
-      "spikePct": -7,
+      "rollingAvg": 41618,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 26239,
+      "ccu": 25637,
       "ageDays": 29.4,
-      "rollingAvg": 26472,
-      "spikePct": -1,
+      "rollingAvg": 26359,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
