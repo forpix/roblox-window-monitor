@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-21T11:45:07.830Z",
+  "generatedAt": "2026-08-21T12:15:06.568Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 478273,
+      "ccu": 502879,
       "ageDays": 27.2,
-      "rollingAvg": 326268,
-      "spikePct": 47,
+      "rollingAvg": 331569,
+      "spikePct": 52,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 6.3d (stealanegg.com, stealanegg.net); .com registered 6.3d ago"
@@ -15,21 +15,32 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 101872,
-      "ageDays": 31.4,
-      "rollingAvg": 75853,
-      "spikePct": 34,
+      "ccu": 106769,
+      "ageDays": 31.5,
+      "rollingAvg": 76360,
+      "spikePct": 40,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 3.1d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
+      "name": "+1 Drain Water Per Click",
+      "ccu": 20629,
+      "ageDays": 27.5,
+      "rollingAvg": 20419,
+      "spikePct": 1,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
+    },
+    {
+      "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 41787,
-      "ageDays": 42.5,
-      "rollingAvg": 28906,
-      "spikePct": 45,
+      "ccu": 42823,
+      "ageDays": 42.6,
+      "rollingAvg": 29133,
+      "spikePct": 47,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -37,10 +48,10 @@
     {
       "source": "discover",
       "name": "Grow a Chicken Fighter",
-      "ccu": 75475,
+      "ccu": 79172,
       "ageDays": 65.9,
-      "rollingAvg": 62344,
-      "spikePct": 21,
+      "rollingAvg": 62813,
+      "spikePct": 26,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.8d (growachickenfighter.com, growachickenfighter.net); .com registered 13.8d ago"
@@ -48,21 +59,21 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 70457,
+      "ccu": 70047,
       "ageDays": 165.7,
-      "rollingAvg": 50847,
-      "spikePct": 39,
+      "rollingAvg": 50820,
+      "spikePct": 38,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 5.2d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
-      "name": "[12H] +1 Cut Grass Adventure",
-      "ccu": 45588,
+      "name": "[6H] +1 Cut Grass Adventure",
+      "ccu": 46968,
       "ageDays": 53.9,
-      "rollingAvg": 28755,
-      "spikePct": 59,
+      "rollingAvg": 29105,
+      "spikePct": 61,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -70,10 +81,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 58459,
+      "ccu": 61760,
       "ageDays": 48.7,
-      "rollingAvg": 45549,
-      "spikePct": 28,
+      "rollingAvg": 46219,
+      "spikePct": 34,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 28.2d (greedygrowers.com, greedygrowers.net)"
@@ -81,10 +92,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 26473,
+      "ccu": 27238,
       "ageDays": 29,
-      "rollingAvg": 27700,
-      "spikePct": -4,
+      "rollingAvg": 27588,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
