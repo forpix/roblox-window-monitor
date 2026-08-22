@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T22:45:07.076Z",
+  "generatedAt": "2026-08-22T23:15:06.934Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 443784,
+      "ccu": 478693,
       "ageDays": 28.6,
-      "rollingAvg": 673240,
-      "spikePct": -34,
+      "rollingAvg": 671422,
+      "spikePct": -29,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.8d (stealanegg.com, stealanegg.net); .com registered 7.8d ago"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 64427,
+      "ccu": 64662,
       "ageDays": 32.9,
-      "rollingAvg": 96819,
+      "rollingAvg": 96148,
       "spikePct": -33,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 4.5d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 4.6d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 40399,
+      "ccu": 38093,
       "ageDays": 167.2,
-      "rollingAvg": 55353,
-      "spikePct": -27,
+      "rollingAvg": 55486,
+      "spikePct": -31,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 6.6d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 20625,
-      "ageDays": 50.1,
-      "rollingAvg": 55009,
-      "spikePct": -63,
+      "ccu": 24147,
+      "ageDays": 50.2,
+      "rollingAvg": 53692,
+      "spikePct": -55,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 29.6d (greedygrowers.com, greedygrowers.net)"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 24664,
+      "ccu": 24594,
       "ageDays": 55.4,
-      "rollingAvg": 36510,
+      "rollingAvg": 36325,
       "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
