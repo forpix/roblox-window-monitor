@@ -1,46 +1,35 @@
 {
-  "generatedAt": "2026-08-22T16:45:08.274Z",
+  "generatedAt": "2026-08-22T17:15:08.699Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 674243,
+      "ccu": 547278,
       "ageDays": 28.4,
-      "rollingAvg": 662018,
-      "spikePct": 2,
+      "rollingAvg": 671622,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.5d (stealanegg.com, stealanegg.net); .com registered 7.5d ago"
+      "detail": "both taken, oldest 7.6d (stealanegg.com, stealanegg.net); .com registered 7.6d ago"
     },
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 100321,
-      "ageDays": 32.6,
-      "rollingAvg": 94651,
-      "spikePct": 6,
+      "ccu": 92079,
+      "ageDays": 32.7,
+      "rollingAvg": 95754,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 4.3d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
-      "name": "+1 Web Swing Escape",
-      "ccu": 21466,
-      "ageDays": 22.6,
-      "rollingAvg": 22074,
-      "spikePct": -3,
-      "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: 1webswingescape.com, 1webswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
-    },
-    {
-      "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 23736,
-      "ageDays": 28.6,
-      "rollingAvg": 26180,
-      "spikePct": -9,
+      "ccu": 21528,
+      "ageDays": 28.7,
+      "rollingAvg": 26228,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -48,21 +37,21 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 31446,
-      "ageDays": 43.7,
-      "rollingAvg": 33534,
-      "spikePct": -6,
+      "ccu": 28077,
+      "ageDays": 43.8,
+      "rollingAvg": 33746,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
-      "name": "[X2]🐒 +1 Speed Monkey Escape",
-      "ccu": 474634,
+      "name": "[NOW!]🐒 +1 Speed Monkey Escape",
+      "ccu": 1420387,
       "ageDays": 104.9,
-      "rollingAvg": 156914,
-      "spikePct": 202,
+      "rollingAvg": 166027,
+      "spikePct": 756,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: 1speedmonkeyescape.com, 1speedmonkeyescape.net; competitor BUILT: 1speedmonkeyescape.wiki \"+1 Speed Monkey Escape Wiki - Codes, Sha\", 1-speed-monkey-escape.wiki \"1 Speed Monkey Escape Wiki - Roblox Guid\""
@@ -70,32 +59,21 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 61465,
+      "ccu": 59187,
       "ageDays": 166.9,
-      "rollingAvg": 49388,
-      "spikePct": 24,
+      "rollingAvg": 49860,
+      "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 6.4d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
-      "name": "[🔥UPD] Chicken Farm 🐣",
-      "ccu": 63106,
-      "ageDays": 91.1,
-      "rollingAvg": 26231,
-      "spikePct": 141,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "both taken, oldest 8047.9d (chickenfarm.com, chickenfarm.net)"
-    },
-    {
-      "source": "discover",
       "name": "[🧠SAE] Blue Lock: Rivals",
-      "ccu": 99915,
+      "ccu": 118948,
       "ageDays": 756.9,
-      "rollingAvg": 25522,
-      "spikePct": 291,
+      "rollingAvg": 27700,
+      "spikePct": 329,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "both taken, oldest 8565.6d (bluelock.com, bluelock.net)"
@@ -103,10 +81,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 38556,
+      "ccu": 34588,
       "ageDays": 55.1,
-      "rollingAvg": 36598,
-      "spikePct": 5,
+      "rollingAvg": 36780,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -114,24 +92,13 @@
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 39325,
+      "ccu": 34700,
       "ageDays": 49.9,
-      "rollingAvg": 58643,
-      "spikePct": -33,
+      "rollingAvg": 59176,
+      "spikePct": -41,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 29.4d (greedygrowers.com, greedygrowers.net)"
-    },
-    {
-      "source": "discover",
-      "name": "Bad Guy Mystery",
-      "ccu": 21196,
-      "ageDays": 42.5,
-      "rollingAvg": 20737,
-      "spikePct": 2,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: badguymystery.com, badguymystery.net; competitor BUILT: badguymystery.wiki \"Bad Guy Mystery Wiki: Roblox Role Guide \", badguymystery.pages.dev \"Bad Guy Mystery Wiki: Roblox Role Guide \""
     }
   ]
 }
