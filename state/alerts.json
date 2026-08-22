@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T23:15:06.934Z",
+  "generatedAt": "2026-08-22T23:45:06.758Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 478693,
-      "ageDays": 28.6,
-      "rollingAvg": 671422,
-      "spikePct": -29,
+      "ccu": 521792,
+      "ageDays": 28.7,
+      "rollingAvg": 669525,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.8d (stealanegg.com, stealanegg.net); .com registered 7.8d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 64662,
+      "ccu": 66664,
       "ageDays": 32.9,
-      "rollingAvg": 96148,
-      "spikePct": -33,
+      "rollingAvg": 95457,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 4.6d ago; .com probe inconclusive — check by hand"
@@ -26,32 +26,32 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 38093,
+      "ccu": 36477,
       "ageDays": 167.2,
-      "rollingAvg": 55486,
-      "spikePct": -31,
+      "rollingAvg": 55519,
+      "spikePct": -34,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sandiegoborderroleplay.net; .com registered 6.6d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
+      "detail": "available: sandiegoborderroleplay.net; .com registered 6.7d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 24147,
+      "ccu": 28337,
       "ageDays": 50.2,
-      "rollingAvg": 53692,
-      "spikePct": -55,
+      "rollingAvg": 52439,
+      "spikePct": -46,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 29.6d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 29.7d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 24594,
+      "ccu": 25210,
       "ageDays": 55.4,
-      "rollingAvg": 36325,
-      "spikePct": -32,
+      "rollingAvg": 36133,
+      "spikePct": -30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
