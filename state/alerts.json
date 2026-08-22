@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-22T19:15:03.425Z",
+  "generatedAt": "2026-08-22T19:45:06.699Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 460647,
+      "ccu": 452385,
       "ageDays": 28.5,
-      "rollingAvg": 683502,
-      "spikePct": -33,
+      "rollingAvg": 683942,
+      "spikePct": -34,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.6d (stealanegg.com, stealanegg.net); .com registered 7.6d ago"
+      "detail": "both taken, oldest 7.7d (stealanegg.com, stealanegg.net); .com registered 7.7d ago"
     },
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 87054,
-      "ageDays": 32.7,
-      "rollingAvg": 98464,
-      "spikePct": -12,
+      "ccu": 85482,
+      "ageDays": 32.8,
+      "rollingAvg": 98807,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 4.4d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 20690,
-      "ageDays": 28.7,
-      "rollingAvg": 26118,
-      "spikePct": -21,
+      "ccu": 20305,
+      "ageDays": 28.8,
+      "rollingAvg": 26095,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 25954,
-      "ageDays": 43.8,
-      "rollingAvg": 33860,
-      "spikePct": -23,
+      "ccu": 24810,
+      "ageDays": 43.9,
+      "rollingAvg": 33847,
+      "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,32 +48,21 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 61063,
+      "ccu": 59772,
       "ageDays": 167,
-      "rollingAvg": 51940,
-      "spikePct": 18,
+      "rollingAvg": 52599,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 6.5d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
-      "name": "+1 Web Swing Escape",
-      "ccu": 20006,
-      "ageDays": 22.7,
-      "rollingAvg": 21998,
-      "spikePct": -9,
-      "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: 1webswingescape.com, 1webswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
-    },
-    {
-      "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 32872,
+      "ccu": 31888,
       "ageDays": 55.2,
-      "rollingAvg": 36876,
-      "spikePct": -11,
+      "rollingAvg": 36930,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -81,10 +70,10 @@
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 24982,
+      "ccu": 23219,
       "ageDays": 50,
-      "rollingAvg": 58865,
-      "spikePct": -58,
+      "rollingAvg": 58193,
+      "spikePct": -60,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 29.5d (greedygrowers.com, greedygrowers.net)"
@@ -92,10 +81,10 @@
     {
       "source": "discover",
       "name": "Bad Guy Mystery",
-      "ccu": 22466,
+      "ccu": 21793,
       "ageDays": 42.6,
-      "rollingAvg": 20856,
-      "spikePct": 8,
+      "rollingAvg": 21125,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: badguymystery.com, badguymystery.net; competitor BUILT: badguymystery.wiki \"Bad Guy Mystery Wiki: Roblox Role Guide \", badguymystery.pages.dev \"Bad Guy Mystery Wiki: Roblox Role Guide \""
