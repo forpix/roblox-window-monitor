@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T13:45:04.564Z",
+  "generatedAt": "2026-08-22T14:15:07.600Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 813611,
-      "ageDays": 28.2,
-      "rollingAvg": 510215,
-      "spikePct": 59,
+      "ccu": 911529,
+      "ageDays": 28.3,
+      "rollingAvg": 523219,
+      "spikePct": 74,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.4d (stealanegg.com, stealanegg.net); .com registered 7.4d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 124798,
+      "ccu": 120160,
       "ageDays": 32.5,
-      "rollingAvg": 88131,
-      "spikePct": 42,
+      "rollingAvg": 89170,
+      "spikePct": 35,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 4.2d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Web Swing Escape",
-      "ccu": 21335,
-      "ageDays": 22.4,
-      "rollingAvg": 19993,
-      "spikePct": 7,
+      "ccu": 23065,
+      "ageDays": 22.5,
+      "rollingAvg": 20664,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1webswingescape.com, 1webswingescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -37,65 +37,65 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 28481,
+      "ccu": 28884,
       "ageDays": 28.5,
-      "rollingAvg": 23630,
-      "spikePct": 21,
+      "rollingAvg": 23765,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
     },
     {
       "source": "discover",
-      "name": "Build Base to Survive VERITY",
-      "ccu": 20317,
-      "ageDays": 21.9,
-      "rollingAvg": 0,
-      "spikePct": null,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: buildbasetosurviveverity.com, buildbasetosurviveverity.net; competitor BUILT: buildbasetosurviveverity.wiki \"Build Base to Survive VERITY Wiki — Buil\", build-base-to-survive-verity.wiki \"Build Base to Survive VERITY Wiki - Guid\""
-    },
-    {
-      "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 44123,
+      "ccu": 42265,
       "ageDays": 43.6,
-      "rollingAvg": 31320,
-      "spikePct": 41,
+      "rollingAvg": 31787,
+      "spikePct": 33,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
     },
     {
       "source": "discover",
-      "name": "[⛰️] Mine a Mountain",
-      "ccu": 56695,
-      "ageDays": 95.7,
-      "rollingAvg": 27399,
-      "spikePct": 107,
+      "name": "Grow a Chicken Fighter",
+      "ccu": 209837,
+      "ageDays": 67,
+      "rollingAvg": 64849,
+      "spikePct": 224,
       "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 56.3d (mineamountain.com, mineamountain.net)"
+      "detail": "both taken, oldest 14.9d (growachickenfighter.com, growachickenfighter.net)"
+    },
+    {
+      "source": "discover",
+      "name": "[⛰️] Mine a Mountain",
+      "ccu": 128547,
+      "ageDays": 95.8,
+      "rollingAvg": 28320,
+      "spikePct": 354,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 56.4d (mineamountain.com, mineamountain.net)"
     },
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 64408,
+      "ccu": 62934,
       "ageDays": 166.8,
-      "rollingAvg": 48527,
-      "spikePct": 33,
+      "rollingAvg": 48479,
+      "spikePct": 30,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sandiegoborderroleplay.net; .com registered 6.2d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
+      "detail": "available: sandiegoborderroleplay.net; .com registered 6.3d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 46783,
+      "ccu": 45403,
       "ageDays": 55,
-      "rollingAvg": 35625,
-      "spikePct": 31,
+      "rollingAvg": 35594,
+      "spikePct": 28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -103,13 +103,13 @@
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 70634,
+      "ccu": 66605,
       "ageDays": 49.8,
-      "rollingAvg": 53980,
-      "spikePct": 31,
+      "rollingAvg": 54915,
+      "spikePct": 21,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 29.2d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 29.3d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
