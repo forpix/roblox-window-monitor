@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T22:15:02.396Z",
+  "generatedAt": "2026-08-22T22:45:07.076Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 420593,
+      "ccu": 443784,
       "ageDays": 28.6,
-      "rollingAvg": 675186,
-      "spikePct": -38,
+      "rollingAvg": 673240,
+      "spikePct": -34,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.8d (stealanegg.com, stealanegg.net); .com registered 7.8d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 66058,
+      "ccu": 64427,
       "ageDays": 32.9,
-      "rollingAvg": 97451,
-      "spikePct": -32,
+      "rollingAvg": 96819,
+      "spikePct": -33,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 4.5d ago; .com probe inconclusive — check by hand"
@@ -26,20 +26,31 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 43652,
-      "ageDays": 167.1,
-      "rollingAvg": 55114,
-      "spikePct": -21,
+      "ccu": 40399,
+      "ageDays": 167.2,
+      "rollingAvg": 55353,
+      "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 6.6d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
+      "name": "[🍀] Greedy Growers 🌱",
+      "ccu": 20625,
+      "ageDays": 50.1,
+      "rollingAvg": 55009,
+      "spikePct": -63,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 29.6d (greedygrowers.com, greedygrowers.net)"
+    },
+    {
+      "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 24929,
-      "ageDays": 55.3,
-      "rollingAvg": 36674,
+      "ccu": 24664,
+      "ageDays": 55.4,
+      "rollingAvg": 36510,
       "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
