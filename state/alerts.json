@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-08-23T12:15:06.691Z",
+  "generatedAt": "2026-08-23T12:45:08.693Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "+1 Web Swing Escape",
+      "ccu": 20118,
+      "ageDays": 23.4,
+      "rollingAvg": 21776,
+      "spikePct": -8,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1webswingescape.com, 1webswingescape.net; competitor BUILT: 1-web-swing-escape.wiki \"Web Swing Escape Wiki — Codes, Tier List\""
+    },
+    {
+      "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 111651,
+      "ccu": 117700,
       "ageDays": 33.5,
-      "rollingAvg": 88167,
-      "spikePct": 27,
+      "rollingAvg": 88856,
+      "spikePct": 32,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 5.1d ago; .com probe inconclusive — check by hand"
@@ -15,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 23801,
+      "ccu": 24674,
       "ageDays": 29.5,
-      "rollingAvg": 24047,
-      "spikePct": -1,
+      "rollingAvg": 23917,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build Base to Survive VERITY",
-      "ccu": 20570,
+      "ccu": 21199,
       "ageDays": 22.8,
-      "rollingAvg": 20317,
-      "spikePct": 1,
+      "rollingAvg": 20444,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildbasetosurviveverity.com, buildbasetosurviveverity.net; competitor BUILT: buildbasetosurviveverity.wiki \"Build Base to Survive VERITY Wiki — Buil\", build-base-to-survive-verity.wiki \"Build Base to Survive VERITY Wiki - Guid\""
@@ -37,21 +48,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 848347,
+      "ccu": 846440,
       "ageDays": 29.2,
-      "rollingAvg": 633339,
-      "spikePct": 34,
+      "rollingAvg": 643985,
+      "spikePct": 31,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.4d (stealanegg.com, stealanegg.net); .com registered 8.3d ago"
+      "detail": "both taken, oldest 8.4d (stealanegg.com, stealanegg.net); .com registered 8.4d ago"
     },
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 61059,
+      "ccu": 61819,
       "ageDays": 167.7,
-      "rollingAvg": 45615,
-      "spikePct": 34,
+      "rollingAvg": 45690,
+      "spikePct": 35,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 7.2d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
@@ -59,10 +70,10 @@
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 57671,
+      "ccu": 61490,
       "ageDays": 50.7,
-      "rollingAvg": 46886,
-      "spikePct": 23,
+      "rollingAvg": 47396,
+      "spikePct": 30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.2d (greedygrowers.com, greedygrowers.net)"
@@ -70,13 +81,24 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 40966,
-      "ageDays": 55.9,
-      "rollingAvg": 30987,
-      "spikePct": 32,
+      "ccu": 42327,
+      "ageDays": 56,
+      "rollingAvg": 31224,
+      "spikePct": 36,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
+    },
+    {
+      "source": "discover",
+      "name": "Anime Ability Arena",
+      "ccu": 20834,
+      "ageDays": 57.8,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: animeabilityarena.com, animeabilityarena.net; competitor BUILT: animeabilityarena.wiki \"Anime Ability Arena Wiki: Hits · Abiliti\", animeabilityarena.pages.dev \"Anime Ability Arena Wiki: Hits · Abiliti\""
     }
   ]
 }
