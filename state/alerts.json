@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-23T17:15:04.651Z",
+  "generatedAt": "2026-08-23T17:45:07.491Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Web Swing Escape",
-      "ccu": 21841,
+      "ccu": 21870,
       "ageDays": 23.6,
-      "rollingAvg": 21572,
+      "rollingAvg": 21586,
       "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 105589,
+      "ccu": 105249,
       "ageDays": 33.7,
-      "rollingAvg": 98791,
-      "spikePct": 7,
+      "rollingAvg": 99928,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 5.3d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 20566,
+      "ccu": 20236,
       "ageDays": 29.7,
-      "rollingAvg": 21886,
-      "spikePct": -6,
+      "rollingAvg": 21894,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Build Base to Survive VERITY",
-      "ccu": 21164,
+      "ccu": 21131,
       "ageDays": 23,
-      "rollingAvg": 21059,
-      "spikePct": 1,
+      "rollingAvg": 21068,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: buildbasetosurviveverity.com, buildbasetosurviveverity.net; competitor BUILT: buildbasetosurviveverity.wiki \"Build Base to Survive VERITY Wiki — Buil\", build-base-to-survive-verity.wiki \"Build Base to Survive VERITY Wiki - Guid\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 639310,
+      "ccu": 625677,
       "ageDays": 29.4,
-      "rollingAvg": 726913,
-      "spikePct": -12,
+      "rollingAvg": 731375,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.6d (stealanegg.com, stealanegg.net); .com registered 8.6d ago"
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Bad Guy Mystery",
-      "ccu": 27444,
+      "ccu": 28268,
       "ageDays": 43.5,
-      "rollingAvg": 23031,
-      "spikePct": 19,
+      "rollingAvg": 23252,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: badguymystery.com, badguymystery.net; competitor BUILT: badguymystery.wiki \"Bad Guy Mystery Wiki: Roblox Role Guide \", bad-guy-mystery.wiki \"Bad Guy Mystery Wiki - Roles, Gamepasses\", badguymystery.pages.dev \"Bad Guy Mystery Wiki: Roblox Role Guide \""
     },
     {
       "source": "discover",
-      "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 32252,
+      "name": "Greedy Growers 🌱",
+      "ccu": 29406,
       "ageDays": 50.9,
-      "rollingAvg": 53749,
-      "spikePct": -40,
+      "rollingAvg": 53975,
+      "spikePct": -46,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.4d (greedygrowers.com, greedygrowers.net)"
@@ -81,31 +81,20 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 36361,
-      "ageDays": 56.1,
-      "rollingAvg": 34098,
-      "spikePct": 7,
+      "ccu": 36151,
+      "ageDays": 56.2,
+      "rollingAvg": 34425,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
     },
     {
       "source": "discover",
-      "name": "Anime Ability Arena",
-      "ccu": 20261,
-      "ageDays": 58,
-      "rollingAvg": 21153,
-      "spikePct": -4,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: animeabilityarena.com, animeabilityarena.net; competitor BUILT: animeabilityarena.wiki \"Anime Ability Arena Wiki: Hits · Abiliti\", animeabilityarena.pages.dev \"Anime Ability Arena Wiki: Hits · Abiliti\""
-    },
-    {
-      "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 64978,
+      "ccu": 65983,
       "ageDays": 167.9,
-      "rollingAvg": 48154,
+      "rollingAvg": 48901,
       "spikePct": 35,
       "gate": "C:fresh-com",
       "verdict": "RED",
