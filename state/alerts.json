@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T11:15:08.371Z",
+  "generatedAt": "2026-08-23T11:45:08.492Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 101134,
+      "ccu": 105735,
       "ageDays": 33.4,
-      "rollingAvg": 87451,
-      "spikePct": 16,
+      "rollingAvg": 87702,
+      "spikePct": 21,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 5.1d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 22250,
+      "ccu": 23437,
       "ageDays": 29.4,
-      "rollingAvg": 24346,
-      "spikePct": -9,
+      "rollingAvg": 24193,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 788704,
-      "ageDays": 29.1,
-      "rollingAvg": 617724,
-      "spikePct": 28,
+      "ccu": 829581,
+      "ageDays": 29.2,
+      "rollingAvg": 624430,
+      "spikePct": 33,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.3d (stealanegg.com, stealanegg.net); .com registered 8.3d ago"
@@ -37,32 +37,32 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 58956,
+      "ccu": 60551,
       "ageDays": 167.7,
-      "rollingAvg": 45605,
-      "spikePct": 29,
+      "rollingAvg": 45599,
+      "spikePct": 33,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sandiegoborderroleplay.net; .com registered 7.1d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
+      "detail": "available: sandiegoborderroleplay.net; .com registered 7.2d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     },
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 53161,
+      "ccu": 55414,
       "ageDays": 50.7,
-      "rollingAvg": 46353,
-      "spikePct": 15,
+      "rollingAvg": 46558,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 30.1d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 30.2d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 38311,
+      "ccu": 39836,
       "ageDays": 55.9,
-      "rollingAvg": 30712,
-      "spikePct": 25,
+      "rollingAvg": 30815,
+      "spikePct": 29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
