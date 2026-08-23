@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T03:15:07.173Z",
+  "generatedAt": "2026-08-23T03:45:07.232Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 714502,
+      "ccu": 727325,
       "ageDays": 28.8,
-      "rollingAvg": 682779,
-      "spikePct": 5,
+      "rollingAvg": 686675,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.0d (stealanegg.com, stealanegg.net); .com registered 8.0d ago"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 94390,
+      "ccu": 95097,
       "ageDays": 33.1,
-      "rollingAvg": 91457,
-      "spikePct": 3,
+      "rollingAvg": 91300,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 4.7d ago; .com probe inconclusive — check by hand"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 22134,
+      "ccu": 21962,
       "ageDays": 29.1,
-      "rollingAvg": 25741,
+      "rollingAvg": 25663,
       "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dig & Clean 🧼",
-      "ccu": 24386,
+      "ccu": 24358,
       "ageDays": 44.2,
-      "rollingAvg": 31940,
-      "spikePct": -24,
+      "rollingAvg": 31650,
+      "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: digclean.net; .com BUILT: \"Dig Clean\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 33774,
-      "ageDays": 167.3,
-      "rollingAvg": 53071,
+      "ccu": 33397,
+      "ageDays": 167.4,
+      "rollingAvg": 52433,
       "spikePct": -36,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Bad Guy Mystery",
-      "ccu": 25144,
+      "ccu": 23500,
       "ageDays": 42.9,
-      "rollingAvg": 22488,
-      "spikePct": 12,
+      "rollingAvg": 22709,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: badguymystery.com, badguymystery.net; competitor BUILT: badguymystery.wiki \"Bad Guy Mystery Wiki: Roblox Role Guide \", badguymystery.pages.dev \"Bad Guy Mystery Wiki: Roblox Role Guide \""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "[🍀] Greedy Growers 🌱",
-      "ccu": 61548,
+      "ccu": 62827,
       "ageDays": 50.3,
-      "rollingAvg": 47261,
-      "spikePct": 30,
+      "rollingAvg": 47054,
+      "spikePct": 34,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 29.8d (greedygrowers.com, greedygrowers.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[X2] +1 Cut Grass Adventure",
-      "ccu": 30019,
+      "ccu": 30071,
       "ageDays": 55.6,
-      "rollingAvg": 34822,
-      "spikePct": -14,
+      "rollingAvg": 34654,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
