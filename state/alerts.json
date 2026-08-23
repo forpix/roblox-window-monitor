@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T21:45:02.411Z",
+  "generatedAt": "2026-08-23T22:15:07.060Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 73416,
-      "ageDays": 33.8,
-      "rollingAvg": 103178,
-      "spikePct": -29,
+      "ccu": 70381,
+      "ageDays": 33.9,
+      "rollingAvg": 102575,
+      "spikePct": -31,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 5.5d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 499239,
+      "ccu": 508766,
       "ageDays": 29.6,
-      "rollingAvg": 713817,
-      "spikePct": -30,
+      "rollingAvg": 707482,
+      "spikePct": -28,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.7d (stealanegg.com, stealanegg.net); .com registered 8.7d ago"
+      "detail": "both taken, oldest 8.8d (stealanegg.com, stealanegg.net); .com registered 8.8d ago"
     },
     {
       "source": "discover",
       "name": "Bad Guy Mystery",
-      "ccu": 21347,
+      "ccu": 20830,
       "ageDays": 43.7,
-      "rollingAvg": 23801,
-      "spikePct": -10,
+      "rollingAvg": 23717,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: badguymystery.com, badguymystery.net; competitor BUILT: badguymystery.wiki \"Bad Guy Mystery Wiki: Roblox Role Guide \", bad-guy-mystery.wiki \"Bad Guy Mystery Wiki - Roles, Gamepasses\", badguymystery.pages.dev \"Bad Guy Mystery Wiki: Roblox Role Guide \""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 24760,
+      "ccu": 23241,
       "ageDays": 56.3,
-      "rollingAvg": 35293,
-      "spikePct": -30,
+      "rollingAvg": 35145,
+      "spikePct": -34,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 46066,
+      "ccu": 42582,
       "ageDays": 168.1,
-      "rollingAvg": 54535,
-      "spikePct": -16,
+      "rollingAvg": 54887,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 7.6d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
