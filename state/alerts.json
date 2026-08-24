@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-24T01:15:08.085Z",
+  "generatedAt": "2026-08-24T01:45:06.856Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 63580,
+      "ccu": 64648,
       "ageDays": 34,
-      "rollingAvg": 97373,
-      "spikePct": -35,
+      "rollingAvg": 96311,
+      "spikePct": -33,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 5.6d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 5.7d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 498060,
+      "ccu": 496373,
       "ageDays": 29.7,
-      "rollingAvg": 670914,
-      "spikePct": -26,
+      "rollingAvg": 663292,
+      "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.9d (stealanegg.com, stealanegg.net); .com registered 8.9d ago"
@@ -26,24 +26,13 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 31707,
-      "ageDays": 51.2,
-      "rollingAvg": 47045,
-      "spikePct": -33,
+      "ccu": 36194,
+      "ageDays": 51.3,
+      "rollingAvg": 46168,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.7d (greedygrowers.com, greedygrowers.net)"
-    },
-    {
-      "source": "discover",
-      "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 32381,
-      "ageDays": 168.3,
-      "rollingAvg": 55084,
-      "spikePct": -41,
-      "gate": "C:fresh-com",
-      "verdict": "RED",
-      "detail": "available: sandiegoborderroleplay.net; .com registered 7.7d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
     }
   ]
 }
