@@ -3,12 +3,8 @@
     "name": "[🍓] Adopt Me!",
     "slug": "adoptme",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 256504
-      },
       {
         "t": 1787487306691,
         "playing": 260331
@@ -148,6 +144,10 @@
       {
         "t": 1787548508241,
         "playing": 209714
+      },
+      {
+        "t": 1787550307714,
+        "playing": 209674
       }
     ],
     "lastVerdict": "QUIET"
@@ -156,12 +156,8 @@
     "name": "Tower of Hell",
     "slug": "towerofhell",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787469308874,
-        "playing": 35053
-      },
       {
         "t": 1787471107960,
         "playing": 40198
@@ -301,6 +297,10 @@
       {
         "t": 1787548508241,
         "playing": 20240
+      },
+      {
+        "t": 1787550307714,
+        "playing": 22735
       }
     ],
     "lastVerdict": "QUIET"
@@ -462,12 +462,8 @@
     "name": "Grow a Garden 2",
     "slug": "growagarden2",
     "source": "watch",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 56256
-      },
       {
         "t": 1787487306691,
         "playing": 57263
@@ -607,6 +603,10 @@
       {
         "t": 1787548508241,
         "playing": 51227
+      },
+      {
+        "t": 1787550307714,
+        "playing": 50281
       }
     ],
     "lastVerdict": "QUIET"
@@ -768,12 +768,8 @@
     "name": "Steal An Egg",
     "slug": "stealanegg",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 829581
-      },
       {
         "t": 1787487306691,
         "playing": 848347
@@ -913,6 +909,10 @@
       {
         "t": 1787548508241,
         "playing": 532572
+      },
+      {
+        "t": 1787550307714,
+        "playing": 557200
       }
     ],
     "lastVerdict": "YELLOW"
@@ -921,12 +921,8 @@
     "name": "🍂 Clean all the leaves!",
     "slug": "cleanalltheleaves",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 105735
-      },
       {
         "t": 1787487306691,
         "playing": 111651
@@ -1066,6 +1062,10 @@
       {
         "t": 1787548508241,
         "playing": 66745
+      },
+      {
+        "t": 1787550307714,
+        "playing": 70711
       }
     ],
     "lastVerdict": "CHECK"
@@ -1074,12 +1074,8 @@
     "name": "Grow a Chicken Fighter",
     "slug": "growachickenfighter",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 79712
-      },
       {
         "t": 1787487306691,
         "playing": 84022
@@ -1219,162 +1215,13 @@
       {
         "t": 1787548508241,
         "playing": 55562
+      },
+      {
+        "t": 1787550307714,
+        "playing": 56405
       }
     ],
     "lastVerdict": "QUIET"
-  },
-  "83038462357724": {
-    "name": "Dig & Clean 🧼",
-    "slug": "digclean",
-    "source": "discover",
-    "lastSeen": 1787463906433,
-    "history": [
-      {
-        "t": 1787391902998,
-        "playing": 35976
-      },
-      {
-        "t": 1787393705423,
-        "playing": 35913
-      },
-      {
-        "t": 1787395509094,
-        "playing": 36600
-      },
-      {
-        "t": 1787397306844,
-        "playing": 37381
-      },
-      {
-        "t": 1787399107835,
-        "playing": 38709
-      },
-      {
-        "t": 1787400904374,
-        "playing": 40178
-      },
-      {
-        "t": 1787402707614,
-        "playing": 42277
-      },
-      {
-        "t": 1787404508603,
-        "playing": 43511
-      },
-      {
-        "t": 1787406304564,
-        "playing": 44123
-      },
-      {
-        "t": 1787408107600,
-        "playing": 42265
-      },
-      {
-        "t": 1787409908556,
-        "playing": 40780
-      },
-      {
-        "t": 1787411708712,
-        "playing": 36661
-      },
-      {
-        "t": 1787413506169,
-        "playing": 34320
-      },
-      {
-        "t": 1787415308355,
-        "playing": 32759
-      },
-      {
-        "t": 1787417108274,
-        "playing": 31446
-      },
-      {
-        "t": 1787418908699,
-        "playing": 28077
-      },
-      {
-        "t": 1787420707277,
-        "playing": 27014
-      },
-      {
-        "t": 1787422502324,
-        "playing": 25945
-      },
-      {
-        "t": 1787424307197,
-        "playing": 25349
-      },
-      {
-        "t": 1787426103425,
-        "playing": 25954
-      },
-      {
-        "t": 1787427906699,
-        "playing": 24810
-      },
-      {
-        "t": 1787429707172,
-        "playing": 23777
-      },
-      {
-        "t": 1787431506692,
-        "playing": 22509
-      },
-      {
-        "t": 1787433307542,
-        "playing": 21242
-      },
-      {
-        "t": 1787444107360,
-        "playing": 20739
-      },
-      {
-        "t": 1787445904193,
-        "playing": 22180
-      },
-      {
-        "t": 1787447706716,
-        "playing": 23809
-      },
-      {
-        "t": 1787449506917,
-        "playing": 23856
-      },
-      {
-        "t": 1787451307462,
-        "playing": 23305
-      },
-      {
-        "t": 1787453107370,
-        "playing": 23992
-      },
-      {
-        "t": 1787454907173,
-        "playing": 24386
-      },
-      {
-        "t": 1787456707232,
-        "playing": 24358
-      },
-      {
-        "t": 1787458506815,
-        "playing": 24303
-      },
-      {
-        "t": 1787460302616,
-        "playing": 24457
-      },
-      {
-        "t": 1787462106832,
-        "playing": 25099
-      },
-      {
-        "t": 1787463906433,
-        "playing": 25995
-      }
-    ],
-    "lastVerdict": "RED"
   },
   "13718567207": {
     "name": "Wonderland",
@@ -1839,12 +1686,8 @@
     "name": "🐒 +1 Speed Monkey Escape",
     "slug": "1speedmonkeyescape",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 111300
-      },
       {
         "t": 1787487306691,
         "playing": 118202
@@ -1984,6 +1827,10 @@
       {
         "t": 1787548508241,
         "playing": 69310
+      },
+      {
+        "t": 1787550307714,
+        "playing": 66620
       }
     ],
     "lastVerdict": "QUIET"
@@ -2451,12 +2298,8 @@
     "name": "+1 Cut Grass Adventure",
     "slug": "1cutgrassadventure",
     "source": "discover",
-    "lastSeen": 1787532307132,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787469308874,
-        "playing": 33142
-      },
       {
         "t": 1787471107960,
         "playing": 34293
@@ -2596,6 +2439,10 @@
       {
         "t": 1787532307132,
         "playing": 20581
+      },
+      {
+        "t": 1787550307714,
+        "playing": 21492
       }
     ],
     "lastVerdict": "RED"
@@ -2604,12 +2451,8 @@
     "name": "💚 Creatures of Sonaria 🦀 Survive Kaiju Animals",
     "slug": "creaturesofsonariasurvivekaijuanimals",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 33060
-      },
       {
         "t": 1787487306691,
         "playing": 35300
@@ -2749,6 +2592,10 @@
       {
         "t": 1787548508241,
         "playing": 22430
+      },
+      {
+        "t": 1787550307714,
+        "playing": 23465
       }
     ],
     "lastVerdict": "QUIET"
@@ -2757,12 +2604,8 @@
     "name": "Fisch 🌌 [ASTRAL]",
     "slug": "fisch",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 94173
-      },
       {
         "t": 1787487306691,
         "playing": 98270
@@ -2902,6 +2745,10 @@
       {
         "t": 1787548508241,
         "playing": 59534
+      },
+      {
+        "t": 1787550307714,
+        "playing": 60197
       }
     ],
     "lastVerdict": "QUIET"
@@ -2910,12 +2757,8 @@
     "name": "Greedy Growers 🌱",
     "slug": "greedygrowers",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787476508410,
-        "playing": 56141
-      },
       {
         "t": 1787478306924,
         "playing": 54879
@@ -3055,6 +2898,10 @@
       {
         "t": 1787548508241,
         "playing": 49081
+      },
+      {
+        "t": 1787550307714,
+        "playing": 49915
       }
     ],
     "lastVerdict": "RED"
@@ -3216,12 +3063,8 @@
     "name": "Fling Things and People",
     "slug": "flingthingsandpeople",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787444107360,
-        "playing": 34819
-      },
       {
         "t": 1787445904193,
         "playing": 36888
@@ -3361,6 +3204,10 @@
       {
         "t": 1787548508241,
         "playing": 37158
+      },
+      {
+        "t": 1787550307714,
+        "playing": 38101
       }
     ],
     "lastVerdict": "QUIET"
@@ -3369,12 +3216,8 @@
     "name": "RUNAWAYS [beta]",
     "slug": "runaways",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 37298
-      },
       {
         "t": 1787487306691,
         "playing": 39003
@@ -3514,6 +3357,10 @@
       {
         "t": 1787548508241,
         "playing": 29079
+      },
+      {
+        "t": 1787550307714,
+        "playing": 27886
       }
     ],
     "lastVerdict": "QUIET"
@@ -3522,12 +3369,8 @@
     "name": "Dead Rails",
     "slug": "deadrails",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 29825
-      },
       {
         "t": 1787487306691,
         "playing": 31102
@@ -3667,6 +3510,10 @@
       {
         "t": 1787548508241,
         "playing": 21344
+      },
+      {
+        "t": 1787550307714,
+        "playing": 22434
       }
     ],
     "lastVerdict": "QUIET"
@@ -3675,12 +3522,8 @@
     "name": "Sol's RNG [ Summer Event 🏖️]",
     "slug": "solsrng",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 52614
-      },
       {
         "t": 1787487306691,
         "playing": 52113
@@ -3820,6 +3663,10 @@
       {
         "t": 1787548508241,
         "playing": 47934
+      },
+      {
+        "t": 1787550307714,
+        "playing": 48430
       }
     ],
     "lastVerdict": "QUIET"
@@ -3828,12 +3675,8 @@
     "name": "[REGISTER] Jujutsu Shenanigans",
     "slug": "jujutsushenanigans",
     "source": "discover",
-    "lastSeen": 1787548508241,
+    "lastSeen": 1787550307714,
     "history": [
-      {
-        "t": 1787485508492,
-        "playing": 124184
-      },
       {
         "t": 1787487306691,
         "playing": 131779
@@ -3973,6 +3816,10 @@
       {
         "t": 1787548508241,
         "playing": 82629
+      },
+      {
+        "t": 1787550307714,
+        "playing": 79838
       }
     ],
     "lastVerdict": "QUIET"
