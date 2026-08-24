@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T18:15:06.459Z",
+  "generatedAt": "2026-08-24T18:45:07.305Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 81917,
+      "ccu": 81601,
       "ageDays": 34.7,
-      "rollingAvg": 82378,
-      "spikePct": -1,
+      "rollingAvg": 82882,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 6.4d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 617531,
-      "ageDays": 30.4,
-      "rollingAvg": 660681,
-      "spikePct": -7,
+      "ccu": 612816,
+      "ageDays": 30.5,
+      "rollingAvg": 663948,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.6d (stealanegg.com, stealanegg.net); .com registered 9.6d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 24279,
-      "ageDays": 51.9,
-      "rollingAvg": 43073,
-      "spikePct": -44,
+      "ccu": 23007,
+      "ageDays": 52,
+      "rollingAvg": 43036,
+      "spikePct": -47,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 31.4d (greedygrowers.com, greedygrowers.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 29207,
+      "ccu": 29212,
       "ageDays": 57.2,
-      "rollingAvg": 29111,
-      "spikePct": 0,
+      "rollingAvg": 29049,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
