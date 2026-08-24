@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T00:15:07.741Z",
+  "generatedAt": "2026-08-24T00:45:07.132Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 63758,
+      "ccu": 64168,
       "ageDays": 34,
-      "rollingAvg": 99383,
-      "spikePct": -36,
+      "rollingAvg": 98392,
+      "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 5.6d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 499930,
+      "ccu": 503563,
       "ageDays": 29.7,
-      "rollingAvg": 684274,
-      "spikePct": -27,
+      "rollingAvg": 677790,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.8d (stealanegg.com, stealanegg.net); .com registered 8.8d ago"
+      "detail": "both taken, oldest 8.9d (stealanegg.com, stealanegg.net); .com registered 8.9d ago"
     },
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 25599,
+      "ccu": 29147,
       "ageDays": 51.2,
-      "rollingAvg": 49016,
-      "spikePct": -48,
+      "rollingAvg": 47982,
+      "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 30.7d (greedygrowers.com, greedygrowers.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 20737,
-      "ageDays": 56.4,
-      "rollingAvg": 34227,
+      "ccu": 20581,
+      "ageDays": 56.5,
+      "rollingAvg": 33916,
       "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[🌊] San Diego Border Roleplay",
-      "ccu": 34978,
+      "ccu": 33984,
       "ageDays": 168.2,
-      "rollingAvg": 55388,
-      "spikePct": -37,
+      "rollingAvg": 55285,
+      "spikePct": -39,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sandiegoborderroleplay.net; .com registered 7.7d ago; .com BUILT: \"San Diego Border Roleplay Guide Hub | Codes &amp; Routes\""
