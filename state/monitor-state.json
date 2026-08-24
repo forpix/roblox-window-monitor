@@ -3,12 +3,8 @@
     "name": "[🍓] Adopt Me!",
     "slug": "adoptme",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 228854
-      },
       {
         "t": 1787541307520,
         "playing": 223384
@@ -148,6 +144,10 @@
       {
         "t": 1787602507415,
         "playing": 269844
+      },
+      {
+        "t": 1787604306947,
+        "playing": 268738
       }
     ],
     "lastVerdict": "QUIET"
@@ -156,12 +156,8 @@
     "name": "Tower of Hell",
     "slug": "towerofhell",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787523307060,
-        "playing": 34456
-      },
       {
         "t": 1787525107284,
         "playing": 29643
@@ -301,6 +297,10 @@
       {
         "t": 1787602507415,
         "playing": 54482
+      },
+      {
+        "t": 1787604306947,
+        "playing": 49321
       }
     ],
     "lastVerdict": "QUIET"
@@ -309,12 +309,8 @@
     "name": "💪Muscle Legends [UPDATE]",
     "slug": "musclelegends",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787523307060,
-        "playing": 24293
-      },
       {
         "t": 1787525107284,
         "playing": 23787
@@ -454,6 +450,10 @@
       {
         "t": 1787602507415,
         "playing": 22929
+      },
+      {
+        "t": 1787604306947,
+        "playing": 22308
       }
     ],
     "lastVerdict": "QUIET"
@@ -462,12 +462,8 @@
     "name": "Grow a Garden 2",
     "slug": "growagarden2",
     "source": "watch",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 50696
-      },
       {
         "t": 1787541307520,
         "playing": 51696
@@ -607,6 +603,10 @@
       {
         "t": 1787602507415,
         "playing": 42216
+      },
+      {
+        "t": 1787604306947,
+        "playing": 41882
       }
     ],
     "lastVerdict": "QUIET"
@@ -768,12 +768,8 @@
     "name": "Steal An Egg",
     "slug": "stealanegg",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 499534
-      },
       {
         "t": 1787541307520,
         "playing": 489462
@@ -913,6 +909,10 @@
       {
         "t": 1787602507415,
         "playing": 541542
+      },
+      {
+        "t": 1787604306947,
+        "playing": 536297
       }
     ],
     "lastVerdict": "YELLOW"
@@ -921,12 +921,8 @@
     "name": "🍂 Clean all the leaves!",
     "slug": "cleanalltheleaves",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 64820
-      },
       {
         "t": 1787541307520,
         "playing": 65265
@@ -1066,6 +1062,10 @@
       {
         "t": 1787602507415,
         "playing": 72309
+      },
+      {
+        "t": 1787604306947,
+        "playing": 69654
       }
     ],
     "lastVerdict": "CHECK"
@@ -1074,12 +1074,8 @@
     "name": "Grow a Chicken Fighter",
     "slug": "growachickenfighter",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 57882
-      },
       {
         "t": 1787541307520,
         "playing": 56935
@@ -1219,159 +1215,10 @@
       {
         "t": 1787602507415,
         "playing": 45189
-      }
-    ],
-    "lastVerdict": "QUIET"
-  },
-  "13718567207": {
-    "name": "Wonderland",
-    "slug": "wonderland",
-    "source": "discover",
-    "lastSeen": 1787516107812,
-    "history": [
-      {
-        "t": 1787346907066,
-        "playing": 20645
       },
       {
-        "t": 1787348706801,
-        "playing": 21011
-      },
-      {
-        "t": 1787350506971,
-        "playing": 20874
-      },
-      {
-        "t": 1787352307025,
-        "playing": 20903
-      },
-      {
-        "t": 1787354107151,
-        "playing": 20706
-      },
-      {
-        "t": 1787355903147,
-        "playing": 21449
-      },
-      {
-        "t": 1787357707206,
-        "playing": 21283
-      },
-      {
-        "t": 1787359507586,
-        "playing": 21873
-      },
-      {
-        "t": 1787361307784,
-        "playing": 22471
-      },
-      {
-        "t": 1787363107084,
-        "playing": 22699
-      },
-      {
-        "t": 1787364907323,
-        "playing": 22607
-      },
-      {
-        "t": 1787366708516,
-        "playing": 22263
-      },
-      {
-        "t": 1787368508037,
-        "playing": 22055
-      },
-      {
-        "t": 1787370308182,
-        "playing": 20503
-      },
-      {
-        "t": 1787406304564,
-        "playing": 20522
-      },
-      {
-        "t": 1787408107600,
-        "playing": 21244
-      },
-      {
-        "t": 1787409908556,
-        "playing": 21633
-      },
-      {
-        "t": 1787411708712,
-        "playing": 21813
-      },
-      {
-        "t": 1787413506169,
-        "playing": 21902
-      },
-      {
-        "t": 1787415308355,
-        "playing": 21756
-      },
-      {
-        "t": 1787417108274,
-        "playing": 22178
-      },
-      {
-        "t": 1787418908699,
-        "playing": 21230
-      },
-      {
-        "t": 1787420707277,
-        "playing": 21178
-      },
-      {
-        "t": 1787422502324,
-        "playing": 21854
-      },
-      {
-        "t": 1787424307197,
-        "playing": 21517
-      },
-      {
-        "t": 1787426103425,
-        "playing": 21863
-      },
-      {
-        "t": 1787427906699,
-        "playing": 21659
-      },
-      {
-        "t": 1787429707172,
-        "playing": 21492
-      },
-      {
-        "t": 1787431506692,
-        "playing": 20894
-      },
-      {
-        "t": 1787433307542,
-        "playing": 19923
-      },
-      {
-        "t": 1787435107526,
-        "playing": 20149
-      },
-      {
-        "t": 1787508907267,
-        "playing": 20131
-      },
-      {
-        "t": 1787510706662,
-        "playing": 20598
-      },
-      {
-        "t": 1787512504848,
-        "playing": 20447
-      },
-      {
-        "t": 1787514304551,
-        "playing": 20463
-      },
-      {
-        "t": 1787516107812,
-        "playing": 20255
+        "t": 1787604306947,
+        "playing": 45177
       }
     ],
     "lastVerdict": "QUIET"
@@ -1380,12 +1227,8 @@
     "name": "Ghost Driver [PRE-ALPHA]",
     "slug": "ghostdriver",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787505304651,
-        "playing": 31390
-      },
       {
         "t": 1787507107491,
         "playing": 32228
@@ -1525,6 +1368,10 @@
       {
         "t": 1787602507415,
         "playing": 24317
+      },
+      {
+        "t": 1787604306947,
+        "playing": 23558
       }
     ],
     "lastVerdict": "QUIET"
@@ -1533,12 +1380,8 @@
     "name": "Blade Ball",
     "slug": "bladeball",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787507107491,
-        "playing": 29667
-      },
       {
         "t": 1787508907267,
         "playing": 29622
@@ -1678,6 +1521,10 @@
       {
         "t": 1787602507415,
         "playing": 23769
+      },
+      {
+        "t": 1787604306947,
+        "playing": 22957
       }
     ],
     "lastVerdict": "QUIET"
@@ -1686,12 +1533,8 @@
     "name": "[FIXED]🐒 +1 Speed Monkey Escape",
     "slug": "1speedmonkeyescape",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 99374
-      },
       {
         "t": 1787541307520,
         "playing": 90710
@@ -1831,6 +1674,10 @@
       {
         "t": 1787602507415,
         "playing": 128513
+      },
+      {
+        "t": 1787604306947,
+        "playing": 125937
       }
     ],
     "lastVerdict": "QUIET"
@@ -1992,12 +1839,8 @@
     "name": "+1 Cut Grass Adventure",
     "slug": "1cutgrassadventure",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787523307060,
-        "playing": 23241
-      },
       {
         "t": 1787525107284,
         "playing": 22368
@@ -2137,6 +1980,10 @@
       {
         "t": 1787602507415,
         "playing": 28291
+      },
+      {
+        "t": 1787604306947,
+        "playing": 26831
       }
     ],
     "lastVerdict": "RED"
@@ -2145,12 +1992,8 @@
     "name": "💚 Creatures of Sonaria 🦀 Survive Kaiju Animals",
     "slug": "creaturesofsonariasurvivekaijuanimals",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 29008
-      },
       {
         "t": 1787541307520,
         "playing": 27964
@@ -2290,6 +2133,10 @@
       {
         "t": 1787602507415,
         "playing": 32792
+      },
+      {
+        "t": 1787604306947,
+        "playing": 32814
       }
     ],
     "lastVerdict": "QUIET"
@@ -2298,12 +2145,8 @@
     "name": "Fisch 🌌 [ASTRAL]",
     "slug": "fisch",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 69722
-      },
       {
         "t": 1787541307520,
         "playing": 66985
@@ -2443,6 +2286,10 @@
       {
         "t": 1787602507415,
         "playing": 70013
+      },
+      {
+        "t": 1787604306947,
+        "playing": 70087
       }
     ],
     "lastVerdict": "QUIET"
@@ -2604,12 +2451,8 @@
     "name": "[RIN] Blue Lock: Rivals",
     "slug": "bluelock",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787503508865,
-        "playing": 32419
-      },
       {
         "t": 1787505304651,
         "playing": 32741
@@ -2749,6 +2592,10 @@
       {
         "t": 1787602507415,
         "playing": 21549
+      },
+      {
+        "t": 1787604306947,
+        "playing": 22011
       }
     ],
     "lastVerdict": "QUIET"
@@ -2910,12 +2757,8 @@
     "name": "RUNAWAYS [beta]",
     "slug": "runaways",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 43519
-      },
       {
         "t": 1787541307520,
         "playing": 40557
@@ -3055,6 +2898,10 @@
       {
         "t": 1787602507415,
         "playing": 46309
+      },
+      {
+        "t": 1787604306947,
+        "playing": 46488
       }
     ],
     "lastVerdict": "QUIET"
@@ -3063,12 +2910,8 @@
     "name": "Dead Rails",
     "slug": "deadrails",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 25438
-      },
       {
         "t": 1787541307520,
         "playing": 24698
@@ -3208,6 +3051,10 @@
       {
         "t": 1787602507415,
         "playing": 25109
+      },
+      {
+        "t": 1787604306947,
+        "playing": 24550
       }
     ],
     "lastVerdict": "QUIET"
@@ -3216,12 +3063,8 @@
     "name": "Sol's RNG [ Summer Event 🏖️]",
     "slug": "solsrng",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 46593
-      },
       {
         "t": 1787541307520,
         "playing": 46782
@@ -3361,6 +3204,10 @@
       {
         "t": 1787602507415,
         "playing": 46690
+      },
+      {
+        "t": 1787604306947,
+        "playing": 46101
       }
     ],
     "lastVerdict": "QUIET"
@@ -3369,12 +3216,8 @@
     "name": "[REGISTER] Jujutsu Shenanigans",
     "slug": "jujutsushenanigans",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787539506693,
-        "playing": 126510
-      },
       {
         "t": 1787541307520,
         "playing": 113577
@@ -3514,6 +3357,10 @@
       {
         "t": 1787602507415,
         "playing": 138077
+      },
+      {
+        "t": 1787604306947,
+        "playing": 141126
       }
     ],
     "lastVerdict": "QUIET"
@@ -3981,12 +3828,8 @@
     "name": "[FORSAKEN COLLAB] Retro Tower Defense",
     "slug": "retrotowerdefense",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
-      {
-        "t": 1787519707490,
-        "playing": 27918
-      },
       {
         "t": 1787521502411,
         "playing": 27083
@@ -4126,6 +3969,10 @@
       {
         "t": 1787602507415,
         "playing": 22007
+      },
+      {
+        "t": 1787604306947,
+        "playing": 21975
       }
     ],
     "lastVerdict": "QUIET"
@@ -4441,7 +4288,7 @@
     "name": "[🔥DOMINATION] Hypershot",
     "slug": "hypershot",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
       {
         "t": 1787535906856,
@@ -4550,6 +4397,10 @@
       {
         "t": 1787602507415,
         "playing": 21775
+      },
+      {
+        "t": 1787604306947,
+        "playing": 21853
       }
     ],
     "lastVerdict": "QUIET"
@@ -4558,7 +4409,7 @@
     "name": "[2X EXP⭐] Forsaken",
     "slug": "forsaken",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
       {
         "t": 1787552107715,
@@ -4675,6 +4526,10 @@
       {
         "t": 1787602507415,
         "playing": 54832
+      },
+      {
+        "t": 1787604306947,
+        "playing": 55022
       }
     ],
     "lastVerdict": "QUIET"
@@ -4776,7 +4631,7 @@
     "name": "100 Days At Sea",
     "slug": "100daysatsea",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
       {
         "t": 1787577309196,
@@ -4837,6 +4692,10 @@
       {
         "t": 1787602507415,
         "playing": 30699
+      },
+      {
+        "t": 1787604306947,
+        "playing": 29601
       }
     ],
     "lastVerdict": "QUIET"
@@ -4845,7 +4704,7 @@
     "name": "Dungeon Quest Reborn",
     "slug": "dungeonquestreborn",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
       {
         "t": 1787582709072,
@@ -4894,6 +4753,10 @@
       {
         "t": 1787602507415,
         "playing": 21539
+      },
+      {
+        "t": 1787604306947,
+        "playing": 21512
       }
     ],
     "lastVerdict": "QUIET"
@@ -4902,7 +4765,7 @@
     "name": "[🌹 KAISER] Azure Latch",
     "slug": "azurelatch",
     "source": "discover",
-    "lastSeen": 1787602507415,
+    "lastSeen": 1787604306947,
     "history": [
       {
         "t": 1787589907135,
@@ -4935,6 +4798,10 @@
       {
         "t": 1787602507415,
         "playing": 22890
+      },
+      {
+        "t": 1787604306947,
+        "playing": 23668
       }
     ],
     "lastVerdict": "QUIET"
