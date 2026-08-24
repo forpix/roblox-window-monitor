@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-24T13:15:09.196Z",
+  "generatedAt": "2026-08-24T13:45:08.657Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 108440,
+      "ccu": 110170,
       "ageDays": 34.5,
-      "rollingAvg": 77553,
-      "spikePct": 40,
+      "rollingAvg": 77822,
+      "spikePct": 42,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 6.1d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 6.2d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 27717,
+      "ccu": 27539,
       "ageDays": 30.5,
-      "rollingAvg": 22430,
-      "spikePct": 24,
+      "rollingAvg": 22609,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 861847,
+      "ccu": 847383,
       "ageDays": 30.2,
-      "rollingAvg": 600067,
-      "spikePct": 44,
+      "rollingAvg": 607970,
+      "spikePct": 39,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.4d (stealanegg.com, stealanegg.net); .com registered 9.4d ago"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 53589,
-      "ageDays": 51.7,
-      "rollingAvg": 38860,
+      "ccu": 54243,
+      "ageDays": 51.8,
+      "rollingAvg": 39349,
       "spikePct": 38,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 36993,
+      "ccu": 37078,
       "ageDays": 57,
-      "rollingAvg": 30187,
+      "rollingAvg": 30086,
       "spikePct": 23,
       "gate": "D:young-chart",
       "verdict": "RED",
