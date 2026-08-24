@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T16:15:09.052Z",
+  "generatedAt": "2026-08-24T16:45:07.135Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 88367,
+      "ccu": 86212,
       "ageDays": 34.6,
-      "rollingAvg": 80304,
-      "spikePct": 10,
+      "rollingAvg": 80804,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 6.3d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 20688,
+      "ccu": 20160,
       "ageDays": 30.6,
-      "rollingAvg": 23094,
-      "spikePct": -10,
+      "rollingAvg": 23078,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 672604,
+      "ccu": 675317,
       "ageDays": 30.4,
-      "rollingAvg": 644433,
+      "rollingAvg": 648984,
       "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 34570,
+      "ccu": 31137,
       "ageDays": 51.9,
-      "rollingAvg": 42148,
-      "spikePct": -18,
+      "rollingAvg": 42501,
+      "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 31.3d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 31.4d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 30820,
+      "ccu": 30232,
       "ageDays": 57.1,
-      "rollingAvg": 29640,
-      "spikePct": 4,
+      "rollingAvg": 29492,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
