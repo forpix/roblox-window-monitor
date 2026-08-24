@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T01:45:06.856Z",
+  "generatedAt": "2026-08-24T02:15:04.231Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 64648,
+      "ccu": 64676,
       "ageDays": 34,
-      "rollingAvg": 96311,
-      "spikePct": -33,
+      "rollingAvg": 95232,
+      "spikePct": -32,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 5.7d ago; .com probe inconclusive — check by hand"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 496373,
-      "ageDays": 29.7,
-      "rollingAvg": 663292,
+      "ccu": 494520,
+      "ageDays": 29.8,
+      "rollingAvg": 655890,
       "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -26,13 +26,13 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 36194,
+      "ccu": 39154,
       "ageDays": 51.3,
-      "rollingAvg": 46168,
-      "spikePct": -22,
+      "rollingAvg": 45365,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 30.7d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 30.8d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
