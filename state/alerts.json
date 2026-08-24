@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T17:15:02.814Z",
+  "generatedAt": "2026-08-24T17:45:06.354Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 83908,
+      "ccu": 82887,
       "ageDays": 34.7,
-      "rollingAvg": 81343,
-      "spikePct": 3,
+      "rollingAvg": 81868,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 6.3d ago; .com probe inconclusive — check by hand"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 635562,
+      "ccu": 636040,
       "ageDays": 30.4,
-      "rollingAvg": 653508,
+      "rollingAvg": 657037,
       "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 28357,
+      "ccu": 26216,
       "ageDays": 51.9,
-      "rollingAvg": 42794,
-      "spikePct": -34,
+      "rollingAvg": 42986,
+      "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 31.4d (greedygrowers.com, greedygrowers.net)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 29706,
-      "ageDays": 57.1,
-      "rollingAvg": 29350,
+      "ccu": 29396,
+      "ageDays": 57.2,
+      "rollingAvg": 29213,
       "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
