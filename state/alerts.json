@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T21:45:06.645Z",
+  "generatedAt": "2026-08-24T22:15:07.420Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 64179,
-      "ageDays": 34.8,
-      "rollingAvg": 84558,
-      "spikePct": -24,
+      "ccu": 63245,
+      "ageDays": 34.9,
+      "rollingAvg": 84509,
+      "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 6.5d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 26838,
+      "ccu": 26437,
       "ageDays": 57.3,
-      "rollingAvg": 29539,
-      "spikePct": -9,
+      "rollingAvg": 29675,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
