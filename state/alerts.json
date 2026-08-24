@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T22:15:07.420Z",
+  "generatedAt": "2026-08-24T22:45:07.514Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 63245,
+      "ccu": 63043,
       "ageDays": 34.9,
-      "rollingAvg": 84509,
+      "rollingAvg": 84446,
       "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 26437,
-      "ageDays": 57.3,
-      "rollingAvg": 29675,
+      "ccu": 26547,
+      "ageDays": 57.4,
+      "rollingAvg": 29822,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
