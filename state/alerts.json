@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-08-24T22:45:07.514Z",
+  "generatedAt": "2026-08-24T23:15:07.218Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 63043,
+      "ccu": 63617,
       "ageDays": 34.9,
-      "rollingAvg": 84446,
+      "rollingAvg": 84374,
       "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 6.5d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 6.6d ago; .com probe inconclusive — check by hand"
+    },
+    {
+      "source": "discover",
+      "name": "Greedy Growers 🌱",
+      "ccu": 22892,
+      "ageDays": 52.2,
+      "rollingAvg": 42140,
+      "spikePct": -46,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 31.6d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 26547,
+      "ccu": 26975,
       "ageDays": 57.4,
-      "rollingAvg": 29822,
-      "spikePct": -11,
+      "rollingAvg": 29983,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
