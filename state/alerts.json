@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-25T02:45:07.532Z",
+  "generatedAt": "2026-08-25T03:15:08.617Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 72511,
+      "ccu": 74991,
       "ageDays": 35.1,
-      "rollingAvg": 82953,
-      "spikePct": -13,
+      "rollingAvg": 82565,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 6.7d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1260229,
+      "ccu": 698084,
       "ageDays": 30.8,
-      "rollingAvg": 695149,
-      "spikePct": 81,
+      "rollingAvg": 715268,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 10.0d (stealanegg.com, stealanegg.net); .com registered 10.0d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 39910,
+      "ccu": 43652,
       "ageDays": 52.3,
-      "rollingAvg": 39496,
-      "spikePct": 1,
+      "rollingAvg": 39218,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 31.8d (greedygrowers.com, greedygrowers.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 21261,
-      "ageDays": 57.5,
-      "rollingAvg": 30238,
-      "spikePct": -30,
+      "ccu": 21266,
+      "ageDays": 57.6,
+      "rollingAvg": 30029,
+      "spikePct": -29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -48,7 +48,7 @@
     {
       "source": "discover",
       "name": "[NEW RARITY] Anime Astral Simulator",
-      "ccu": 20246,
+      "ccu": 20332,
       "ageDays": 41.5,
       "rollingAvg": 20245,
       "spikePct": 0,
