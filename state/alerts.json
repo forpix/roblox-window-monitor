@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-08-25T03:45:02.216Z",
+  "generatedAt": "2026-08-25T04:15:07.181Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 76566,
+      "ccu": 76508,
       "ageDays": 35.1,
-      "rollingAvg": 82204,
+      "rollingAvg": 81858,
       "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 6.7d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 6.8d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 659952,
-      "ageDays": 30.8,
-      "rollingAvg": 719866,
-      "spikePct": -8,
+      "ccu": 658827,
+      "ageDays": 30.9,
+      "rollingAvg": 722720,
+      "spikePct": -9,
       "gate": "C:fresh-com",
-      "verdict": "YELLOW",
+      "verdict": "RED",
       "detail": "both taken, oldest 10.0d (stealanegg.com, stealanegg.net); .com registered 10.0d ago"
     },
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 45153,
-      "ageDays": 52.3,
-      "rollingAvg": 39053,
-      "spikePct": 16,
+      "ccu": 45418,
+      "ageDays": 52.4,
+      "rollingAvg": 38944,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 31.8d (greedygrowers.com, greedygrowers.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 20711,
+      "ccu": 20923,
       "ageDays": 57.6,
-      "rollingAvg": 29772,
-      "spikePct": -30,
+      "rollingAvg": 29463,
+      "spikePct": -29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[NEW RARITY] Anime Astral Simulator",
-      "ccu": 20490,
+      "ccu": 20604,
       "ageDays": 41.5,
-      "rollingAvg": 20257,
-      "spikePct": 1,
+      "rollingAvg": 20286,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
