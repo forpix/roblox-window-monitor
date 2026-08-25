@@ -1,38 +1,27 @@
 {
-  "generatedAt": "2026-08-25T22:45:07.042Z",
+  "generatedAt": "2026-08-25T23:15:07.456Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 55520,
+      "ccu": 55855,
       "ageDays": 35.9,
-      "rollingAvg": 88801,
+      "rollingAvg": 88222,
       "spikePct": -37,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 7.5d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 7.6d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 587309,
+      "ccu": 640461,
       "ageDays": 31.6,
-      "rollingAvg": 766072,
-      "spikePct": -23,
+      "rollingAvg": 764629,
+      "spikePct": -16,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.8d (stealanegg.com, stealanegg.net); .com registered 10.8d ago"
-    },
-    {
-      "source": "discover",
-      "name": "+1 Cut Grass Adventure",
-      "ccu": 20984,
-      "ageDays": 58.4,
-      "rollingAvg": 27042,
-      "spikePct": -22,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
     }
   ]
 }
