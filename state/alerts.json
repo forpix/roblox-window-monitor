@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-25T23:15:07.456Z",
+  "generatedAt": "2026-08-25T23:45:07.349Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 55855,
+      "ccu": 55697,
       "ageDays": 35.9,
-      "rollingAvg": 88222,
-      "spikePct": -37,
+      "rollingAvg": 87624,
+      "spikePct": -36,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 7.6d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 640461,
-      "ageDays": 31.6,
-      "rollingAvg": 764629,
-      "spikePct": -16,
+      "ccu": 630296,
+      "ageDays": 31.7,
+      "rollingAvg": 764884,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.8d (stealanegg.com, stealanegg.net); .com registered 10.8d ago"
