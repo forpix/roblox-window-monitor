@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-25T13:45:07.914Z",
+  "generatedAt": "2026-08-25T14:15:07.358Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 114711,
+      "ccu": 110825,
       "ageDays": 35.5,
-      "rollingAvg": 81794,
-      "spikePct": 40,
+      "rollingAvg": 82870,
+      "spikePct": 34,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 7.2d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 24574,
+      "ccu": 24043,
       "ageDays": 31.5,
-      "rollingAvg": 22904,
-      "spikePct": 7,
+      "rollingAvg": 22958,
+      "spikePct": 5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1012947,
-      "ageDays": 31.2,
-      "rollingAvg": 744548,
-      "spikePct": 36,
+      "ccu": 941123,
+      "ageDays": 31.3,
+      "rollingAvg": 752736,
+      "spikePct": 25,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.4d (stealanegg.com, stealanegg.net); .com registered 10.4d ago"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 48916,
+      "ccu": 47583,
       "ageDays": 52.8,
-      "rollingAvg": 37516,
-      "spikePct": 30,
+      "rollingAvg": 38010,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 32.2d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 32.3d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 33273,
+      "ccu": 32237,
       "ageDays": 58,
-      "rollingAvg": 26265,
-      "spikePct": 27,
+      "rollingAvg": 26369,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
