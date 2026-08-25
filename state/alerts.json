@@ -1,24 +1,35 @@
 {
-  "generatedAt": "2026-08-24T23:45:07.063Z",
+  "generatedAt": "2026-08-25T00:15:07.365Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 64702,
-      "ageDays": 34.9,
-      "rollingAvg": 84287,
-      "spikePct": -23,
+      "ccu": 67377,
+      "ageDays": 35,
+      "rollingAvg": 84120,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 6.6d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
+      "name": "+1 Drain Water Per Click",
+      "ccu": 20605,
+      "ageDays": 31,
+      "rollingAvg": 23039,
+      "spikePct": -11,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
+    },
+    {
+      "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 25915,
+      "ccu": 29857,
       "ageDays": 52.2,
-      "rollingAvg": 41688,
-      "spikePct": -38,
+      "rollingAvg": 41228,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 31.7d (greedygrowers.com, greedygrowers.net)"
@@ -26,13 +37,24 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 27500,
+      "ccu": 26808,
       "ageDays": 57.4,
-      "rollingAvg": 30161,
-      "spikePct": -9,
+      "rollingAvg": 30328,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
+    },
+    {
+      "source": "discover",
+      "name": "[NEW RARITY] Anime Astral Simulator",
+      "ccu": 20132,
+      "ageDays": 41.4,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
     }
   ]
 }
