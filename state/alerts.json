@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T08:45:08.468Z",
+  "generatedAt": "2026-08-26T09:15:07.165Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 91823,
+      "ccu": 97173,
       "ageDays": 36.3,
-      "rollingAvg": 71888,
-      "spikePct": 28,
+      "rollingAvg": 71480,
+      "spikePct": 36,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 8.0d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 867433,
-      "ageDays": 32,
-      "rollingAvg": 679375,
-      "spikePct": 28,
+      "ccu": 900987,
+      "ageDays": 32.1,
+      "rollingAvg": 678175,
+      "spikePct": 33,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.2d (stealanegg.com, stealanegg.net); .com registered 11.2d ago"
     },
     {
       "source": "discover",
-      "name": "+1 Cut Grass Adventure",
-      "ccu": 28236,
+      "name": "[12H] +1 Cut Grass Adventure",
+      "ccu": 30134,
       "ageDays": 58.8,
-      "rollingAvg": 27238,
-      "spikePct": 4,
+      "rollingAvg": 27286,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 38913,
-      "ageDays": 53.5,
-      "rollingAvg": 36562,
-      "spikePct": 6,
+      "ccu": 37618,
+      "ageDays": 53.6,
+      "rollingAvg": 36553,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 33.0d (greedygrowers.com, greedygrowers.net)"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22494,
+      "ccu": 22556,
       "ageDays": 42.7,
-      "rollingAvg": 21893,
+      "rollingAvg": 21915,
       "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "⚽ Jump To Steal Soccer Players ⚽",
-      "ccu": 20220,
+      "ccu": 22188,
       "ageDays": 33.9,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20220,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: jumptostealsoccerplayers.com, jumptostealsoccerplayers.net; competitor BUILT: jumptostealsoccerplayers.wiki \"Jump To Steal Soccer Legends Beginner Gu\", jump-to-steal-soccer-players.wiki \"Jump To Steal Soccer Players Tools\""
