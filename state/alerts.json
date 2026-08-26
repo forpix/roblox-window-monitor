@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T07:45:05.647Z",
+  "generatedAt": "2026-08-26T08:15:07.516Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 84039,
+      "ccu": 86471,
       "ageDays": 36.3,
-      "rollingAvg": 73417,
-      "spikePct": 14,
+      "rollingAvg": 72565,
+      "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 7.9d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 779810,
+      "ccu": 807164,
       "ageDays": 32,
-      "rollingAvg": 689572,
-      "spikePct": 13,
+      "rollingAvg": 683096,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.2d (stealanegg.com, stealanegg.net); .com registered 11.2d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 26260,
-      "ageDays": 58.7,
-      "rollingAvg": 27156,
-      "spikePct": -3,
+      "ccu": 27325,
+      "ageDays": 58.8,
+      "rollingAvg": 27198,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 37916,
+      "ccu": 36776,
       "ageDays": 53.5,
-      "rollingAvg": 36763,
-      "spikePct": 3,
+      "rollingAvg": 36655,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 33.0d (greedygrowers.com, greedygrowers.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22409,
+      "ccu": 22354,
       "ageDays": 42.7,
-      "rollingAvg": 21854,
-      "spikePct": 3,
+      "rollingAvg": 21875,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
