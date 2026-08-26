@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T20:45:06.826Z",
+  "generatedAt": "2026-08-26T21:15:06.742Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 70677,
+      "ccu": 67112,
       "ageDays": 36.8,
-      "rollingAvg": 88777,
-      "spikePct": -20,
+      "rollingAvg": 89110,
+      "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 8.5d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 668774,
-      "ageDays": 32.5,
-      "rollingAvg": 847882,
-      "spikePct": -21,
+      "ccu": 664964,
+      "ageDays": 32.6,
+      "rollingAvg": 849797,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.7d (stealanegg.com, stealanegg.net); .com registered 11.7d ago"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[2x Luck] Dungeon Quest Reborn",
-      "ccu": 30105,
+      "ccu": 29907,
       "ageDays": 155.8,
-      "rollingAvg": 26544,
-      "spikePct": 13,
+      "rollingAvg": 26660,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: dungeonquestreborn.net; .com registered 0.6d ago; .com probe inconclusive — check by hand"
+      "detail": "available: dungeonquestreborn.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 26836,
+      "ccu": 25942,
       "ageDays": 59.3,
-      "rollingAvg": 34697,
-      "spikePct": -23,
+      "rollingAvg": 34775,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22559,
+      "ccu": 22411,
       "ageDays": 43.2,
-      "rollingAvg": 23115,
-      "spikePct": -2,
+      "rollingAvg": 23102,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
