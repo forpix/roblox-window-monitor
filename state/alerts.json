@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T21:45:07.230Z",
+  "generatedAt": "2026-08-26T22:15:05.791Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 63616,
-      "ageDays": 36.8,
-      "rollingAvg": 89369,
-      "spikePct": -29,
+      "ccu": 61273,
+      "ageDays": 36.9,
+      "rollingAvg": 89488,
+      "spikePct": -32,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 8.5d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 674505,
+      "ccu": 679050,
       "ageDays": 32.6,
-      "rollingAvg": 851840,
-      "spikePct": -21,
+      "rollingAvg": 853666,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 11.7d (stealanegg.com, stealanegg.net); .com registered 11.7d ago"
+      "detail": "both taken, oldest 11.8d (stealanegg.com, stealanegg.net); .com registered 11.8d ago"
     },
     {
       "source": "discover",
       "name": "[2x Luck] Dungeon Quest Reborn",
-      "ccu": 28961,
+      "ccu": 28666,
       "ageDays": 155.9,
-      "rollingAvg": 26768,
-      "spikePct": 8,
+      "rollingAvg": 26851,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: dungeonquestreborn.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 25517,
+      "ccu": 25543,
       "ageDays": 59.3,
-      "rollingAvg": 34855,
+      "rollingAvg": 34951,
       "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22362,
+      "ccu": 22304,
       "ageDays": 43.3,
-      "rollingAvg": 23091,
+      "rollingAvg": 23080,
       "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
