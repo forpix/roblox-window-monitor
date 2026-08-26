@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T23:15:07.517Z",
+  "generatedAt": "2026-08-26T23:45:07.640Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 58043,
+      "ccu": 58087,
       "ageDays": 36.9,
-      "rollingAvg": 89398,
+      "rollingAvg": 89142,
       "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 684379,
-      "ageDays": 32.6,
-      "rollingAvg": 856537,
-      "spikePct": -20,
+      "ccu": 713528,
+      "ageDays": 32.7,
+      "rollingAvg": 857462,
+      "spikePct": -17,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.8d (stealanegg.com, stealanegg.net); .com registered 11.8d ago"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[2x Luck] Dungeon Quest Reborn",
-      "ccu": 28535,
+      "ccu": 28279,
       "ageDays": 155.9,
-      "rollingAvg": 27002,
-      "spikePct": 6,
+      "rollingAvg": 27075,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: dungeonquestreborn.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
+      "detail": "available: dungeonquestreborn.net; .com registered 0.8d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 25262,
+      "ccu": 24284,
       "ageDays": 59.4,
-      "rollingAvg": 35231,
-      "spikePct": -28,
+      "rollingAvg": 35350,
+      "spikePct": -31,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 21989,
+      "ccu": 21810,
       "ageDays": 43.3,
-      "rollingAvg": 23054,
+      "rollingAvg": 23043,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
