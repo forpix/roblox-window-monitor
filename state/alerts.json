@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T06:45:08.351Z",
+  "generatedAt": "2026-08-26T07:15:08.531Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 79640,
+      "ccu": 83196,
       "ageDays": 36.2,
-      "rollingAvg": 75241,
-      "spikePct": 6,
+      "rollingAvg": 74296,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 7.9d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 756203,
+      "ccu": 780129,
       "ageDays": 32,
-      "rollingAvg": 704489,
-      "spikePct": 7,
+      "rollingAvg": 697478,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.1d (stealanegg.com, stealanegg.net); .com registered 11.1d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 23972,
+      "ccu": 25367,
       "ageDays": 58.7,
-      "rollingAvg": 27076,
-      "spikePct": -11,
+      "rollingAvg": 27112,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -37,20 +37,20 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 41745,
+      "ccu": 41350,
       "ageDays": 53.5,
-      "rollingAvg": 36895,
-      "spikePct": 13,
+      "rollingAvg": 36817,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 32.9d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 33.0d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22411,
-      "ageDays": 42.6,
-      "rollingAvg": 21805,
+      "ccu": 22426,
+      "ageDays": 42.7,
+      "rollingAvg": 21830,
       "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
