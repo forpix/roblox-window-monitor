@@ -4463,7 +4463,11 @@
     "https://tryhardguides.com/build-a-base-rng-codes/",
     "https://tryhardguides.com/build-an-asmr-tower-codes/",
     "https://tryhardguides.com/breakdoor-codes/",
-    "https://tryhardguides.com/1-drain-water-per-click-codes/"
+    "https://tryhardguides.com/1-drain-water-per-click-codes/",
+    "https://tryhardguides.com/raids-night-tide-codes/",
+    "https://tryhardguides.com/1-backflip-keyboard-escape-codes/",
+    "https://tryhardguides.com/1-kitten-keyboard-escape-codes/",
+    "https://tryhardguides.com/build-base-to-survive-verity-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -8929,7 +8933,11 @@
     "https://tryhardguides.com/build-a-base-rng-codes/": "2026-08-24T11:07:00+00:00",
     "https://tryhardguides.com/build-an-asmr-tower-codes/": "2026-08-25T11:37:00+00:00",
     "https://tryhardguides.com/breakdoor-codes/": "2026-08-25T11:22:00+00:00",
-    "https://tryhardguides.com/1-drain-water-per-click-codes/": "2026-08-25T11:07:00+00:00"
+    "https://tryhardguides.com/1-drain-water-per-click-codes/": "2026-08-25T11:07:00+00:00",
+    "https://tryhardguides.com/raids-night-tide-codes/": "2026-08-26T11:52:00+00:00",
+    "https://tryhardguides.com/1-backflip-keyboard-escape-codes/": "2026-08-26T11:07:00+00:00",
+    "https://tryhardguides.com/1-kitten-keyboard-escape-codes/": "2026-08-26T11:37:00+00:00",
+    "https://tryhardguides.com/build-base-to-survive-verity-codes/": "2026-08-26T11:22:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9204,7 +9212,7 @@
     "post-sitemap-2026-32.xml": "2026-08-09T23:59:59+00:00",
     "post-sitemap-2026-33.xml": "2026-08-16T23:59:59+00:00",
     "post-sitemap-2026-34.xml": "2026-08-23T23:59:59+00:00",
-    "post-sitemap-2026-35.xml": "2026-08-26T10:00:29+00:00"
+    "post-sitemap-2026-35.xml": "2026-08-26T12:00:12+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -12790,7 +12798,31 @@
       "attempts": 1,
       "placeId": 131576522724952,
       "universeId": 8790251483
+    },
+    "https://tryhardguides.com/raids-night-tide-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 96430285140968,
+      "universeId": 10127745112
+    },
+    "https://tryhardguides.com/1-backflip-keyboard-escape-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 102553576537621,
+      "universeId": 10409732219
+    },
+    "https://tryhardguides.com/1-kitten-keyboard-escape-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 94860588848140,
+      "universeId": 10528250136
+    },
+    "https://tryhardguides.com/build-base-to-survive-verity-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 116070952245255,
+      "universeId": 10604772590
     }
   },
-  "updatedAt": "2026-08-26T10:00:07.379Z"
+  "updatedAt": "2026-08-26T12:00:07.504Z"
 }
