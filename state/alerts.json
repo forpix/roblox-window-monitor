@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T04:45:06.826Z",
+  "generatedAt": "2026-08-26T05:15:07.014Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 62822,
-      "ageDays": 36.1,
-      "rollingAvg": 78702,
-      "spikePct": -20,
+      "ccu": 67275,
+      "ageDays": 36.2,
+      "rollingAvg": 77842,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 7.8d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 633386,
+      "ccu": 651093,
       "ageDays": 31.9,
-      "rollingAvg": 733837,
-      "spikePct": -14,
+      "rollingAvg": 726838,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 11.0d (stealanegg.com, stealanegg.net); .com registered 11.0d ago"
+      "detail": "both taken, oldest 11.1d (stealanegg.com, stealanegg.net); .com registered 11.1d ago"
     },
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 39684,
+      "ccu": 41470,
       "ageDays": 53.4,
-      "rollingAvg": 37427,
-      "spikePct": 6,
+      "rollingAvg": 37216,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 32.9d (greedygrowers.com, greedygrowers.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22626,
+      "ccu": 22394,
       "ageDays": 42.6,
-      "rollingAvg": 21675,
-      "spikePct": 4,
+      "rollingAvg": 21722,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
