@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T22:15:05.791Z",
+  "generatedAt": "2026-08-26T22:45:07.865Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 61273,
+      "ccu": 59318,
       "ageDays": 36.9,
-      "rollingAvg": 89488,
-      "spikePct": -32,
+      "rollingAvg": 89496,
+      "spikePct": -34,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 8.5d ago; .com probe inconclusive — check by hand"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 679050,
+      "ccu": 682950,
       "ageDays": 32.6,
-      "rollingAvg": 853666,
+      "rollingAvg": 855161,
       "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[2x Luck] Dungeon Quest Reborn",
-      "ccu": 28666,
+      "ccu": 28588,
       "ageDays": 155.9,
-      "rollingAvg": 26851,
-      "spikePct": 7,
+      "rollingAvg": 26925,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: dungeonquestreborn.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 25543,
-      "ageDays": 59.3,
-      "rollingAvg": 34951,
+      "ccu": 25623,
+      "ageDays": 59.4,
+      "rollingAvg": 35079,
       "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22304,
+      "ccu": 22055,
       "ageDays": 43.3,
-      "rollingAvg": 23080,
-      "spikePct": -3,
+      "rollingAvg": 23070,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
