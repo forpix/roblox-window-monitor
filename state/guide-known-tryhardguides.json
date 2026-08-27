@@ -4467,7 +4467,9 @@
     "https://tryhardguides.com/raids-night-tide-codes/",
     "https://tryhardguides.com/1-backflip-keyboard-escape-codes/",
     "https://tryhardguides.com/1-kitten-keyboard-escape-codes/",
-    "https://tryhardguides.com/build-base-to-survive-verity-codes/"
+    "https://tryhardguides.com/build-base-to-survive-verity-codes/",
+    "https://tryhardguides.com/mog-or-die-codes/",
+    "https://tryhardguides.com/sell-ores-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -4557,7 +4559,7 @@
     "https://tryhardguides.com/build-your-butterfly-garden-codes/": "2026-08-03T08:38:51+00:00",
     "https://tryhardguides.com/duck-duck-codes/": "2026-07-23T06:08:58+00:00",
     "https://tryhardguides.com/1-unlimited-world-codes/": "2026-08-20T12:24:15+00:00",
-    "https://tryhardguides.com/arise-shadow-hunt-codes/": "2026-08-13T10:40:56+00:00",
+    "https://tryhardguides.com/arise-shadow-hunt-codes/": "2026-08-27T11:56:14+00:00",
     "https://tryhardguides.com/lords-piece-codes/": "2026-08-17T07:01:50+00:00",
     "https://tryhardguides.com/birmingham-vehicle-simulator-codes/": "2026-07-10T06:31:03+00:00",
     "https://tryhardguides.com/plant-brainrot-simulator-codes/": "2026-08-03T08:01:03+00:00",
@@ -8937,7 +8939,9 @@
     "https://tryhardguides.com/raids-night-tide-codes/": "2026-08-26T11:52:00+00:00",
     "https://tryhardguides.com/1-backflip-keyboard-escape-codes/": "2026-08-26T15:16:38+00:00",
     "https://tryhardguides.com/1-kitten-keyboard-escape-codes/": "2026-08-26T11:37:00+00:00",
-    "https://tryhardguides.com/build-base-to-survive-verity-codes/": "2026-08-26T11:22:00+00:00"
+    "https://tryhardguides.com/build-base-to-survive-verity-codes/": "2026-08-26T11:22:00+00:00",
+    "https://tryhardguides.com/mog-or-die-codes/": "2026-08-27T11:22:00+00:00",
+    "https://tryhardguides.com/sell-ores-codes/": "2026-08-27T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9212,7 +9216,7 @@
     "post-sitemap-2026-32.xml": "2026-08-09T23:59:59+00:00",
     "post-sitemap-2026-33.xml": "2026-08-16T23:59:59+00:00",
     "post-sitemap-2026-34.xml": "2026-08-23T23:59:59+00:00",
-    "post-sitemap-2026-35.xml": "2026-08-27T09:35:03+00:00"
+    "post-sitemap-2026-35.xml": "2026-08-27T12:00:11+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -10887,7 +10891,7 @@
     },
     "https://tryhardguides.com/arise-shadow-hunt-codes/": {
       "status": "done",
-      "attempts": 6,
+      "attempts": 7,
       "placeId": 115317601829407,
       "universeId": 7661221876
     },
@@ -12822,7 +12826,19 @@
       "attempts": 1,
       "placeId": 116070952245255,
       "universeId": 10604772590
+    },
+    "https://tryhardguides.com/mog-or-die-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 130641102725850,
+      "universeId": 10571722689
+    },
+    "https://tryhardguides.com/sell-ores-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 122572082932179,
+      "universeId": 10336278580
     }
   },
-  "updatedAt": "2026-08-27T10:00:07.210Z"
+  "updatedAt": "2026-08-27T12:00:07.103Z"
 }
