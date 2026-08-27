@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-27T03:45:07.216Z",
+  "generatedAt": "2026-08-27T04:15:07.643Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 56968,
+      "ccu": 57495,
       "ageDays": 37.1,
-      "rollingAvg": 83202,
-      "spikePct": -32,
+      "rollingAvg": 81979,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 8.7d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 8.8d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 681222,
-      "ageDays": 32.8,
-      "rollingAvg": 840957,
-      "spikePct": -19,
+      "ccu": 685265,
+      "ageDays": 32.9,
+      "rollingAvg": 833922,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.0d (stealanegg.com, stealanegg.net); .com registered 12.0d ago"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[2x Luck] Dungeon Quest Reborn",
-      "ccu": 26124,
+      "ccu": 25490,
       "ageDays": 156.1,
-      "rollingAvg": 28104,
-      "spikePct": -7,
+      "rollingAvg": 28257,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: dungeonquestreborn.net; .com registered 0.9d ago; .com probe inconclusive — check by hand"
+      "detail": "available: dungeonquestreborn.net; .com registered 1.0d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 23797,
+      "ccu": 24348,
       "ageDays": 59.6,
-      "rollingAvg": 34890,
-      "spikePct": -32,
+      "rollingAvg": 34663,
+      "spikePct": -30,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 33644,
-      "ageDays": 54.3,
-      "rollingAvg": 35040,
-      "spikePct": -4,
+      "ccu": 33977,
+      "ageDays": 54.4,
+      "rollingAvg": 34900,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 33.8d (greedygrowers.com, greedygrowers.net)"
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 20914,
+      "ccu": 20859,
       "ageDays": 43.5,
-      "rollingAvg": 22810,
+      "rollingAvg": 22761,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
