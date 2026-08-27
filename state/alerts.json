@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-27T19:15:07.006Z",
+  "generatedAt": "2026-08-27T19:45:06.497Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 78207,
-      "ageDays": 37.7,
-      "rollingAvg": 82616,
-      "spikePct": -5,
+      "ccu": 75151,
+      "ageDays": 37.8,
+      "rollingAvg": 83226,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 9.4d ago; .com probe inconclusive — check by hand"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 35979,
+      "ccu": 36857,
       "ageDays": 31.7,
-      "rollingAvg": 28953,
+      "rollingAvg": 29733,
       "spikePct": 24,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,20 +26,20 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 878748,
+      "ccu": 823990,
       "ageDays": 33.5,
-      "rollingAvg": 944196,
-      "spikePct": -7,
+      "rollingAvg": 949406,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 12.6d (stealanegg.com, stealanegg.net); .com registered 12.6d ago"
+      "detail": "both taken, oldest 12.7d (stealanegg.com, stealanegg.net); .com registered 12.7d ago"
     },
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 33271,
+      "ccu": 33296,
       "ageDays": 156.8,
-      "rollingAvg": 28127,
+      "rollingAvg": 28273,
       "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22010,
+      "ccu": 21603,
       "ageDays": 44.2,
-      "rollingAvg": 21619,
-      "spikePct": 2,
+      "rollingAvg": 21636,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
