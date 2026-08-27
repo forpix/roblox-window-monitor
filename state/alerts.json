@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-27T12:45:07.676Z",
+  "generatedAt": "2026-08-27T13:15:08.061Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 109147,
+      "ccu": 110576,
       "ageDays": 37.5,
-      "rollingAvg": 72279,
+      "rollingAvg": 73094,
       "spikePct": 51,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 22707,
+      "ccu": 22301,
       "ageDays": 33.5,
-      "rollingAvg": 23076,
-      "spikePct": -2,
+      "rollingAvg": 22999,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1230542,
+      "ccu": 1210593,
       "ageDays": 33.2,
-      "rollingAvg": 808739,
-      "spikePct": 52,
+      "rollingAvg": 823352,
+      "spikePct": 47,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.4d (stealanegg.com, stealanegg.net); .com registered 12.4d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 30300,
+      "ccu": 31857,
       "ageDays": 156.5,
-      "rollingAvg": 26378,
-      "spikePct": 15,
+      "rollingAvg": 26385,
+      "spikePct": 21,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: dungeonquestreborn.net; .com registered 1.3d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 44261,
+      "ccu": 43708,
       "ageDays": 60,
-      "rollingAvg": 29705,
-      "spikePct": 49,
+      "rollingAvg": 30093,
+      "spikePct": 45,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 40951,
+      "ccu": 42136,
       "ageDays": 54.7,
-      "rollingAvg": 33234,
-      "spikePct": 23,
+      "rollingAvg": 33181,
+      "spikePct": 27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 34.2d (greedygrowers.com, greedygrowers.net)"
@@ -70,9 +70,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 22208,
+      "ccu": 22326,
       "ageDays": 43.9,
-      "rollingAvg": 21638,
+      "rollingAvg": 21596,
       "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
