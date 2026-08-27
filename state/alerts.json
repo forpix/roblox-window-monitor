@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-27T09:45:08.454Z",
+  "generatedAt": "2026-08-27T10:15:05.826Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 90931,
-      "ageDays": 37.3,
-      "rollingAvg": 71182,
-      "spikePct": 28,
+      "ccu": 92120,
+      "ageDays": 37.4,
+      "rollingAvg": 71010,
+      "spikePct": 30,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 9.0d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1032634,
+      "ccu": 1101707,
       "ageDays": 33.1,
-      "rollingAvg": 757907,
-      "spikePct": 36,
+      "rollingAvg": 761094,
+      "spikePct": 45,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 12.2d (stealanegg.com, stealanegg.net); .com registered 12.2d ago"
+      "detail": "both taken, oldest 12.3d (stealanegg.com, stealanegg.net); .com registered 12.3d ago"
     },
     {
       "source": "discover",
       "name": "[2x Luck] Dungeon Quest Reborn",
-      "ccu": 23589,
+      "ccu": 24276,
       "ageDays": 156.4,
-      "rollingAvg": 27170,
-      "spikePct": -13,
+      "rollingAvg": 26966,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: dungeonquestreborn.net; .com registered 1.2d ago; .com probe inconclusive — check by hand"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "+1 Cut Grass Adventure",
-      "ccu": 37929,
+      "ccu": 39434,
       "ageDays": 59.8,
-      "rollingAvg": 31883,
-      "spikePct": 19,
+      "rollingAvg": 31668,
+      "spikePct": 25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1cutgrassadventure.com, 1cutgrassadventure.net; competitor BUILT: 1cutgrassadventure.wiki \"+1 Cut Grass Adventure Guides Tools Robl\""
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 33702,
+      "ccu": 33516,
       "ageDays": 54.6,
-      "rollingAvg": 33629,
+      "rollingAvg": 33542,
       "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -59,9 +59,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 21327,
+      "ccu": 21278,
       "ageDays": 43.8,
-      "rollingAvg": 22012,
+      "rollingAvg": 21946,
       "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
