@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-27T23:45:06.256Z",
+  "generatedAt": "2026-08-28T00:15:07.098Z",
   "candidates": [
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 57611,
-      "ageDays": 37.9,
-      "rollingAvg": 84663,
-      "spikePct": -32,
+      "ccu": 56470,
+      "ageDays": 38,
+      "rollingAvg": 84390,
+      "spikePct": -33,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 9.6d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 41310,
-      "ageDays": 31.8,
-      "rollingAvg": 34182,
-      "spikePct": 21,
+      "ccu": 41328,
+      "ageDays": 31.9,
+      "rollingAvg": 34578,
+      "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 859377,
+      "ccu": 853341,
       "ageDays": 33.7,
-      "rollingAvg": 969422,
-      "spikePct": -11,
+      "rollingAvg": 972169,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 12.8d (stealanegg.com, stealanegg.net); .com registered 12.8d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 32022,
-      "ageDays": 156.9,
-      "rollingAvg": 29752,
-      "spikePct": 8,
+      "ccu": 31863,
+      "ageDays": 157,
+      "rollingAvg": 29999,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: dungeonquestreborn.net; .com registered 1.8d ago; .com probe inconclusive — check by hand"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 20473,
-      "ageDays": 44.3,
-      "rollingAvg": 21651,
+      "ccu": 20486,
+      "ageDays": 44.4,
+      "rollingAvg": 21640,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
