@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T07:45:07.696Z",
+  "generatedAt": "2026-08-28T08:15:08.833Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 27224,
+      "ccu": 26689,
       "ageDays": 34.3,
-      "rollingAvg": 22847,
-      "spikePct": 19,
+      "rollingAvg": 23020,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1165874,
+      "ccu": 1188043,
       "ageDays": 34,
-      "rollingAvg": 954025,
-      "spikePct": 22,
+      "rollingAvg": 951998,
+      "spikePct": 25,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.2d (stealanegg.com, stealanegg.net); .com registered 13.2d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 27696,
+      "ccu": 27977,
       "ageDays": 157.3,
-      "rollingAvg": 32388,
-      "spikePct": -14,
+      "rollingAvg": 32230,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: dungeonquestreborn.net; .com registered 2.1d ago; .com BUILT: \"Dungeon Quest Reborn Wiki | Dungeons, Builds &amp; Guides\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 85045,
+      "ccu": 87355,
       "ageDays": 38.3,
-      "rollingAvg": 72493,
-      "spikePct": 17,
+      "rollingAvg": 71762,
+      "spikePct": 22,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 9.9d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 31159,
+      "ccu": 30559,
       "ageDays": 55.5,
-      "rollingAvg": 32329,
-      "spikePct": -4,
+      "rollingAvg": 32173,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 35.0d (greedygrowers.com, greedygrowers.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 20279,
+      "ccu": 20803,
       "ageDays": 32,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20279,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "+1 Skinny Per Step",
-      "ccu": 25103,
+      "ccu": 25867,
       "ageDays": 42.2,
-      "rollingAvg": 22632,
-      "spikePct": 11,
+      "rollingAvg": 23126,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1skinnyperstep.com, 1skinnyperstep.net; sweep clean (38 surfaces, 34 inconclusive)"
