@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T21:15:06.914Z",
+  "generatedAt": "2026-08-28T21:45:07.679Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 62568,
-      "ageDays": 32.7,
-      "rollingAvg": 39592,
-      "spikePct": 58,
+      "ccu": 62747,
+      "ageDays": 32.8,
+      "rollingAvg": 40182,
+      "spikePct": 56,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\", mm2-of-the-locust-wiki.wiki \"MM2 of The Locust Wiki · Roblox survival\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 21081,
+      "ccu": 20628,
       "ageDays": 34.8,
-      "rollingAvg": 28781,
-      "spikePct": -27,
+      "rollingAvg": 28722,
+      "spikePct": -28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 900835,
+      "ccu": 890157,
       "ageDays": 34.6,
-      "rollingAvg": 1204498,
-      "spikePct": -25,
+      "rollingAvg": 1203558,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.7d (stealanegg.com, stealanegg.net); .com registered 13.7d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 36119,
-      "ageDays": 157.8,
-      "rollingAvg": 34513,
-      "spikePct": 5,
+      "ccu": 35728,
+      "ageDays": 157.9,
+      "rollingAvg": 34630,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 2.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 2.7d ago"
@@ -48,24 +48,13 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 67984,
+      "ccu": 65399,
       "ageDays": 38.8,
-      "rollingAvg": 87518,
-      "spikePct": -22,
+      "rollingAvg": 87847,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 10.5d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
-      "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 20017,
-      "ageDays": 45.2,
-      "rollingAvg": 20544,
-      "spikePct": -3,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
     }
   ]
 }
