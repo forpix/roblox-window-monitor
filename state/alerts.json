@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28T09:15:07.456Z",
+  "generatedAt": "2026-08-28T09:45:08.879Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 27922,
+      "ccu": 28156,
       "ageDays": 34.3,
-      "rollingAvg": 23335,
+      "rollingAvg": 23448,
       "spikePct": 20,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1238956,
+      "ccu": 1306667,
       "ageDays": 34.1,
-      "rollingAvg": 952859,
-      "spikePct": 30,
+      "rollingAvg": 957540,
+      "spikePct": 36,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.2d (stealanegg.com, stealanegg.net); .com registered 13.2d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 28450,
-      "ageDays": 157.3,
-      "rollingAvg": 31866,
-      "spikePct": -11,
+      "ccu": 29057,
+      "ageDays": 157.4,
+      "rollingAvg": 31676,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: dungeonquestreborn.net; .com registered 2.2d ago; .com BUILT: \"Dungeon Quest Reborn Wiki | Dungeons, Builds &amp; Guides\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 91129,
+      "ccu": 92561,
       "ageDays": 38.3,
-      "rollingAvg": 70859,
-      "spikePct": 29,
+      "rollingAvg": 70717,
+      "spikePct": 31,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 10.0d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 22461,
+      "ccu": 23354,
       "ageDays": 32.1,
-      "rollingAvg": 20978,
-      "spikePct": 7,
+      "rollingAvg": 21349,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 29347,
+      "ccu": 28824,
       "ageDays": 55.6,
-      "rollingAvg": 31830,
-      "spikePct": -8,
+      "rollingAvg": 31646,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 35.0d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 35.1d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "+1 Skinny Per Step",
-      "ccu": 27815,
+      "ccu": 28912,
       "ageDays": 42.2,
-      "rollingAvg": 24062,
-      "spikePct": 16,
+      "rollingAvg": 24531,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1skinnyperstep.com, 1skinnyperstep.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -81,9 +81,9 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 20114,
-      "ageDays": 44.7,
-      "rollingAvg": 21200,
+      "ccu": 20137,
+      "ageDays": 44.8,
+      "rollingAvg": 21139,
       "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
