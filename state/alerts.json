@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T12:15:07.585Z",
+  "generatedAt": "2026-08-28T12:45:06.939Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 27058,
+      "ccu": 28777,
       "ageDays": 32.4,
-      "rollingAvg": 32448,
-      "spikePct": -17,
+      "rollingAvg": 32587,
+      "spikePct": -12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\", mm2-of-the-locust-wiki.wiki \"MM2 of The Locust Wiki · Roblox survival\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 42562,
+      "ccu": 40816,
       "ageDays": 34.5,
-      "rollingAvg": 24228,
-      "spikePct": 76,
+      "rollingAvg": 24785,
+      "spikePct": 65,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1480771,
+      "ccu": 1563344,
       "ageDays": 34.2,
-      "rollingAvg": 1012450,
-      "spikePct": 46,
+      "rollingAvg": 1028168,
+      "spikePct": 52,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 13.3d (stealanegg.com, stealanegg.net); .com registered 13.3d ago"
+      "detail": "both taken, oldest 13.4d (stealanegg.com, stealanegg.net); .com registered 13.4d ago"
     },
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 34507,
+      "ccu": 36898,
       "ageDays": 157.5,
-      "rollingAvg": 31115,
-      "spikePct": 11,
+      "rollingAvg": 31130,
+      "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: dungeonquestreborn.net; .com registered 2.3d ago; .com BUILT: \"Dungeon Quest Reborn Wiki | Dungeons, Builds &amp; Guides\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 107093,
+      "ccu": 112611,
       "ageDays": 38.5,
-      "rollingAvg": 72038,
-      "spikePct": 49,
+      "rollingAvg": 72672,
+      "spikePct": 55,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 10.1d ago; .com probe inconclusive — check by hand"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 28372,
+      "ccu": 29188,
       "ageDays": 32.2,
-      "rollingAvg": 23448,
-      "spikePct": 21,
+      "rollingAvg": 23941,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 32789,
+      "ccu": 34777,
       "ageDays": 55.7,
-      "rollingAvg": 31019,
-      "spikePct": 6,
+      "rollingAvg": 30984,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 35.2d (greedygrowers.com, greedygrowers.net)"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "+1 Skinny Per Step",
-      "ccu": 34442,
+      "ccu": 34853,
       "ageDays": 42.4,
-      "rollingAvg": 27031,
-      "spikePct": 27,
+      "rollingAvg": 27560,
+      "spikePct": 26,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1skinnyperstep.com, 1skinnyperstep.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -92,10 +92,10 @@
     {
       "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 20586,
+      "ccu": 20689,
       "ageDays": 44.9,
-      "rollingAvg": 20842,
-      "spikePct": -1,
+      "rollingAvg": 20790,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
