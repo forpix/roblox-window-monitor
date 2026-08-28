@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T06:45:08.303Z",
+  "generatedAt": "2026-08-28T07:15:07.145Z",
   "candidates": [
     {
       "source": "discover",
       "name": "+1 Drain Water Per Click",
-      "ccu": 26779,
+      "ccu": 26593,
       "ageDays": 34.2,
-      "rollingAvg": 22497,
-      "spikePct": 19,
+      "rollingAvg": 22681,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1125469,
+      "ccu": 1114789,
       "ageDays": 34,
-      "rollingAvg": 959605,
+      "rollingAvg": 956686,
       "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 27819,
-      "ageDays": 157.2,
-      "rollingAvg": 32576,
+      "ccu": 27572,
+      "ageDays": 157.3,
+      "rollingAvg": 32507,
       "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 77449,
+      "ccu": 80738,
       "ageDays": 38.2,
-      "rollingAvg": 74203,
-      "spikePct": 4,
+      "rollingAvg": 73322,
+      "spikePct": 10,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 9.9d ago; .com probe inconclusive — check by hand"
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 31783,
+      "ccu": 31539,
       "ageDays": 55.5,
-      "rollingAvg": 32626,
+      "rollingAvg": 32481,
       "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 34.9d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 35.0d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "+1 Skinny Per Step",
-      "ccu": 23258,
+      "ccu": 24207,
       "ageDays": 42.1,
-      "rollingAvg": 21532,
-      "spikePct": 8,
+      "rollingAvg": 22107,
+      "spikePct": 9,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1skinnyperstep.com, 1skinnyperstep.net; sweep clean (38 surfaces, 34 inconclusive)"
