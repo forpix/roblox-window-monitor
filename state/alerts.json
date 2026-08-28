@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T20:15:07.144Z",
+  "generatedAt": "2026-08-28T20:45:06.644Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 63831,
+      "ccu": 63073,
       "ageDays": 32.7,
-      "rollingAvg": 38335,
-      "spikePct": 67,
+      "rollingAvg": 38988,
+      "spikePct": 62,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\", mm2-of-the-locust-wiki.wiki \"MM2 of The Locust Wiki · Roblox survival\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 977466,
+      "ccu": 958262,
       "ageDays": 34.5,
-      "rollingAvg": 1201531,
-      "spikePct": -19,
+      "rollingAvg": 1203660,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.7d (stealanegg.com, stealanegg.net); .com registered 13.7d ago"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 36715,
+      "ccu": 36744,
       "ageDays": 157.8,
-      "rollingAvg": 34273,
+      "rollingAvg": 34390,
       "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -37,42 +37,31 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 73574,
+      "ccu": 71138,
       "ageDays": 38.8,
-      "rollingAvg": 86536,
-      "spikePct": -15,
+      "rollingAvg": 87081,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: cleanalltheleaves.net; .com registered 10.4d ago; .com probe inconclusive — check by hand"
+      "detail": "available: cleanalltheleaves.net; .com registered 10.5d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "DOORS 👔",
-      "ccu": 123945,
-      "ageDays": 1993.7,
-      "rollingAvg": 49420,
-      "spikePct": 151,
+      "ccu": 112759,
+      "ageDays": 1993.8,
+      "rollingAvg": 52012,
+      "spikePct": 117,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "both taken, oldest 11458.7d (doors.com, doors.net)"
     },
     {
       "source": "discover",
-      "name": "+1 Skinny Per Step",
-      "ccu": 20457,
-      "ageDays": 42.7,
-      "rollingAvg": 28465,
-      "spikePct": -28,
-      "gate": "D:young-chart",
-      "verdict": "GREEN",
-      "detail": "available: 1skinnyperstep.com, 1skinnyperstep.net; sweep clean (38 surfaces, 34 inconclusive)"
-    },
-    {
-      "source": "discover",
       "name": "[AUTO SPAWN BOSS] Anime Astral Simulator",
-      "ccu": 20379,
+      "ccu": 20254,
       "ageDays": 45.2,
-      "rollingAvg": 20548,
+      "rollingAvg": 20545,
       "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
