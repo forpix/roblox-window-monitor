@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T23:15:07.535Z",
+  "generatedAt": "2026-08-28T23:45:07.118Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 62168,
+      "ccu": 63328,
       "ageDays": 32.8,
-      "rollingAvg": 41980,
-      "spikePct": 48,
+      "rollingAvg": 42642,
+      "spikePct": 49,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\", mm2-of-the-locust-wiki.wiki \"MM2 of The Locust Wiki · Roblox survival\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 22844,
+      "ccu": 22277,
       "ageDays": 34.9,
-      "rollingAvg": 28651,
-      "spikePct": -20,
+      "rollingAvg": 28716,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1070935,
-      "ageDays": 34.6,
-      "rollingAvg": 1198819,
-      "spikePct": -11,
+      "ccu": 1149119,
+      "ageDays": 34.7,
+      "rollingAvg": 1199785,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 13.8d (stealanegg.com, stealanegg.net); .com registered 13.8d ago"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 34128,
+      "ccu": 34339,
       "ageDays": 157.9,
-      "rollingAvg": 35025,
-      "spikePct": -3,
+      "rollingAvg": 35178,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 2.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 2.7d ago"
+      "detail": "both taken, oldest 2.8d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 2.8d ago"
     },
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 65116,
+      "ccu": 67617,
       "ageDays": 38.9,
-      "rollingAvg": 88165,
-      "spikePct": -26,
+      "rollingAvg": 88156,
+      "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 10.6d ago; .com probe inconclusive — check by hand"
