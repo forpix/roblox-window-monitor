@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T20:45:07.389Z",
+  "generatedAt": "2026-08-29T21:15:07.825Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 73429,
+      "ccu": 69988,
       "ageDays": 33.7,
-      "rollingAvg": 47833,
-      "spikePct": 54,
+      "rollingAvg": 48127,
+      "spikePct": 45,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1128524,
-      "ageDays": 35.5,
-      "rollingAvg": 1918845,
-      "spikePct": -41,
+      "ccu": 1081262,
+      "ageDays": 35.6,
+      "rollingAvg": 1910476,
+      "spikePct": -43,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 14.7d (stealanegg.com, stealanegg.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🌴 UPD] Forsaken",
-      "ccu": 283909,
+      "ccu": 235352,
       "ageDays": 762.8,
-      "rollingAvg": 81351,
-      "spikePct": 249,
+      "rollingAvg": 86311,
+      "spikePct": 173,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "both taken, oldest 9413.3d (forsaken.com, forsaken.net)"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 48767,
+      "ccu": 46641,
       "ageDays": 158.8,
-      "rollingAvg": 42849,
-      "spikePct": 14,
+      "rollingAvg": 43137,
+      "spikePct": 8,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.6d ago"
+      "detail": "both taken, oldest 3.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.7d ago"
     },
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 93764,
+      "ccu": 87278,
       "ageDays": 39.8,
-      "rollingAvg": 115654,
-      "spikePct": -19,
+      "rollingAvg": 115814,
+      "spikePct": -25,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.5d ago; .com probe inconclusive — check by hand"
