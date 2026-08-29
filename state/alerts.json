@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T23:15:07.102Z",
+  "generatedAt": "2026-08-29T23:45:06.443Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 65211,
+      "ccu": 64849,
       "ageDays": 33.8,
-      "rollingAvg": 49741,
-      "spikePct": 31,
+      "rollingAvg": 50462,
+      "spikePct": 29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1201057,
-      "ageDays": 35.6,
-      "rollingAvg": 1875460,
-      "spikePct": -36,
+      "ccu": 1276776,
+      "ageDays": 35.7,
+      "rollingAvg": 1867886,
+      "spikePct": -32,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 14.8d (stealanegg.com, stealanegg.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 41501,
+      "ccu": 41993,
       "ageDays": 158.9,
-      "rollingAvg": 43576,
-      "spikePct": -5,
+      "rollingAvg": 43600,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 3.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.7d ago"
+      "detail": "both taken, oldest 3.8d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.8d ago"
     },
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 76227,
+      "ccu": 77433,
       "ageDays": 39.9,
-      "rollingAvg": 114875,
-      "spikePct": -34,
+      "rollingAvg": 114505,
+      "spikePct": -32,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.6d ago; .com probe inconclusive — check by hand"
