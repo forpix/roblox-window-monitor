@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T21:45:07.377Z",
+  "generatedAt": "2026-08-29T22:15:07.018Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 66971,
+      "ccu": 65927,
       "ageDays": 33.8,
-      "rollingAvg": 48394,
-      "spikePct": 38,
+      "rollingAvg": 48712,
+      "spikePct": 35,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,32 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1078422,
+      "ccu": 1084066,
       "ageDays": 35.6,
-      "rollingAvg": 1901263,
+      "rollingAvg": 1891766,
       "spikePct": -43,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 14.7d (stealanegg.com, stealanegg.net)"
-    },
-    {
-      "source": "discover",
-      "name": "[🌴 UPD] Forsaken",
-      "ccu": 196936,
-      "ageDays": 762.8,
-      "rollingAvg": 90393,
-      "spikePct": 118,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "both taken, oldest 9413.3d (forsaken.com, forsaken.net)"
+      "detail": "both taken, oldest 14.8d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 45153,
+      "ccu": 43614,
       "ageDays": 158.9,
-      "rollingAvg": 43335,
-      "spikePct": 4,
+      "rollingAvg": 43467,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.7d ago"
@@ -48,10 +37,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 81577,
-      "ageDays": 39.8,
-      "rollingAvg": 115750,
-      "spikePct": -30,
+      "ccu": 77599,
+      "ageDays": 39.9,
+      "rollingAvg": 115512,
+      "spikePct": -33,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.5d ago; .com probe inconclusive — check by hand"
