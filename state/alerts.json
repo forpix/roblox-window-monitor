@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T22:15:07.018Z",
+  "generatedAt": "2026-08-29T22:45:07.699Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 65927,
+      "ccu": 65322,
       "ageDays": 33.8,
-      "rollingAvg": 48712,
-      "spikePct": 35,
+      "rollingAvg": 49155,
+      "spikePct": 33,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1084066,
+      "ccu": 1148729,
       "ageDays": 35.6,
-      "rollingAvg": 1891766,
-      "spikePct": -43,
+      "rollingAvg": 1882719,
+      "spikePct": -39,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 14.8d (stealanegg.com, stealanegg.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 43614,
+      "ccu": 42697,
       "ageDays": 158.9,
-      "rollingAvg": 43467,
-      "spikePct": 0,
+      "rollingAvg": 43534,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.7d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 77599,
+      "ccu": 75836,
       "ageDays": 39.9,
-      "rollingAvg": 115512,
-      "spikePct": -33,
+      "rollingAvg": 115211,
+      "spikePct": -34,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.5d ago; .com probe inconclusive — check by hand"
