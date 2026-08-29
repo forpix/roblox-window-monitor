@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T14:15:08.677Z",
+  "generatedAt": "2026-08-29T14:45:08.254Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 50680,
-      "ageDays": 33.4,
-      "rollingAvg": 46903,
-      "spikePct": 8,
+      "ccu": 54958,
+      "ageDays": 33.5,
+      "rollingAvg": 46537,
+      "spikePct": 18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 23755,
-      "ageDays": 35.5,
-      "rollingAvg": 26553,
-      "spikePct": -11,
+      "ccu": 20330,
+      "ageDays": 35.6,
+      "rollingAvg": 26613,
+      "spikePct": -24,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🔥] Karinderya!",
-      "ccu": 29642,
+      "ccu": 25701,
       "ageDays": 22,
-      "rollingAvg": 25656,
-      "spikePct": 16,
+      "rollingAvg": 25822,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 3174.4d (karinderya.com, karinderya.net)"
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 2569966,
+      "ccu": 3292569,
       "ageDays": 35.3,
-      "rollingAvg": 1448061,
-      "spikePct": 77,
-      "gate": "D:young-chart",
+      "rollingAvg": 1492298,
+      "spikePct": 121,
+      "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 14.4d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 14.5d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 49836,
+      "ccu": 50951,
       "ageDays": 158.6,
-      "rollingAvg": 38593,
-      "spikePct": 29,
+      "rollingAvg": 38957,
+      "spikePct": 31,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.4d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.4d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 152482,
-      "ageDays": 39.5,
-      "rollingAvg": 98070,
-      "spikePct": 55,
+      "ccu": 146395,
+      "ageDays": 39.6,
+      "rollingAvg": 100262,
+      "spikePct": 46,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.2d ago; .com probe inconclusive — check by hand"
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 20762,
+      "ccu": 20041,
       "ageDays": 33.3,
-      "rollingAvg": 24736,
-      "spikePct": -16,
+      "rollingAvg": 24570,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 36918,
+      "ccu": 34069,
       "ageDays": 56.8,
-      "rollingAvg": 31830,
-      "spikePct": 16,
+      "rollingAvg": 31874,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 36.3d (greedygrowers.com, greedygrowers.net)"
