@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-29T09:15:14.215Z",
+  "generatedAt": "2026-08-29T09:45:07.201Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 28017,
-      "ageDays": 33.2,
-      "rollingAvg": 52962,
-      "spikePct": -47,
+      "ccu": 28404,
+      "ageDays": 33.3,
+      "rollingAvg": 52512,
+      "spikePct": -46,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\", mm2-of-the-locust-wiki.wiki \"MM2 of The Locust Wiki · Roblox survival\""
+      "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
     },
     {
       "source": "discover",
       "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 25093,
+      "ccu": 22560,
       "ageDays": 35.3,
-      "rollingAvg": 29318,
-      "spikePct": -14,
+      "rollingAvg": 28784,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[🔥] Karinderya!",
-      "ccu": 20424,
+      "ccu": 21652,
       "ageDays": 21.8,
-      "rollingAvg": 21127,
-      "spikePct": -3,
+      "rollingAvg": 21077,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 3174.2d (karinderya.com, karinderya.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1567702,
+      "ccu": 1584024,
       "ageDays": 35.1,
-      "rollingAvg": 1250916,
-      "spikePct": 25,
+      "rollingAvg": 1257409,
+      "spikePct": 26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 14.2d (stealanegg.com, stealanegg.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 36856,
-      "ageDays": 158.3,
-      "rollingAvg": 38324,
-      "spikePct": -4,
+      "ccu": 37581,
+      "ageDays": 158.4,
+      "rollingAvg": 38145,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.2d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.2d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 121233,
+      "ccu": 121442,
       "ageDays": 39.3,
-      "rollingAvg": 86628,
-      "spikePct": 40,
+      "rollingAvg": 87105,
+      "spikePct": 39,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.0d ago; .com probe inconclusive — check by hand"
@@ -70,13 +70,13 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 35539,
+      "ccu": 34951,
       "ageDays": 56.6,
-      "rollingAvg": 30851,
-      "spikePct": 15,
+      "rollingAvg": 31037,
+      "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 36.0d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 36.1d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
