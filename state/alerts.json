@@ -1,35 +1,24 @@
 {
-  "generatedAt": "2026-08-29T15:15:08.636Z",
+  "generatedAt": "2026-08-29T15:45:07.921Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 54869,
+      "ccu": 58162,
       "ageDays": 33.5,
-      "rollingAvg": 46312,
-      "spikePct": 18,
+      "rollingAvg": 46098,
+      "spikePct": 26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki, Planner &amp; Ve\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
     },
     {
       "source": "discover",
-      "name": "[🔥] Karinderya!",
-      "ccu": 21043,
-      "ageDays": 22,
-      "rollingAvg": 25817,
-      "spikePct": -18,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "both taken, oldest 3174.4d (karinderya.com, karinderya.net)"
-    },
-    {
-      "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 6074366,
+      "ccu": 5714151,
       "ageDays": 35.3,
-      "rollingAvg": 1557139,
-      "spikePct": 290,
+      "rollingAvg": 1700849,
+      "spikePct": 236,
       "gate": "B:spike",
       "verdict": "RED",
       "detail": "both taken, oldest 14.5d (stealanegg.com, stealanegg.net)"
@@ -37,9 +26,9 @@
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 48765,
+      "ccu": 49171,
       "ageDays": 158.6,
-      "rollingAvg": 39352,
+      "rollingAvg": 39703,
       "spikePct": 24,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -48,10 +37,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 130933,
+      "ccu": 122602,
       "ageDays": 39.6,
-      "rollingAvg": 102352,
-      "spikePct": 28,
+      "rollingAvg": 104101,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.2d ago; .com probe inconclusive — check by hand"
@@ -59,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 27277,
+      "ccu": 25882,
       "ageDays": 56.8,
-      "rollingAvg": 31894,
-      "spikePct": -14,
+      "rollingAvg": 31800,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 36.3d (greedygrowers.com, greedygrowers.net)"
