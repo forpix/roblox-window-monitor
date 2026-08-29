@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T16:45:07.664Z",
+  "generatedAt": "2026-08-29T17:15:07.467Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 69194,
+      "ccu": 66196,
       "ageDays": 33.6,
-      "rollingAvg": 46075,
-      "spikePct": 50,
+      "rollingAvg": 46268,
+      "spikePct": 43,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,32 +15,32 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1923682,
+      "ccu": 1498484,
       "ageDays": 35.4,
-      "rollingAvg": 1876997,
-      "spikePct": 2,
+      "rollingAvg": 1902048,
+      "spikePct": -21,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 14.5d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 14.6d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
-      "name": "[2X NOW!🎉] Adopt Me!",
-      "ccu": 881165,
+      "name": "[🥚] Adopt Me!",
+      "ccu": 652204,
       "ageDays": 3332.9,
-      "rollingAvg": 306797,
-      "spikePct": 187,
+      "rollingAvg": 323376,
+      "spikePct": 102,
       "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 10689.5d (adoptme.com, adoptme.net)"
+      "detail": "both taken, oldest 10689.6d (adoptme.com, adoptme.net)"
     },
     {
       "source": "discover",
       "name": "Dungeon Quest Reborn",
-      "ccu": 50661,
+      "ccu": 48237,
       "ageDays": 158.7,
-      "rollingAvg": 40490,
-      "spikePct": 25,
+      "rollingAvg": 40939,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.5d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.5d ago"
@@ -48,32 +48,32 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 124126,
-      "ageDays": 39.6,
-      "rollingAvg": 107456,
-      "spikePct": 16,
+      "ccu": 114766,
+      "ageDays": 39.7,
+      "rollingAvg": 109154,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.3d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
-      "name": "🦸 +1 Superhero Evolution",
-      "ccu": 20074,
-      "ageDays": 33.4,
-      "rollingAvg": 24389,
-      "spikePct": -18,
-      "gate": "D:young-chart",
+      "name": "[💎] Sell Ores ⛏️",
+      "ccu": 51387,
+      "ageDays": 74.6,
+      "rollingAvg": 24175,
+      "spikePct": 113,
+      "gate": "B:spike",
       "verdict": "RED",
-      "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
+      "detail": "available: sellores.com, sellores.net; competitor BUILT: sellores.wiki \"Sell Ores Wiki - Codes, Ores &amp; Minin\", sell-ores.wiki \"Sell Ores Wiki — Verified Guide, Data, a\""
     },
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 29268,
+      "ccu": 26837,
       "ageDays": 56.9,
-      "rollingAvg": 31835,
-      "spikePct": -8,
+      "rollingAvg": 31956,
+      "spikePct": -16,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 36.4d (greedygrowers.com, greedygrowers.net)"
