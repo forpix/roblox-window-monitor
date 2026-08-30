@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-30T11:45:07.799Z",
+  "generatedAt": "2026-08-30T12:15:08.062Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 35216,
-      "ageDays": 34.3,
-      "rollingAvg": 55927,
-      "spikePct": -37,
+      "ccu": 34367,
+      "ageDays": 34.4,
+      "rollingAvg": 55112,
+      "spikePct": -38,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1746049,
+      "ccu": 1757836,
       "ageDays": 36.2,
-      "rollingAvg": 1469125,
+      "rollingAvg": 1479562,
       "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 46140,
-      "ageDays": 159.4,
-      "rollingAvg": 45364,
-      "spikePct": 2,
+      "ccu": 47646,
+      "ageDays": 159.5,
+      "rollingAvg": 45306,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.3d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 4.3d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 33016,
+      "ccu": 34369,
       "ageDays": 57.7,
-      "rollingAvg": 30932,
-      "spikePct": 7,
+      "rollingAvg": 30781,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 37.2d (greedygrowers.com, greedygrowers.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 20173,
-      "ageDays": 36.4,
-      "rollingAvg": 23201,
-      "spikePct": -13,
+      "ccu": 22495,
+      "ageDays": 36.5,
+      "rollingAvg": 22955,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
