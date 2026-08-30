@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-30T08:45:07.292Z",
+  "generatedAt": "2026-08-30T09:15:05.748Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 34050,
+      "ccu": 33673,
       "ageDays": 34.2,
-      "rollingAvg": 60435,
+      "rollingAvg": 59854,
       "spikePct": -44,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1627476,
-      "ageDays": 36,
-      "rollingAvg": 1778323,
+      "ccu": 1586657,
+      "ageDays": 36.1,
+      "rollingAvg": 1732071,
       "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 43114,
+      "ccu": 43026,
       "ageDays": 159.3,
-      "rollingAvg": 46407,
+      "rollingAvg": 46220,
       "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 4.1d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 4.1d ago"
+      "detail": "both taken, oldest 4.2d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 4.2d ago"
     },
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 117571,
+      "ccu": 117758,
       "ageDays": 40.3,
-      "rollingAvg": 103754,
-      "spikePct": 13,
+      "rollingAvg": 102784,
+      "spikePct": 15,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 12.0d ago; .com probe inconclusive — check by hand"
@@ -48,21 +48,32 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 34208,
-      "ageDays": 57.5,
+      "ccu": 33655,
+      "ageDays": 57.6,
       "rollingAvg": 31374,
-      "spikePct": 9,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 37.0d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
+      "name": "[Cthulhu]+1 Drain Water Per Click",
+      "ccu": 20757,
+      "ageDays": 36.3,
+      "rollingAvg": 23804,
+      "spikePct": -13,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
+    },
+    {
+      "source": "discover",
       "name": "[KAGUNES] Anime Astral Simulator",
-      "ccu": 25146,
+      "ccu": 25357,
       "ageDays": 46.7,
-      "rollingAvg": 25336,
-      "spikePct": -1,
+      "rollingAvg": 25309,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
