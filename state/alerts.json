@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-30T17:15:09.153Z",
+  "generatedAt": "2026-08-30T17:45:06.718Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 68506,
+      "ccu": 68742,
       "ageDays": 34.6,
-      "rollingAvg": 49403,
+      "rollingAvg": 49495,
       "spikePct": 39,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1360284,
+      "ccu": 1331283,
       "ageDays": 36.4,
-      "rollingAvg": 1604504,
-      "spikePct": -15,
+      "rollingAvg": 1608927,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 15.6d (stealanegg.com, stealanegg.net)"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 58818,
+      "ccu": 59020,
       "ageDays": 159.7,
-      "rollingAvg": 47640,
+      "rollingAvg": 48121,
       "spikePct": 23,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 26384,
+      "ccu": 24591,
       "ageDays": 57.9,
-      "rollingAvg": 32011,
-      "spikePct": -18,
+      "rollingAvg": 32141,
+      "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 37.4d (greedygrowers.com, greedygrowers.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[KAGUNES] Anime Astral Simulator",
-      "ccu": 26457,
+      "ccu": 25929,
       "ageDays": 47.1,
-      "rollingAvg": 26016,
-      "spikePct": 2,
+      "rollingAvg": 26041,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
