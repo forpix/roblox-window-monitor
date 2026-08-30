@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T23:45:06.443Z",
+  "generatedAt": "2026-08-30T00:15:07.166Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 64849,
-      "ageDays": 33.8,
-      "rollingAvg": 50462,
-      "spikePct": 29,
+      "ccu": 65379,
+      "ageDays": 33.9,
+      "rollingAvg": 51268,
+      "spikePct": 28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1276776,
+      "ccu": 1395704,
       "ageDays": 35.7,
-      "rollingAvg": 1867886,
-      "spikePct": -32,
+      "rollingAvg": 1861933,
+      "spikePct": -25,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 14.8d (stealanegg.com, stealanegg.net)"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 41993,
-      "ageDays": 158.9,
-      "rollingAvg": 43600,
+      "ccu": 41859,
+      "ageDays": 159,
+      "rollingAvg": 43654,
       "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -37,13 +37,24 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 77433,
-      "ageDays": 39.9,
-      "rollingAvg": 114505,
-      "spikePct": -32,
+      "ccu": 78355,
+      "ageDays": 40,
+      "rollingAvg": 113996,
+      "spikePct": -31,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.6d ago; .com probe inconclusive — check by hand"
+    },
+    {
+      "source": "discover",
+      "name": "[UPD] Greedy Growers 🌱",
+      "ccu": 20067,
+      "ageDays": 57.2,
+      "rollingAvg": 32231,
+      "spikePct": -38,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 36.7d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
