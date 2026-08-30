@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-30T02:45:07.417Z",
+  "generatedAt": "2026-08-30T03:15:08.374Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 65892,
+      "ccu": 63997,
       "ageDays": 34,
-      "rollingAvg": 56344,
-      "spikePct": 17,
+      "rollingAvg": 57392,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 20483,
+      "ccu": 22971,
       "ageDays": 36.1,
-      "rollingAvg": 26626,
-      "spikePct": -23,
+      "rollingAvg": 26583,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1637437,
+      "ccu": 1621485,
       "ageDays": 35.8,
-      "rollingAvg": 1865608,
-      "spikePct": -12,
+      "rollingAvg": 1869647,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 15.0d (stealanegg.com, stealanegg.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 47840,
+      "ccu": 48826,
       "ageDays": 159.1,
-      "rollingAvg": 44380,
-      "spikePct": 8,
+      "rollingAvg": 44662,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 3.9d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 3.9d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 31379,
+      "ccu": 32658,
       "ageDays": 57.3,
-      "rollingAvg": 31742,
-      "spikePct": -1,
+      "rollingAvg": 31739,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 36.8d (greedygrowers.com, greedygrowers.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 100505,
+      "ccu": 102667,
       "ageDays": 40.1,
-      "rollingAvg": 110383,
-      "spikePct": -9,
+      "rollingAvg": 109824,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.7d ago; .com probe inconclusive — check by hand"
