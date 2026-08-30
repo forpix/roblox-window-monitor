@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-30T22:45:07.242Z",
+  "generatedAt": "2026-08-30T23:15:07.694Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 59845,
+      "ccu": 60037,
       "ageDays": 34.8,
-      "rollingAvg": 50070,
-      "spikePct": 20,
+      "rollingAvg": 50291,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1115208,
+      "ccu": 1169646,
       "ageDays": 36.6,
-      "rollingAvg": 1507444,
-      "spikePct": -26,
+      "rollingAvg": 1494658,
+      "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 15.8d (stealanegg.com, stealanegg.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 47585,
+      "ccu": 46526,
       "ageDays": 159.9,
-      "rollingAvg": 50745,
-      "spikePct": -6,
+      "rollingAvg": 50718,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 4.7d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[KAGUNES] Anime Astral Simulator",
-      "ccu": 23164,
+      "ccu": 22788,
       "ageDays": 47.3,
-      "rollingAvg": 25577,
-      "spikePct": -9,
+      "rollingAvg": 25494,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
