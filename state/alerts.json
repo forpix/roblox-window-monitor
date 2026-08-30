@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-30T06:45:08.230Z",
+  "generatedAt": "2026-08-30T07:15:08.573Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 36097,
-      "ageDays": 34.1,
-      "rollingAvg": 61543,
-      "spikePct": -41,
+      "ccu": 34286,
+      "ageDays": 34.2,
+      "rollingAvg": 61491,
+      "spikePct": -44,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Escape, Keys, Co\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1588599,
+      "ccu": 1658393,
       "ageDays": 36,
-      "rollingAvg": 1850246,
-      "spikePct": -14,
+      "rollingAvg": 1836946,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 15.1d (stealanegg.com, stealanegg.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 45181,
-      "ageDays": 159.2,
-      "rollingAvg": 46544,
-      "spikePct": -3,
+      "ccu": 44271,
+      "ageDays": 159.3,
+      "rollingAvg": 46613,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 4.1d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 4.1d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 113270,
+      "ccu": 115138,
       "ageDays": 40.2,
-      "rollingAvg": 106145,
-      "spikePct": 7,
+      "rollingAvg": 105415,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 11.9d ago; .com probe inconclusive — check by hand"
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 35922,
+      "ccu": 35265,
       "ageDays": 57.5,
-      "rollingAvg": 31488,
-      "spikePct": 14,
+      "rollingAvg": 31449,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 36.9d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 37.0d (greedygrowers.com, greedygrowers.net)"
     },
     {
       "source": "discover",
       "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 21898,
+      "ccu": 22699,
       "ageDays": 36.2,
-      "rollingAvg": 25817,
-      "spikePct": -15,
+      "rollingAvg": 25432,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
@@ -70,9 +70,9 @@
     {
       "source": "discover",
       "name": "[KAGUNES] Anime Astral Simulator",
-      "ccu": 25404,
-      "ageDays": 46.6,
-      "rollingAvg": 25331,
+      "ccu": 25324,
+      "ageDays": 46.7,
+      "rollingAvg": 25355,
       "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
