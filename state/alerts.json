@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-30T18:15:04.031Z",
+  "generatedAt": "2026-08-30T18:45:06.991Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 67776,
+      "ccu": 67283,
       "ageDays": 34.6,
-      "rollingAvg": 49603,
-      "spikePct": 37,
+      "rollingAvg": 49669,
+      "spikePct": 35,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1290105,
-      "ageDays": 36.4,
-      "rollingAvg": 1610441,
-      "spikePct": -20,
+      "ccu": 1240428,
+      "ageDays": 36.5,
+      "rollingAvg": 1607508,
+      "spikePct": -23,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 15.6d (stealanegg.com, stealanegg.net)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 58698,
+      "ccu": 58071,
       "ageDays": 159.7,
-      "rollingAvg": 48594,
-      "spikePct": 21,
+      "rollingAvg": 49062,
+      "spikePct": 18,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 4.5d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 4.5d ago"
+      "detail": "both taken, oldest 4.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 4.6d ago"
     },
     {
       "source": "discover",
       "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 22917,
-      "ageDays": 57.9,
-      "rollingAvg": 32252,
-      "spikePct": -29,
+      "ccu": 21656,
+      "ageDays": 58,
+      "rollingAvg": 32331,
+      "spikePct": -33,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 37.4d (greedygrowers.com, greedygrowers.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[KAGUNES] Anime Astral Simulator",
-      "ccu": 25649,
+      "ccu": 25461,
       "ageDays": 47.1,
-      "rollingAvg": 26035,
-      "spikePct": -1,
+      "rollingAvg": 26016,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
