@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T09:15:06.638Z",
+  "generatedAt": "2026-08-31T09:45:04.097Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 26053,
-      "ageDays": 35.2,
-      "rollingAvg": 49296,
-      "spikePct": -47,
+      "ccu": 26908,
+      "ageDays": 35.3,
+      "rollingAvg": 48427,
+      "spikePct": -44,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1357603,
+      "ccu": 1442924,
       "ageDays": 37.1,
-      "rollingAvg": 1264334,
-      "spikePct": 7,
+      "rollingAvg": 1257593,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.2d (stealanegg.com, stealanegg.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 36446,
-      "ageDays": 160.3,
-      "rollingAvg": 47825,
-      "spikePct": -24,
+      "ccu": 37271,
+      "ageDays": 160.4,
+      "rollingAvg": 47247,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.2d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 5.2d ago"
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 25834,
+      "ccu": 25810,
       "ageDays": 58.6,
-      "rollingAvg": 28858,
+      "rollingAvg": 28669,
       "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 38.0d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 38.1d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
