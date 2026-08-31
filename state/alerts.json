@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T06:45:06.334Z",
+  "generatedAt": "2026-08-31T07:15:07.578Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 20396,
-      "ageDays": 35.1,
-      "rollingAvg": 52515,
-      "spikePct": -61,
+      "ccu": 21118,
+      "ageDays": 35.2,
+      "rollingAvg": 52026,
+      "spikePct": -59,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1301485,
+      "ccu": 1306700,
       "ageDays": 37,
-      "rollingAvg": 1325783,
-      "spikePct": -2,
+      "rollingAvg": 1310633,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.1d (stealanegg.com, stealanegg.net)"
@@ -26,35 +26,24 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 36921,
-      "ageDays": 160.2,
-      "rollingAvg": 50119,
-      "spikePct": -26,
+      "ccu": 36419,
+      "ageDays": 160.3,
+      "rollingAvg": 49767,
+      "spikePct": -27,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.1d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 5.1d ago"
     },
     {
       "source": "discover",
-      "name": "[KAGUNES] Anime Astral Simulator",
-      "ccu": 21153,
-      "ageDays": 47.6,
-      "rollingAvg": 25020,
-      "spikePct": -15,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
-    },
-    {
-      "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 27766,
+      "ccu": 27981,
       "ageDays": 58.5,
-      "rollingAvg": 29837,
-      "spikePct": -7,
+      "rollingAvg": 29628,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 37.9d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 38.0d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
