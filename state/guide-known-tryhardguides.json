@@ -4594,7 +4594,7 @@
     "https://tryhardguides.com/world-zero-codes/": "2026-07-08T19:59:19+00:00",
     "https://tryhardguides.com/rebirth-champions-ultimate-codes/": "2026-07-16T15:47:18+00:00",
     "https://tryhardguides.com/just-yeet-bro-codes/": "2026-08-10T07:58:05+00:00",
-    "https://tryhardguides.com/compshop-codes/": "2026-08-11T07:48:27+00:00",
+    "https://tryhardguides.com/compshop-codes/": "2026-08-31T15:34:54+00:00",
     "https://tryhardguides.com/isekai-slow-life-codes/": "2026-08-19T06:44:35+00:00",
     "https://tryhardguides.com/idle-office-tycoon-codes/": "2026-08-31T08:03:06+00:00",
     "https://tryhardguides.com/evil-plate-game-codes/": "2026-07-24T07:51:38+00:00",
@@ -9227,7 +9227,7 @@
     "post-sitemap-2026-33.xml": "2026-08-16T23:59:59+00:00",
     "post-sitemap-2026-34.xml": "2026-08-23T23:59:59+00:00",
     "post-sitemap-2026-35.xml": "2026-08-30T23:59:59+00:00",
-    "post-sitemap-2026-36.xml": "2026-08-31T13:33:10+00:00"
+    "post-sitemap-2026-36.xml": "2026-08-31T15:34:54+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -12316,7 +12316,7 @@
     },
     "https://tryhardguides.com/compshop-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 136848130917777,
       "universeId": 9809733610
     },
@@ -12933,5 +12933,5 @@
       "universeId": 648454481
     }
   },
-  "updatedAt": "2026-08-31T14:00:08.664Z"
+  "updatedAt": "2026-08-31T16:00:04.688Z"
 }
