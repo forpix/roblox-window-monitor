@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T16:15:05.940Z",
+  "generatedAt": "2026-08-31T16:45:03.069Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1313304,
+      "ccu": 1283966,
       "ageDays": 37.4,
-      "rollingAvg": 1356896,
-      "spikePct": -3,
+      "rollingAvg": 1364182,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 16.5d (stealanegg.com, stealanegg.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 47383,
-      "ageDays": 160.6,
-      "rollingAvg": 42735,
-      "spikePct": 11,
+      "ccu": 46413,
+      "ageDays": 160.7,
+      "rollingAvg": 42694,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.5d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 5.5d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 87153,
+      "ccu": 83826,
       "ageDays": 41.6,
-      "rollingAvg": 107971,
-      "spikePct": -19,
+      "rollingAvg": 105889,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 13.3d ago; .com probe inconclusive — check by hand"
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 27190,
+      "ccu": 24877,
       "ageDays": 58.9,
-      "rollingAvg": 27502,
-      "spikePct": -1,
+      "rollingAvg": 27467,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 38.3d (greedygrowers.com, greedygrowers.net)"
+      "detail": "both taken, oldest 38.4d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
