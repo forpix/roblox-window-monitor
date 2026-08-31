@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T02:15:03.986Z",
+  "generatedAt": "2026-08-31T02:45:04.282Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 48072,
-      "ageDays": 34.9,
-      "rollingAvg": 53320,
-      "spikePct": -10,
+      "ccu": 43431,
+      "ageDays": 35,
+      "rollingAvg": 53712,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,20 +15,20 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1264424,
+      "ccu": 1309879,
       "ageDays": 36.8,
-      "rollingAvg": 1427120,
-      "spikePct": -11,
+      "rollingAvg": 1416221,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 15.9d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 16.0d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 45673,
+      "ccu": 45891,
       "ageDays": 160.1,
-      "rollingAvg": 50710,
+      "rollingAvg": 50772,
       "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
@@ -36,11 +36,11 @@
     },
     {
       "source": "discover",
-      "name": "[UPD] Greedy Growers 🌱",
-      "ccu": 25055,
+      "name": "Greedy Growers 🌱",
+      "ccu": 25791,
       "ageDays": 58.3,
-      "rollingAvg": 31842,
-      "spikePct": -21,
+      "rollingAvg": 31666,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 37.8d (greedygrowers.com, greedygrowers.net)"
