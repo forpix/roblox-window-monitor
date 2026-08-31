@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T07:15:07.578Z",
+  "generatedAt": "2026-08-31T07:45:05.989Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 21118,
+      "ccu": 21972,
       "ageDays": 35.2,
-      "rollingAvg": 52026,
-      "spikePct": -59,
+      "rollingAvg": 51475,
+      "spikePct": -57,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1306700,
+      "ccu": 1309030,
       "ageDays": 37,
-      "rollingAvg": 1310633,
-      "spikePct": 0,
+      "rollingAvg": 1295220,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 16.1d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 16.2d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 36419,
+      "ccu": 36341,
       "ageDays": 160.3,
-      "rollingAvg": 49767,
-      "spikePct": -27,
+      "rollingAvg": 49350,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.1d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 5.1d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 27981,
+      "ccu": 27929,
       "ageDays": 58.5,
-      "rollingAvg": 29628,
-      "spikePct": -6,
+      "rollingAvg": 29445,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 38.0d (greedygrowers.com, greedygrowers.net)"
