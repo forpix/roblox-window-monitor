@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T00:45:06.885Z",
+  "generatedAt": "2026-08-31T01:15:07.480Z",
   "candidates": [
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 56267,
+      "ccu": 53598,
       "ageDays": 34.9,
-      "rollingAvg": 51730,
-      "spikePct": 9,
+      "rollingAvg": 52290,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1220376,
+      "ccu": 1234258,
       "ageDays": 36.7,
-      "rollingAvg": 1461536,
-      "spikePct": -17,
+      "rollingAvg": 1451308,
+      "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 15.9d (stealanegg.com, stealanegg.net)"
@@ -26,7 +26,7 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 45196,
+      "ccu": 45313,
       "ageDays": 160,
       "rollingAvg": 50630,
       "spikePct": -11,
@@ -36,14 +36,14 @@
     },
     {
       "source": "discover",
-      "name": "[KAGUNES] Anime Astral Simulator",
-      "ccu": 22266,
-      "ageDays": 47.4,
-      "rollingAvg": 25226,
-      "spikePct": -12,
+      "name": "[UPD] Greedy Growers 🌱",
+      "ccu": 20655,
+      "ageDays": 58.2,
+      "rollingAvg": 32180,
+      "spikePct": -36,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "available: animeastralsimulator.net; .com BUILT: \"Anime Astral Simulator\""
+      "detail": "both taken, oldest 37.7d (greedygrowers.com, greedygrowers.net)"
     }
   ]
 }
