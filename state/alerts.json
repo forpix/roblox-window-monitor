@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-08-31T14:15:07.551Z",
+  "generatedAt": "2026-08-31T14:45:07.748Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1580411,
+      "ccu": 1537262,
       "ageDays": 37.3,
-      "rollingAvg": 1310540,
-      "spikePct": 21,
+      "rollingAvg": 1323055,
+      "spikePct": 16,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 16.4d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 16.5d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 48938,
+      "ccu": 48992,
       "ageDays": 160.6,
-      "rollingAvg": 43221,
-      "spikePct": 13,
+      "rollingAvg": 43052,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 5.4d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 5.4d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "🍂 Clean all the leaves!",
-      "ccu": 111603,
-      "ageDays": 41.5,
-      "rollingAvg": 112040,
-      "spikePct": 0,
+      "ccu": 106853,
+      "ageDays": 41.6,
+      "rollingAvg": 111967,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: cleanalltheleaves.net; .com registered 13.2d ago; .com probe inconclusive — check by hand"
@@ -37,24 +37,13 @@
     {
       "source": "discover",
       "name": "Greedy Growers 🌱",
-      "ccu": 35062,
+      "ccu": 33732,
       "ageDays": 58.8,
-      "rollingAvg": 27583,
-      "spikePct": 27,
+      "rollingAvg": 27549,
+      "spikePct": 22,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 38.3d (greedygrowers.com, greedygrowers.net)"
-    },
-    {
-      "source": "discover",
-      "name": "[Cthulhu]+1 Drain Water Per Click",
-      "ccu": 21912,
-      "ageDays": 37.5,
-      "rollingAvg": 22199,
-      "spikePct": -1,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: 1drainwaterperclick.com, 1drainwaterperclick.net; competitor BUILT: 1drainwaterperclick.wiki \"+1 Drain Water Per Click Roblox Guide\""
     }
   ]
 }
