@@ -238,6 +238,10 @@
     "2026-08": {
       "bootstrapped": true,
       "bootstrappedAt": "2026-08-01T02:01:10.663Z"
+    },
+    "2026-09": {
+      "bootstrapped": true,
+      "bootstrappedAt": "2026-09-01T00:01:11.431Z"
     }
   },
   "enrichmentByUrl": {
@@ -248,5 +252,5 @@
       "universeId": 8420998291
     }
   },
-  "updatedAt": "2026-08-31T22:00:05.498Z"
+  "updatedAt": "2026-09-01T00:00:07.911Z"
 }
