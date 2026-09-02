@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-02T18:15:04.685Z",
+  "generatedAt": "2026-09-02T18:45:04.796Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1170809,
-      "ageDays": 39.4,
-      "rollingAvg": 1314105,
-      "spikePct": -11,
+      "ccu": 1134811,
+      "ageDays": 39.5,
+      "rollingAvg": 1316686,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 18.6d (stealanegg.com, stealanegg.net)"
@@ -15,32 +15,21 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 35681,
+      "ccu": 34752,
       "ageDays": 162.7,
-      "rollingAvg": 33235,
-      "spikePct": 7,
+      "rollingAvg": 33317,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.5d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.5d ago"
-    },
-    {
-      "source": "discover",
-      "name": "[G2] +1 Speed Keyboard Escape | Candy & Chocolate",
-      "ccu": 388653,
-      "ageDays": 227,
-      "rollingAvg": 162514,
-      "spikePct": 139,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net; competitor BUILT: 1speedkeyboardescape.wiki \"1 Speed Keyboard Escape wiki, Codes &amp\", 1speedkeyboardescape.pages.dev \"1 Speed Keyboard Escape wiki, Codes &amp\""
+      "detail": "both taken, oldest 7.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.6d ago"
     },
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23377,
+      "ccu": 23086,
       "ageDays": 948.5,
-      "rollingAvg": 23316,
-      "spikePct": 0,
+      "rollingAvg": 23343,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 3.0d ago; .com probe inconclusive — check by hand"
