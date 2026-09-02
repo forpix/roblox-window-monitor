@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-02T12:15:03.748Z",
+  "generatedAt": "2026-09-02T12:45:03.739Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[UPD] Stream A Cheese Pull!",
-      "ccu": 20888,
+      "ccu": 21330,
       "ageDays": 29.1,
-      "rollingAvg": 20464,
-      "spikePct": 2,
+      "rollingAvg": 20676,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: streamacheesepull.com, streamacheesepull.net; competitor BUILT: streamacheesepull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", stream-a-cheese-pull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", streamacheesepullwiki.wiki \"Stream A Cheese Pull! Wiki - Codes, Guid\" +2 more"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1762895,
+      "ccu": 1714360,
       "ageDays": 39.2,
-      "rollingAvg": 1144518,
-      "spikePct": 54,
+      "rollingAvg": 1163041,
+      "spikePct": 47,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 18.3d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 18.4d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 33839,
+      "ccu": 35842,
       "ageDays": 162.5,
-      "rollingAvg": 31674,
-      "spikePct": 7,
+      "rollingAvg": 31601,
+      "spikePct": 13,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.3d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.3d ago"
@@ -37,24 +37,13 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 24547,
+      "ccu": 24544,
       "ageDays": 948.2,
-      "rollingAvg": 22887,
+      "rollingAvg": 22891,
       "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 2.8d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
-      "name": "[G2] +1 Speed Keyboard Escape | Candy & Chocolate",
-      "ccu": 325236,
-      "ageDays": 226.8,
-      "rollingAvg": 137228,
-      "spikePct": 137,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net; competitor BUILT: 1speedkeyboardescape.wiki \"1 Speed Keyboard Escape wiki, Codes &amp\", 1speedkeyboardescape.pages.dev \"1 Speed Keyboard Escape wiki, Codes &amp\""
     }
   ]
 }
