@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-09-02T13:45:08.828Z",
+  "generatedAt": "2026-09-02T14:15:05.303Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[UPD] Stream A Cheese Pull!",
-      "ccu": 20431,
-      "ageDays": 29.2,
-      "rollingAvg": 20848,
-      "spikePct": -2,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: streamacheesepull.com, streamacheesepull.net; competitor BUILT: streamacheesepull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", stream-a-cheese-pull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", streamacheesepullwiki.wiki \"Stream A Cheese Pull! Wiki - Codes, Guid\" +2 more"
-    },
-    {
-      "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1759494,
-      "ageDays": 39.2,
-      "rollingAvg": 1200657,
-      "spikePct": 47,
+      "ccu": 1627133,
+      "ageDays": 39.3,
+      "rollingAvg": 1222140,
+      "spikePct": 33,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 18.4d (stealanegg.com, stealanegg.net)"
@@ -26,21 +15,21 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 39648,
-      "ageDays": 162.5,
-      "rollingAvg": 31656,
-      "spikePct": 25,
+      "ccu": 41023,
+      "ageDays": 162.6,
+      "rollingAvg": 31762,
+      "spikePct": 29,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.3d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.3d ago"
+      "detail": "both taken, oldest 7.4d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.4d ago"
     },
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 25102,
+      "ccu": 25096,
       "ageDays": 948.3,
-      "rollingAvg": 22918,
-      "spikePct": 10,
+      "rollingAvg": 22957,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 2.8d ago; .com probe inconclusive — check by hand"
