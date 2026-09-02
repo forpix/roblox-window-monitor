@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-02T09:45:03.517Z",
+  "generatedAt": "2026-09-02T10:15:06.154Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1335854,
+      "ccu": 1403426,
       "ageDays": 39.1,
-      "rollingAvg": 1116984,
-      "spikePct": 20,
+      "rollingAvg": 1115571,
+      "spikePct": 26,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 18.2d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 18.3d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 28364,
+      "ccu": 29359,
       "ageDays": 162.4,
-      "rollingAvg": 33168,
-      "spikePct": -14,
+      "rollingAvg": 32750,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.2d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.2d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23003,
+      "ccu": 23160,
       "ageDays": 948.1,
-      "rollingAvg": 23213,
-      "spikePct": -1,
+      "rollingAvg": 23122,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 2.7d ago; .com probe inconclusive — check by hand"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "[QUINQUES] Anime Astral Simulator",
-      "ccu": 21713,
+      "ccu": 21696,
       "ageDays": 49.8,
-      "rollingAvg": 21686,
+      "rollingAvg": 21691,
       "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
