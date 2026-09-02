@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-09-02T11:15:07.783Z",
+  "generatedAt": "2026-09-02T11:45:03.870Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "[UPD] Stream A Cheese Pull!",
+      "ccu": 20464,
+      "ageDays": 29.1,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: streamacheesepull.com, streamacheesepull.net; competitor BUILT: streamacheesepull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", stream-a-cheese-pull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", streamacheesepullwiki.wiki \"Stream A Cheese Pull! Wiki - Codes, Guid\" +2 more"
+    },
+    {
+      "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1540667,
-      "ageDays": 39.1,
-      "rollingAvg": 1122849,
-      "spikePct": 37,
+      "ccu": 1628780,
+      "ageDays": 39.2,
+      "rollingAvg": 1131967,
+      "spikePct": 44,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 18.3d (stealanegg.com, stealanegg.net)"
@@ -15,21 +26,21 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 31016,
+      "ccu": 32468,
       "ageDays": 162.4,
-      "rollingAvg": 32076,
-      "spikePct": -3,
+      "rollingAvg": 31846,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.2d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.2d ago"
+      "detail": "both taken, oldest 7.3d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.3d ago"
     },
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23816,
+      "ccu": 24160,
       "ageDays": 948.2,
-      "rollingAvg": 22971,
-      "spikePct": 4,
+      "rollingAvg": 22918,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 2.7d ago; .com probe inconclusive — check by hand"
