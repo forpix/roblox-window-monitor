@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-02T17:45:02.795Z",
+  "generatedAt": "2026-09-02T18:15:04.685Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1227641,
+      "ccu": 1170809,
       "ageDays": 39.4,
-      "rollingAvg": 1310398,
-      "spikePct": -6,
+      "rollingAvg": 1314105,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 18.6d (stealanegg.com, stealanegg.net)"
@@ -15,20 +15,31 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 36158,
+      "ccu": 35681,
       "ageDays": 162.7,
-      "rollingAvg": 33137,
-      "spikePct": 9,
+      "rollingAvg": 33235,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.5d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.5d ago"
     },
     {
       "source": "discover",
+      "name": "[G2] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "ccu": 388653,
+      "ageDays": 227,
+      "rollingAvg": 162514,
+      "spikePct": 139,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net; competitor BUILT: 1speedkeyboardescape.wiki \"1 Speed Keyboard Escape wiki, Codes &amp\", 1speedkeyboardescape.pages.dev \"1 Speed Keyboard Escape wiki, Codes &amp\""
+    },
+    {
+      "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23333,
-      "ageDays": 948.4,
-      "rollingAvg": 23282,
+      "ccu": 23377,
+      "ageDays": 948.5,
+      "rollingAvg": 23316,
       "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
