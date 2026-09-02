@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-02T20:15:04.318Z",
+  "generatedAt": "2026-09-02T20:45:05.836Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 989533,
+      "ccu": 972930,
       "ageDays": 39.5,
-      "rollingAvg": 1313678,
-      "spikePct": -25,
+      "rollingAvg": 1309258,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 18.7d (stealanegg.com, stealanegg.net)"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 33415,
+      "ccu": 33051,
       "ageDays": 162.8,
-      "rollingAvg": 33385,
-      "spikePct": 0,
+      "rollingAvg": 33366,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 7.6d ago"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 22484,
-      "ageDays": 948.5,
-      "rollingAvg": 23354,
-      "spikePct": -4,
+      "ccu": 22282,
+      "ageDays": 948.6,
+      "rollingAvg": 23348,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 3.1d ago; .com probe inconclusive — check by hand"
