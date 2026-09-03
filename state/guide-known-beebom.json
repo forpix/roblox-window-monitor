@@ -1254,7 +1254,8 @@
     "https://beebom.com/anime-dice-codes/",
     "https://beebom.com/anime-avatar-fighting-codes/",
     "https://beebom.com/endless-games-codes/",
-    "https://beebom.com/dungeon-lootr-codes/"
+    "https://beebom.com/dungeon-lootr-codes/",
+    "https://beebom.com/grand-blue-codes/"
   ],
   "lastmodByUrl": {
     "https://beebom.com/instagram-nametags-qr-codes/": "2018-04-10T06:55:46+00:00",
@@ -2309,7 +2310,7 @@
     "https://beebom.com/sols-rng-codes/": "2026-09-01T07:30:34+00:00",
     "https://beebom.com/archer-training-codes/": "2026-08-09T00:46:26+00:00",
     "https://beebom.com/drag-drive-simulator-codes/": "2026-08-31T19:19:26+00:00",
-    "https://beebom.com/sniper-arena-codes/": "2026-08-31T19:19:35+00:00",
+    "https://beebom.com/sniper-arena-codes/": "2026-09-03T13:12:03+00:00",
     "https://beebom.com/retro-tower-defense-codes/": "2026-08-31T19:21:33+00:00",
     "https://beebom.com/anime-rails-codes/": "2026-08-31T20:24:41+00:00",
     "https://beebom.com/roblox-basketball-legends-codes/": "2026-09-01T10:07:05+00:00",
@@ -2403,7 +2404,7 @@
     "https://beebom.com/clean-the-golf-yard-codes/": "2026-09-03T04:46:29+00:00",
     "https://beebom.com/idle-balls-codes/": "2026-08-31T19:06:54+00:00",
     "https://beebom.com/throw-a-coin-codes/": "2026-08-31T03:22:47+00:00",
-    "https://beebom.com/greedy-growers-codes/": "2026-08-31T19:06:54+00:00",
+    "https://beebom.com/greedy-growers-codes/": "2026-09-03T13:19:41+00:00",
     "https://beebom.com/become-an-anime-billionaire-codes/": "2026-08-31T03:24:48+00:00",
     "https://beebom.com/rintama-high-codes/": "2026-08-31T03:25:41+00:00",
     "https://beebom.com/trench-decay-codes/": "2026-09-03T04:33:48+00:00",
@@ -2508,13 +2509,14 @@
     "https://beebom.com/titans-ultra-boss-rush-codes/": "2026-09-02T07:44:34+00:00",
     "https://beebom.com/stream-a-cheese-pull-codes/": "2026-09-02T08:20:23+00:00",
     "https://beebom.com/build-a-golem-codes/": "2026-09-02T11:14:00+00:00",
-    "https://beebom.com/anime-dice-codes/": "2026-09-02T15:22:19+00:00",
+    "https://beebom.com/anime-dice-codes/": "2026-09-03T13:15:46+00:00",
     "https://beebom.com/anime-avatar-fighting-codes/": "2026-09-03T06:36:41+00:00",
     "https://beebom.com/endless-games-codes/": "2026-09-03T07:38:00+00:00",
-    "https://beebom.com/dungeon-lootr-codes/": "2026-09-03T10:20:44+00:00"
+    "https://beebom.com/dungeon-lootr-codes/": "2026-09-03T10:20:44+00:00",
+    "https://beebom.com/grand-blue-codes/": "2026-09-03T12:10:29+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-09-03T11:41:01+00:00",
+    "post-sitemap.xml": "2026-09-03T13:49:35+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2563,8 +2565,8 @@
     "post-sitemap47.xml": "2026-03-19T10:58:26+00:00",
     "post-sitemap48.xml": "2026-05-18T08:31:55+00:00",
     "post-sitemap49.xml": "2026-07-29T14:03:14+00:00",
-    "post-sitemap50.xml": "2026-08-31T21:28:58+00:00",
-    "post-sitemap51.xml": "2026-09-03T11:41:01+00:00"
+    "post-sitemap50.xml": "2026-08-31T21:29:50+00:00",
+    "post-sitemap51.xml": "2026-09-03T13:49:35+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -3843,7 +3845,7 @@
     },
     "https://beebom.com/sniper-arena-codes/": {
       "status": "done",
-      "attempts": 6,
+      "attempts": 7,
       "placeId": 122446657157717,
       "universeId": 9534705677
     },
@@ -5895,7 +5897,7 @@
     },
     "https://beebom.com/anime-dice-codes/": {
       "status": "done",
-      "attempts": 1,
+      "attempts": 2,
       "placeId": 113290951185459,
       "universeId": 10708913337
     },
@@ -5918,5 +5920,5 @@
       "universeId": 9656201728
     }
   },
-  "updatedAt": "2026-09-03T12:00:06.727Z"
+  "updatedAt": "2026-09-03T14:00:06.305Z"
 }
