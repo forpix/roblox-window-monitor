@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-03T15:45:02.838Z",
+  "generatedAt": "2026-09-03T16:15:04.125Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 43446,
+      "ccu": 40295,
       "ageDays": 21.9,
-      "rollingAvg": 40849,
-      "spikePct": 6,
+      "rollingAvg": 40962,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 1.4d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1447190,
-      "ageDays": 40.3,
-      "rollingAvg": 1334886,
-      "spikePct": 8,
+      "ccu": 1438142,
+      "ageDays": 40.4,
+      "rollingAvg": 1346728,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 19.5d (stealanegg.com, stealanegg.net)"
@@ -26,20 +26,20 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 40816,
+      "ccu": 40008,
       "ageDays": 163.6,
-      "rollingAvg": 31665,
-      "spikePct": 29,
+      "rollingAvg": 31934,
+      "spikePct": 25,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.4d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.4d ago"
+      "detail": "both taken, oldest 8.5d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.5d ago"
     },
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23987,
+      "ccu": 24109,
       "ageDays": 949.4,
-      "rollingAvg": 22069,
+      "rollingAvg": 22126,
       "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 20627,
+      "ccu": 20429,
       "ageDays": 79.5,
-      "rollingAvg": 20850,
-      "spikePct": -1,
+      "rollingAvg": 20836,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sellores.net; .com registered 1.1d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 22132,
+      "ccu": 21787,
       "ageDays": 38.3,
-      "rollingAvg": 22092,
-      "spikePct": 0,
+      "rollingAvg": 22097,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
