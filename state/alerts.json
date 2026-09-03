@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-03T15:15:08.586Z",
+  "generatedAt": "2026-09-03T15:45:02.838Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 45162,
-      "ageDays": 21.8,
-      "rollingAvg": 40643,
-      "spikePct": 11,
+      "ccu": 43446,
+      "ageDays": 21.9,
+      "rollingAvg": 40849,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: jumpforanimals.net; .com registered 1.3d ago; .com probe inconclusive — check by hand"
+      "detail": "available: jumpforanimals.net; .com registered 1.4d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1575814,
+      "ccu": 1447190,
       "ageDays": 40.3,
-      "rollingAvg": 1318565,
-      "spikePct": 20,
+      "rollingAvg": 1334886,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 19.5d (stealanegg.com, stealanegg.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 41053,
+      "ccu": 40816,
       "ageDays": 163.6,
-      "rollingAvg": 31416,
-      "spikePct": 31,
+      "rollingAvg": 31665,
+      "spikePct": 29,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.4d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.4d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 24350,
-      "ageDays": 949.3,
-      "rollingAvg": 22009,
-      "spikePct": 11,
+      "ccu": 23987,
+      "ageDays": 949.4,
+      "rollingAvg": 22069,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 3.9d ago; .com probe inconclusive — check by hand"
@@ -48,21 +48,21 @@
     {
       "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 20870,
+      "ccu": 20627,
       "ageDays": 79.5,
-      "rollingAvg": 20848,
-      "spikePct": 0,
+      "rollingAvg": 20850,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sellores.net; .com registered 1.0d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
+      "detail": "available: sellores.net; .com registered 1.1d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
     },
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 22230,
+      "ccu": 22132,
       "ageDays": 38.3,
-      "rollingAvg": 22069,
-      "spikePct": 1,
+      "rollingAvg": 22092,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
