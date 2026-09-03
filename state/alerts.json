@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-03T20:15:02.815Z",
+  "generatedAt": "2026-09-03T20:45:02.910Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 21512,
+      "ccu": 21303,
       "ageDays": 22.1,
-      "rollingAvg": 38305,
+      "rollingAvg": 37780,
       "spikePct": -44,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1081393,
+      "ccu": 1080464,
       "ageDays": 40.5,
-      "rollingAvg": 1382490,
+      "rollingAvg": 1379235,
       "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 32914,
+      "ccu": 32488,
       "ageDays": 163.8,
-      "rollingAvg": 32908,
-      "spikePct": 0,
+      "rollingAvg": 32890,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.6d ago"
@@ -37,24 +37,13 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 22184,
-      "ageDays": 949.5,
-      "rollingAvg": 22512,
-      "spikePct": -1,
+      "ccu": 22009,
+      "ageDays": 949.6,
+      "rollingAvg": 22523,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 4.1d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
-      "name": "🦸 +1 Superhero Evolution",
-      "ccu": 21321,
-      "ageDays": 38.5,
-      "rollingAvg": 21887,
-      "spikePct": -3,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
     }
   ]
 }
