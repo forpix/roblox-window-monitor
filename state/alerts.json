@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-03T18:15:04.755Z",
+  "generatedAt": "2026-09-03T18:45:05.667Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 28863,
+      "ccu": 27527,
       "ageDays": 22,
-      "rollingAvg": 40142,
-      "spikePct": -28,
+      "rollingAvg": 39739,
+      "spikePct": -31,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 1.5d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1250109,
-      "ageDays": 40.4,
-      "rollingAvg": 1377559,
-      "spikePct": -9,
+      "ccu": 1222765,
+      "ageDays": 40.5,
+      "rollingAvg": 1380261,
+      "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 19.6d (stealanegg.com, stealanegg.net)"
@@ -26,24 +26,35 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 35488,
+      "ccu": 34606,
       "ageDays": 163.7,
-      "rollingAvg": 32730,
-      "spikePct": 8,
+      "rollingAvg": 32831,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 8.5d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.5d ago"
+      "detail": "both taken, oldest 8.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.6d ago"
     },
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23140,
+      "ccu": 22814,
       "ageDays": 949.5,
-      "rollingAvg": 22364,
-      "spikePct": 3,
+      "rollingAvg": 22415,
+      "spikePct": 2,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 4.0d ago; .com probe inconclusive — check by hand"
+    },
+    {
+      "source": "discover",
+      "name": "🦸 +1 Superhero Evolution",
+      "ccu": 20483,
+      "ageDays": 38.5,
+      "rollingAvg": 21709,
+      "spikePct": -6,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
     }
   ]
 }
