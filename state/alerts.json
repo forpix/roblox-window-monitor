@@ -1,23 +1,12 @@
 {
-  "generatedAt": "2026-09-04T05:45:05.272Z",
+  "generatedAt": "2026-09-04T06:15:02.366Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "MM2 of The Locust",
-      "ccu": 24840,
-      "ageDays": 39.1,
-      "rollingAvg": 51444,
-      "spikePct": -52,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +2 more"
-    },
-    {
-      "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 46459,
+      "ccu": 46289,
       "ageDays": 22.5,
-      "rollingAvg": 36063,
+      "rollingAvg": 35929,
       "spikePct": 29,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -26,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1475119,
+      "ccu": 1473878,
       "ageDays": 40.9,
-      "rollingAvg": 1375925,
-      "spikePct": 7,
+      "rollingAvg": 1370054,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 20.1d (stealanegg.com, stealanegg.net)"
@@ -37,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 30919,
+      "ccu": 30557,
       "ageDays": 164.2,
-      "rollingAvg": 34596,
-      "spikePct": -11,
+      "rollingAvg": 34580,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.0d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 9.0d ago"
@@ -48,9 +37,9 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21413,
-      "ageDays": 949.9,
-      "rollingAvg": 22493,
+      "ccu": 21309,
+      "ageDays": 950,
+      "rollingAvg": 22457,
       "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
