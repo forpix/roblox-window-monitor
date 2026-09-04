@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-04T10:45:06.045Z",
+  "generatedAt": "2026-09-04T11:15:05.865Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 55317,
+      "ccu": 56677,
       "ageDays": 22.7,
-      "rollingAvg": 35280,
-      "spikePct": 57,
+      "rollingAvg": 35782,
+      "spikePct": 58,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 2.2d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1690042,
+      "ccu": 1726710,
       "ageDays": 41.1,
-      "rollingAvg": 1339304,
-      "spikePct": 26,
+      "rollingAvg": 1347705,
+      "spikePct": 28,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 20.3d (stealanegg.com, stealanegg.net)"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 30214,
+      "ccu": 31455,
       "ageDays": 164.4,
-      "rollingAvg": 32329,
-      "spikePct": -7,
+      "rollingAvg": 32095,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.2d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 9.2d ago"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21808,
-      "ageDays": 950.1,
-      "rollingAvg": 21836,
-      "spikePct": 0,
+      "ccu": 21908,
+      "ageDays": 950.2,
+      "rollingAvg": 21783,
+      "spikePct": 1,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 4.7d ago; .com probe inconclusive — check by hand"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 20027,
+      "ccu": 21553,
       "ageDays": 39.1,
-      "rollingAvg": 21852,
-      "spikePct": -8,
+      "rollingAvg": 21744,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
