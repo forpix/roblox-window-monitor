@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-04T02:45:02.985Z",
+  "generatedAt": "2026-09-04T03:15:07.515Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 35489,
+      "ccu": 36011,
       "ageDays": 22.3,
-      "rollingAvg": 35935,
-      "spikePct": -1,
+      "rollingAvg": 35962,
+      "spikePct": 0,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 1.8d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 55912,
+      "ccu": 49311,
       "ageDays": 39,
-      "rollingAvg": 62081,
-      "spikePct": -10,
+      "rollingAvg": 61200,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +2 more"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1326219,
+      "ccu": 1332628,
       "ageDays": 40.8,
-      "rollingAvg": 1387644,
+      "rollingAvg": 1388433,
       "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 35195,
+      "ccu": 35109,
       "ageDays": 164.1,
-      "rollingAvg": 33624,
-      "spikePct": 5,
+      "rollingAvg": 33864,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.9d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.9d ago"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21859,
+      "ccu": 21831,
       "ageDays": 949.8,
-      "rollingAvg": 22525,
+      "rollingAvg": 22536,
       "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
