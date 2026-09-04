@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-09-04T12:15:08.132Z",
+  "generatedAt": "2026-09-04T12:45:03.036Z",
   "candidates": [
     {
       "source": "discover",
+      "name": "[✨] Search For The Needle",
+      "ccu": 21241,
+      "ageDays": 12.1,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
+    },
+    {
+      "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 70242,
+      "ccu": 74043,
       "ageDays": 22.7,
-      "rollingAvg": 37305,
-      "spikePct": 88,
+      "rollingAvg": 38454,
+      "spikePct": 93,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 2.2d ago; .com probe inconclusive — check by hand"
@@ -15,54 +26,54 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1901123,
+      "ccu": 2022492,
       "ageDays": 41.2,
-      "rollingAvg": 1371438,
-      "spikePct": 39,
+      "rollingAvg": 1389522,
+      "spikePct": 46,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 20.3d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 20.4d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 34613,
+      "ccu": 36602,
       "ageDays": 164.5,
-      "rollingAvg": 31833,
-      "spikePct": 9,
+      "rollingAvg": 31809,
+      "spikePct": 15,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.3d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 9.3d ago"
     },
     {
       "source": "discover",
-      "name": "[G2] +1 Speed Keyboard Escape | Candy & Chocolate",
-      "ccu": 335146,
-      "ageDays": 228.8,
-      "rollingAvg": 138029,
-      "spikePct": 143,
-      "gate": "B:spike",
-      "verdict": "RED",
-      "detail": "available: 1speedkeyboardescape.com, 1speedkeyboardescape.net; competitor BUILT: 1speedkeyboardescape.wiki \"1 Speed Keyboard Escape wiki, Codes &amp\", 1speedkeyboardescape.pages.dev \"1 Speed Keyboard Escape wiki, Codes &amp\""
-    },
-    {
-      "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 22530,
+      "ccu": 22845,
       "ageDays": 950.2,
-      "rollingAvg": 21703,
-      "spikePct": 4,
+      "rollingAvg": 21686,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 4.8d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
+      "name": "[💎] Sell Ores ⛏️",
+      "ccu": 20899,
+      "ageDays": 80.4,
+      "rollingAvg": 20777,
+      "spikePct": 1,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: sellores.net; .com registered 1.9d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
+    },
+    {
+      "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 23980,
+      "ccu": 24262,
       "ageDays": 39.2,
-      "rollingAvg": 21767,
-      "spikePct": 10,
+      "rollingAvg": 21878,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
