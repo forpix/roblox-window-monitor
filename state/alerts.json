@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-04T20:15:02.994Z",
+  "generatedAt": "2026-09-04T20:45:02.010Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[✨] Search For The Needle",
-      "ccu": 34694,
+      "ccu": 33603,
       "ageDays": 12.5,
-      "rollingAvg": 30124,
-      "spikePct": 15,
+      "rollingAvg": 30410,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 29591,
+      "ccu": 27847,
       "ageDays": 23.1,
-      "rollingAvg": 48616,
-      "spikePct": -39,
+      "rollingAvg": 48487,
+      "spikePct": -43,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 2.6d ago; .com probe inconclusive — check by hand"
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1289544,
+      "ccu": 1295321,
       "ageDays": 41.5,
-      "rollingAvg": 1592670,
+      "rollingAvg": 1591141,
       "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 35131,
+      "ccu": 34337,
       "ageDays": 164.8,
-      "rollingAvg": 35028,
-      "spikePct": 0,
+      "rollingAvg": 35045,
+      "spikePct": -2,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 9.6d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21680,
-      "ageDays": 950.5,
-      "rollingAvg": 22153,
-      "spikePct": -2,
+      "ccu": 21431,
+      "ageDays": 950.6,
+      "rollingAvg": 22149,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 5.1d ago; .com probe inconclusive — check by hand"
