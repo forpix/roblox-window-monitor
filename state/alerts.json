@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-04T02:15:02.438Z",
+  "generatedAt": "2026-09-04T02:45:02.985Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 34252,
+      "ccu": 35489,
       "ageDays": 22.3,
-      "rollingAvg": 35918,
-      "spikePct": -5,
+      "rollingAvg": 35935,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 1.8d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 60210,
-      "ageDays": 38.9,
-      "rollingAvg": 62455,
-      "spikePct": -4,
+      "ccu": 55912,
+      "ageDays": 39,
+      "rollingAvg": 62081,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +2 more"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1344573,
+      "ccu": 1326219,
       "ageDays": 40.8,
-      "rollingAvg": 1385316,
-      "spikePct": -3,
+      "rollingAvg": 1387644,
+      "spikePct": -4,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 19.9d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 20.0d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 34514,
+      "ccu": 35195,
       "ageDays": 164.1,
-      "rollingAvg": 33398,
-      "spikePct": 3,
+      "rollingAvg": 33624,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.9d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.9d ago"
@@ -48,13 +48,13 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21819,
+      "ccu": 21859,
       "ageDays": 949.8,
-      "rollingAvg": 22511,
+      "rollingAvg": 22525,
       "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: animevanguards.net; .com registered 4.3d ago; .com probe inconclusive — check by hand"
+      "detail": "available: animevanguards.net; .com registered 4.4d ago; .com probe inconclusive — check by hand"
     }
   ]
 }
