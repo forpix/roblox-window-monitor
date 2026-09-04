@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-04T22:15:01.817Z",
+  "generatedAt": "2026-09-04T22:45:01.898Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[✨] Search For The Needle",
-      "ccu": 28955,
-      "ageDays": 12.5,
-      "rollingAvg": 30658,
-      "spikePct": -6,
+      "ccu": 28019,
+      "ageDays": 12.6,
+      "rollingAvg": 30573,
+      "spikePct": -8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 29213,
-      "ageDays": 23.1,
-      "rollingAvg": 47726,
-      "spikePct": -39,
+      "ccu": 32306,
+      "ageDays": 23.2,
+      "rollingAvg": 47368,
+      "spikePct": -32,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: jumpforanimals.net; .com registered 2.6d ago; .com probe inconclusive — check by hand"
+      "detail": "available: jumpforanimals.net; .com registered 2.7d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1303544,
+      "ccu": 1384847,
       "ageDays": 41.6,
-      "rollingAvg": 1585560,
-      "spikePct": -18,
+      "rollingAvg": 1583026,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 20.8d (stealanegg.com, stealanegg.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 32613,
+      "ccu": 32222,
       "ageDays": 164.9,
-      "rollingAvg": 34953,
-      "spikePct": -7,
+      "rollingAvg": 34913,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 9.7d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21092,
+      "ccu": 20812,
       "ageDays": 950.6,
-      "rollingAvg": 22105,
-      "spikePct": -5,
+      "rollingAvg": 22087,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 5.2d ago; .com probe inconclusive — check by hand"
