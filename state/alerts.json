@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-03T23:45:01.936Z",
+  "generatedAt": "2026-09-04T00:15:02.036Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 27339,
+      "ccu": 27187,
       "ageDays": 22.2,
-      "rollingAvg": 36063,
+      "rollingAvg": 35977,
       "spikePct": -24,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "MM2 of The Locust",
-      "ccu": 57700,
-      "ageDays": 38.8,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "ccu": 57957,
+      "ageDays": 38.9,
+      "rollingAvg": 57700,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: mm2ofthelocust.com, mm2ofthelocust.net; competitor BUILT: mm2ofthelocust.online \"MM2 of The Locust Wiki — Survive the Rou\", mm2-of-the-locust.wiki \"MM2 of The Locust Wiki: Roles, Survival,\", mm2ofthelocustwiki.wiki \"MM2 of The Locust Wiki - Codes, Survival\" +2 more"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1251406,
+      "ccu": 1288005,
       "ageDays": 40.7,
-      "rollingAvg": 1372405,
-      "spikePct": -9,
+      "rollingAvg": 1374335,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 19.8d (stealanegg.com, stealanegg.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 30716,
-      "ageDays": 163.9,
-      "rollingAvg": 32747,
-      "spikePct": -6,
+      "ccu": 31029,
+      "ageDays": 164,
+      "rollingAvg": 32804,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.8d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 8.8d ago"
@@ -48,13 +48,13 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21031,
+      "ccu": 21406,
       "ageDays": 949.7,
-      "rollingAvg": 22497,
-      "spikePct": -7,
+      "rollingAvg": 22490,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: animevanguards.net; .com registered 4.2d ago; .com probe inconclusive — check by hand"
+      "detail": "available: animevanguards.net; .com registered 4.3d ago; .com probe inconclusive — check by hand"
     }
   ]
 }
