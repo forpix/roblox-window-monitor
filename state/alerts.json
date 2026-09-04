@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-04T21:45:06.377Z",
+  "generatedAt": "2026-09-04T22:15:01.817Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[✨] Search For The Needle",
-      "ccu": 30532,
+      "ccu": 28955,
       "ageDays": 12.5,
-      "rollingAvg": 30665,
-      "spikePct": 0,
+      "rollingAvg": 30658,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 28070,
+      "ccu": 29213,
       "ageDays": 23.1,
-      "rollingAvg": 48025,
-      "spikePct": -42,
+      "rollingAvg": 47726,
+      "spikePct": -39,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: jumpforanimals.net; .com registered 2.6d ago; .com probe inconclusive — check by hand"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1256215,
+      "ccu": 1303544,
       "ageDays": 41.6,
-      "rollingAvg": 1589113,
-      "spikePct": -21,
+      "rollingAvg": 1585560,
+      "spikePct": -18,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 20.7d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 20.8d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 33311,
+      "ccu": 32613,
       "ageDays": 164.9,
-      "rollingAvg": 34991,
-      "spikePct": -5,
+      "rollingAvg": 34953,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 9.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 9.7d ago"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21231,
+      "ccu": 21092,
       "ageDays": 950.6,
-      "rollingAvg": 22123,
-      "spikePct": -4,
+      "rollingAvg": 22105,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 5.2d ago; .com probe inconclusive — check by hand"
