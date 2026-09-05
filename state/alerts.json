@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-05T19:45:06.457Z",
+  "generatedAt": "2026-09-05T20:15:07.449Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[✨] Search For The Needle",
-      "ccu": 56502,
-      "ageDays": 13.4,
-      "rollingAvg": 35201,
-      "spikePct": 61,
+      "ccu": 54699,
+      "ageDays": 13.5,
+      "rollingAvg": 35922,
+      "spikePct": 52,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 36012,
-      "ageDays": 24,
-      "rollingAvg": 69106,
-      "spikePct": -48,
+      "ccu": 33305,
+      "ageDays": 24.1,
+      "rollingAvg": 68808,
+      "spikePct": -52,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 3.5d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 3.6d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1733577,
+      "ccu": 1653266,
       "ageDays": 42.5,
-      "rollingAvg": 2738314,
-      "spikePct": -37,
+      "rollingAvg": 2739391,
+      "spikePct": -40,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 21.7d (stealanegg.com, stealanegg.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 44593,
+      "ccu": 43840,
       "ageDays": 165.8,
-      "rollingAvg": 38933,
-      "spikePct": 15,
+      "rollingAvg": 39222,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.6d ago"
@@ -48,32 +48,54 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 20374,
+      "ccu": 20115,
       "ageDays": 951.5,
-      "rollingAvg": 23119,
-      "spikePct": -12,
+      "rollingAvg": 23098,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 6.1d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
+      "name": "Dungeon Lootr [⚔UPDATE 1]",
+      "ccu": 24020,
+      "ageDays": 216.9,
+      "rollingAvg": 0,
+      "spikePct": null,
+      "gate": "C:fresh-com",
+      "verdict": "YELLOW",
+      "detail": "both taken, oldest 7.5d (dungeonlootr.com, dungeonlootr.net); .com registered 7.5d ago"
+    },
+    {
+      "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 20847,
+      "ccu": 20151,
       "ageDays": 81.7,
-      "rollingAvg": 22667,
-      "spikePct": -8,
+      "rollingAvg": 22615,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sellores.net; .com registered 3.2d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
+      "detail": "available: sellores.net; .com registered 3.3d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
+    },
+    {
+      "source": "discover",
+      "name": "[🫛] Grow a Garden 🌶️",
+      "ccu": 127729,
+      "ageDays": 528.9,
+      "rollingAvg": 33384,
+      "spikePct": 283,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 5520.1d (growagarden.com, growagarden.net)"
     },
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 22060,
+      "ccu": 22292,
       "ageDays": 40.5,
-      "rollingAvg": 23679,
-      "spikePct": -7,
+      "rollingAvg": 23593,
+      "spikePct": -6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
