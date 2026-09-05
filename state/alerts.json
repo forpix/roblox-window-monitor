@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-05T23:15:06.710Z",
+  "generatedAt": "2026-09-05T23:45:07.271Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "[✨] Search For The Needle",
-      "ccu": 39450,
+      "name": "[👽] Search For The Needle",
+      "ccu": 38873,
       "ageDays": 13.6,
-      "rollingAvg": 39398,
-      "spikePct": 0,
+      "rollingAvg": 39940,
+      "spikePct": -3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 36893,
+      "ccu": 40967,
       "ageDays": 24.2,
-      "rollingAvg": 65087,
-      "spikePct": -43,
+      "rollingAvg": 64421,
+      "spikePct": -36,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 3.7d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1733422,
-      "ageDays": 42.6,
-      "rollingAvg": 2695592,
-      "spikePct": -36,
+      "ccu": 1851719,
+      "ageDays": 42.7,
+      "rollingAvg": 2692326,
+      "spikePct": -31,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 21.8d (stealanegg.com, stealanegg.net)"
@@ -37,13 +37,13 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 36469,
+      "ccu": 35989,
       "ageDays": 165.9,
-      "rollingAvg": 39645,
-      "spikePct": -8,
+      "rollingAvg": 39577,
+      "spikePct": -9,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.7d ago"
+      "detail": "both taken, oldest 10.8d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.8d ago"
     }
   ]
 }
