@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-05T12:45:07.320Z",
+  "generatedAt": "2026-09-05T13:15:07.144Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[✨] Search For The Needle",
-      "ccu": 44264,
-      "ageDays": 13.1,
-      "rollingAvg": 29383,
-      "spikePct": 51,
+      "ccu": 46111,
+      "ageDays": 13.2,
+      "rollingAvg": 29800,
+      "spikePct": 55,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Long Arm Toy Escape!",
-      "ccu": 20671,
+      "ccu": 21935,
       "ageDays": 22.4,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20671,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1longarmtoyescape.com, 1longarmtoyescape.net; competitor BUILT: 1longarmtoyescape.wiki \"+1 Long Arm Toy Escape! Wiki, Guide &amp\", 1-long-arm-toy-escape.wiki \"+1 Long Arm Toy Escape Wiki, Walkthrough\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Stream A Cheese Pull!",
-      "ccu": 23425,
-      "ageDays": 32.1,
-      "rollingAvg": 20888,
-      "spikePct": 12,
+      "ccu": 25001,
+      "ageDays": 32.2,
+      "rollingAvg": 21733,
+      "spikePct": 15,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: streamacheesepull.com, streamacheesepull.net; competitor BUILT: streamacheesepull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", stream-a-cheese-pull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", streamacheesepullwiki.wiki \"Stream A Cheese Pull! Wiki - Codes, Guid\" +2 more"
@@ -37,32 +37,43 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 246669,
-      "ageDays": 23.7,
-      "rollingAvg": 52913,
-      "spikePct": 366,
+      "ccu": 201859,
+      "ageDays": 23.8,
+      "rollingAvg": 58724,
+      "spikePct": 244,
       "gate": "B:spike",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 3.2d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 3.3d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 2673756,
+      "ccu": 2917826,
       "ageDays": 42.2,
-      "rollingAvg": 1766629,
-      "spikePct": 51,
+      "rollingAvg": 1801036,
+      "spikePct": 62,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 21.4d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
+      "name": "Blox Fruits",
+      "ccu": 736904,
+      "ageDays": 2789.4,
+      "rollingAvg": 342285,
+      "spikePct": 115,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 1983.8d (bloxfruits.com, bloxfruits.net)"
+    },
+    {
+      "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 41823,
+      "ccu": 43453,
       "ageDays": 165.5,
-      "rollingAvg": 36049,
-      "spikePct": 16,
+      "rollingAvg": 36191,
+      "spikePct": 20,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.3d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.3d ago"
@@ -70,10 +81,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 24530,
-      "ageDays": 951.2,
-      "rollingAvg": 22656,
-      "spikePct": 8,
+      "ccu": 24854,
+      "ageDays": 951.3,
+      "rollingAvg": 22722,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 5.8d ago; .com probe inconclusive — check by hand"
@@ -81,21 +92,21 @@
     {
       "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 24997,
+      "ccu": 25392,
       "ageDays": 81.4,
-      "rollingAvg": 21648,
-      "spikePct": 15,
+      "rollingAvg": 21778,
+      "spikePct": 17,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sellores.net; .com registered 2.9d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
+      "detail": "available: sellores.net; .com registered 3.0d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
     },
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 26326,
+      "ccu": 27489,
       "ageDays": 40.2,
-      "rollingAvg": 23280,
-      "spikePct": 13,
+      "rollingAvg": 23442,
+      "spikePct": 17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
