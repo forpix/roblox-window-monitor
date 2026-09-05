@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-05T11:45:07.856Z",
+  "generatedAt": "2026-09-05T12:15:06.774Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[✨] Search For The Needle",
-      "ccu": 39436,
+      "ccu": 42030,
       "ageDays": 13.1,
-      "rollingAvg": 28723,
-      "spikePct": 37,
+      "rollingAvg": 29023,
+      "spikePct": 45,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Stream A Cheese Pull!",
-      "ccu": 20271,
+      "ccu": 21504,
       "ageDays": 32.1,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20271,
+      "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: streamacheesepull.com, streamacheesepull.net; competitor BUILT: streamacheesepull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", stream-a-cheese-pull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", streamacheesepullwiki.wiki \"Stream A Cheese Pull! Wiki - Codes, Guid\" +2 more"
@@ -26,20 +26,20 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 89348,
+      "ccu": 115507,
       "ageDays": 23.7,
-      "rollingAvg": 49442,
-      "spikePct": 81,
-      "gate": "C:fresh-com",
+      "rollingAvg": 50777,
+      "spikePct": 127,
+      "gate": "B:spike",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 3.2d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 2518325,
+      "ccu": 2545525,
       "ageDays": 42.2,
-      "rollingAvg": 1710063,
+      "rollingAvg": 1737168,
       "spikePct": 47,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 38851,
-      "ageDays": 165.4,
-      "rollingAvg": 35981,
-      "spikePct": 8,
+      "ccu": 40157,
+      "ageDays": 165.5,
+      "rollingAvg": 35980,
+      "spikePct": 12,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.3d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.3d ago"
@@ -59,21 +59,21 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 24288,
+      "ccu": 24593,
       "ageDays": 951.2,
-      "rollingAvg": 22545,
-      "spikePct": 8,
+      "rollingAvg": 22592,
+      "spikePct": 9,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: animevanguards.net; .com registered 5.7d ago; .com probe inconclusive — check by hand"
+      "detail": "available: animevanguards.net; .com registered 5.8d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 24075,
+      "ccu": 24774,
       "ageDays": 81.3,
-      "rollingAvg": 21441,
-      "spikePct": 12,
+      "rollingAvg": 21527,
+      "spikePct": 15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sellores.net; .com registered 2.9d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 25174,
+      "ccu": 26355,
       "ageDays": 40.2,
-      "rollingAvg": 22977,
-      "spikePct": 10,
+      "rollingAvg": 23108,
+      "spikePct": 14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
