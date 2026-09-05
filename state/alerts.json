@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-05T04:15:02.490Z",
+  "generatedAt": "2026-09-05T04:46:40.318Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 55894,
+      "ccu": 59157,
       "ageDays": 23.4,
-      "rollingAvg": 46670,
-      "spikePct": 20,
+      "rollingAvg": 46768,
+      "spikePct": 26,
       "gate": "C:fresh-com",
-      "verdict": "CHECK",
-      "detail": "available: jumpforanimals.net; .com registered 2.9d ago; .com probe inconclusive — check by hand"
+      "verdict": "RED",
+      "detail": "available: jumpforanimals.net; .com registered 2.9d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1833014,
+      "ccu": 1850359,
       "ageDays": 41.9,
-      "rollingAvg": 1629257,
+      "rollingAvg": 1633748,
       "spikePct": 13,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 39059,
-      "ageDays": 165.1,
-      "rollingAvg": 36401,
-      "spikePct": 7,
+      "ccu": 38920,
+      "ageDays": 165.2,
+      "rollingAvg": 36668,
+      "spikePct": 6,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 10.0d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.0d ago"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23052,
+      "ccu": 23108,
       "ageDays": 950.9,
-      "rollingAvg": 22153,
+      "rollingAvg": 22189,
       "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
