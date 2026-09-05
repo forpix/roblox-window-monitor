@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-05T14:15:07.392Z",
+  "generatedAt": "2026-09-05T14:45:05.749Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[✨] Search For The Needle",
-      "ccu": 46070,
+      "ccu": 45737,
       "ageDays": 13.2,
-      "rollingAvg": 30781,
-      "spikePct": 50,
+      "rollingAvg": 31240,
+      "spikePct": 46,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Long Arm Toy Escape!",
-      "ccu": 26136,
+      "ccu": 27090,
       "ageDays": 22.5,
-      "rollingAvg": 21676,
-      "spikePct": 21,
+      "rollingAvg": 22791,
+      "spikePct": 19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1longarmtoyescape.com, 1longarmtoyescape.net; competitor BUILT: 1longarmtoyescape.wiki \"+1 Long Arm Toy Escape! Wiki, Guide &amp\", 1-long-arm-toy-escape.wiki \"+1 Long Arm Toy Escape Wiki, Walkthrough\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Stream A Cheese Pull!",
-      "ccu": 51389,
+      "ccu": 29538,
       "ageDays": 32.2,
-      "rollingAvg": 23742,
-      "spikePct": 116,
-      "gate": "B:spike",
+      "rollingAvg": 28350,
+      "spikePct": 4,
+      "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: streamacheesepull.com, streamacheesepull.net; competitor BUILT: streamacheesepull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", stream-a-cheese-pull.wiki \"Stream A Cheese Pull Wiki - Codes, Guide\", streamacheesepullwiki.wiki \"Stream A Cheese Pull! Wiki - Codes, Guid\" +2 more"
     },
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 74085,
+      "ccu": 62570,
       "ageDays": 23.8,
-      "rollingAvg": 65415,
-      "spikePct": 13,
+      "rollingAvg": 66651,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 3.3d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[NOW] +1 Phonk Evolution",
-      "ccu": 29423,
+      "ccu": 27903,
       "ageDays": 45.6,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 29423,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1phonkevolution.com, 1phonkevolution.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -59,32 +59,43 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 3374475,
+      "ccu": 5057956,
       "ageDays": 42.3,
-      "rollingAvg": 1888890,
-      "spikePct": 79,
-      "gate": "D:young-chart",
+      "rollingAvg": 1946805,
+      "spikePct": 160,
+      "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 21.4d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 21.5d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[🏝️ 🧲 ] Blox Fruits",
-      "ccu": 2326958,
-      "ageDays": 2789.4,
-      "rollingAvg": 377380,
-      "spikePct": 517,
+      "ccu": 1493589,
+      "ageDays": 2789.5,
+      "rollingAvg": 434345,
+      "spikePct": 244,
       "gate": "B:spike",
       "verdict": "RED",
-      "detail": "both taken, oldest 1983.8d (bloxfruits.com, bloxfruits.net)"
+      "detail": "both taken, oldest 1983.9d (bloxfruits.com, bloxfruits.net)"
+    },
+    {
+      "source": "discover",
+      "name": "[🌴] Dress To Impress",
+      "ccu": 188955,
+      "ageDays": 1053.2,
+      "rollingAvg": 86153,
+      "spikePct": 119,
+      "gate": "B:spike",
+      "verdict": "RED",
+      "detail": "both taken, oldest 9523.2d (dresstoimpress.com, dresstoimpress.net)"
     },
     {
       "source": "discover",
       "name": "[Northern Lands] Dungeon Quest Reborn",
-      "ccu": 43910,
+      "ccu": 44006,
       "ageDays": 165.6,
-      "rollingAvg": 36643,
-      "spikePct": 20,
+      "rollingAvg": 36886,
+      "spikePct": 19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.4d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.4d ago"
@@ -92,21 +103,21 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 24067,
+      "ccu": 23678,
       "ageDays": 951.3,
-      "rollingAvg": 22892,
-      "spikePct": 5,
+      "rollingAvg": 22959,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: animevanguards.net; .com registered 5.8d ago; .com probe inconclusive — check by hand"
+      "detail": "available: animevanguards.net; .com registered 5.9d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 25017,
-      "ageDays": 81.4,
-      "rollingAvg": 22067,
-      "spikePct": 13,
+      "ccu": 25311,
+      "ageDays": 81.5,
+      "rollingAvg": 22190,
+      "spikePct": 14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sellores.net; .com registered 3.0d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
@@ -114,10 +125,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 27184,
+      "ccu": 26360,
       "ageDays": 40.3,
-      "rollingAvg": 23637,
-      "spikePct": 15,
+      "rollingAvg": 23800,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
