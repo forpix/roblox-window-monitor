@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T03:45:06.931Z",
+  "generatedAt": "2026-09-06T04:15:06.877Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 34432,
+      "ccu": 35593,
       "ageDays": 13.8,
-      "rollingAvg": 42509,
-      "spikePct": -19,
+      "rollingAvg": 42635,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Scream And Run [UPDATE]",
-      "ccu": 21774,
+      "ccu": 20081,
       "ageDays": 11.2,
-      "rollingAvg": 21477,
-      "spikePct": 1,
+      "rollingAvg": 21551,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 59807,
+      "ccu": 59724,
       "ageDays": 24.4,
-      "rollingAvg": 61936,
+      "rollingAvg": 61779,
       "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 2357662,
-      "ageDays": 42.8,
-      "rollingAvg": 2735225,
+      "ccu": 2353799,
+      "ageDays": 42.9,
+      "rollingAvg": 2744423,
       "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,35 +48,46 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 42871,
+      "ccu": 42225,
       "ageDays": 166.1,
-      "rollingAvg": 39957,
-      "spikePct": 7,
+      "rollingAvg": 40152,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "both taken, oldest 10.9d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.9d ago"
+      "detail": "both taken, oldest 11.0d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 11.0d ago"
     },
     {
       "source": "discover",
       "name": "Dungeon Lootr [⚔UPDATE 1]",
-      "ccu": 20777,
+      "ccu": 20788,
       "ageDays": 217.2,
-      "rollingAvg": 24309,
-      "spikePct": -15,
+      "rollingAvg": 23721,
+      "spikePct": -12,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
-      "detail": "both taken, oldest 7.8d (dungeonlootr.com, dungeonlootr.net); .com registered 7.8d ago"
+      "detail": "both taken, oldest 7.9d (dungeonlootr.com, dungeonlootr.net); .com registered 7.9d ago"
     },
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 20758,
+      "ccu": 21064,
       "ageDays": 951.9,
-      "rollingAvg": 22966,
-      "spikePct": -10,
+      "rollingAvg": 22923,
+      "spikePct": -8,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 6.4d ago; .com probe inconclusive — check by hand"
+    },
+    {
+      "source": "discover",
+      "name": "🦸 +1 Superhero Evolution",
+      "ccu": 20060,
+      "ageDays": 40.8,
+      "rollingAvg": 23215,
+      "spikePct": -14,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
     }
   ]
 }
