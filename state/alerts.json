@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T19:45:04.186Z",
+  "generatedAt": "2026-09-06T20:15:03.174Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 50278,
-      "ageDays": 14.4,
-      "rollingAvg": 45623,
-      "spikePct": 10,
+      "ccu": 47352,
+      "ageDays": 14.5,
+      "rollingAvg": 46067,
+      "spikePct": 3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 0.2d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Scream And Run [UPDATE]",
-      "ccu": 25125,
-      "ageDays": 11.8,
-      "rollingAvg": 22378,
-      "spikePct": 12,
+      "ccu": 24875,
+      "ageDays": 11.9,
+      "rollingAvg": 22607,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 33067,
-      "ageDays": 25,
-      "rollingAvg": 58554,
-      "spikePct": -44,
+      "ccu": 30185,
+      "ageDays": 25.1,
+      "rollingAvg": 57913,
+      "spikePct": -48,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 4.5d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 4.6d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1551752,
+      "ccu": 1476552,
       "ageDays": 43.5,
-      "rollingAvg": 2248278,
-      "spikePct": -31,
+      "rollingAvg": 2229138,
+      "spikePct": -34,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 22.7d (stealanegg.com, stealanegg.net)"
@@ -48,43 +48,32 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 42104,
+      "ccu": 40737,
       "ageDays": 166.8,
-      "rollingAvg": 41868,
-      "spikePct": 1,
+      "rollingAvg": 41961,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 11.6d ago"
     },
     {
       "source": "discover",
-      "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 20440,
-      "ageDays": 952.5,
-      "rollingAvg": 21610,
-      "spikePct": -5,
-      "gate": "C:fresh-com",
-      "verdict": "CHECK",
-      "detail": "available: animevanguards.net; .com registered 7.1d ago; .com probe inconclusive — check by hand"
-    },
-    {
-      "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 24170,
+      "ccu": 22422,
       "ageDays": 82.7,
-      "rollingAvg": 27487,
-      "spikePct": -12,
+      "rollingAvg": 27465,
+      "spikePct": -18,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: sellores.net; .com registered 4.2d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
+      "detail": "available: sellores.net; .com registered 4.3d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
     },
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 29647,
+      "ccu": 26569,
       "ageDays": 41.5,
-      "rollingAvg": 28490,
-      "spikePct": 4,
+      "rollingAvg": 28668,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
