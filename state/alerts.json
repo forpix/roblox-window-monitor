@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T09:15:07.087Z",
+  "generatedAt": "2026-09-06T09:45:07.518Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 42910,
+      "ccu": 44028,
       "ageDays": 14,
-      "rollingAvg": 41459,
-      "spikePct": 4,
+      "rollingAvg": 41240,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Last Stop [Beta]",
-      "ccu": 20211,
+      "ccu": 20144,
       "ageDays": 12.7,
-      "rollingAvg": 20314,
+      "rollingAvg": 20293,
       "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 59047,
+      "ccu": 60186,
       "ageDays": 24.6,
-      "rollingAvg": 48154,
-      "spikePct": 23,
+      "rollingAvg": 48453,
+      "spikePct": 24,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 4.1d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 2378026,
+      "ccu": 2394397,
       "ageDays": 43.1,
-      "rollingAvg": 2592399,
-      "spikePct": -8,
+      "rollingAvg": 2405444,
+      "spikePct": 0,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 22.2d (stealanegg.com, stealanegg.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 37554,
-      "ageDays": 166.3,
-      "rollingAvg": 40091,
-      "spikePct": -6,
+      "ccu": 37774,
+      "ageDays": 166.4,
+      "rollingAvg": 39912,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.2d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 11.2d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Dungeon Lootr [⚔UPDATE 1]",
-      "ccu": 19994,
+      "ccu": 20173,
       "ageDays": 217.4,
-      "rollingAvg": 21634,
-      "spikePct": -8,
+      "rollingAvg": 21538,
+      "spikePct": -6,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 8.1d (dungeonlootr.com, dungeonlootr.net); .com registered 8.1d ago"
@@ -70,21 +70,32 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 21739,
+      "ccu": 21746,
       "ageDays": 952.1,
-      "rollingAvg": 22393,
+      "rollingAvg": 22334,
       "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: animevanguards.net; .com registered 6.6d ago; .com probe inconclusive — check by hand"
+      "detail": "available: animevanguards.net; .com registered 6.7d ago; .com probe inconclusive — check by hand"
+    },
+    {
+      "source": "discover",
+      "name": "[💎] Sell Ores ⛏️",
+      "ccu": 20628,
+      "ageDays": 82.2,
+      "rollingAvg": 22540,
+      "spikePct": -8,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: sellores.net; .com registered 3.8d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
     },
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 24088,
+      "ccu": 23943,
       "ageDays": 41.1,
-      "rollingAvg": 23253,
-      "spikePct": 4,
+      "rollingAvg": 23282,
+      "spikePct": 3,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
