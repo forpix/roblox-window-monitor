@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T20:15:03.174Z",
+  "generatedAt": "2026-09-06T20:45:08.490Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 47352,
+      "ccu": 44158,
       "ageDays": 14.5,
-      "rollingAvg": 46067,
-      "spikePct": 3,
+      "rollingAvg": 46400,
+      "spikePct": -5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 0.2d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Scream And Run [UPDATE]",
-      "ccu": 24875,
+      "ccu": 24686,
       "ageDays": 11.9,
-      "rollingAvg": 22607,
-      "spikePct": 10,
+      "rollingAvg": 22781,
+      "spikePct": 8,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 30185,
+      "ccu": 27913,
       "ageDays": 25.1,
-      "rollingAvg": 57913,
-      "spikePct": -48,
+      "rollingAvg": 57103,
+      "spikePct": -51,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 4.6d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1476552,
+      "ccu": 1394134,
       "ageDays": 43.5,
-      "rollingAvg": 2229138,
-      "spikePct": -34,
+      "rollingAvg": 2207928,
+      "spikePct": -37,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 22.7d (stealanegg.com, stealanegg.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 40737,
+      "ccu": 38964,
       "ageDays": 166.8,
-      "rollingAvg": 41961,
-      "spikePct": -3,
+      "rollingAvg": 41982,
+      "spikePct": -7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.6d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 11.6d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 22422,
+      "ccu": 21453,
       "ageDays": 82.7,
-      "rollingAvg": 27465,
-      "spikePct": -18,
+      "rollingAvg": 27382,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sellores.net; .com registered 4.3d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 26569,
+      "ccu": 23773,
       "ageDays": 41.5,
-      "rollingAvg": 28668,
-      "spikePct": -7,
+      "rollingAvg": 28793,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
