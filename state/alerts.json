@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T03:15:07.336Z",
+  "generatedAt": "2026-09-06T03:45:06.931Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 35478,
-      "ageDays": 13.7,
-      "rollingAvg": 42305,
-      "spikePct": -16,
+      "ccu": 34432,
+      "ageDays": 13.8,
+      "rollingAvg": 42509,
+      "spikePct": -19,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.com, searchfortheneedle.net; competitor BUILT: searchfortheneedle.wiki \"Search For The Needle Wiki, Timer &amp; \", search-for-the-needle.wiki \"Search For The Needle Wiki, Guides &amp;\", searchfortheneedlewiki.wiki \"Search For The Needle Wiki - Classes, Ge\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Scream And Run [UPDATE]",
-      "ccu": 22176,
-      "ageDays": 11.1,
-      "rollingAvg": 21128,
-      "spikePct": 5,
+      "ccu": 21774,
+      "ageDays": 11.2,
+      "rollingAvg": 21477,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\""
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 59477,
-      "ageDays": 24.3,
-      "rollingAvg": 62029,
-      "spikePct": -4,
+      "ccu": 59807,
+      "ageDays": 24.4,
+      "rollingAvg": 61936,
+      "spikePct": -3,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 3.8d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 3.9d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 2292364,
+      "ccu": 2357662,
       "ageDays": 42.8,
-      "rollingAvg": 2727602,
-      "spikePct": -16,
+      "rollingAvg": 2735225,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 22.0d (stealanegg.com, stealanegg.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 42311,
+      "ccu": 42871,
       "ageDays": 166.1,
-      "rollingAvg": 39772,
-      "spikePct": 6,
+      "rollingAvg": 39957,
+      "spikePct": 7,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 10.9d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 10.9d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "Dungeon Lootr [⚔UPDATE 1]",
-      "ccu": 20105,
+      "ccu": 20777,
       "ageDays": 217.2,
-      "rollingAvg": 25360,
-      "spikePct": -21,
+      "rollingAvg": 24309,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "YELLOW",
       "detail": "both taken, oldest 7.8d (dungeonlootr.com, dungeonlootr.net); .com registered 7.8d ago"
@@ -70,9 +70,9 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 20703,
-      "ageDays": 951.8,
-      "rollingAvg": 23000,
+      "ccu": 20758,
+      "ageDays": 951.9,
+      "rollingAvg": 22966,
       "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
