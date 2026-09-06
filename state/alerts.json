@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-06T21:15:05.887Z",
+  "generatedAt": "2026-09-06T21:45:07.960Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 40567,
+      "ccu": 37419,
       "ageDays": 14.5,
-      "rollingAvg": 46629,
-      "spikePct": -13,
+      "rollingAvg": 46770,
+      "spikePct": -20,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: searchfortheneedle.net; .com registered 0.2d ago; .com probe inconclusive — check by hand"
+      "detail": "available: searchfortheneedle.net; .com registered 0.3d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Scream And Run [UPDATE]",
-      "ccu": 23700,
+      "ccu": 23131,
       "ageDays": 11.9,
-      "rollingAvg": 22917,
-      "spikePct": 3,
+      "rollingAvg": 22970,
+      "spikePct": 1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 26538,
+      "ccu": 25961,
       "ageDays": 25.1,
-      "rollingAvg": 56216,
+      "rollingAvg": 55301,
       "spikePct": -53,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1370629,
+      "ccu": 1368720,
       "ageDays": 43.6,
-      "rollingAvg": 2181966,
+      "rollingAvg": 2156362,
       "spikePct": -37,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 37019,
-      "ageDays": 166.8,
-      "rollingAvg": 41929,
-      "spikePct": -12,
+      "ccu": 35309,
+      "ageDays": 166.9,
+      "rollingAvg": 41782,
+      "spikePct": -15,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.7d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 11.7d ago"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 23035,
+      "ccu": 21259,
       "ageDays": 41.6,
-      "rollingAvg": 28835,
-      "spikePct": -20,
+      "rollingAvg": 28906,
+      "spikePct": -26,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
