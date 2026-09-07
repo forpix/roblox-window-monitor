@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-07T16:15:08.014Z",
+  "generatedAt": "2026-09-07T16:45:04.730Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Scream And Run ",
-      "ccu": 24661,
+      "ccu": 27294,
       "ageDays": 12.7,
-      "rollingAvg": 24622,
-      "spikePct": 0,
+      "rollingAvg": 24623,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\" +1 more"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 46090,
+      "ccu": 47317,
       "ageDays": 15.3,
-      "rollingAvg": 33744,
-      "spikePct": 37,
+      "rollingAvg": 33627,
+      "spikePct": 41,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: searchfortheneedle.net; .com registered 1.0d ago; .com probe inconclusive — check by hand"
+      "detail": "available: searchfortheneedle.net; .com registered 1.1d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Last Stop [Beta]",
-      "ccu": 20246,
+      "ccu": 20649,
       "ageDays": 14,
-      "rollingAvg": 20900,
-      "spikePct": -3,
+      "rollingAvg": 20869,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 10415.5d (laststop.com, laststop.net)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 42499,
+      "ccu": 41202,
       "ageDays": 25.9,
-      "rollingAvg": 39347,
-      "spikePct": 8,
+      "rollingAvg": 39778,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 5.4d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1880104,
+      "ccu": 1825500,
       "ageDays": 44.4,
-      "rollingAvg": 1650722,
-      "spikePct": 14,
+      "rollingAvg": 1664656,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 23.5d (stealanegg.com, stealanegg.net)"
@@ -59,10 +59,10 @@
     {
       "source": "discover",
       "name": "[💎] Sell Ores ⛏️",
-      "ccu": 24088,
+      "ccu": 23345,
       "ageDays": 83.5,
-      "rollingAvg": 27169,
-      "spikePct": -11,
+      "rollingAvg": 27182,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: sellores.net; .com registered 5.1d ago; .com BUILT: \"Sell Ores - Roblox Codes, Ores, Pets and Wiki\""
@@ -70,10 +70,10 @@
     {
       "source": "discover",
       "name": "Anime Vanguards: Holy Retribution",
-      "ccu": 23105,
+      "ccu": 22923,
       "ageDays": 953.4,
-      "rollingAvg": 21860,
-      "spikePct": 6,
+      "rollingAvg": 21905,
+      "spikePct": 5,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: animevanguards.net; .com registered 7.9d ago; .com probe inconclusive — check by hand"
@@ -81,10 +81,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 25935,
-      "ageDays": 42.3,
-      "rollingAvg": 29540,
-      "spikePct": -12,
+      "ccu": 25409,
+      "ageDays": 42.4,
+      "rollingAvg": 29611,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
