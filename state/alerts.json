@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-07T06:45:08.577Z",
+  "generatedAt": "2026-09-07T07:15:09.722Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 21324,
+      "ccu": 20443,
       "ageDays": 14.9,
-      "rollingAvg": 42795,
-      "spikePct": -50,
+      "rollingAvg": 41956,
+      "spikePct": -51,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
-      "detail": "available: searchfortheneedle.net; .com registered 0.6d ago; .com probe inconclusive — check by hand"
+      "detail": "available: searchfortheneedle.net; .com registered 0.7d ago; .com probe inconclusive — check by hand"
     },
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 35512,
+      "ccu": 36880,
       "ageDays": 25.5,
-      "rollingAvg": 39527,
-      "spikePct": -10,
+      "rollingAvg": 38506,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 5.0d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -26,9 +26,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1494672,
+      "ccu": 1476700,
       "ageDays": 44,
-      "rollingAvg": 1715938,
+      "rollingAvg": 1689239,
       "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
