@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-07T02:15:04.386Z",
+  "generatedAt": "2026-09-07T02:45:06.946Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 36711,
+      "ccu": 36356,
       "ageDays": 14.7,
-      "rollingAvg": 46433,
-      "spikePct": -21,
+      "rollingAvg": 46341,
+      "spikePct": -22,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 0.5d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Scream And Run [UPDATE]",
-      "ccu": 33282,
+      "ccu": 33077,
       "ageDays": 12.1,
-      "rollingAvg": 23748,
-      "spikePct": 40,
+      "rollingAvg": 24129,
+      "spikePct": 37,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 31620,
+      "ccu": 29913,
       "ageDays": 25.3,
-      "rollingAvg": 47103,
-      "spikePct": -33,
+      "rollingAvg": 46269,
+      "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 4.8d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,21 +37,21 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1512147,
+      "ccu": 1497843,
       "ageDays": 43.8,
-      "rollingAvg": 1935838,
+      "rollingAvg": 1913427,
       "spikePct": -22,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 22.9d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 23.0d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 33600,
+      "ccu": 34058,
       "ageDays": 167.1,
-      "rollingAvg": 39771,
-      "spikePct": -16,
+      "rollingAvg": 39655,
+      "spikePct": -14,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "both taken, oldest 11.9d (dungeonquestreborn.com, dungeonquestreborn.net); .com registered 11.9d ago"
