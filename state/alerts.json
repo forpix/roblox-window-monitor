@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T23:45:06.240Z",
+  "generatedAt": "2026-09-07T00:15:06.386Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 32432,
+      "ccu": 34678,
       "ageDays": 14.6,
-      "rollingAvg": 46703,
-      "spikePct": -31,
+      "rollingAvg": 46634,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 0.4d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Scream And Run [UPDATE]",
-      "ccu": 23505,
+      "ccu": 23968,
       "ageDays": 12,
-      "rollingAvg": 22982,
-      "spikePct": 2,
+      "rollingAvg": 23008,
+      "spikePct": 4,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 30254,
+      "ccu": 29030,
       "ageDays": 25.2,
-      "rollingAvg": 51678,
-      "spikePct": -41,
+      "rollingAvg": 50829,
+      "spikePct": -43,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 4.7d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1474328,
+      "ccu": 1446938,
       "ageDays": 43.7,
-      "rollingAvg": 2052871,
-      "spikePct": -28,
+      "rollingAvg": 2030086,
+      "spikePct": -29,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 22.8d (stealanegg.com, stealanegg.net)"
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "[Odin Reincarnation] Dungeon Quest Reborn",
-      "ccu": 31261,
-      "ageDays": 166.9,
-      "rollingAvg": 40820,
+      "ccu": 31197,
+      "ageDays": 167,
+      "rollingAvg": 40559,
       "spikePct": -23,
       "gate": "C:fresh-com",
       "verdict": "RED",
