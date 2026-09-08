@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-08T00:45:06.737Z",
+  "generatedAt": "2026-09-08T01:15:02.831Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Scream And Run ",
-      "ccu": 29216,
-      "ageDays": 13,
-      "rollingAvg": 27594,
+      "ccu": 29306,
+      "ageDays": 13.1,
+      "rollingAvg": 27689,
       "spikePct": 6,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 27220,
-      "ageDays": 15.6,
-      "rollingAvg": 35387,
-      "spikePct": -23,
+      "ccu": 25898,
+      "ageDays": 15.7,
+      "rollingAvg": 35133,
+      "spikePct": -26,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 1.4d ago; .com probe inconclusive — check by hand"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 27309,
-      "ageDays": 26.2,
-      "rollingAvg": 40065,
-      "spikePct": -32,
+      "ccu": 27845,
+      "ageDays": 26.3,
+      "rollingAvg": 39876,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 5.7d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 5.8d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1426482,
+      "ccu": 1447911,
       "ageDays": 44.7,
-      "rollingAvg": 1671226,
-      "spikePct": -15,
+      "rollingAvg": 1668760,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 23.9d (stealanegg.com, stealanegg.net)"
