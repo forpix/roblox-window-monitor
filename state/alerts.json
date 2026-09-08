@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-07T23:45:03.638Z",
+  "generatedAt": "2026-09-08T00:15:06.753Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Scream And Run ",
-      "ccu": 29953,
+      "ccu": 29331,
       "ageDays": 13,
-      "rollingAvg": 27305,
-      "spikePct": 10,
+      "rollingAvg": 27474,
+      "spikePct": 7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\", screamandrunwiki.wiki \"Scream And Run Wiki - Roblox guides, mod\" +1 more"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 31263,
+      "ccu": 28811,
       "ageDays": 15.6,
-      "rollingAvg": 35758,
-      "spikePct": -13,
+      "rollingAvg": 35606,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 1.4d ago; .com probe inconclusive — check by hand"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 25870,
+      "ccu": 26050,
       "ageDays": 26.2,
-      "rollingAvg": 40404,
-      "spikePct": -36,
+      "rollingAvg": 40263,
+      "spikePct": -35,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 5.7d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1420078,
+      "ccu": 1414553,
       "ageDays": 44.7,
-      "rollingAvg": 1674547,
+      "rollingAvg": 1673593,
       "spikePct": -15,
       "gate": "D:young-chart",
       "verdict": "RED",
