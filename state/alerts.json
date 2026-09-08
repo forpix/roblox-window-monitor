@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T17:45:06.849Z",
+  "generatedAt": "2026-09-08T18:15:03.387Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 53992,
-      "ageDays": 16.3,
-      "rollingAvg": 30564,
-      "spikePct": 77,
+      "ccu": 54106,
+      "ageDays": 16.4,
+      "rollingAvg": 31195,
+      "spikePct": 73,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 2.1d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 33068,
+      "ccu": 30447,
       "ageDays": 27,
-      "rollingAvg": 37340,
-      "spikePct": -11,
+      "rollingAvg": 37540,
+      "spikePct": -19,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 6.5d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "+1 Tongue Escape 😛",
-      "ccu": 26897,
+      "ccu": 25763,
       "ageDays": 28.1,
-      "rollingAvg": 23078,
-      "spikePct": 17,
+      "rollingAvg": 23425,
+      "spikePct": 10,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1410299,
+      "ccu": 1369754,
       "ageDays": 45.4,
-      "rollingAvg": 1570514,
-      "spikePct": -10,
+      "rollingAvg": 1570242,
+      "spikePct": -13,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.6d (stealanegg.com, stealanegg.net)"
@@ -48,10 +48,10 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 20154,
+      "ccu": 21318,
       "ageDays": 43.4,
-      "rollingAvg": 23782,
-      "spikePct": -15,
+      "rollingAvg": 23341,
+      "spikePct": -9,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
