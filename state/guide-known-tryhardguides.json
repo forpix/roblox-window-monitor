@@ -4493,7 +4493,10 @@
     "https://tryhardguides.com/search-for-the-needle-codes/",
     "https://tryhardguides.com/steal-a-chicken-codes/",
     "https://tryhardguides.com/command-an-army-codes/",
-    "https://tryhardguides.com/last-stop-codes/"
+    "https://tryhardguides.com/last-stop-codes/",
+    "https://tryhardguides.com/idle-mafia-game-codes/",
+    "https://tryhardguides.com/build-a-golem-codes/",
+    "https://tryhardguides.com/hatch-and-fry-codes/"
   ],
   "lastmodByUrl": {
     "https://tryhardguides.com/shinobi-way-codes/": "2026-08-03T06:06:49+00:00",
@@ -8989,7 +8992,10 @@
     "https://tryhardguides.com/search-for-the-needle-codes/": "2026-09-06T01:25:09+00:00",
     "https://tryhardguides.com/steal-a-chicken-codes/": "2026-09-07T11:37:00+00:00",
     "https://tryhardguides.com/command-an-army-codes/": "2026-09-08T05:29:44+00:00",
-    "https://tryhardguides.com/last-stop-codes/": "2026-09-07T11:07:00+00:00"
+    "https://tryhardguides.com/last-stop-codes/": "2026-09-07T11:07:00+00:00",
+    "https://tryhardguides.com/idle-mafia-game-codes/": "2026-09-08T11:37:00+00:00",
+    "https://tryhardguides.com/build-a-golem-codes/": "2026-09-08T11:22:00+00:00",
+    "https://tryhardguides.com/hatch-and-fry-codes/": "2026-09-08T11:07:00+00:00"
   },
   "childLastmods": {
     "post-sitemap-2026-29.xml": "2026-07-19T23:59:59+00:00",
@@ -9266,7 +9272,7 @@
     "post-sitemap-2026-34.xml": "2026-08-23T23:59:59+00:00",
     "post-sitemap-2026-35.xml": "2026-08-30T23:59:59+00:00",
     "post-sitemap-2026-36.xml": "2026-09-06T23:59:59+00:00",
-    "post-sitemap-2026-37.xml": "2026-09-08T09:35:05+00:00"
+    "post-sitemap-2026-37.xml": "2026-09-08T12:00:11+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap-2026-29.xml": {
@@ -13196,7 +13202,25 @@
       "attempts": 1,
       "placeId": 113232329524315,
       "universeId": 7497471789
+    },
+    "https://tryhardguides.com/idle-mafia-game-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 73897506680154,
+      "universeId": 10643795368
+    },
+    "https://tryhardguides.com/build-a-golem-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 78091651370612,
+      "universeId": 10399524075
+    },
+    "https://tryhardguides.com/hatch-and-fry-codes/": {
+      "status": "done",
+      "attempts": 1,
+      "placeId": 124472567087489,
+      "universeId": 10474692907
     }
   },
-  "updatedAt": "2026-09-08T10:00:08.602Z"
+  "updatedAt": "2026-09-08T12:00:06.553Z"
 }

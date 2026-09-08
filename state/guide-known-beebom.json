@@ -2437,7 +2437,7 @@
     "https://beebom.com/corsa-legends-codes/": "2026-08-31T18:57:34+00:00",
     "https://beebom.com/coin-flip-codes/": "2026-09-01T13:41:26+00:00",
     "https://beebom.com/build-a-gem-crusher-codes/": "2026-08-31T20:52:26+00:00",
-    "https://beebom.com/coach-a-fighter-codes/": "2026-09-05T19:12:58+00:00",
+    "https://beebom.com/coach-a-fighter-codes/": "2026-09-08T11:05:33+00:00",
     "https://beebom.com/bikelife-society-codes/": "2026-08-31T20:40:49+00:00",
     "https://beebom.com/garden-cleaner-evolution-codes/": "2026-09-01T13:42:52+00:00",
     "https://beebom.com/sky-fighters-codes/": "2026-09-07T12:25:30+00:00",
@@ -2518,7 +2518,7 @@
     "https://beebom.com/nba-2k27-locker-codes/": "2026-09-03T17:00:11+00:00"
   },
   "childLastmods": {
-    "post-sitemap.xml": "2026-09-08T09:02:35+00:00",
+    "post-sitemap.xml": "2026-09-08T11:36:27+00:00",
     "post-sitemap2.xml": "2017-11-15T05:13:36+00:00",
     "post-sitemap3.xml": "2018-01-17T21:14:38+00:00",
     "post-sitemap4.xml": "2018-02-27T11:06:30+00:00",
@@ -2560,15 +2560,15 @@
     "post-sitemap40.xml": "2025-10-07T09:13:04+00:00",
     "post-sitemap41.xml": "2025-10-15T08:03:27+00:00",
     "post-sitemap42.xml": "2025-10-15T08:23:25+00:00",
-    "post-sitemap43.xml": "2025-10-15T08:43:23+00:00",
-    "post-sitemap44.xml": "2025-10-26T04:08:03+00:00",
-    "post-sitemap45.xml": "2025-12-16T19:52:52+00:00",
-    "post-sitemap46.xml": "2026-02-01T14:34:38+00:00",
-    "post-sitemap47.xml": "2026-03-19T12:59:36+00:00",
-    "post-sitemap48.xml": "2026-05-18T08:59:12+00:00",
-    "post-sitemap49.xml": "2026-07-29T21:13:08+00:00",
-    "post-sitemap50.xml": "2026-08-31T21:50:25+00:00",
-    "post-sitemap51.xml": "2026-09-08T09:02:35+00:00"
+    "post-sitemap43.xml": "2025-10-15T08:43:24+00:00",
+    "post-sitemap44.xml": "2025-10-26T04:46:19+00:00",
+    "post-sitemap45.xml": "2025-12-16T21:16:00+00:00",
+    "post-sitemap46.xml": "2026-02-01T15:28:27+00:00",
+    "post-sitemap47.xml": "2026-03-19T14:02:24+00:00",
+    "post-sitemap48.xml": "2026-05-18T10:56:22+00:00",
+    "post-sitemap49.xml": "2026-07-29T21:21:59+00:00",
+    "post-sitemap50.xml": "2026-08-31T21:50:35+00:00",
+    "post-sitemap51.xml": "2026-09-08T11:36:27+00:00"
   },
   "bootstrappedShards": {
     "post-sitemap.xml": {
@@ -5600,7 +5600,7 @@
     },
     "https://beebom.com/coach-a-fighter-codes/": {
       "status": "done",
-      "attempts": 9,
+      "attempts": 10,
       "placeId": 111517697993641,
       "universeId": 10429426791
     },
@@ -5929,5 +5929,5 @@
       "universeId": 2270890905
     }
   },
-  "updatedAt": "2026-09-08T10:00:08.602Z"
+  "updatedAt": "2026-09-08T12:00:06.553Z"
 }
