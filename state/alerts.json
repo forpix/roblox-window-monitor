@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T20:15:04.846Z",
+  "generatedAt": "2026-09-08T20:45:02.831Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 45911,
+      "ccu": 44881,
       "ageDays": 16.5,
-      "rollingAvg": 33966,
-      "spikePct": 35,
+      "rollingAvg": 34588,
+      "spikePct": 30,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 2.2d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 22420,
+      "ccu": 21863,
       "ageDays": 27.1,
-      "rollingAvg": 37426,
-      "spikePct": -40,
+      "rollingAvg": 37254,
+      "spikePct": -41,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 6.6d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -26,20 +26,20 @@
     {
       "source": "discover",
       "name": "+1 Tongue Escape 😛",
-      "ccu": 22460,
+      "ccu": 23262,
       "ageDays": 28.2,
-      "rollingAvg": 23534,
-      "spikePct": -5,
+      "rollingAvg": 23467,
+      "spikePct": -1,
       "gate": "D:young-chart",
       "verdict": "GREEN",
-      "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 34 inconclusive)"
+      "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 11 inconclusive)"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1126666,
+      "ccu": 1126433,
       "ageDays": 45.5,
-      "rollingAvg": 1552032,
+      "rollingAvg": 1544006,
       "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
