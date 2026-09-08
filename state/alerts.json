@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T19:45:05.367Z",
+  "generatedAt": "2026-09-08T20:15:04.846Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 48155,
-      "ageDays": 16.4,
-      "rollingAvg": 33330,
-      "spikePct": 44,
+      "ccu": 45911,
+      "ageDays": 16.5,
+      "rollingAvg": 33966,
+      "spikePct": 35,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 2.2d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 22585,
-      "ageDays": 27,
-      "rollingAvg": 37607,
+      "ccu": 22420,
+      "ageDays": 27.1,
+      "rollingAvg": 37426,
       "spikePct": -40,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 6.5d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 6.6d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "+1 Tongue Escape 😛",
-      "ccu": 22162,
+      "ccu": 22460,
       "ageDays": 28.2,
-      "rollingAvg": 23632,
-      "spikePct": -6,
+      "rollingAvg": 23534,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1174599,
+      "ccu": 1126666,
       "ageDays": 45.5,
-      "rollingAvg": 1559773,
-      "spikePct": -25,
+      "rollingAvg": 1552032,
+      "spikePct": -27,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 24.7d (stealanegg.com, stealanegg.net)"
