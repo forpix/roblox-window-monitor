@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T15:45:08.926Z",
+  "generatedAt": "2026-09-08T16:15:04.433Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 44184,
+      "ccu": 44990,
       "ageDays": 16.3,
-      "rollingAvg": 29526,
-      "spikePct": 50,
+      "rollingAvg": 29570,
+      "spikePct": 52,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 2.0d ago; .com probe inconclusive — check by hand"
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 38405,
+      "ccu": 36414,
       "ageDays": 26.9,
-      "rollingAvg": 36309,
-      "spikePct": 6,
+      "rollingAvg": 36668,
+      "spikePct": -1,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 6.4d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -26,35 +26,35 @@
     {
       "source": "discover",
       "name": "+1 Tongue Escape 😛",
-      "ccu": 24947,
+      "ccu": 24737,
       "ageDays": 28,
-      "rollingAvg": 21915,
-      "spikePct": 14,
+      "rollingAvg": 22348,
+      "spikePct": 11,
       "gate": "D:young-chart",
       "verdict": "GREEN",
-      "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 38 inconclusive)"
+      "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 34 inconclusive)"
     },
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1675482,
-      "ageDays": 45.3,
-      "rollingAvg": 1544610,
-      "spikePct": 8,
+      "ccu": 1602557,
+      "ageDays": 45.4,
+      "rollingAvg": 1555075,
+      "spikePct": 3,
       "gate": "D:young-chart",
-      "verdict": "CHECK",
-      "detail": "RDAP could not resolve one or more domains"
+      "verdict": "RED",
+      "detail": "both taken, oldest 24.5d (stealanegg.com, stealanegg.net)"
     },
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 21399,
+      "ccu": 21564,
       "ageDays": 43.3,
-      "rollingAvg": 27152,
-      "spikePct": -21,
+      "rollingAvg": 26760,
+      "spikePct": -19,
       "gate": "D:young-chart",
-      "verdict": "CHECK",
-      "detail": "RDAP could not resolve one or more domains"
+      "verdict": "RED",
+      "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
     }
   ]
 }
