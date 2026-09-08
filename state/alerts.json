@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T12:45:06.237Z",
+  "generatedAt": "2026-09-08T13:15:08.492Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 41076,
-      "ageDays": 16.1,
-      "rollingAvg": 30261,
-      "spikePct": 36,
+      "ccu": 42498,
+      "ageDays": 16.2,
+      "rollingAvg": 30074,
+      "spikePct": 41,
       "gate": "C:fresh-com",
       "verdict": "CHECK",
       "detail": "available: searchfortheneedle.net; .com registered 1.9d ago; .com probe inconclusive — check by hand"
@@ -15,21 +15,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 55609,
-      "ageDays": 26.7,
-      "rollingAvg": 33841,
-      "spikePct": 64,
+      "ccu": 52660,
+      "ageDays": 26.8,
+      "rollingAvg": 34288,
+      "spikePct": 54,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 6.2d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 6.3d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "+1 Tongue Escape 😛",
-      "ccu": 20118,
+      "ccu": 20492,
       "ageDays": 27.9,
-      "rollingAvg": 0,
-      "spikePct": null,
+      "rollingAvg": 20118,
+      "spikePct": 2,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -37,9 +37,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1934243,
+      "ccu": 1947045,
       "ageDays": 45.2,
-      "rollingAvg": 1489912,
+      "rollingAvg": 1495316,
       "spikePct": 30,
       "gate": "D:young-chart",
       "verdict": "RED",
@@ -48,9 +48,9 @@
     {
       "source": "discover",
       "name": "🦸 +1 Superhero Evolution",
-      "ccu": 20562,
+      "ccu": 20309,
       "ageDays": 43.2,
-      "rollingAvg": 28882,
+      "rollingAvg": 28632,
       "spikePct": -29,
       "gate": "D:young-chart",
       "verdict": "RED",
