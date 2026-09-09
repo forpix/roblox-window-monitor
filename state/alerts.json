@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-09-09T02:15:04.595Z",
+  "generatedAt": "2026-09-09T02:45:04.051Z",
   "candidates": [
     {
       "source": "discover",
-      "name": "Scream And Run ",
-      "ccu": 20593,
-      "ageDays": 14.1,
-      "rollingAvg": 27901,
-      "spikePct": -26,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.online \"Scream And Run Wiki - Guides, Maps, Keys\", screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\" +2 more"
-    },
-    {
-      "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 27124,
+      "ccu": 25303,
       "ageDays": 16.7,
-      "rollingAvg": 35941,
-      "spikePct": -25,
+      "rollingAvg": 36029,
+      "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 2.5d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
@@ -26,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 34448,
+      "ccu": 33706,
       "ageDays": 27.3,
-      "rollingAvg": 37441,
-      "spikePct": -8,
+      "rollingAvg": 37482,
+      "spikePct": -10,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 6.8d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,13 +26,13 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1346961,
+      "ccu": 1320491,
       "ageDays": 45.8,
-      "rollingAvg": 1534412,
-      "spikePct": -12,
+      "rollingAvg": 1531772,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 24.9d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 25.0d (stealanegg.com, stealanegg.net)"
     }
   ]
 }
