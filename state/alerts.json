@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-09T17:15:03.613Z",
+  "generatedAt": "2026-09-09T17:45:03.634Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 42694,
+      "ccu": 43225,
       "ageDays": 17.3,
-      "rollingAvg": 38272,
-      "spikePct": 12,
+      "rollingAvg": 38209,
+      "spikePct": 13,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 3.1d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "+1 Tongue Escape 😛",
-      "ccu": 23044,
+      "ccu": 22700,
       "ageDays": 29.1,
-      "rollingAvg": 23109,
-      "spikePct": 0,
+      "rollingAvg": 23107,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "GREEN",
       "detail": "available: 1tongueescape.com, 1tongueescape.net; sweep clean (38 surfaces, 34 inconclusive)"
@@ -26,21 +26,21 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 39752,
-      "ageDays": 27.9,
-      "rollingAvg": 56442,
-      "spikePct": -30,
+      "ccu": 37714,
+      "ageDays": 28,
+      "rollingAvg": 56919,
+      "spikePct": -34,
       "gate": "C:fresh-com",
       "verdict": "RED",
-      "detail": "available: jumpforanimals.net; .com registered 7.4d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+      "detail": "available: jumpforanimals.net; .com registered 7.5d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
       "name": "[🎉UPD 3] Anime Dice",
-      "ccu": 20710,
+      "ccu": 20494,
       "ageDays": 25.6,
-      "rollingAvg": 20993,
-      "spikePct": -1,
+      "rollingAvg": 20953,
+      "spikePct": -2,
       "gate": "D:young-chart",
       "verdict": "CHECK",
       "detail": "available: animedice.net; .com probe inconclusive — check by hand"
@@ -48,24 +48,13 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1457455,
+      "ccu": 1427336,
       "ageDays": 46.4,
-      "rollingAvg": 1518713,
-      "spikePct": -4,
+      "rollingAvg": 1526570,
+      "spikePct": -7,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 25.6d (stealanegg.com, stealanegg.net)"
-    },
-    {
-      "source": "discover",
-      "name": "🦸 +1 Superhero Evolution",
-      "ccu": 20150,
-      "ageDays": 44.4,
-      "rollingAvg": 22242,
-      "spikePct": -9,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: 1superheroevolution.com, 1superheroevolution.net; competitor BUILT: 1superheroevolution.wiki \"+1 Superhero Evolution Player Hub, Calcu\", 1-superhero-evolution.pages.dev \"Superhero Evolution Guide\""
     }
   ]
 }
