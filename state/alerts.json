@@ -1,4 +1,49 @@
 {
-  "generatedAt": "2026-09-09T00:15:06.996Z",
-  "candidates": []
+  "generatedAt": "2026-09-09T00:45:04.060Z",
+  "candidates": [
+    {
+      "source": "discover",
+      "name": "Scream And Run ",
+      "ccu": 24167,
+      "ageDays": 14,
+      "rollingAvg": 27857,
+      "spikePct": -13,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.online \"Scream And Run Wiki - Guides, Maps, Keys\", screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\" +2 more"
+    },
+    {
+      "source": "discover",
+      "name": "[👽] Search For The Needle",
+      "ccu": 34005,
+      "ageDays": 16.6,
+      "rollingAvg": 35232,
+      "spikePct": -3,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: searchfortheneedle.net; .com registered 2.4d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
+    },
+    {
+      "source": "discover",
+      "name": "Jump for Animals!",
+      "ccu": 31721,
+      "ageDays": 27.2,
+      "rollingAvg": 37097,
+      "spikePct": -14,
+      "gate": "C:fresh-com",
+      "verdict": "RED",
+      "detail": "available: jumpforanimals.net; .com registered 6.7d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
+    },
+    {
+      "source": "discover",
+      "name": "Steal An Egg",
+      "ccu": 1384656,
+      "ageDays": 45.7,
+      "rollingAvg": 1536232,
+      "spikePct": -10,
+      "gate": "D:young-chart",
+      "verdict": "RED",
+      "detail": "both taken, oldest 24.9d (stealanegg.com, stealanegg.net)"
+    }
+  ]
 }
