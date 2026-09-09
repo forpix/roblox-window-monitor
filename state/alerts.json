@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-09T04:15:04.122Z",
+  "generatedAt": "2026-09-09T04:45:07.191Z",
   "candidates": [
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 36792,
+      "ccu": 38989,
       "ageDays": 27.4,
-      "rollingAvg": 37397,
-      "spikePct": -2,
+      "rollingAvg": 37425,
+      "spikePct": 4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 6.9d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -15,9 +15,9 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1350432,
+      "ccu": 1347357,
       "ageDays": 45.9,
-      "rollingAvg": 1518568,
+      "rollingAvg": 1516708,
       "spikePct": -11,
       "gate": "D:young-chart",
       "verdict": "RED",
