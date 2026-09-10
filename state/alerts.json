@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-10T07:15:05.122Z",
+  "generatedAt": "2026-09-10T07:45:04.701Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 25008,
+      "ccu": 25034,
       "ageDays": 17.9,
-      "rollingAvg": 35853,
+      "rollingAvg": 35816,
       "spikePct": -30,
       "gate": "C:fresh-com",
       "verdict": "RED",
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 41788,
+      "ccu": 42416,
       "ageDays": 28.5,
-      "rollingAvg": 54208,
-      "spikePct": -23,
+      "rollingAvg": 53716,
+      "spikePct": -21,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 8.0d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -26,13 +26,13 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1394198,
+      "ccu": 1394460,
       "ageDays": 47,
-      "rollingAvg": 1482336,
-      "spikePct": -6,
+      "rollingAvg": 1472699,
+      "spikePct": -5,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 26.1d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 26.2d (stealanegg.com, stealanegg.net)"
     }
   ]
 }
