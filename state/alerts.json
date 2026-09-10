@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-10T01:15:07.703Z",
+  "generatedAt": "2026-09-10T01:45:06.332Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 33563,
+      "ccu": 34604,
       "ageDays": 17.7,
-      "rollingAvg": 36353,
-      "spikePct": -8,
+      "rollingAvg": 36010,
+      "spikePct": -4,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 3.4d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
@@ -15,10 +15,10 @@
     {
       "source": "discover",
       "name": "Scream And Run ",
-      "ccu": 23683,
+      "ccu": 22870,
       "ageDays": 15.1,
-      "rollingAvg": 27752,
-      "spikePct": -15,
+      "rollingAvg": 27637,
+      "spikePct": -17,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.online \"Scream And Run Wiki - Guides, Maps, Keys\", screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\" +3 more"
@@ -26,10 +26,10 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 33966,
+      "ccu": 35561,
       "ageDays": 28.3,
-      "rollingAvg": 56548,
-      "spikePct": -40,
+      "rollingAvg": 56409,
+      "spikePct": -37,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 7.8d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,10 +37,10 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1344801,
+      "ccu": 1360197,
       "ageDays": 46.7,
-      "rollingAvg": 1509018,
-      "spikePct": -11,
+      "rollingAvg": 1508947,
+      "spikePct": -10,
       "gate": "D:young-chart",
       "verdict": "RED",
       "detail": "both taken, oldest 25.9d (stealanegg.com, stealanegg.net)"
