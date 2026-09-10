@@ -1,35 +1,24 @@
 {
-  "generatedAt": "2026-09-10T02:15:06.346Z",
+  "generatedAt": "2026-09-10T02:45:04.006Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 32748,
+      "ccu": 31129,
       "ageDays": 17.7,
-      "rollingAvg": 35725,
-      "spikePct": -8,
+      "rollingAvg": 35690,
+      "spikePct": -13,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 3.5d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
     },
     {
       "source": "discover",
-      "name": "Scream And Run ",
-      "ccu": 20702,
-      "ageDays": 15.1,
-      "rollingAvg": 27375,
-      "spikePct": -24,
-      "gate": "D:young-chart",
-      "verdict": "RED",
-      "detail": "available: screamandrun.com, screamandrun.net; competitor BUILT: screamandrun.online \"Scream And Run Wiki - Guides, Maps, Keys\", screamandrun.wiki \"Scream And Run Wiki — Codes, Guides and \", scream-and-run.wiki \"Scream And Run Wiki: Roblox Keys &amp; E\" +3 more"
-    },
-    {
-      "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 34038,
+      "ccu": 34248,
       "ageDays": 28.3,
-      "rollingAvg": 56275,
-      "spikePct": -40,
+      "rollingAvg": 56054,
+      "spikePct": -39,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 7.8d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
@@ -37,13 +26,13 @@
     {
       "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1343151,
+      "ccu": 1292014,
       "ageDays": 46.8,
-      "rollingAvg": 1508881,
-      "spikePct": -11,
+      "rollingAvg": 1507618,
+      "spikePct": -14,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 25.9d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 26.0d (stealanegg.com, stealanegg.net)"
     }
   ]
 }
