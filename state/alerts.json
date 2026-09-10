@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-10T09:45:07.619Z",
+  "generatedAt": "2026-09-10T10:15:06.859Z",
   "candidates": [
     {
       "source": "discover",
       "name": "[👽] Search For The Needle",
-      "ccu": 28875,
+      "ccu": 30827,
       "ageDays": 18,
-      "rollingAvg": 34919,
-      "spikePct": -17,
+      "rollingAvg": 34611,
+      "spikePct": -11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: searchfortheneedle.net; .com registered 3.8d ago; .com BUILT: \"Search For The Needle Guide: Farmhouse, Upgrades &amp; Hando\""
@@ -15,24 +15,35 @@
     {
       "source": "discover",
       "name": "Jump for Animals!",
-      "ccu": 46174,
+      "ccu": 48457,
       "ageDays": 28.6,
-      "rollingAvg": 48637,
-      "spikePct": -5,
+      "rollingAvg": 43616,
+      "spikePct": 11,
       "gate": "C:fresh-com",
       "verdict": "RED",
       "detail": "available: jumpforanimals.net; .com registered 8.1d ago; .com BUILT: \"Jump for Animals Wiki – Eggs, Animals, Codes &amp; Progressi\""
     },
     {
       "source": "discover",
+      "name": "[🎉UPD 3] Anime Dice",
+      "ccu": 20765,
+      "ageDays": 26.3,
+      "rollingAvg": 20895,
+      "spikePct": -1,
+      "gate": "D:young-chart",
+      "verdict": "CHECK",
+      "detail": "available: animedice.net; .com probe inconclusive — check by hand"
+    },
+    {
+      "source": "discover",
       "name": "Steal An Egg",
-      "ccu": 1533431,
+      "ccu": 1565657,
       "ageDays": 47.1,
-      "rollingAvg": 1413173,
-      "spikePct": 9,
+      "rollingAvg": 1400619,
+      "spikePct": 12,
       "gate": "D:young-chart",
       "verdict": "RED",
-      "detail": "both taken, oldest 26.2d (stealanegg.com, stealanegg.net)"
+      "detail": "both taken, oldest 26.3d (stealanegg.com, stealanegg.net)"
     }
   ]
 }
